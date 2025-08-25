@@ -1,0 +1,65 @@
+[
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.5966,
+        "Longitude":-79.9802
+    },
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.7886,
+        "Longitude":-79.848
+    },
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.7419,
+        "Longitude":-79.4489
+    },
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.6878,
+        "Longitude":-79.7832
+    },
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.5083,
+        "Longitude":-79.8715
+    },
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.6625,
+        "Longitude":-79.5589
+    },
+    {
+        "State":"Williamsburg",
+        "StateAbbr":89.0,
+        "City":"SC",
+        "County":null,
+        "ZipCode":"South Carolina",
+        "Latitude":33.5611,
+        "Longitude":-79.83
+    }
+]

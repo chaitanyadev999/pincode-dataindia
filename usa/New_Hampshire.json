@@ -1,0 +1,2531 @@
+[
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Barnstead",
+        "County":"Belknap",
+        "ZipCode":"03218",
+        "Latitude":43.3349,
+        "Longitude":-71.2887
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Belmont",
+        "County":"Belknap",
+        "ZipCode":"03220",
+        "Latitude":43.4512,
+        "Longitude":-71.489
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Barnstead",
+        "County":"Belknap",
+        "ZipCode":"03225",
+        "Latitude":43.3566,
+        "Longitude":-71.2424
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Harbor",
+        "County":"Belknap",
+        "ZipCode":"03226",
+        "Latitude":43.7107,
+        "Longitude":-71.4797
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Gilmanton",
+        "County":"Belknap",
+        "ZipCode":"03237",
+        "Latitude":43.4175,
+        "Longitude":-71.4121
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Laconia",
+        "County":"Belknap",
+        "ZipCode":"03246",
+        "Latitude":43.5727,
+        "Longitude":-71.4781
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Laconia",
+        "County":"Belknap",
+        "ZipCode":"03247",
+        "Latitude":43.589,
+        "Longitude":-71.4455
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Gilford",
+        "County":"Belknap",
+        "ZipCode":"03249",
+        "Latitude":43.5475,
+        "Longitude":-71.4072
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lochmere",
+        "County":"Belknap",
+        "ZipCode":"03252",
+        "Latitude":43.4686,
+        "Longitude":-71.5371
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Meredith",
+        "County":"Belknap",
+        "ZipCode":"03253",
+        "Latitude":43.6311,
+        "Longitude":-71.4997
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"New Hampton",
+        "County":"Belknap",
+        "ZipCode":"03256",
+        "Latitude":43.6184,
+        "Longitude":-71.6435
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Sanbornton",
+        "County":"Belknap",
+        "ZipCode":"03269",
+        "Latitude":43.5496,
+        "Longitude":-71.6003
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Tilton",
+        "County":"Belknap",
+        "ZipCode":"03276",
+        "Latitude":43.4603,
+        "Longitude":-71.5774
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Winnisquam",
+        "County":"Belknap",
+        "ZipCode":"03289",
+        "Latitude":43.4964,
+        "Longitude":-71.5197
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Tilton",
+        "County":"Belknap",
+        "ZipCode":"03298",
+        "Latitude":43.5249,
+        "Longitude":-71.4458
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Tilton",
+        "County":"Belknap",
+        "ZipCode":"03299",
+        "Latitude":43.5249,
+        "Longitude":-71.4458
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Alton",
+        "County":"Belknap",
+        "ZipCode":"03809",
+        "Latitude":43.463,
+        "Longitude":-71.2297
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Alton Bay",
+        "County":"Belknap",
+        "ZipCode":"03810",
+        "Latitude":43.4845,
+        "Longitude":-71.2489
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Gilmanton Iron Works",
+        "County":"Belknap",
+        "ZipCode":"03837",
+        "Latitude":43.4466,
+        "Longitude":-71.2995
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Sandwich",
+        "County":"Carroll",
+        "ZipCode":"03227",
+        "Latitude":43.8162,
+        "Longitude":-71.4506
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Moultonborough",
+        "County":"Carroll",
+        "ZipCode":"03254",
+        "Latitude":43.7281,
+        "Longitude":-71.3922
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Sandwich",
+        "County":"Carroll",
+        "ZipCode":"03259",
+        "Latitude":43.8452,
+        "Longitude":-71.385
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bartlett",
+        "County":"Carroll",
+        "ZipCode":"03812",
+        "Latitude":44.0802,
+        "Longitude":-71.292
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Conway",
+        "County":"Carroll",
+        "ZipCode":"03813",
+        "Latitude":43.9878,
+        "Longitude":-71.0607
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Ossipee",
+        "County":"Carroll",
+        "ZipCode":"03814",
+        "Latitude":43.7682,
+        "Longitude":-71.1349
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Tuftonboro",
+        "County":"Carroll",
+        "ZipCode":"03816",
+        "Latitude":43.6849,
+        "Longitude":-71.2551
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Chocorua",
+        "County":"Carroll",
+        "ZipCode":"03817",
+        "Latitude":43.8909,
+        "Longitude":-71.2407
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Conway",
+        "County":"Carroll",
+        "ZipCode":"03818",
+        "Latitude":43.9742,
+        "Longitude":-71.1503
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"East Wakefield",
+        "County":"Carroll",
+        "ZipCode":"03830",
+        "Latitude":43.6142,
+        "Longitude":-71.0051
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Eaton Center",
+        "County":"Carroll",
+        "ZipCode":"03832",
+        "Latitude":43.9092,
+        "Longitude":-71.0837
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Freedom",
+        "County":"Carroll",
+        "ZipCode":"03836",
+        "Latitude":43.8172,
+        "Longitude":-71.0628
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Glen",
+        "County":"Carroll",
+        "ZipCode":"03838",
+        "Latitude":44.1018,
+        "Longitude":-71.1925
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Intervale",
+        "County":"Carroll",
+        "ZipCode":"03845",
+        "Latitude":44.0955,
+        "Longitude":-71.1194
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Jackson",
+        "County":"Carroll",
+        "ZipCode":"03846",
+        "Latitude":44.167,
+        "Longitude":-71.1878
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Kearsarge",
+        "County":"Carroll",
+        "ZipCode":"03847",
+        "Latitude":44.0753,
+        "Longitude":-71.1176
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Madison",
+        "County":"Carroll",
+        "ZipCode":"03849",
+        "Latitude":43.9152,
+        "Longitude":-71.1254
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Melvin Village",
+        "County":"Carroll",
+        "ZipCode":"03850",
+        "Latitude":43.7077,
+        "Longitude":-71.3017
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Mirror Lake",
+        "County":"Carroll",
+        "ZipCode":"03853",
+        "Latitude":43.6366,
+        "Longitude":-71.2729
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Conway",
+        "County":"Carroll",
+        "ZipCode":"03860",
+        "Latitude":44.0336,
+        "Longitude":-71.1238
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lee",
+        "County":"Carroll",
+        "ZipCode":"03861",
+        "Latitude":43.1192,
+        "Longitude":-70.9969
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Ossipee",
+        "County":"Carroll",
+        "ZipCode":"03864",
+        "Latitude":43.6945,
+        "Longitude":-71.1129
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Sanbornville",
+        "County":"Carroll",
+        "ZipCode":"03872",
+        "Latitude":43.5513,
+        "Longitude":-71.02
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Silver Lake",
+        "County":"Carroll",
+        "ZipCode":"03875",
+        "Latitude":43.879,
+        "Longitude":-71.1905
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Effingham",
+        "County":"Carroll",
+        "ZipCode":"03882",
+        "Latitude":43.7012,
+        "Longitude":-70.9834
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"South Tamworth",
+        "County":"Carroll",
+        "ZipCode":"03883",
+        "Latitude":43.8077,
+        "Longitude":-71.308
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Tamworth",
+        "County":"Carroll",
+        "ZipCode":"03886",
+        "Latitude":43.862,
+        "Longitude":-71.2645
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Ossipee",
+        "County":"Carroll",
+        "ZipCode":"03890",
+        "Latitude":43.8118,
+        "Longitude":-71.1946
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Wolfeboro",
+        "County":"Carroll",
+        "ZipCode":"03894",
+        "Latitude":43.595,
+        "Longitude":-71.1908
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Wolfeboro Falls",
+        "County":"Carroll",
+        "ZipCode":"03896",
+        "Latitude":43.5892,
+        "Longitude":-71.2189
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Wonalancet",
+        "County":"Carroll",
+        "ZipCode":"03897",
+        "Latitude":43.9073,
+        "Longitude":-71.3506
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Keene",
+        "County":"Cheshire",
+        "ZipCode":"03431",
+        "Latitude":42.9627,
+        "Longitude":-72.2955
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Keene",
+        "County":"Cheshire",
+        "ZipCode":"03435",
+        "Latitude":42.9337,
+        "Longitude":-72.2781
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Ashuelot",
+        "County":"Cheshire",
+        "ZipCode":"03441",
+        "Latitude":42.7851,
+        "Longitude":-72.4349
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Chesterfield",
+        "County":"Cheshire",
+        "ZipCode":"03443",
+        "Latitude":42.8839,
+        "Longitude":-72.4548
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Dublin",
+        "County":"Cheshire",
+        "ZipCode":"03444",
+        "Latitude":42.8972,
+        "Longitude":-72.0505
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Sullivan",
+        "County":"Cheshire",
+        "ZipCode":"03445",
+        "Latitude":42.9982,
+        "Longitude":-72.2019
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Swanzey",
+        "County":"Cheshire",
+        "ZipCode":"03446",
+        "Latitude":42.8411,
+        "Longitude":-72.3301
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Fitzwilliam",
+        "County":"Cheshire",
+        "ZipCode":"03447",
+        "Latitude":42.7611,
+        "Longitude":-72.145
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Gilsum",
+        "County":"Cheshire",
+        "ZipCode":"03448",
+        "Latitude":43.0399,
+        "Longitude":-72.2719
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Harrisville",
+        "County":"Cheshire",
+        "ZipCode":"03450",
+        "Latitude":42.9399,
+        "Longitude":-72.0972
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hinsdale",
+        "County":"Cheshire",
+        "ZipCode":"03451",
+        "Latitude":42.8027,
+        "Longitude":-72.5015
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Jaffrey",
+        "County":"Cheshire",
+        "ZipCode":"03452",
+        "Latitude":42.8178,
+        "Longitude":-72.0275
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Marlborough",
+        "County":"Cheshire",
+        "ZipCode":"03455",
+        "Latitude":42.8988,
+        "Longitude":-72.2013
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Marlow",
+        "County":"Cheshire",
+        "ZipCode":"03456",
+        "Latitude":43.1326,
+        "Longitude":-72.2109
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nelson",
+        "County":"Cheshire",
+        "ZipCode":"03457",
+        "Latitude":42.9906,
+        "Longitude":-72.1309
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rindge",
+        "County":"Cheshire",
+        "ZipCode":"03461",
+        "Latitude":42.7544,
+        "Longitude":-72.019
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Spofford",
+        "County":"Cheshire",
+        "ZipCode":"03462",
+        "Latitude":42.912,
+        "Longitude":-72.4103
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Stoddard",
+        "County":"Cheshire",
+        "ZipCode":"03464",
+        "Latitude":43.0739,
+        "Longitude":-72.1088
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Troy",
+        "County":"Cheshire",
+        "ZipCode":"03465",
+        "Latitude":42.827,
+        "Longitude":-72.1848
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Chesterfield",
+        "County":"Cheshire",
+        "ZipCode":"03466",
+        "Latitude":42.8956,
+        "Longitude":-72.5097
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Westmoreland",
+        "County":"Cheshire",
+        "ZipCode":"03467",
+        "Latitude":42.969,
+        "Longitude":-72.4358
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Swanzey",
+        "County":"Cheshire",
+        "ZipCode":"03469",
+        "Latitude":42.8734,
+        "Longitude":-72.3151
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Winchester",
+        "County":"Cheshire",
+        "ZipCode":"03470",
+        "Latitude":42.7788,
+        "Longitude":-72.344
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Alstead",
+        "County":"Cheshire",
+        "ZipCode":"03602",
+        "Latitude":43.1265,
+        "Longitude":-72.3281
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Drewsville",
+        "County":"Cheshire",
+        "ZipCode":"03604",
+        "Latitude":43.1281,
+        "Longitude":-72.392
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Walpole",
+        "County":"Cheshire",
+        "ZipCode":"03608",
+        "Latitude":43.0765,
+        "Longitude":-72.4155
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Walpole",
+        "County":"Cheshire",
+        "ZipCode":"03609",
+        "Latitude":43.1428,
+        "Longitude":-72.4483
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Berlin",
+        "County":"Coos",
+        "ZipCode":"03570",
+        "Latitude":44.4811,
+        "Longitude":-71.1892
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bretton Woods",
+        "County":"Coos",
+        "ZipCode":"03575",
+        "Latitude":44.2581,
+        "Longitude":-71.4412
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Colebrook",
+        "County":"Coos",
+        "ZipCode":"03576",
+        "Latitude":44.9078,
+        "Longitude":-71.4793
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Errol",
+        "County":"Coos",
+        "ZipCode":"03579",
+        "Latitude":44.8003,
+        "Longitude":-71.1436
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Gorham",
+        "County":"Coos",
+        "ZipCode":"03581",
+        "Latitude":44.4048,
+        "Longitude":-71.1548
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Groveton",
+        "County":"Coos",
+        "ZipCode":"03582",
+        "Latitude":44.5984,
+        "Longitude":-71.5064
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Jefferson",
+        "County":"Coos",
+        "ZipCode":"03583",
+        "Latitude":44.3999,
+        "Longitude":-71.4518
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lancaster",
+        "County":"Coos",
+        "ZipCode":"03584",
+        "Latitude":44.4921,
+        "Longitude":-71.5591
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Milan",
+        "County":"Coos",
+        "ZipCode":"03588",
+        "Latitude":44.587,
+        "Longitude":-71.181
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Mount Washington",
+        "County":"Coos",
+        "ZipCode":"03589",
+        "Latitude":44.6956,
+        "Longitude":-71.3874
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Stratford",
+        "County":"Coos",
+        "ZipCode":"03590",
+        "Latitude":44.7149,
+        "Longitude":-71.5644
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Pittsburg",
+        "County":"Coos",
+        "ZipCode":"03592",
+        "Latitude":45.0866,
+        "Longitude":-71.3636
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Randolph",
+        "County":"Coos",
+        "ZipCode":"03593",
+        "Latitude":44.3753,
+        "Longitude":-71.2798
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Twin Mountain",
+        "County":"Coos",
+        "ZipCode":"03595",
+        "Latitude":44.2689,
+        "Longitude":-71.5471
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Stewartstown",
+        "County":"Coos",
+        "ZipCode":"03597",
+        "Latitude":44.6956,
+        "Longitude":-71.3874
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Whitefield",
+        "County":"Coos",
+        "ZipCode":"03598",
+        "Latitude":44.3681,
+        "Longitude":-71.6035
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Waterville Valley",
+        "County":"Grafton",
+        "ZipCode":"03215",
+        "Latitude":43.9501,
+        "Longitude":-71.4995
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Ashland",
+        "County":"Grafton",
+        "ZipCode":"03217",
+        "Latitude":43.7034,
+        "Longitude":-71.6121
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bristol",
+        "County":"Grafton",
+        "ZipCode":"03222",
+        "Latitude":43.612,
+        "Longitude":-71.7507
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Campton",
+        "County":"Grafton",
+        "ZipCode":"03223",
+        "Latitude":43.8418,
+        "Longitude":-71.6652
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Glencliff",
+        "County":"Grafton",
+        "ZipCode":"03238",
+        "Latitude":43.9828,
+        "Longitude":-71.8934
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Grafton",
+        "County":"Grafton",
+        "ZipCode":"03240",
+        "Latitude":43.5727,
+        "Longitude":-71.9634
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hebron",
+        "County":"Grafton",
+        "ZipCode":"03241",
+        "Latitude":43.7186,
+        "Longitude":-71.827
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Holderness",
+        "County":"Grafton",
+        "ZipCode":"03245",
+        "Latitude":43.7378,
+        "Longitude":-71.6044
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lincoln",
+        "County":"Grafton",
+        "ZipCode":"03251",
+        "Latitude":44.0582,
+        "Longitude":-71.6727
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Chichester",
+        "County":"Grafton",
+        "ZipCode":"03258",
+        "Latitude":43.244,
+        "Longitude":-71.4105
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Woodstock",
+        "County":"Grafton",
+        "ZipCode":"03262",
+        "Latitude":44.0354,
+        "Longitude":-71.6863
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Plymouth",
+        "County":"Grafton",
+        "ZipCode":"03264",
+        "Latitude":43.757,
+        "Longitude":-71.6881
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rumney",
+        "County":"Grafton",
+        "ZipCode":"03266",
+        "Latitude":43.8044,
+        "Longitude":-71.848
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Warren",
+        "County":"Grafton",
+        "ZipCode":"03279",
+        "Latitude":43.9447,
+        "Longitude":-71.8901
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Wentworth",
+        "County":"Grafton",
+        "ZipCode":"03282",
+        "Latitude":43.8685,
+        "Longitude":-71.9097
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Thornton",
+        "County":"Grafton",
+        "ZipCode":"03285",
+        "Latitude":43.905,
+        "Longitude":-71.647
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Woodstock",
+        "County":"Grafton",
+        "ZipCode":"03293",
+        "Latitude":43.9776,
+        "Longitude":-71.6851
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Littleton",
+        "County":"Grafton",
+        "ZipCode":"03561",
+        "Latitude":44.3112,
+        "Longitude":-71.7768
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bethlehem",
+        "County":"Grafton",
+        "ZipCode":"03574",
+        "Latitude":44.2808,
+        "Longitude":-71.6829
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Franconia",
+        "County":"Grafton",
+        "ZipCode":"03580",
+        "Latitude":44.2053,
+        "Longitude":-71.7518
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lisbon",
+        "County":"Grafton",
+        "ZipCode":"03585",
+        "Latitude":44.2148,
+        "Longitude":-71.8966
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Sugar Hill",
+        "County":"Grafton",
+        "ZipCode":"03586",
+        "Latitude":44.2203,
+        "Longitude":-71.7964
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bath",
+        "County":"Grafton",
+        "ZipCode":"03740",
+        "Latitude":44.1808,
+        "Longitude":-71.9828
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Canaan",
+        "County":"Grafton",
+        "ZipCode":"03741",
+        "Latitude":43.6601,
+        "Longitude":-72.0297
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Enfield",
+        "County":"Grafton",
+        "ZipCode":"03748",
+        "Latitude":43.6256,
+        "Longitude":-72.127
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Enfield Center",
+        "County":"Grafton",
+        "ZipCode":"03749",
+        "Latitude":43.5796,
+        "Longitude":-72.0854
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Etna",
+        "County":"Grafton",
+        "ZipCode":"03750",
+        "Latitude":43.7113,
+        "Longitude":-72.2125
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hanover",
+        "County":"Grafton",
+        "ZipCode":"03755",
+        "Latitude":43.7045,
+        "Longitude":-72.285
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lebanon",
+        "County":"Grafton",
+        "ZipCode":"03756",
+        "Latitude":43.6423,
+        "Longitude":-72.2518
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Haverhill",
+        "County":"Grafton",
+        "ZipCode":"03765",
+        "Latitude":44.0394,
+        "Longitude":-72.0573
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lebanon",
+        "County":"Grafton",
+        "ZipCode":"03766",
+        "Latitude":43.6447,
+        "Longitude":-72.2428
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lyme",
+        "County":"Grafton",
+        "ZipCode":"03768",
+        "Latitude":43.7913,
+        "Longitude":-72.162
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lyme Center",
+        "County":"Grafton",
+        "ZipCode":"03769",
+        "Latitude":43.7863,
+        "Longitude":-72.1205
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Monroe",
+        "County":"Grafton",
+        "ZipCode":"03771",
+        "Latitude":44.2734,
+        "Longitude":-72.025
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Haverhill",
+        "County":"Grafton",
+        "ZipCode":"03774",
+        "Latitude":44.0978,
+        "Longitude":-72.0191
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Orford",
+        "County":"Grafton",
+        "ZipCode":"03777",
+        "Latitude":43.8941,
+        "Longitude":-72.0978
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Piermont",
+        "County":"Grafton",
+        "ZipCode":"03779",
+        "Latitude":43.9906,
+        "Longitude":-72.0813
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Pike",
+        "County":"Grafton",
+        "ZipCode":"03780",
+        "Latitude":44.0255,
+        "Longitude":-72.0096
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Lebanon",
+        "County":"Grafton",
+        "ZipCode":"03784",
+        "Latitude":43.644,
+        "Longitude":-72.3007
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Woodsville",
+        "County":"Grafton",
+        "ZipCode":"03785",
+        "Latitude":44.1523,
+        "Longitude":-72.0373
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Amherst",
+        "County":"Hillsborough",
+        "ZipCode":"03031",
+        "Latitude":42.8569,
+        "Longitude":-71.6075
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Brookline",
+        "County":"Hillsborough",
+        "ZipCode":"03033",
+        "Latitude":42.7384,
+        "Longitude":-71.6663
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Francestown",
+        "County":"Hillsborough",
+        "ZipCode":"03043",
+        "Latitude":42.992,
+        "Longitude":-71.8113
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Goffstown",
+        "County":"Hillsborough",
+        "ZipCode":"03045",
+        "Latitude":43.0201,
+        "Longitude":-71.5697
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Greenfield",
+        "County":"Hillsborough",
+        "ZipCode":"03047",
+        "Latitude":42.9493,
+        "Longitude":-71.8728
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Greenville",
+        "County":"Hillsborough",
+        "ZipCode":"03048",
+        "Latitude":42.7482,
+        "Longitude":-71.7619
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hollis",
+        "County":"Hillsborough",
+        "ZipCode":"03049",
+        "Latitude":42.7485,
+        "Longitude":-71.5772
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hudson",
+        "County":"Hillsborough",
+        "ZipCode":"03051",
+        "Latitude":42.769,
+        "Longitude":-71.4121
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Litchfield",
+        "County":"Hillsborough",
+        "ZipCode":"03052",
+        "Latitude":42.843,
+        "Longitude":-71.455
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Merrimack",
+        "County":"Hillsborough",
+        "ZipCode":"03054",
+        "Latitude":42.8667,
+        "Longitude":-71.5128
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Milford",
+        "County":"Hillsborough",
+        "ZipCode":"03055",
+        "Latitude":42.8285,
+        "Longitude":-71.6606
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Mont Vernon",
+        "County":"Hillsborough",
+        "ZipCode":"03057",
+        "Latitude":42.8976,
+        "Longitude":-71.6762
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nashua",
+        "County":"Hillsborough",
+        "ZipCode":"03060",
+        "Latitude":42.7564,
+        "Longitude":-71.4667
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nashua",
+        "County":"Hillsborough",
+        "ZipCode":"03061",
+        "Latitude":42.7654,
+        "Longitude":-71.4676
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nashua",
+        "County":"Hillsborough",
+        "ZipCode":"03062",
+        "Latitude":42.7235,
+        "Longitude":-71.4893
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nashua",
+        "County":"Hillsborough",
+        "ZipCode":"03063",
+        "Latitude":42.7717,
+        "Longitude":-71.5132
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nashua",
+        "County":"Hillsborough",
+        "ZipCode":"03064",
+        "Latitude":42.779,
+        "Longitude":-71.4748
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"New Boston",
+        "County":"Hillsborough",
+        "ZipCode":"03070",
+        "Latitude":42.9722,
+        "Longitude":-71.6864
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"New Ipswich",
+        "County":"Hillsborough",
+        "ZipCode":"03071",
+        "Latitude":42.7511,
+        "Longitude":-71.8703
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Pelham",
+        "County":"Hillsborough",
+        "ZipCode":"03076",
+        "Latitude":42.7288,
+        "Longitude":-71.3046
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lyndeborough",
+        "County":"Hillsborough",
+        "ZipCode":"03082",
+        "Latitude":42.8954,
+        "Longitude":-71.7744
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Temple",
+        "County":"Hillsborough",
+        "ZipCode":"03084",
+        "Latitude":42.82,
+        "Longitude":-71.8523
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Wilton",
+        "County":"Hillsborough",
+        "ZipCode":"03086",
+        "Latitude":42.8368,
+        "Longitude":-71.7541
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03101",
+        "Latitude":42.9929,
+        "Longitude":-71.4633
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03102",
+        "Latitude":42.9944,
+        "Longitude":-71.4884
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03103",
+        "Latitude":42.9656,
+        "Longitude":-71.4493
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03104",
+        "Latitude":43.0073,
+        "Longitude":-71.4482
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03105",
+        "Latitude":42.9956,
+        "Longitude":-71.4548
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03108",
+        "Latitude":42.9956,
+        "Longitude":-71.4548
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03109",
+        "Latitude":42.9713,
+        "Longitude":-71.4135
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bedford",
+        "County":"Hillsborough",
+        "ZipCode":"03110",
+        "Latitude":42.9403,
+        "Longitude":-71.5213
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Manchester",
+        "County":"Hillsborough",
+        "ZipCode":"03111",
+        "Latitude":42.9956,
+        "Longitude":-71.4548
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hillsborough",
+        "County":"Hillsborough",
+        "ZipCode":"03244",
+        "Latitude":43.1141,
+        "Longitude":-71.8992
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Weare",
+        "County":"Hillsborough",
+        "ZipCode":"03281",
+        "Latitude":43.0714,
+        "Longitude":-71.7038
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Antrim",
+        "County":"Hillsborough",
+        "ZipCode":"03440",
+        "Latitude":43.0595,
+        "Longitude":-71.9387
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bennington",
+        "County":"Hillsborough",
+        "ZipCode":"03442",
+        "Latitude":43.0103,
+        "Longitude":-71.9153
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hancock",
+        "County":"Hillsborough",
+        "ZipCode":"03449",
+        "Latitude":42.9768,
+        "Longitude":-71.9819
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Peterborough",
+        "County":"Hillsborough",
+        "ZipCode":"03458",
+        "Latitude":42.8856,
+        "Longitude":-71.947
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Peterborough",
+        "County":"Hillsborough",
+        "ZipCode":"03468",
+        "Latitude":42.8908,
+        "Longitude":-71.9334
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Dunbarton",
+        "County":"Merrimack",
+        "ZipCode":"03046",
+        "Latitude":43.1025,
+        "Longitude":-71.6169
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hooksett",
+        "County":"Merrimack",
+        "ZipCode":"03106",
+        "Latitude":43.0617,
+        "Longitude":-71.4444
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Andover",
+        "County":"Merrimack",
+        "ZipCode":"03216",
+        "Latitude":43.4287,
+        "Longitude":-71.783
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bradford",
+        "County":"Merrimack",
+        "ZipCode":"03221",
+        "Latitude":43.2517,
+        "Longitude":-71.9617
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Canterbury",
+        "County":"Merrimack",
+        "ZipCode":"03224",
+        "Latitude":43.357,
+        "Longitude":-71.557
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Contoocook",
+        "County":"Merrimack",
+        "ZipCode":"03229",
+        "Latitude":43.1978,
+        "Longitude":-71.6968
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Danbury",
+        "County":"Merrimack",
+        "ZipCode":"03230",
+        "Latitude":43.5115,
+        "Longitude":-71.8691
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"East Andover",
+        "County":"Merrimack",
+        "ZipCode":"03231",
+        "Latitude":43.4595,
+        "Longitude":-71.7476
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Elkins",
+        "County":"Merrimack",
+        "ZipCode":"03233",
+        "Latitude":43.4209,
+        "Longitude":-71.9373
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Epsom",
+        "County":"Merrimack",
+        "ZipCode":"03234",
+        "Latitude":43.2174,
+        "Longitude":-71.3546
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Franklin",
+        "County":"Merrimack",
+        "ZipCode":"03235",
+        "Latitude":43.4426,
+        "Longitude":-71.6491
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Henniker",
+        "County":"Merrimack",
+        "ZipCode":"03242",
+        "Latitude":43.1791,
+        "Longitude":-71.8159
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hill",
+        "County":"Merrimack",
+        "ZipCode":"03243",
+        "Latitude":43.5274,
+        "Longitude":-71.7292
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Newbury",
+        "County":"Merrimack",
+        "ZipCode":"03255",
+        "Latitude":43.3217,
+        "Longitude":-72.0118
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"New London",
+        "County":"Merrimack",
+        "ZipCode":"03257",
+        "Latitude":43.4145,
+        "Longitude":-71.9857
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Sutton",
+        "County":"Merrimack",
+        "ZipCode":"03260",
+        "Latitude":43.3653,
+        "Longitude":-71.9341
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Pittsfield",
+        "County":"Merrimack",
+        "ZipCode":"03263",
+        "Latitude":43.2874,
+        "Longitude":-71.333
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Salisbury",
+        "County":"Merrimack",
+        "ZipCode":"03268",
+        "Latitude":43.4067,
+        "Longitude":-71.7045
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"South Newbury",
+        "County":"Merrimack",
+        "ZipCode":"03272",
+        "Latitude":43.2956,
+        "Longitude":-71.9967
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"South Sutton",
+        "County":"Merrimack",
+        "ZipCode":"03273",
+        "Latitude":43.3042,
+        "Longitude":-71.9289
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Suncook",
+        "County":"Merrimack",
+        "ZipCode":"03275",
+        "Latitude":43.1604,
+        "Longitude":-71.4179
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Warner",
+        "County":"Merrimack",
+        "ZipCode":"03278",
+        "Latitude":43.3035,
+        "Longitude":-71.8353
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Wilmot",
+        "County":"Merrimack",
+        "ZipCode":"03287",
+        "Latitude":43.4485,
+        "Longitude":-71.9158
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Concord",
+        "County":"Merrimack",
+        "ZipCode":"03301",
+        "Latitude":43.2185,
+        "Longitude":-71.5277
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Concord",
+        "County":"Merrimack",
+        "ZipCode":"03302",
+        "Latitude":43.3103,
+        "Longitude":-71.6629
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Concord",
+        "County":"Merrimack",
+        "ZipCode":"03303",
+        "Latitude":43.2817,
+        "Longitude":-71.6595
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Bow",
+        "County":"Merrimack",
+        "ZipCode":"03304",
+        "Latitude":43.1388,
+        "Longitude":-71.5448
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Concord",
+        "County":"Merrimack",
+        "ZipCode":"03305",
+        "Latitude":43.2134,
+        "Longitude":-71.5172
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Loudon",
+        "County":"Merrimack",
+        "ZipCode":"03307",
+        "Latitude":43.3193,
+        "Longitude":-71.467
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Auburn",
+        "County":"Rockingham",
+        "ZipCode":"03032",
+        "Latitude":42.9925,
+        "Longitude":-71.3449
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Candia",
+        "County":"Rockingham",
+        "ZipCode":"03034",
+        "Latitude":43.0585,
+        "Longitude":-71.3049
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Chester",
+        "County":"Rockingham",
+        "ZipCode":"03036",
+        "Latitude":42.9678,
+        "Longitude":-71.245
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Deerfield",
+        "County":"Rockingham",
+        "ZipCode":"03037",
+        "Latitude":43.1378,
+        "Longitude":-71.2513
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Derry",
+        "County":"Rockingham",
+        "ZipCode":"03038",
+        "Latitude":42.8874,
+        "Longitude":-71.302
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"East Candia",
+        "County":"Rockingham",
+        "ZipCode":"03040",
+        "Latitude":43.0481,
+        "Longitude":-71.2487
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"East Derry",
+        "County":"Rockingham",
+        "ZipCode":"03041",
+        "Latitude":42.8945,
+        "Longitude":-71.2912
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Epping",
+        "County":"Rockingham",
+        "ZipCode":"03042",
+        "Latitude":43.0411,
+        "Longitude":-71.0764
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Fremont",
+        "County":"Rockingham",
+        "ZipCode":"03044",
+        "Latitude":42.984,
+        "Longitude":-71.1218
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Londonderry",
+        "County":"Rockingham",
+        "ZipCode":"03053",
+        "Latitude":42.8656,
+        "Longitude":-71.3772
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Salem",
+        "County":"Rockingham",
+        "ZipCode":"03073",
+        "Latitude":42.837,
+        "Longitude":-71.2206
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Raymond",
+        "County":"Rockingham",
+        "ZipCode":"03077",
+        "Latitude":43.0325,
+        "Longitude":-71.1912
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Salem",
+        "County":"Rockingham",
+        "ZipCode":"03079",
+        "Latitude":42.7846,
+        "Longitude":-71.2176
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Windham",
+        "County":"Rockingham",
+        "ZipCode":"03087",
+        "Latitude":42.8051,
+        "Longitude":-71.3067
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Northwood",
+        "County":"Rockingham",
+        "ZipCode":"03261",
+        "Latitude":43.207,
+        "Longitude":-71.2004
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Nottingham",
+        "County":"Rockingham",
+        "ZipCode":"03290",
+        "Latitude":43.1196,
+        "Longitude":-71.111
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"West Nottingham",
+        "County":"Rockingham",
+        "ZipCode":"03291",
+        "Latitude":43.1823,
+        "Longitude":-71.1396
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Portsmouth",
+        "County":"Rockingham",
+        "ZipCode":"03801",
+        "Latitude":43.0729,
+        "Longitude":-70.8052
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Portsmouth",
+        "County":"Rockingham",
+        "ZipCode":"03802",
+        "Latitude":43.0718,
+        "Longitude":-70.7626
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Portsmouth",
+        "County":"Rockingham",
+        "ZipCode":"03803",
+        "Latitude":43.0718,
+        "Longitude":-70.7626
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Portsmouth",
+        "County":"Rockingham",
+        "ZipCode":"03804",
+        "Latitude":43.0718,
+        "Longitude":-70.7626
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Atkinson",
+        "County":"Rockingham",
+        "ZipCode":"03811",
+        "Latitude":42.837,
+        "Longitude":-71.1603
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Danville",
+        "County":"Rockingham",
+        "ZipCode":"03819",
+        "Latitude":42.9234,
+        "Longitude":-71.121
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"East Hampstead",
+        "County":"Rockingham",
+        "ZipCode":"03826",
+        "Latitude":42.8877,
+        "Longitude":-71.128
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"East Kingston",
+        "County":"Rockingham",
+        "ZipCode":"03827",
+        "Latitude":42.907,
+        "Longitude":-70.9876
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Exeter",
+        "County":"Rockingham",
+        "ZipCode":"03833",
+        "Latitude":42.9815,
+        "Longitude":-70.9478
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Greenland",
+        "County":"Rockingham",
+        "ZipCode":"03840",
+        "Latitude":43.0353,
+        "Longitude":-70.8475
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hampstead",
+        "County":"Rockingham",
+        "ZipCode":"03841",
+        "Latitude":42.882,
+        "Longitude":-71.1758
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hampton",
+        "County":"Rockingham",
+        "ZipCode":"03842",
+        "Latitude":42.9359,
+        "Longitude":-70.8243
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hampton",
+        "County":"Rockingham",
+        "ZipCode":"03843",
+        "Latitude":43.0059,
+        "Longitude":-71.0132
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Hampton Falls",
+        "County":"Rockingham",
+        "ZipCode":"03844",
+        "Latitude":42.9263,
+        "Longitude":-70.8876
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Kingston",
+        "County":"Rockingham",
+        "ZipCode":"03848",
+        "Latitude":42.9133,
+        "Longitude":-71.0639
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"New Castle",
+        "County":"Rockingham",
+        "ZipCode":"03854",
+        "Latitude":43.0681,
+        "Longitude":-70.7199
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Newfields",
+        "County":"Rockingham",
+        "ZipCode":"03856",
+        "Latitude":43.0374,
+        "Longitude":-70.9782
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Newmarket",
+        "County":"Rockingham",
+        "ZipCode":"03857",
+        "Latitude":43.0726,
+        "Longitude":-70.9553
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Newton",
+        "County":"Rockingham",
+        "ZipCode":"03858",
+        "Latitude":42.8678,
+        "Longitude":-71.042
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Newton Junction",
+        "County":"Rockingham",
+        "ZipCode":"03859",
+        "Latitude":42.8619,
+        "Longitude":-71.04
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"North Hampton",
+        "County":"Rockingham",
+        "ZipCode":"03862",
+        "Latitude":42.9776,
+        "Longitude":-70.8267
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Plaistow",
+        "County":"Rockingham",
+        "ZipCode":"03865",
+        "Latitude":42.8356,
+        "Longitude":-71.0934
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rye",
+        "County":"Rockingham",
+        "ZipCode":"03870",
+        "Latitude":43.0095,
+        "Longitude":-70.7652
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rye Beach",
+        "County":"Rockingham",
+        "ZipCode":"03871",
+        "Latitude":42.9806,
+        "Longitude":-70.7719
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Sandown",
+        "County":"Rockingham",
+        "ZipCode":"03873",
+        "Latitude":42.9308,
+        "Longitude":-71.1861
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Seabrook",
+        "County":"Rockingham",
+        "ZipCode":"03874",
+        "Latitude":42.8854,
+        "Longitude":-70.8646
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Stratham",
+        "County":"Rockingham",
+        "ZipCode":"03885",
+        "Latitude":43.0194,
+        "Longitude":-70.8997
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Center Strafford",
+        "County":"Strafford",
+        "ZipCode":"03815",
+        "Latitude":43.2629,
+        "Longitude":-71.1071
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Dover",
+        "County":"Strafford",
+        "ZipCode":"03820",
+        "Latitude":43.1888,
+        "Longitude":-70.8868
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Dover",
+        "County":"Strafford",
+        "ZipCode":"03821",
+        "Latitude":43.1979,
+        "Longitude":-70.8737
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Dover",
+        "County":"Strafford",
+        "ZipCode":"03822",
+        "Latitude":43.1979,
+        "Longitude":-70.8737
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Madbury",
+        "County":"Strafford",
+        "ZipCode":"03823",
+        "Latitude":43.1729,
+        "Longitude":-70.9412
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Durham",
+        "County":"Strafford",
+        "ZipCode":"03824",
+        "Latitude":43.1174,
+        "Longitude":-70.9197
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Barrington",
+        "County":"Strafford",
+        "ZipCode":"03825",
+        "Latitude":43.2027,
+        "Longitude":-71.0377
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Farmington",
+        "County":"Strafford",
+        "ZipCode":"03835",
+        "Latitude":43.3884,
+        "Longitude":-71.0647
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rochester",
+        "County":"Strafford",
+        "ZipCode":"03839",
+        "Latitude":43.262,
+        "Longitude":-70.9837
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Milton",
+        "County":"Strafford",
+        "ZipCode":"03851",
+        "Latitude":43.4229,
+        "Longitude":-71.0114
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Milton Mills",
+        "County":"Strafford",
+        "ZipCode":"03852",
+        "Latitude":43.5025,
+        "Longitude":-70.9697
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"New Durham",
+        "County":"Strafford",
+        "ZipCode":"03855",
+        "Latitude":43.443,
+        "Longitude":-71.1408
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rochester",
+        "County":"Strafford",
+        "ZipCode":"03866",
+        "Latitude":43.3045,
+        "Longitude":-70.9756
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rochester",
+        "County":"Strafford",
+        "ZipCode":"03867",
+        "Latitude":43.3045,
+        "Longitude":-70.9756
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rochester",
+        "County":"Strafford",
+        "ZipCode":"03868",
+        "Latitude":43.32,
+        "Longitude":-70.9413
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Rollinsford",
+        "County":"Strafford",
+        "ZipCode":"03869",
+        "Latitude":43.2269,
+        "Longitude":-70.8332
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Somersworth",
+        "County":"Strafford",
+        "ZipCode":"03878",
+        "Latitude":43.2525,
+        "Longitude":-70.8756
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Strafford",
+        "County":"Strafford",
+        "ZipCode":"03884",
+        "Latitude":43.2506,
+        "Longitude":-71.1625
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Union",
+        "County":"Strafford",
+        "ZipCode":"03887",
+        "Latitude":43.4861,
+        "Longitude":-71.063
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Washington",
+        "County":"Sullivan",
+        "ZipCode":"03280",
+        "Latitude":43.1747,
+        "Longitude":-72.0824
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Springfield",
+        "County":"Sullivan",
+        "ZipCode":"03284",
+        "Latitude":43.4938,
+        "Longitude":-72.047
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Acworth",
+        "County":"Sullivan",
+        "ZipCode":"03601",
+        "Latitude":43.196,
+        "Longitude":-72.3001
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Charlestown",
+        "County":"Sullivan",
+        "ZipCode":"03603",
+        "Latitude":43.2573,
+        "Longitude":-72.4064
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Lempster",
+        "County":"Sullivan",
+        "ZipCode":"03605",
+        "Latitude":43.2136,
+        "Longitude":-72.1968
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"South Acworth",
+        "County":"Sullivan",
+        "ZipCode":"03607",
+        "Latitude":43.1956,
+        "Longitude":-72.2686
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Claremont",
+        "County":"Sullivan",
+        "ZipCode":"03743",
+        "Latitude":43.3679,
+        "Longitude":-72.3422
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Cornish",
+        "County":"Sullivan",
+        "ZipCode":"03745",
+        "Latitude":43.4963,
+        "Longitude":-72.3394
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Cornish Flat",
+        "County":"Sullivan",
+        "ZipCode":"03746",
+        "Latitude":43.4973,
+        "Longitude":-72.2795
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Georges Mills",
+        "County":"Sullivan",
+        "ZipCode":"03751",
+        "Latitude":43.4317,
+        "Longitude":-72.0673
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Goshen",
+        "County":"Sullivan",
+        "ZipCode":"03752",
+        "Latitude":43.3026,
+        "Longitude":-72.1241
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Grantham",
+        "County":"Sullivan",
+        "ZipCode":"03753",
+        "Latitude":43.5103,
+        "Longitude":-72.1334
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Guild",
+        "County":"Sullivan",
+        "ZipCode":"03754",
+        "Latitude":43.3767,
+        "Longitude":-72.1381
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Meriden",
+        "County":"Sullivan",
+        "ZipCode":"03770",
+        "Latitude":43.5299,
+        "Longitude":-72.2756
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Newport",
+        "County":"Sullivan",
+        "ZipCode":"03773",
+        "Latitude":43.3532,
+        "Longitude":-72.1838
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Plainfield",
+        "County":"Sullivan",
+        "ZipCode":"03781",
+        "Latitude":43.5519,
+        "Longitude":-72.2704
+    },
+    {
+        "State":"New Hampshire",
+        "StateAbbr":"NH",
+        "City":"Sunapee",
+        "County":"Sullivan",
+        "ZipCode":"03782",
+        "Latitude":43.3868,
+        "Longitude":-72.095
+    }
+]

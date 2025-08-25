@@ -1,0 +1,812 @@
+[
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Barrington",
+        "County":"Bristol",
+        "ZipCode":"02806",
+        "Latitude":41.7443,
+        "Longitude":-71.3175
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Bristol",
+        "County":"Bristol",
+        "ZipCode":"02809",
+        "Latitude":41.6825,
+        "Longitude":-71.2676
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Prudence Island",
+        "County":"Bristol",
+        "ZipCode":"02872",
+        "Latitude":41.7071,
+        "Longitude":-71.2868
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Warren",
+        "County":"Bristol",
+        "ZipCode":"02885",
+        "Latitude":41.7256,
+        "Longitude":-71.2702
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Coventry",
+        "County":"Kent",
+        "ZipCode":"02816",
+        "Latitude":41.6914,
+        "Longitude":-71.5768
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"West Greenwich",
+        "County":"Kent",
+        "ZipCode":"02817",
+        "Latitude":41.64,
+        "Longitude":-71.6435
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"East Greenwich",
+        "County":"Kent",
+        "ZipCode":"02818",
+        "Latitude":41.6498,
+        "Longitude":-71.474
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Greene",
+        "County":"Kent",
+        "ZipCode":"02827",
+        "Latitude":41.7062,
+        "Longitude":-71.7356
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Warwick",
+        "County":"Kent",
+        "ZipCode":"02886",
+        "Latitude":41.7026,
+        "Longitude":-71.4476
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Warwick",
+        "County":"Kent",
+        "ZipCode":"02887",
+        "Latitude":41.7001,
+        "Longitude":-71.4162
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Warwick",
+        "County":"Kent",
+        "ZipCode":"02888",
+        "Latitude":41.7494,
+        "Longitude":-71.4084
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Warwick",
+        "County":"Kent",
+        "ZipCode":"02889",
+        "Latitude":41.7141,
+        "Longitude":-71.3901
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"West Warwick",
+        "County":"Kent",
+        "ZipCode":"02893",
+        "Latitude":41.7004,
+        "Longitude":-71.5183
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Adamsville",
+        "County":"Newport",
+        "ZipCode":"02801",
+        "Latitude":41.5301,
+        "Longitude":-71.2841
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Jamestown",
+        "County":"Newport",
+        "ZipCode":"02835",
+        "Latitude":41.5164,
+        "Longitude":-71.3761
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Little Compton",
+        "County":"Newport",
+        "ZipCode":"02837",
+        "Latitude":41.522,
+        "Longitude":-71.1612
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Newport",
+        "County":"Newport",
+        "ZipCode":"02840",
+        "Latitude":41.4876,
+        "Longitude":-71.3271
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Newport",
+        "County":"Newport",
+        "ZipCode":"02841",
+        "Latitude":41.499,
+        "Longitude":-71.299
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Middletown",
+        "County":"Newport",
+        "ZipCode":"02842",
+        "Latitude":41.5198,
+        "Longitude":-71.2731
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Portsmouth",
+        "County":"Newport",
+        "ZipCode":"02871",
+        "Latitude":41.5944,
+        "Longitude":-71.252
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Tiverton",
+        "County":"Newport",
+        "ZipCode":"02878",
+        "Latitude":41.6338,
+        "Longitude":-71.1808
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Albion",
+        "County":"Providence",
+        "ZipCode":"02802",
+        "Latitude":41.9512,
+        "Longitude":-71.4545
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Chepachet",
+        "County":"Providence",
+        "ZipCode":"02814",
+        "Latitude":41.9155,
+        "Longitude":-71.6795
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Clayville",
+        "County":"Providence",
+        "ZipCode":"02815",
+        "Latitude":41.7778,
+        "Longitude":-71.6706
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Fiskeville",
+        "County":"Providence",
+        "ZipCode":"02823",
+        "Latitude":41.7312,
+        "Longitude":-71.5468
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Forestdale",
+        "County":"Providence",
+        "ZipCode":"02824",
+        "Latitude":42.0002,
+        "Longitude":-71.5631
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Foster",
+        "County":"Providence",
+        "ZipCode":"02825",
+        "Latitude":41.7815,
+        "Longitude":-71.7187
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Glendale",
+        "County":"Providence",
+        "ZipCode":"02826",
+        "Latitude":41.9762,
+        "Longitude":-71.6326
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Greenville",
+        "County":"Providence",
+        "ZipCode":"02828",
+        "Latitude":41.8734,
+        "Longitude":-71.5569
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Harmony",
+        "County":"Providence",
+        "ZipCode":"02829",
+        "Latitude":41.8793,
+        "Longitude":-71.5894
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Harrisville",
+        "County":"Providence",
+        "ZipCode":"02830",
+        "Latitude":41.9764,
+        "Longitude":-71.6534
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Hope",
+        "County":"Providence",
+        "ZipCode":"02831",
+        "Latitude":41.7516,
+        "Longitude":-71.5612
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Manville",
+        "County":"Providence",
+        "ZipCode":"02838",
+        "Latitude":41.9689,
+        "Longitude":-71.4741
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Mapleville",
+        "County":"Providence",
+        "ZipCode":"02839",
+        "Latitude":41.9417,
+        "Longitude":-71.6376
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"North Scituate",
+        "County":"Providence",
+        "ZipCode":"02857",
+        "Latitude":41.8439,
+        "Longitude":-71.6242
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Oakland",
+        "County":"Providence",
+        "ZipCode":"02858",
+        "Latitude":41.9573,
+        "Longitude":-71.6478
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Pascoag",
+        "County":"Providence",
+        "ZipCode":"02859",
+        "Latitude":41.9627,
+        "Longitude":-71.7099
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Pawtucket",
+        "County":"Providence",
+        "ZipCode":"02860",
+        "Latitude":41.8729,
+        "Longitude":-71.3907
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Pawtucket",
+        "County":"Providence",
+        "ZipCode":"02861",
+        "Latitude":41.8814,
+        "Longitude":-71.356
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Pawtucket",
+        "County":"Providence",
+        "ZipCode":"02862",
+        "Latitude":41.8612,
+        "Longitude":-71.3691
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Central Falls",
+        "County":"Providence",
+        "ZipCode":"02863",
+        "Latitude":41.8883,
+        "Longitude":-71.3945
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Cumberland",
+        "County":"Providence",
+        "ZipCode":"02864",
+        "Latitude":41.9484,
+        "Longitude":-71.4154
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Lincoln",
+        "County":"Providence",
+        "ZipCode":"02865",
+        "Latitude":41.9089,
+        "Longitude":-71.4348
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Slatersville",
+        "County":"Providence",
+        "ZipCode":"02876",
+        "Latitude":41.9984,
+        "Longitude":-71.5763
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Woonsocket",
+        "County":"Providence",
+        "ZipCode":"02895",
+        "Latitude":41.9846,
+        "Longitude":-71.5194
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"North Smithfield",
+        "County":"Providence",
+        "ZipCode":"02896",
+        "Latitude":41.9724,
+        "Longitude":-71.5508
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02901",
+        "Latitude":41.8227,
+        "Longitude":-71.4145
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02902",
+        "Latitude":41.8184,
+        "Longitude":-71.4249
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02903",
+        "Latitude":41.82,
+        "Longitude":-71.4158
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02904",
+        "Latitude":41.8541,
+        "Longitude":-71.4378
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02905",
+        "Latitude":41.7845,
+        "Longitude":-71.3959
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02906",
+        "Latitude":41.8351,
+        "Longitude":-71.3971
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02907",
+        "Latitude":41.7971,
+        "Longitude":-71.4255
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02908",
+        "Latitude":41.8383,
+        "Longitude":-71.4377
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02909",
+        "Latitude":41.8206,
+        "Longitude":-71.4443
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Cranston",
+        "County":"Providence",
+        "ZipCode":"02910",
+        "Latitude":41.7766,
+        "Longitude":-71.4383
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"North Providence",
+        "County":"Providence",
+        "ZipCode":"02911",
+        "Latitude":41.8547,
+        "Longitude":-71.4735
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02912",
+        "Latitude":41.824,
+        "Longitude":-71.4128
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"East Providence",
+        "County":"Providence",
+        "ZipCode":"02914",
+        "Latitude":41.8138,
+        "Longitude":-71.3688
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Riverside",
+        "County":"Providence",
+        "ZipCode":"02915",
+        "Latitude":41.7723,
+        "Longitude":-71.3542
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Rumford",
+        "County":"Providence",
+        "ZipCode":"02916",
+        "Latitude":41.8425,
+        "Longitude":-71.3559
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Smithfield",
+        "County":"Providence",
+        "ZipCode":"02917",
+        "Latitude":41.8964,
+        "Longitude":-71.5207
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02918",
+        "Latitude":41.8415,
+        "Longitude":-71.4404
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Johnston",
+        "County":"Providence",
+        "ZipCode":"02919",
+        "Latitude":41.8274,
+        "Longitude":-71.52
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Cranston",
+        "County":"Providence",
+        "ZipCode":"02920",
+        "Latitude":41.7716,
+        "Longitude":-71.4659
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Cranston",
+        "County":"Providence",
+        "ZipCode":"02921",
+        "Latitude":41.7614,
+        "Longitude":-71.5061
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Providence",
+        "County":"Providence",
+        "ZipCode":"02940",
+        "Latitude":41.824,
+        "Longitude":-71.4128
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Ashaway",
+        "County":"Washington",
+        "ZipCode":"02804",
+        "Latitude":41.4231,
+        "Longitude":-71.7837
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Block Island",
+        "County":"Washington",
+        "ZipCode":"02807",
+        "Latitude":41.1715,
+        "Longitude":-71.5748
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Bradford",
+        "County":"Washington",
+        "ZipCode":"02808",
+        "Latitude":41.4114,
+        "Longitude":-71.7465
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Carolina",
+        "County":"Washington",
+        "ZipCode":"02812",
+        "Latitude":41.4691,
+        "Longitude":-71.6751
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Charlestown",
+        "County":"Washington",
+        "ZipCode":"02813",
+        "Latitude":41.4007,
+        "Longitude":-71.6615
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Exeter",
+        "County":"Washington",
+        "ZipCode":"02822",
+        "Latitude":41.574,
+        "Longitude":-71.6076
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Hope Valley",
+        "County":"Washington",
+        "ZipCode":"02832",
+        "Latitude":41.5096,
+        "Longitude":-71.7339
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Hopkinton",
+        "County":"Washington",
+        "ZipCode":"02833",
+        "Latitude":41.4751,
+        "Longitude":-71.7726
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Kenyon",
+        "County":"Washington",
+        "ZipCode":"02836",
+        "Latitude":41.4474,
+        "Longitude":-71.6204
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"North Kingstown",
+        "County":"Washington",
+        "ZipCode":"02852",
+        "Latitude":41.5894,
+        "Longitude":-71.4625
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Rockville",
+        "County":"Washington",
+        "ZipCode":"02873",
+        "Latitude":41.5199,
+        "Longitude":-71.774
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Saunderstown",
+        "County":"Washington",
+        "ZipCode":"02874",
+        "Latitude":41.5105,
+        "Longitude":-71.4427
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Shannock",
+        "County":"Washington",
+        "ZipCode":"02875",
+        "Latitude":41.456,
+        "Longitude":-71.6355
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Slocum",
+        "County":"Washington",
+        "ZipCode":"02877",
+        "Latitude":41.5289,
+        "Longitude":-71.5299
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Wakefield",
+        "County":"Washington",
+        "ZipCode":"02879",
+        "Latitude":41.4437,
+        "Longitude":-71.5342
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Wakefield",
+        "County":"Washington",
+        "ZipCode":"02880",
+        "Latitude":41.3753,
+        "Longitude":-71.6439
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Kingston",
+        "County":"Washington",
+        "ZipCode":"02881",
+        "Latitude":41.4803,
+        "Longitude":-71.5292
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Narragansett",
+        "County":"Washington",
+        "ZipCode":"02882",
+        "Latitude":41.4353,
+        "Longitude":-71.4616
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Peace Dale",
+        "County":"Washington",
+        "ZipCode":"02883",
+        "Latitude":41.4512,
+        "Longitude":-71.4987
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Westerly",
+        "County":"Washington",
+        "ZipCode":"02891",
+        "Latitude":41.3691,
+        "Longitude":-71.8126
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"West Kingston",
+        "County":"Washington",
+        "ZipCode":"02892",
+        "Latitude":41.5058,
+        "Longitude":-71.6211
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Wood River Junction",
+        "County":"Washington",
+        "ZipCode":"02894",
+        "Latitude":41.45,
+        "Longitude":-71.7074
+    },
+    {
+        "State":"Rhode Island",
+        "StateAbbr":"RI",
+        "City":"Wyoming",
+        "County":"Washington",
+        "ZipCode":"02898",
+        "Latitude":41.5041,
+        "Longitude":-71.663
+    }
+]

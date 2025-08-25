@@ -1,0 +1,3467 @@
+[
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Plankinton",
+        "County":"Aurora",
+        "ZipCode":"57368",
+        "Latitude":43.7373,
+        "Longitude":-98.4694
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Stickney",
+        "County":"Aurora",
+        "ZipCode":"57375",
+        "Latitude":43.5842,
+        "Longitude":-98.5088
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"White Lake",
+        "County":"Aurora",
+        "ZipCode":"57383",
+        "Latitude":43.7564,
+        "Longitude":-98.7076
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Cavour",
+        "County":"Beadle",
+        "ZipCode":"57324",
+        "Latitude":44.365,
+        "Longitude":-98.0208
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hitchcock",
+        "County":"Beadle",
+        "ZipCode":"57348",
+        "Latitude":44.5834,
+        "Longitude":-98.4509
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Huron",
+        "County":"Beadle",
+        "ZipCode":"57350",
+        "Latitude":44.359,
+        "Longitude":-98.2163
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Virgil",
+        "County":"Beadle",
+        "ZipCode":"57379",
+        "Latitude":44.2908,
+        "Longitude":-98.4243
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wessington",
+        "County":"Beadle",
+        "ZipCode":"57381",
+        "Latitude":44.4128,
+        "Longitude":-98.692
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wolsey",
+        "County":"Beadle",
+        "ZipCode":"57384",
+        "Latitude":44.3991,
+        "Longitude":-98.4743
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Yale",
+        "County":"Beadle",
+        "ZipCode":"57386",
+        "Latitude":44.5225,
+        "Longitude":-98.0401
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Huron",
+        "County":"Beadle",
+        "ZipCode":"57399",
+        "Latitude":44.3633,
+        "Longitude":-98.2143
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Martin",
+        "County":"Bennett",
+        "ZipCode":"57551",
+        "Latitude":43.1722,
+        "Longitude":-101.7341
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tuthill",
+        "County":"Bennett",
+        "ZipCode":"57574",
+        "Latitude":43.1196,
+        "Longitude":-101.4701
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Allen",
+        "County":"Bennett",
+        "ZipCode":"57714",
+        "Latitude":43.2908,
+        "Longitude":-101.9329
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Batesland",
+        "County":"Bennett",
+        "ZipCode":"57716",
+        "Latitude":43.1085,
+        "Longitude":-102.2006
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Scotland",
+        "County":"Bon Homme",
+        "ZipCode":"57059",
+        "Latitude":43.1212,
+        "Longitude":-97.7296
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Springfield",
+        "County":"Bon Homme",
+        "ZipCode":"57062",
+        "Latitude":42.8687,
+        "Longitude":-97.9288
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tabor",
+        "County":"Bon Homme",
+        "ZipCode":"57063",
+        "Latitude":42.9383,
+        "Longitude":-97.6923
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tyndall",
+        "County":"Bon Homme",
+        "ZipCode":"57066",
+        "Latitude":42.99,
+        "Longitude":-97.8633
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Avon",
+        "County":"Bon Homme",
+        "ZipCode":"57315",
+        "Latitude":43.0397,
+        "Longitude":-98.0283
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Aurora",
+        "County":"Brookings",
+        "ZipCode":"57002",
+        "Latitude":44.2838,
+        "Longitude":-96.7043
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Brookings",
+        "County":"Brookings",
+        "ZipCode":"57006",
+        "Latitude":44.3056,
+        "Longitude":-96.7914
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Brookings",
+        "County":"Brookings",
+        "ZipCode":"57007",
+        "Latitude":44.3697,
+        "Longitude":-96.7907
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Elkton",
+        "County":"Brookings",
+        "ZipCode":"57026",
+        "Latitude":44.235,
+        "Longitude":-96.5011
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sinai",
+        "County":"Brookings",
+        "ZipCode":"57061",
+        "Latitude":44.2444,
+        "Longitude":-97.0409
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Volga",
+        "County":"Brookings",
+        "ZipCode":"57071",
+        "Latitude":44.3224,
+        "Longitude":-96.9251
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bruce",
+        "County":"Brookings",
+        "ZipCode":"57220",
+        "Latitude":44.4675,
+        "Longitude":-96.911
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"White",
+        "County":"Brookings",
+        "ZipCode":"57276",
+        "Latitude":44.4132,
+        "Longitude":-96.615
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Aberdeen",
+        "County":"Brown",
+        "ZipCode":"57401",
+        "Latitude":45.4661,
+        "Longitude":-98.4856
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Aberdeen",
+        "County":"Brown",
+        "ZipCode":"57402",
+        "Latitude":45.5896,
+        "Longitude":-98.352
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Barnard",
+        "County":"Brown",
+        "ZipCode":"57426",
+        "Latitude":45.7325,
+        "Longitude":-98.4965
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bath",
+        "County":"Brown",
+        "ZipCode":"57427",
+        "Latitude":45.4564,
+        "Longitude":-98.3552
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Claremont",
+        "County":"Brown",
+        "ZipCode":"57432",
+        "Latitude":45.6661,
+        "Longitude":-98.0404
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Columbia",
+        "County":"Brown",
+        "ZipCode":"57433",
+        "Latitude":45.6512,
+        "Longitude":-98.3158
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ferney",
+        "County":"Brown",
+        "ZipCode":"57439",
+        "Latitude":45.329,
+        "Longitude":-98.0837
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Frederick",
+        "County":"Brown",
+        "ZipCode":"57441",
+        "Latitude":45.8493,
+        "Longitude":-98.5176
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Groton",
+        "County":"Brown",
+        "ZipCode":"57445",
+        "Latitude":45.4503,
+        "Longitude":-98.1058
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hecla",
+        "County":"Brown",
+        "ZipCode":"57446",
+        "Latitude":45.8725,
+        "Longitude":-98.1918
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Houghton",
+        "County":"Brown",
+        "ZipCode":"57449",
+        "Latitude":45.7967,
+        "Longitude":-98.0952
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Stratford",
+        "County":"Brown",
+        "ZipCode":"57474",
+        "Latitude":45.2866,
+        "Longitude":-98.2792
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Warner",
+        "County":"Brown",
+        "ZipCode":"57479",
+        "Latitude":45.3486,
+        "Longitude":-98.4757
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Westport",
+        "County":"Brown",
+        "ZipCode":"57481",
+        "Latitude":45.6705,
+        "Longitude":-98.5802
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Chamberlain",
+        "County":"Brule",
+        "ZipCode":"57325",
+        "Latitude":43.7953,
+        "Longitude":-99.3118
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Chamberlain",
+        "County":"Brule",
+        "ZipCode":"57326",
+        "Latitude":43.8108,
+        "Longitude":-99.3307
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Kimball",
+        "County":"Brule",
+        "ZipCode":"57355",
+        "Latitude":43.7467,
+        "Longitude":-98.9584
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pukwana",
+        "County":"Brule",
+        "ZipCode":"57370",
+        "Latitude":43.7783,
+        "Longitude":-99.1779
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fort Thompson",
+        "County":"Buffalo",
+        "ZipCode":"57339",
+        "Latitude":44.0517,
+        "Longitude":-99.3973
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Gann Valley",
+        "County":"Buffalo",
+        "ZipCode":"57341",
+        "Latitude":44.0693,
+        "Longitude":-99.0543
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Belle Fourche",
+        "County":"Butte",
+        "ZipCode":"57717",
+        "Latitude":44.6723,
+        "Longitude":-103.8396
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Newell",
+        "County":"Butte",
+        "ZipCode":"57760",
+        "Latitude":44.741,
+        "Longitude":-103.3914
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Nisland",
+        "County":"Butte",
+        "ZipCode":"57762",
+        "Latitude":44.6665,
+        "Longitude":-103.5402
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Vale",
+        "County":"Butte",
+        "ZipCode":"57788",
+        "Latitude":44.6222,
+        "Longitude":-103.3795
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Herreid",
+        "County":"Campbell",
+        "ZipCode":"57632",
+        "Latitude":45.8452,
+        "Longitude":-100.049
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mound City",
+        "County":"Campbell",
+        "ZipCode":"57646",
+        "Latitude":45.6786,
+        "Longitude":-100.0479
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pollock",
+        "County":"Campbell",
+        "ZipCode":"57648",
+        "Latitude":45.889,
+        "Longitude":-100.2875
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Dante",
+        "County":"Charles Mix",
+        "ZipCode":"57329",
+        "Latitude":42.9967,
+        "Longitude":-98.1746
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Geddes",
+        "County":"Charles Mix",
+        "ZipCode":"57342",
+        "Latitude":43.2597,
+        "Longitude":-98.6926
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lake Andes",
+        "County":"Charles Mix",
+        "ZipCode":"57356",
+        "Latitude":43.1303,
+        "Longitude":-98.4964
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Marty",
+        "County":"Charles Mix",
+        "ZipCode":"57361",
+        "Latitude":42.9925,
+        "Longitude":-98.4251
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pickstown",
+        "County":"Charles Mix",
+        "ZipCode":"57367",
+        "Latitude":43.0673,
+        "Longitude":-98.523
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Platte",
+        "County":"Charles Mix",
+        "ZipCode":"57369",
+        "Latitude":43.4251,
+        "Longitude":-98.9479
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wagner",
+        "County":"Charles Mix",
+        "ZipCode":"57380",
+        "Latitude":43.0819,
+        "Longitude":-98.2819
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bradley",
+        "County":"Clark",
+        "ZipCode":"57217",
+        "Latitude":45.0751,
+        "Longitude":-97.6387
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Clark",
+        "County":"Clark",
+        "ZipCode":"57225",
+        "Latitude":44.878,
+        "Longitude":-97.7265
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Garden City",
+        "County":"Clark",
+        "ZipCode":"57236",
+        "Latitude":44.9841,
+        "Longitude":-97.5814
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Raymond",
+        "County":"Clark",
+        "ZipCode":"57258",
+        "Latitude":44.8637,
+        "Longitude":-97.9168
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Vienna",
+        "County":"Clark",
+        "ZipCode":"57271",
+        "Latitude":44.7362,
+        "Longitude":-97.5307
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Willow Lake",
+        "County":"Clark",
+        "ZipCode":"57278",
+        "Latitude":44.6272,
+        "Longitude":-97.6747
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Carpenter",
+        "County":"Clark",
+        "ZipCode":"57322",
+        "Latitude":44.6648,
+        "Longitude":-97.9168
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Burbank",
+        "County":"Clay",
+        "ZipCode":"57010",
+        "Latitude":42.7638,
+        "Longitude":-96.8466
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Irene",
+        "County":"Clay",
+        "ZipCode":"57037",
+        "Latitude":43.1027,
+        "Longitude":-97.2558
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Vermillion",
+        "County":"Clay",
+        "ZipCode":"57069",
+        "Latitude":42.7951,
+        "Longitude":-96.9258
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wakonda",
+        "County":"Clay",
+        "ZipCode":"57073",
+        "Latitude":42.996,
+        "Longitude":-97.0694
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Watertown",
+        "County":"Codington",
+        "ZipCode":"57201",
+        "Latitude":44.9043,
+        "Longitude":-97.124
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Florence",
+        "County":"Codington",
+        "ZipCode":"57235",
+        "Latitude":45.0554,
+        "Longitude":-97.2866
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Henry",
+        "County":"Codington",
+        "ZipCode":"57243",
+        "Latitude":44.8858,
+        "Longitude":-97.4442
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Kranzburg",
+        "County":"Codington",
+        "ZipCode":"57245",
+        "Latitude":44.8923,
+        "Longitude":-96.9174
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"South Shore",
+        "County":"Codington",
+        "ZipCode":"57263",
+        "Latitude":45.1049,
+        "Longitude":-96.9859
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wallace",
+        "County":"Codington",
+        "ZipCode":"57272",
+        "Latitude":45.0815,
+        "Longitude":-97.4458
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bullhead",
+        "County":"Corson",
+        "ZipCode":"57621",
+        "Latitude":45.7656,
+        "Longitude":-101.0807
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Keldron",
+        "County":"Corson",
+        "ZipCode":"57634",
+        "Latitude":45.7528,
+        "Longitude":-101.8843
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Little Eagle",
+        "County":"Corson",
+        "ZipCode":"57639",
+        "Latitude":45.6758,
+        "Longitude":-100.8043
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mc Intosh",
+        "County":"Corson",
+        "ZipCode":"57641",
+        "Latitude":45.7084,
+        "Longitude":-101.1546
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mc Laughlin",
+        "County":"Corson",
+        "ZipCode":"57642",
+        "Latitude":45.8763,
+        "Longitude":-100.8915
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Morristown",
+        "County":"Corson",
+        "ZipCode":"57645",
+        "Latitude":45.9386,
+        "Longitude":-101.7232
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Trail City",
+        "County":"Corson",
+        "ZipCode":"57657",
+        "Latitude":45.4725,
+        "Longitude":-100.7254
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wakpala",
+        "County":"Corson",
+        "ZipCode":"57658",
+        "Latitude":45.7006,
+        "Longitude":-100.5332
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Walker",
+        "County":"Corson",
+        "ZipCode":"57659",
+        "Latitude":45.9103,
+        "Longitude":-101.0904
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Watauga",
+        "County":"Corson",
+        "ZipCode":"57660",
+        "Latitude":45.9276,
+        "Longitude":-101.5129
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Buffalo Gap",
+        "County":"Custer",
+        "ZipCode":"57722",
+        "Latitude":43.4958,
+        "Longitude":-103.3157
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Custer",
+        "County":"Custer",
+        "ZipCode":"57730",
+        "Latitude":43.6573,
+        "Longitude":-103.4258
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fairburn",
+        "County":"Custer",
+        "ZipCode":"57738",
+        "Latitude":43.6623,
+        "Longitude":-103.2133
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hermosa",
+        "County":"Custer",
+        "ZipCode":"57744",
+        "Latitude":43.8188,
+        "Longitude":-103.206
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pringle",
+        "County":"Custer",
+        "ZipCode":"57773",
+        "Latitude":43.6086,
+        "Longitude":-103.5938
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mitchell",
+        "County":"Davison",
+        "ZipCode":"57301",
+        "Latitude":43.7094,
+        "Longitude":-98.0298
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ethan",
+        "County":"Davison",
+        "ZipCode":"57334",
+        "Latitude":43.5478,
+        "Longitude":-97.9881
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mount Vernon",
+        "County":"Davison",
+        "ZipCode":"57363",
+        "Latitude":43.7204,
+        "Longitude":-98.2633
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bristol",
+        "County":"Day",
+        "ZipCode":"57219",
+        "Latitude":45.288,
+        "Longitude":-97.8086
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Grenville",
+        "County":"Day",
+        "ZipCode":"57239",
+        "Latitude":45.5097,
+        "Longitude":-97.3092
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Roslyn",
+        "County":"Day",
+        "ZipCode":"57261",
+        "Latitude":45.5006,
+        "Longitude":-97.5401
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Waubay",
+        "County":"Day",
+        "ZipCode":"57273",
+        "Latitude":45.3784,
+        "Longitude":-97.295
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Webster",
+        "County":"Day",
+        "ZipCode":"57274",
+        "Latitude":45.3151,
+        "Longitude":-97.5254
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Andover",
+        "County":"Day",
+        "ZipCode":"57422",
+        "Latitude":45.4222,
+        "Longitude":-97.9175
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pierpont",
+        "County":"Day",
+        "ZipCode":"57468",
+        "Latitude":45.496,
+        "Longitude":-97.8128
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Astoria",
+        "County":"Deuel",
+        "ZipCode":"57213",
+        "Latitude":44.5735,
+        "Longitude":-96.5416
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Brandt",
+        "County":"Deuel",
+        "ZipCode":"57218",
+        "Latitude":44.6738,
+        "Longitude":-96.6435
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Clear Lake",
+        "County":"Deuel",
+        "ZipCode":"57226",
+        "Latitude":44.7612,
+        "Longitude":-96.6907
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Gary",
+        "County":"Deuel",
+        "ZipCode":"57237",
+        "Latitude":44.827,
+        "Longitude":-96.5044
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Goodwin",
+        "County":"Deuel",
+        "ZipCode":"57238",
+        "Latitude":44.8754,
+        "Longitude":-96.8608
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Toronto",
+        "County":"Deuel",
+        "ZipCode":"57268",
+        "Latitude":44.5786,
+        "Longitude":-96.7077
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Eagle Butte",
+        "County":"Dewey",
+        "ZipCode":"57625",
+        "Latitude":45.0016,
+        "Longitude":-101.2329
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Glencross",
+        "County":"Dewey",
+        "ZipCode":"57630",
+        "Latitude":45.4483,
+        "Longitude":-100.9213
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Isabel",
+        "County":"Dewey",
+        "ZipCode":"57633",
+        "Latitude":45.3962,
+        "Longitude":-101.4385
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lantry",
+        "County":"Dewey",
+        "ZipCode":"57636",
+        "Latitude":45.0144,
+        "Longitude":-101.4315
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ridgeview",
+        "County":"Dewey",
+        "ZipCode":"57652",
+        "Latitude":45.2024,
+        "Longitude":-100.605
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Timber Lake",
+        "County":"Dewey",
+        "ZipCode":"57656",
+        "Latitude":45.3927,
+        "Longitude":-101.0351
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Whitehorse",
+        "County":"Dewey",
+        "ZipCode":"57661",
+        "Latitude":45.2705,
+        "Longitude":-100.8865
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Armour",
+        "County":"Douglas",
+        "ZipCode":"57313",
+        "Latitude":43.316,
+        "Longitude":-98.3414
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Corsica",
+        "County":"Douglas",
+        "ZipCode":"57328",
+        "Latitude":43.4213,
+        "Longitude":-98.3564
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Delmont",
+        "County":"Douglas",
+        "ZipCode":"57330",
+        "Latitude":43.2573,
+        "Longitude":-98.1596
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Harrison",
+        "County":"Douglas",
+        "ZipCode":"57344",
+        "Latitude":43.4297,
+        "Longitude":-98.5273
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"New Holland",
+        "County":"Douglas",
+        "ZipCode":"57364",
+        "Latitude":43.4291,
+        "Longitude":-98.6069
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bowdle",
+        "County":"Edmunds",
+        "ZipCode":"57428",
+        "Latitude":45.453,
+        "Longitude":-99.654
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hosmer",
+        "County":"Edmunds",
+        "ZipCode":"57448",
+        "Latitude":45.569,
+        "Longitude":-99.4857
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ipswich",
+        "County":"Edmunds",
+        "ZipCode":"57451",
+        "Latitude":45.4489,
+        "Longitude":-99.0148
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Roscoe",
+        "County":"Edmunds",
+        "ZipCode":"57471",
+        "Latitude":45.4271,
+        "Longitude":-99.3326
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Edgemont",
+        "County":"Fall River",
+        "ZipCode":"57735",
+        "Latitude":43.2874,
+        "Longitude":-103.811
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hot Springs",
+        "County":"Fall River",
+        "ZipCode":"57747",
+        "Latitude":43.4223,
+        "Longitude":-103.4766
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Oelrichs",
+        "County":"Fall River",
+        "ZipCode":"57763",
+        "Latitude":43.1551,
+        "Longitude":-103.2162
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Oral",
+        "County":"Fall River",
+        "ZipCode":"57766",
+        "Latitude":43.3876,
+        "Longitude":-103.1832
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Smithwick",
+        "County":"Fall River",
+        "ZipCode":"57782",
+        "Latitude":43.3014,
+        "Longitude":-103.2183
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Cresbard",
+        "County":"Faulk",
+        "ZipCode":"57435",
+        "Latitude":45.1691,
+        "Longitude":-98.9411
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Faulkton",
+        "County":"Faulk",
+        "ZipCode":"57438",
+        "Latitude":45.0855,
+        "Longitude":-99.1954
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Onaka",
+        "County":"Faulk",
+        "ZipCode":"57466",
+        "Latitude":45.1965,
+        "Longitude":-99.4551
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Orient",
+        "County":"Faulk",
+        "ZipCode":"57467",
+        "Latitude":44.8343,
+        "Longitude":-99.1058
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rockham",
+        "County":"Faulk",
+        "ZipCode":"57470",
+        "Latitude":44.8767,
+        "Longitude":-98.8669
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Seneca",
+        "County":"Faulk",
+        "ZipCode":"57473",
+        "Latitude":45.0262,
+        "Longitude":-99.461
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Big Stone City",
+        "County":"Grant",
+        "ZipCode":"57216",
+        "Latitude":45.285,
+        "Longitude":-96.5614
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Labolt",
+        "County":"Grant",
+        "ZipCode":"57246",
+        "Latitude":45.0415,
+        "Longitude":-96.6892
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Marvin",
+        "County":"Grant",
+        "ZipCode":"57251",
+        "Latitude":45.2727,
+        "Longitude":-96.91
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Milbank",
+        "County":"Grant",
+        "ZipCode":"57252",
+        "Latitude":45.2061,
+        "Longitude":-96.6255
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Revillo",
+        "County":"Grant",
+        "ZipCode":"57259",
+        "Latitude":45.0805,
+        "Longitude":-96.5557
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Stockholm",
+        "County":"Grant",
+        "ZipCode":"57264",
+        "Latitude":45.1031,
+        "Longitude":-96.8106
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Strandburg",
+        "County":"Grant",
+        "ZipCode":"57265",
+        "Latitude":45.0389,
+        "Longitude":-96.7901
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Twin Brooks",
+        "County":"Grant",
+        "ZipCode":"57269",
+        "Latitude":45.2309,
+        "Longitude":-96.8237
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bonesteel",
+        "County":"Gregory",
+        "ZipCode":"57317",
+        "Latitude":43.0695,
+        "Longitude":-98.988
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fairfax",
+        "County":"Gregory",
+        "ZipCode":"57335",
+        "Latitude":43.0351,
+        "Longitude":-98.8308
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Burke",
+        "County":"Gregory",
+        "ZipCode":"57523",
+        "Latitude":43.1825,
+        "Longitude":-99.2937
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Dallas",
+        "County":"Gregory",
+        "ZipCode":"57529",
+        "Latitude":43.2351,
+        "Longitude":-99.514
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Gregory",
+        "County":"Gregory",
+        "ZipCode":"57533",
+        "Latitude":43.2136,
+        "Longitude":-99.3622
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Herrick",
+        "County":"Gregory",
+        "ZipCode":"57538",
+        "Latitude":43.1012,
+        "Longitude":-99.2173
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Saint Charles",
+        "County":"Gregory",
+        "ZipCode":"57571",
+        "Latitude":43.0852,
+        "Longitude":-99.0925
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Midland",
+        "County":"Haakon",
+        "ZipCode":"57552",
+        "Latitude":44.0717,
+        "Longitude":-101.1554
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Milesville",
+        "County":"Haakon",
+        "ZipCode":"57553",
+        "Latitude":44.4283,
+        "Longitude":-101.7523
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Philip",
+        "County":"Haakon",
+        "ZipCode":"57567",
+        "Latitude":44.055,
+        "Longitude":-101.6876
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bryant",
+        "County":"Hamlin",
+        "ZipCode":"57221",
+        "Latitude":44.5987,
+        "Longitude":-97.4537
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Castlewood",
+        "County":"Hamlin",
+        "ZipCode":"57223",
+        "Latitude":44.7313,
+        "Longitude":-97.0204
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Estelline",
+        "County":"Hamlin",
+        "ZipCode":"57234",
+        "Latitude":44.6029,
+        "Longitude":-96.8928
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hayti",
+        "County":"Hamlin",
+        "ZipCode":"57241",
+        "Latitude":44.6647,
+        "Longitude":-97.2305
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hazel",
+        "County":"Hamlin",
+        "ZipCode":"57242",
+        "Latitude":44.7572,
+        "Longitude":-97.3083
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lake Norden",
+        "County":"Hamlin",
+        "ZipCode":"57248",
+        "Latitude":44.5844,
+        "Longitude":-97.2009
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Miller",
+        "County":"Hand",
+        "ZipCode":"57362",
+        "Latitude":44.4966,
+        "Longitude":-98.9894
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ree Heights",
+        "County":"Hand",
+        "ZipCode":"57371",
+        "Latitude":44.5603,
+        "Longitude":-99.2286
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Saint Lawrence",
+        "County":"Hand",
+        "ZipCode":"57373",
+        "Latitude":44.5215,
+        "Longitude":-98.8754
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Alexandria",
+        "County":"Hanson",
+        "ZipCode":"57311",
+        "Latitude":43.6684,
+        "Longitude":-97.7563
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Emery",
+        "County":"Hanson",
+        "ZipCode":"57332",
+        "Latitude":43.5656,
+        "Longitude":-97.6475
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fulton",
+        "County":"Hanson",
+        "ZipCode":"57340",
+        "Latitude":43.7588,
+        "Longitude":-97.8712
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ralph",
+        "County":"Harding",
+        "ZipCode":"57650",
+        "Latitude":45.8554,
+        "Longitude":-103.0356
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Reva",
+        "County":"Harding",
+        "ZipCode":"57651",
+        "Latitude":45.5277,
+        "Longitude":-103.0692
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Buffalo",
+        "County":"Harding",
+        "ZipCode":"57720",
+        "Latitude":45.574,
+        "Longitude":-103.5826
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Camp Crook",
+        "County":"Harding",
+        "ZipCode":"57724",
+        "Latitude":45.6402,
+        "Longitude":-104.0278
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ludlow",
+        "County":"Harding",
+        "ZipCode":"57755",
+        "Latitude":45.8366,
+        "Longitude":-103.3491
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Redig",
+        "County":"Harding",
+        "ZipCode":"57776",
+        "Latitude":45.2711,
+        "Longitude":-103.5482
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pierre",
+        "County":"Hughes",
+        "ZipCode":"57501",
+        "Latitude":44.3695,
+        "Longitude":-100.3211
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Blunt",
+        "County":"Hughes",
+        "ZipCode":"57522",
+        "Latitude":44.5026,
+        "Longitude":-99.9463
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Harrold",
+        "County":"Hughes",
+        "ZipCode":"57536",
+        "Latitude":44.5215,
+        "Longitude":-99.7382
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Freeman",
+        "County":"Hutchinson",
+        "ZipCode":"57029",
+        "Latitude":43.3605,
+        "Longitude":-97.4601
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Menno",
+        "County":"Hutchinson",
+        "ZipCode":"57045",
+        "Latitude":43.234,
+        "Longitude":-97.565
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Olivet",
+        "County":"Hutchinson",
+        "ZipCode":"57052",
+        "Latitude":43.2928,
+        "Longitude":-97.7184
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Dimock",
+        "County":"Hutchinson",
+        "ZipCode":"57331",
+        "Latitude":43.4705,
+        "Longitude":-97.9988
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Kaylor",
+        "County":"Hutchinson",
+        "ZipCode":"57354",
+        "Latitude":43.3341,
+        "Longitude":-97.7569
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Parkston",
+        "County":"Hutchinson",
+        "ZipCode":"57366",
+        "Latitude":43.3978,
+        "Longitude":-97.9678
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tripp",
+        "County":"Hutchinson",
+        "ZipCode":"57376",
+        "Latitude":43.2404,
+        "Longitude":-97.9713
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Highmore",
+        "County":"Hyde",
+        "ZipCode":"57345",
+        "Latitude":44.5326,
+        "Longitude":-99.4543
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Stephan",
+        "County":"Hyde",
+        "ZipCode":"57346",
+        "Latitude":44.248,
+        "Longitude":-99.4532
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Holabird",
+        "County":"Hyde",
+        "ZipCode":"57540",
+        "Latitude":44.5173,
+        "Longitude":-99.5943
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Belvidere",
+        "County":"Jackson",
+        "ZipCode":"57521",
+        "Latitude":43.886,
+        "Longitude":-101.2387
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Kadoka",
+        "County":"Jackson",
+        "ZipCode":"57543",
+        "Latitude":43.8446,
+        "Longitude":-101.5523
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Long Valley",
+        "County":"Jackson",
+        "ZipCode":"57547",
+        "Latitude":43.4754,
+        "Longitude":-101.4294
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wanblee",
+        "County":"Jackson",
+        "ZipCode":"57577",
+        "Latitude":43.5589,
+        "Longitude":-101.7219
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Interior",
+        "County":"Jackson",
+        "ZipCode":"57750",
+        "Latitude":43.7319,
+        "Longitude":-101.9642
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Alpena",
+        "County":"Jerauld",
+        "ZipCode":"57312",
+        "Latitude":44.1709,
+        "Longitude":-98.3962
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lane",
+        "County":"Jerauld",
+        "ZipCode":"57358",
+        "Latitude":44.0696,
+        "Longitude":-98.4252
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wessington Springs",
+        "County":"Jerauld",
+        "ZipCode":"57382",
+        "Latitude":44.0664,
+        "Longitude":-98.6751
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Draper",
+        "County":"Jones",
+        "ZipCode":"57531",
+        "Latitude":43.926,
+        "Longitude":-100.5085
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Murdo",
+        "County":"Jones",
+        "ZipCode":"57559",
+        "Latitude":43.8961,
+        "Longitude":-100.7121
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Okaton",
+        "County":"Jones",
+        "ZipCode":"57562",
+        "Latitude":43.8861,
+        "Longitude":-100.8918
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Oldham",
+        "County":"Kingsbury",
+        "ZipCode":"57051",
+        "Latitude":44.2457,
+        "Longitude":-97.2696
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Arlington",
+        "County":"Kingsbury",
+        "ZipCode":"57212",
+        "Latitude":44.3668,
+        "Longitude":-97.0687
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Badger",
+        "County":"Kingsbury",
+        "ZipCode":"57214",
+        "Latitude":44.4918,
+        "Longitude":-97.2184
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"De Smet",
+        "County":"Kingsbury",
+        "ZipCode":"57231",
+        "Latitude":44.3852,
+        "Longitude":-97.5634
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Erwin",
+        "County":"Kingsbury",
+        "ZipCode":"57233",
+        "Latitude":44.4915,
+        "Longitude":-97.4103
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lake Preston",
+        "County":"Kingsbury",
+        "ZipCode":"57249",
+        "Latitude":44.3692,
+        "Longitude":-97.3828
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Iroquois",
+        "County":"Kingsbury",
+        "ZipCode":"57353",
+        "Latitude":44.3455,
+        "Longitude":-97.8542
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Chester",
+        "County":"Lake",
+        "ZipCode":"57016",
+        "Latitude":43.8981,
+        "Longitude":-96.9759
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Madison",
+        "County":"Lake",
+        "ZipCode":"57042",
+        "Latitude":44.0054,
+        "Longitude":-97.1149
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Nunda",
+        "County":"Lake",
+        "ZipCode":"57050",
+        "Latitude":44.1525,
+        "Longitude":-96.9942
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ramona",
+        "County":"Lake",
+        "ZipCode":"57054",
+        "Latitude":44.1229,
+        "Longitude":-97.2349
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rutland",
+        "County":"Lake",
+        "ZipCode":"57057",
+        "Latitude":44.0683,
+        "Longitude":-96.9519
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wentworth",
+        "County":"Lake",
+        "ZipCode":"57075",
+        "Latitude":43.9852,
+        "Longitude":-96.9615
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Winfred",
+        "County":"Lake",
+        "ZipCode":"57076",
+        "Latitude":43.9972,
+        "Longitude":-97.3623
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Deadwood",
+        "County":"Lawrence",
+        "ZipCode":"57732",
+        "Latitude":44.3767,
+        "Longitude":-103.7296
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lead",
+        "County":"Lawrence",
+        "ZipCode":"57754",
+        "Latitude":44.263,
+        "Longitude":-103.8712
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Nemo",
+        "County":"Lawrence",
+        "ZipCode":"57759",
+        "Latitude":44.2097,
+        "Longitude":-103.5449
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Saint Onge",
+        "County":"Lawrence",
+        "ZipCode":"57779",
+        "Latitude":44.5473,
+        "Longitude":-103.7232
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Spearfish",
+        "County":"Lawrence",
+        "ZipCode":"57783",
+        "Latitude":44.4946,
+        "Longitude":-103.865
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Whitewood",
+        "County":"Lawrence",
+        "ZipCode":"57793",
+        "Latitude":44.4589,
+        "Longitude":-103.637
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Spearfish",
+        "County":"Lawrence",
+        "ZipCode":"57799",
+        "Latitude":44.4958,
+        "Longitude":-103.8703
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Canton",
+        "County":"Lincoln",
+        "ZipCode":"57013",
+        "Latitude":43.3038,
+        "Longitude":-96.5938
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fairview",
+        "County":"Lincoln",
+        "ZipCode":"57027",
+        "Latitude":43.197,
+        "Longitude":-96.5135
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Harrisburg",
+        "County":"Lincoln",
+        "ZipCode":"57032",
+        "Latitude":43.446,
+        "Longitude":-96.6864
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hudson",
+        "County":"Lincoln",
+        "ZipCode":"57034",
+        "Latitude":43.1284,
+        "Longitude":-96.5306
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lennox",
+        "County":"Lincoln",
+        "ZipCode":"57039",
+        "Latitude":43.3451,
+        "Longitude":-96.8821
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tea",
+        "County":"Lincoln",
+        "ZipCode":"57064",
+        "Latitude":43.4711,
+        "Longitude":-96.8177
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Worthing",
+        "County":"Lincoln",
+        "ZipCode":"57077",
+        "Latitude":43.3291,
+        "Longitude":-96.7628
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Oacoma",
+        "County":"Lyman",
+        "ZipCode":"57365",
+        "Latitude":43.7975,
+        "Longitude":-99.3947
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Kennebec",
+        "County":"Lyman",
+        "ZipCode":"57544",
+        "Latitude":43.8921,
+        "Longitude":-99.8502
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lower Brule",
+        "County":"Lyman",
+        "ZipCode":"57548",
+        "Latitude":44.0937,
+        "Longitude":-99.6139
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Presho",
+        "County":"Lyman",
+        "ZipCode":"57568",
+        "Latitude":43.8995,
+        "Longitude":-100.0746
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Reliance",
+        "County":"Lyman",
+        "ZipCode":"57569",
+        "Latitude":43.8789,
+        "Longitude":-99.6032
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Vivian",
+        "County":"Lyman",
+        "ZipCode":"57576",
+        "Latitude":43.9535,
+        "Longitude":-100.286
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Canistota",
+        "County":"McCook",
+        "ZipCode":"57012",
+        "Latitude":43.5856,
+        "Longitude":-97.2889
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Montrose",
+        "County":"McCook",
+        "ZipCode":"57048",
+        "Latitude":43.7063,
+        "Longitude":-97.1885
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Salem",
+        "County":"McCook",
+        "ZipCode":"57058",
+        "Latitude":43.7356,
+        "Longitude":-97.3797
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bridgewater",
+        "County":"McCook",
+        "ZipCode":"57319",
+        "Latitude":43.5503,
+        "Longitude":-97.4691
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Spencer",
+        "County":"McCook",
+        "ZipCode":"57374",
+        "Latitude":43.7557,
+        "Longitude":-97.5936
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Eureka",
+        "County":"McPherson",
+        "ZipCode":"57437",
+        "Latitude":45.7707,
+        "Longitude":-99.3308
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Leola",
+        "County":"McPherson",
+        "ZipCode":"57456",
+        "Latitude":45.7228,
+        "Longitude":-98.9409
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Long Lake",
+        "County":"McPherson",
+        "ZipCode":"57457",
+        "Latitude":45.8566,
+        "Longitude":-99.2051
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Eden",
+        "County":"Marshall",
+        "ZipCode":"57232",
+        "Latitude":45.6211,
+        "Longitude":-97.3741
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lake City",
+        "County":"Marshall",
+        "ZipCode":"57247",
+        "Latitude":45.6899,
+        "Longitude":-97.3481
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Veblen",
+        "County":"Marshall",
+        "ZipCode":"57270",
+        "Latitude":45.8535,
+        "Longitude":-97.3122
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Amherst",
+        "County":"Marshall",
+        "ZipCode":"57421",
+        "Latitude":45.7585,
+        "Longitude":-97.9274
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Britton",
+        "County":"Marshall",
+        "ZipCode":"57430",
+        "Latitude":45.8023,
+        "Longitude":-97.7418
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Langford",
+        "County":"Marshall",
+        "ZipCode":"57454",
+        "Latitude":45.6174,
+        "Longitude":-97.7925
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Faith",
+        "County":"Meade",
+        "ZipCode":"57626",
+        "Latitude":44.9926,
+        "Longitude":-102.0541
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ellsworth Afb",
+        "County":"Meade",
+        "ZipCode":"57706",
+        "Latitude":44.1447,
+        "Longitude":-103.0759
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Black Hawk",
+        "County":"Meade",
+        "ZipCode":"57718",
+        "Latitude":44.1512,
+        "Longitude":-103.3486
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Enning",
+        "County":"Meade",
+        "ZipCode":"57737",
+        "Latitude":44.5755,
+        "Longitude":-102.5632
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fort Meade",
+        "County":"Meade",
+        "ZipCode":"57741",
+        "Latitude":44.4093,
+        "Longitude":-103.4554
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Howes",
+        "County":"Meade",
+        "ZipCode":"57748",
+        "Latitude":44.5838,
+        "Longitude":-102.0229
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mud Butte",
+        "County":"Meade",
+        "ZipCode":"57758",
+        "Latitude":45.031,
+        "Longitude":-102.8031
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Piedmont",
+        "County":"Meade",
+        "ZipCode":"57769",
+        "Latitude":44.2287,
+        "Longitude":-103.3688
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sturgis",
+        "County":"Meade",
+        "ZipCode":"57785",
+        "Latitude":44.3692,
+        "Longitude":-103.3617
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Union Center",
+        "County":"Meade",
+        "ZipCode":"57787",
+        "Latitude":44.6539,
+        "Longitude":-102.7252
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"White Owl",
+        "County":"Meade",
+        "ZipCode":"57792",
+        "Latitude":44.6182,
+        "Longitude":-102.4452
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Norris",
+        "County":"Mellette",
+        "ZipCode":"57560",
+        "Latitude":43.4662,
+        "Longitude":-101.1517
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"White River",
+        "County":"Mellette",
+        "ZipCode":"57579",
+        "Latitude":43.5666,
+        "Longitude":-100.7449
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wood",
+        "County":"Mellette",
+        "ZipCode":"57585",
+        "Latitude":43.5366,
+        "Longitude":-100.4379
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Canova",
+        "County":"Miner",
+        "ZipCode":"57321",
+        "Latitude":43.8855,
+        "Longitude":-97.5342
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Carthage",
+        "County":"Miner",
+        "ZipCode":"57323",
+        "Latitude":44.1496,
+        "Longitude":-97.7116
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fedora",
+        "County":"Miner",
+        "ZipCode":"57337",
+        "Latitude":43.9841,
+        "Longitude":-97.789
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Howard",
+        "County":"Miner",
+        "ZipCode":"57349",
+        "Latitude":44.0371,
+        "Longitude":-97.5603
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Baltic",
+        "County":"Minnehaha",
+        "ZipCode":"57003",
+        "Latitude":43.7309,
+        "Longitude":-96.7563
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Brandon",
+        "County":"Minnehaha",
+        "ZipCode":"57005",
+        "Latitude":43.5926,
+        "Longitude":-96.586
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Colton",
+        "County":"Minnehaha",
+        "ZipCode":"57018",
+        "Latitude":43.7951,
+        "Longitude":-96.9572
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Crooks",
+        "County":"Minnehaha",
+        "ZipCode":"57020",
+        "Latitude":43.6669,
+        "Longitude":-96.8221
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Dell Rapids",
+        "County":"Minnehaha",
+        "ZipCode":"57022",
+        "Latitude":43.8228,
+        "Longitude":-96.7223
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Garretson",
+        "County":"Minnehaha",
+        "ZipCode":"57030",
+        "Latitude":43.7162,
+        "Longitude":-96.5196
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hartford",
+        "County":"Minnehaha",
+        "ZipCode":"57033",
+        "Latitude":43.6155,
+        "Longitude":-96.9501
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Humboldt",
+        "County":"Minnehaha",
+        "ZipCode":"57035",
+        "Latitude":43.612,
+        "Longitude":-97.0697
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lyons",
+        "County":"Minnehaha",
+        "ZipCode":"57041",
+        "Latitude":43.7285,
+        "Longitude":-96.8709
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Renner",
+        "County":"Minnehaha",
+        "ZipCode":"57055",
+        "Latitude":43.6366,
+        "Longitude":-96.7119
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Valley Springs",
+        "County":"Minnehaha",
+        "ZipCode":"57068",
+        "Latitude":43.5773,
+        "Longitude":-96.4956
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57101",
+        "Latitude":43.5464,
+        "Longitude":-96.6906
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57103",
+        "Latitude":43.5374,
+        "Longitude":-96.6864
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57104",
+        "Latitude":43.5514,
+        "Longitude":-96.7375
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57105",
+        "Latitude":43.524,
+        "Longitude":-96.7341
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57106",
+        "Latitude":43.5179,
+        "Longitude":-96.7924
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57107",
+        "Latitude":43.5566,
+        "Longitude":-96.8028
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57108",
+        "Latitude":43.4775,
+        "Longitude":-96.7041
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57109",
+        "Latitude":43.6746,
+        "Longitude":-96.7913
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57110",
+        "Latitude":43.5486,
+        "Longitude":-96.6332
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57117",
+        "Latitude":43.6746,
+        "Longitude":-96.7913
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57118",
+        "Latitude":43.6746,
+        "Longitude":-96.7913
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57186",
+        "Latitude":43.5424,
+        "Longitude":-96.7312
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57193",
+        "Latitude":43.6746,
+        "Longitude":-96.7913
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57197",
+        "Latitude":43.6746,
+        "Longitude":-96.7913
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sioux Falls",
+        "County":"Minnehaha",
+        "ZipCode":"57198",
+        "Latitude":43.6746,
+        "Longitude":-96.7913
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Colman",
+        "County":"Moody",
+        "ZipCode":"57017",
+        "Latitude":43.9558,
+        "Longitude":-96.8189
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Egan",
+        "County":"Moody",
+        "ZipCode":"57024",
+        "Latitude":43.9866,
+        "Longitude":-96.6493
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Flandreau",
+        "County":"Moody",
+        "ZipCode":"57028",
+        "Latitude":44.0658,
+        "Longitude":-96.6222
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Trent",
+        "County":"Moody",
+        "ZipCode":"57065",
+        "Latitude":43.8942,
+        "Longitude":-96.6326
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Kyle",
+        "County":"Oglala Lakota County",
+        "ZipCode":"57752",
+        "Latitude":43.425,
+        "Longitude":-102.1765
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Manderson",
+        "County":"Oglala Lakota County",
+        "ZipCode":"57756",
+        "Latitude":43.2353,
+        "Longitude":-102.4707
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Oglala",
+        "County":"Oglala Lakota County",
+        "ZipCode":"57764",
+        "Latitude":43.1886,
+        "Longitude":-102.7396
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Pine Ridge",
+        "County":"Oglala Lakota County",
+        "ZipCode":"57770",
+        "Latitude":43.1124,
+        "Longitude":-102.5984
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Porcupine",
+        "County":"Oglala Lakota County",
+        "ZipCode":"57772",
+        "Latitude":43.2397,
+        "Longitude":-102.331
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wounded Knee",
+        "County":"Oglala Lakota County",
+        "ZipCode":"57794",
+        "Latitude":43.1405,
+        "Longitude":-102.3657
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rapid City",
+        "County":"Pennington",
+        "ZipCode":"57701",
+        "Latitude":44.1415,
+        "Longitude":-103.2052
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rapid City",
+        "County":"Pennington",
+        "ZipCode":"57702",
+        "Latitude":44.0036,
+        "Longitude":-103.3589
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rapid City",
+        "County":"Pennington",
+        "ZipCode":"57703",
+        "Latitude":44.048,
+        "Longitude":-103.1763
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rapid City",
+        "County":"Pennington",
+        "ZipCode":"57709",
+        "Latitude":44.0761,
+        "Longitude":-103.3171
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Box Elder",
+        "County":"Pennington",
+        "ZipCode":"57719",
+        "Latitude":44.1199,
+        "Longitude":-103.0682
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Caputa",
+        "County":"Pennington",
+        "ZipCode":"57725",
+        "Latitude":43.9481,
+        "Longitude":-102.7935
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hill City",
+        "County":"Pennington",
+        "ZipCode":"57745",
+        "Latitude":43.9377,
+        "Longitude":-103.5782
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Keystone",
+        "County":"Pennington",
+        "ZipCode":"57751",
+        "Latitude":43.8848,
+        "Longitude":-103.3995
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"New Underwood",
+        "County":"Pennington",
+        "ZipCode":"57761",
+        "Latitude":44.0874,
+        "Longitude":-102.8136
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Owanka",
+        "County":"Pennington",
+        "ZipCode":"57767",
+        "Latitude":44.0631,
+        "Longitude":-102.5628
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Quinn",
+        "County":"Pennington",
+        "ZipCode":"57775",
+        "Latitude":44.1035,
+        "Longitude":-102.0159
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Scenic",
+        "County":"Pennington",
+        "ZipCode":"57780",
+        "Latitude":43.7994,
+        "Longitude":-102.5353
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wall",
+        "County":"Pennington",
+        "ZipCode":"57790",
+        "Latitude":43.9812,
+        "Longitude":-102.2245
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wasta",
+        "County":"Pennington",
+        "ZipCode":"57791",
+        "Latitude":44.225,
+        "Longitude":-102.4311
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Bison",
+        "County":"Perkins",
+        "ZipCode":"57620",
+        "Latitude":45.5161,
+        "Longitude":-102.4827
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lemmon",
+        "County":"Perkins",
+        "ZipCode":"57638",
+        "Latitude":45.9159,
+        "Longitude":-102.1928
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lodgepole",
+        "County":"Perkins",
+        "ZipCode":"57640",
+        "Latitude":45.8232,
+        "Longitude":-102.7599
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Meadow",
+        "County":"Perkins",
+        "ZipCode":"57644",
+        "Latitude":45.3538,
+        "Longitude":-102.2844
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Prairie City",
+        "County":"Perkins",
+        "ZipCode":"57649",
+        "Latitude":45.5813,
+        "Longitude":-102.8085
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Gettysburg",
+        "County":"Potter",
+        "ZipCode":"57442",
+        "Latitude":45.0259,
+        "Longitude":-99.9766
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hoven",
+        "County":"Potter",
+        "ZipCode":"57450",
+        "Latitude":45.2278,
+        "Longitude":-99.7763
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lebanon",
+        "County":"Potter",
+        "ZipCode":"57455",
+        "Latitude":45.0123,
+        "Longitude":-99.7366
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tolstoy",
+        "County":"Potter",
+        "ZipCode":"57475",
+        "Latitude":45.1702,
+        "Longitude":-99.6176
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Claire City",
+        "County":"Roberts",
+        "ZipCode":"57224",
+        "Latitude":45.8755,
+        "Longitude":-97.1073
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Corona",
+        "County":"Roberts",
+        "ZipCode":"57227",
+        "Latitude":45.3595,
+        "Longitude":-96.6649
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"New Effington",
+        "County":"Roberts",
+        "ZipCode":"57255",
+        "Latitude":45.8659,
+        "Longitude":-96.915
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ortley",
+        "County":"Roberts",
+        "ZipCode":"57256",
+        "Latitude":45.2657,
+        "Longitude":-97.1925
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Peever",
+        "County":"Roberts",
+        "ZipCode":"57257",
+        "Latitude":45.5206,
+        "Longitude":-97.0012
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rosholt",
+        "County":"Roberts",
+        "ZipCode":"57260",
+        "Latitude":45.8753,
+        "Longitude":-96.7174
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Sisseton",
+        "County":"Roberts",
+        "ZipCode":"57262",
+        "Latitude":45.6732,
+        "Longitude":-97.0715
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Summit",
+        "County":"Roberts",
+        "ZipCode":"57266",
+        "Latitude":45.3521,
+        "Longitude":-97.0427
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Wilmot",
+        "County":"Roberts",
+        "ZipCode":"57279",
+        "Latitude":45.4125,
+        "Longitude":-96.856
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Artesian",
+        "County":"Sanborn",
+        "ZipCode":"57314",
+        "Latitude":44.021,
+        "Longitude":-98.0114
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Letcher",
+        "County":"Sanborn",
+        "ZipCode":"57359",
+        "Latitude":43.8923,
+        "Longitude":-98.1743
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Woonsocket",
+        "County":"Sanborn",
+        "ZipCode":"57385",
+        "Latitude":44.0572,
+        "Longitude":-98.243
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ashton",
+        "County":"Spink",
+        "ZipCode":"57424",
+        "Latitude":45.0465,
+        "Longitude":-98.3973
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Brentford",
+        "County":"Spink",
+        "ZipCode":"57429",
+        "Latitude":45.1635,
+        "Longitude":-98.3193
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Conde",
+        "County":"Spink",
+        "ZipCode":"57434",
+        "Latitude":45.1393,
+        "Longitude":-98.1534
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Doland",
+        "County":"Spink",
+        "ZipCode":"57436",
+        "Latitude":44.8159,
+        "Longitude":-98.0947
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Frankfort",
+        "County":"Spink",
+        "ZipCode":"57440",
+        "Latitude":44.8084,
+        "Longitude":-98.2935
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mansfield",
+        "County":"Spink",
+        "ZipCode":"57460",
+        "Latitude":45.243,
+        "Longitude":-98.5629
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mellette",
+        "County":"Spink",
+        "ZipCode":"57461",
+        "Latitude":45.1631,
+        "Longitude":-98.4824
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Northville",
+        "County":"Spink",
+        "ZipCode":"57465",
+        "Latitude":45.1611,
+        "Longitude":-98.6589
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Redfield",
+        "County":"Spink",
+        "ZipCode":"57469",
+        "Latitude":44.8719,
+        "Longitude":-98.5112
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Tulare",
+        "County":"Spink",
+        "ZipCode":"57476",
+        "Latitude":44.7305,
+        "Longitude":-98.5539
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Turton",
+        "County":"Spink",
+        "ZipCode":"57477",
+        "Latitude":45.0379,
+        "Longitude":-98.0996
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Fort Pierre",
+        "County":"Stanley",
+        "ZipCode":"57532",
+        "Latitude":44.3426,
+        "Longitude":-100.4043
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hayes",
+        "County":"Stanley",
+        "ZipCode":"57537",
+        "Latitude":44.3703,
+        "Longitude":-101.0215
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Agar",
+        "County":"Sully",
+        "ZipCode":"57520",
+        "Latitude":44.8393,
+        "Longitude":-100.0712
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Onida",
+        "County":"Sully",
+        "ZipCode":"57564",
+        "Latitude":44.7125,
+        "Longitude":-100.0957
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mission",
+        "County":"Todd",
+        "ZipCode":"57555",
+        "Latitude":43.285,
+        "Longitude":-100.5954
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Okreek",
+        "County":"Todd",
+        "ZipCode":"57563",
+        "Latitude":43.3633,
+        "Longitude":-100.3809
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Parmelee",
+        "County":"Todd",
+        "ZipCode":"57566",
+        "Latitude":43.3117,
+        "Longitude":-101.0081
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Rosebud",
+        "County":"Todd",
+        "ZipCode":"57570",
+        "Latitude":43.2328,
+        "Longitude":-100.8535
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Saint Francis",
+        "County":"Todd",
+        "ZipCode":"57572",
+        "Latitude":43.1444,
+        "Longitude":-100.9051
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Colome",
+        "County":"Tripp",
+        "ZipCode":"57528",
+        "Latitude":43.2273,
+        "Longitude":-99.6933
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hamill",
+        "County":"Tripp",
+        "ZipCode":"57534",
+        "Latitude":43.6439,
+        "Longitude":-99.6918
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Ideal",
+        "County":"Tripp",
+        "ZipCode":"57541",
+        "Latitude":43.5596,
+        "Longitude":-99.9279
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Winner",
+        "County":"Tripp",
+        "ZipCode":"57580",
+        "Latitude":43.3318,
+        "Longitude":-99.8033
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Witten",
+        "County":"Tripp",
+        "ZipCode":"57584",
+        "Latitude":43.4498,
+        "Longitude":-100.0783
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Centerville",
+        "County":"Turner",
+        "ZipCode":"57014",
+        "Latitude":43.1176,
+        "Longitude":-96.9636
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Chancellor",
+        "County":"Turner",
+        "ZipCode":"57015",
+        "Latitude":43.408,
+        "Longitude":-96.9827
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Davis",
+        "County":"Turner",
+        "ZipCode":"57021",
+        "Latitude":43.2864,
+        "Longitude":-96.9792
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Hurley",
+        "County":"Turner",
+        "ZipCode":"57036",
+        "Latitude":43.2893,
+        "Longitude":-97.1904
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Marion",
+        "County":"Turner",
+        "ZipCode":"57043",
+        "Latitude":43.4188,
+        "Longitude":-97.2771
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Monroe",
+        "County":"Turner",
+        "ZipCode":"57047",
+        "Latitude":43.5207,
+        "Longitude":-97.212
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Parker",
+        "County":"Turner",
+        "ZipCode":"57053",
+        "Latitude":43.402,
+        "Longitude":-97.1333
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Viborg",
+        "County":"Turner",
+        "ZipCode":"57070",
+        "Latitude":43.1815,
+        "Longitude":-97.114
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Alcester",
+        "County":"Union",
+        "ZipCode":"57001",
+        "Latitude":43.0047,
+        "Longitude":-96.6332
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Beresford",
+        "County":"Union",
+        "ZipCode":"57004",
+        "Latitude":43.0874,
+        "Longitude":-96.7813
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Elk Point",
+        "County":"Union",
+        "ZipCode":"57025",
+        "Latitude":42.7382,
+        "Longitude":-96.687
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Jefferson",
+        "County":"Union",
+        "ZipCode":"57038",
+        "Latitude":42.6013,
+        "Longitude":-96.5784
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"North Sioux City",
+        "County":"Union",
+        "ZipCode":"57049",
+        "Latitude":42.5249,
+        "Longitude":-96.5074
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Akaska",
+        "County":"Walworth",
+        "ZipCode":"57420",
+        "Latitude":45.3324,
+        "Longitude":-100.1186
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Java",
+        "County":"Walworth",
+        "ZipCode":"57452",
+        "Latitude":45.4492,
+        "Longitude":-99.822
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Selby",
+        "County":"Walworth",
+        "ZipCode":"57472",
+        "Latitude":45.4786,
+        "Longitude":-100.0541
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mobridge",
+        "County":"Walworth",
+        "ZipCode":"57601",
+        "Latitude":45.5407,
+        "Longitude":-100.4315
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Glenham",
+        "County":"Walworth",
+        "ZipCode":"57631",
+        "Latitude":45.5335,
+        "Longitude":-100.2716
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Gayville",
+        "County":"Yankton",
+        "ZipCode":"57031",
+        "Latitude":42.8835,
+        "Longitude":-97.183
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Lesterville",
+        "County":"Yankton",
+        "ZipCode":"57040",
+        "Latitude":43.0394,
+        "Longitude":-97.5956
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Mission Hill",
+        "County":"Yankton",
+        "ZipCode":"57046",
+        "Latitude":42.9836,
+        "Longitude":-97.3349
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Utica",
+        "County":"Yankton",
+        "ZipCode":"57067",
+        "Latitude":43.0164,
+        "Longitude":-97.3694
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Volin",
+        "County":"Yankton",
+        "ZipCode":"57072",
+        "Latitude":42.9572,
+        "Longitude":-97.1803
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Yankton",
+        "County":"Yankton",
+        "ZipCode":"57078",
+        "Latitude":42.8821,
+        "Longitude":-97.3986
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Cherry Creek",
+        "County":"Ziebach",
+        "ZipCode":"57622",
+        "Latitude":44.6055,
+        "Longitude":-101.4999
+    },
+    {
+        "State":"South Dakota",
+        "StateAbbr":"SD",
+        "City":"Dupree",
+        "County":"Ziebach",
+        "ZipCode":"57623",
+        "Latitude":45.0079,
+        "Longitude":-101.6337
+    }
+]

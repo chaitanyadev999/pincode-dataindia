@@ -1,0 +1,4808 @@
+[
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Abbeville",
+        "County":"Abbeville",
+        "ZipCode":"29620",
+        "Latitude":34.1819,
+        "Longitude":-82.3785
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Calhoun Falls",
+        "County":"Abbeville",
+        "ZipCode":"29628",
+        "Latitude":34.0999,
+        "Longitude":-82.5805
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Donalds",
+        "County":"Abbeville",
+        "ZipCode":"29638",
+        "Latitude":34.3304,
+        "Longitude":-82.3367
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Due West",
+        "County":"Abbeville",
+        "ZipCode":"29639",
+        "Latitude":34.3344,
+        "Longitude":-82.4002
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lowndesville",
+        "County":"Abbeville",
+        "ZipCode":"29659",
+        "Latitude":34.2126,
+        "Longitude":-82.6496
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Salley",
+        "County":"Aiken",
+        "ZipCode":"29137",
+        "Latitude":33.5972,
+        "Longitude":-81.3184
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Wagener",
+        "County":"Aiken",
+        "ZipCode":"29164",
+        "Latitude":33.6494,
+        "Longitude":-81.3995
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aiken",
+        "County":"Aiken",
+        "ZipCode":"29801",
+        "Latitude":33.553,
+        "Longitude":-81.7194
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aiken",
+        "County":"Aiken",
+        "ZipCode":"29802",
+        "Latitude":33.5604,
+        "Longitude":-81.7196
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aiken",
+        "County":"Aiken",
+        "ZipCode":"29803",
+        "Latitude":33.5059,
+        "Longitude":-81.6951
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aiken",
+        "County":"Aiken",
+        "ZipCode":"29804",
+        "Latitude":33.5377,
+        "Longitude":-81.5999
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aiken",
+        "County":"Aiken",
+        "ZipCode":"29805",
+        "Latitude":33.6993,
+        "Longitude":-81.6465
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aiken",
+        "County":"Aiken",
+        "ZipCode":"29808",
+        "Latitude":33.5377,
+        "Longitude":-81.5999
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"New Ellenton",
+        "County":"Aiken",
+        "ZipCode":"29809",
+        "Latitude":33.413,
+        "Longitude":-81.69
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bath",
+        "County":"Aiken",
+        "ZipCode":"29816",
+        "Latitude":33.5046,
+        "Longitude":-81.869
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clearwater",
+        "County":"Aiken",
+        "ZipCode":"29822",
+        "Latitude":33.4997,
+        "Longitude":-81.8649
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gloverville",
+        "County":"Aiken",
+        "ZipCode":"29828",
+        "Latitude":33.5182,
+        "Longitude":-81.8277
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Graniteville",
+        "County":"Aiken",
+        "ZipCode":"29829",
+        "Latitude":33.563,
+        "Longitude":-81.8147
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jackson",
+        "County":"Aiken",
+        "ZipCode":"29831",
+        "Latitude":33.3389,
+        "Longitude":-81.7976
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Langley",
+        "County":"Aiken",
+        "ZipCode":"29834",
+        "Latitude":33.5179,
+        "Longitude":-81.844
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Montmorenci",
+        "County":"Aiken",
+        "ZipCode":"29839",
+        "Latitude":33.5073,
+        "Longitude":-81.5992
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Augusta",
+        "County":"Aiken",
+        "ZipCode":"29841",
+        "Latitude":33.5251,
+        "Longitude":-81.9394
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beech Island",
+        "County":"Aiken",
+        "ZipCode":"29842",
+        "Latitude":33.4707,
+        "Longitude":-81.8639
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Vaucluse",
+        "County":"Aiken",
+        "ZipCode":"29850",
+        "Latitude":33.6126,
+        "Longitude":-81.8098
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Warrenville",
+        "County":"Aiken",
+        "ZipCode":"29851",
+        "Latitude":33.526,
+        "Longitude":-81.7956
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Windsor",
+        "County":"Aiken",
+        "ZipCode":"29856",
+        "Latitude":33.4674,
+        "Longitude":-81.5136
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Augusta",
+        "County":"Aiken",
+        "ZipCode":"29860",
+        "Latitude":33.6028,
+        "Longitude":-81.9748
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Augusta",
+        "County":"Aiken",
+        "ZipCode":"29861",
+        "Latitude":33.5018,
+        "Longitude":-81.9651
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Allendale",
+        "County":"Allendale",
+        "ZipCode":"29810",
+        "Latitude":33.0077,
+        "Longitude":-81.3203
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fairfax",
+        "County":"Allendale",
+        "ZipCode":"29827",
+        "Latitude":32.9515,
+        "Longitude":-81.2586
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Martin",
+        "County":"Allendale",
+        "ZipCode":"29836",
+        "Latitude":33.1093,
+        "Longitude":-81.5003
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sycamore",
+        "County":"Allendale",
+        "ZipCode":"29846",
+        "Latitude":33.0241,
+        "Longitude":-81.2258
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ulmer",
+        "County":"Allendale",
+        "ZipCode":"29849",
+        "Latitude":33.0988,
+        "Longitude":-81.2068
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Anderson",
+        "County":"Anderson",
+        "ZipCode":"29621",
+        "Latitude":34.5261,
+        "Longitude":-82.6304
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Anderson",
+        "County":"Anderson",
+        "ZipCode":"29622",
+        "Latitude":34.5034,
+        "Longitude":-82.6501
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Anderson",
+        "County":"Anderson",
+        "ZipCode":"29623",
+        "Latitude":34.4381,
+        "Longitude":-82.8354
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Anderson",
+        "County":"Anderson",
+        "ZipCode":"29624",
+        "Latitude":34.4373,
+        "Longitude":-82.6251
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Anderson",
+        "County":"Anderson",
+        "ZipCode":"29625",
+        "Latitude":34.5271,
+        "Longitude":-82.7087
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Anderson",
+        "County":"Anderson",
+        "ZipCode":"29626",
+        "Latitude":34.4596,
+        "Longitude":-82.7614
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Belton",
+        "County":"Anderson",
+        "ZipCode":"29627",
+        "Latitude":34.5087,
+        "Longitude":-82.5101
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Honea Path",
+        "County":"Anderson",
+        "ZipCode":"29654",
+        "Latitude":34.4417,
+        "Longitude":-82.4255
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Iva",
+        "County":"Anderson",
+        "ZipCode":"29655",
+        "Latitude":34.3198,
+        "Longitude":-82.6574
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"La France",
+        "County":"Anderson",
+        "ZipCode":"29656",
+        "Latitude":34.6252,
+        "Longitude":-82.7654
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pelzer",
+        "County":"Anderson",
+        "ZipCode":"29669",
+        "Latitude":34.6461,
+        "Longitude":-82.4673
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pendleton",
+        "County":"Anderson",
+        "ZipCode":"29670",
+        "Latitude":34.6369,
+        "Longitude":-82.7406
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sandy Springs",
+        "County":"Anderson",
+        "ZipCode":"29677",
+        "Latitude":34.5975,
+        "Longitude":-82.7568
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Starr",
+        "County":"Anderson",
+        "ZipCode":"29684",
+        "Latitude":34.3962,
+        "Longitude":-82.6897
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Townville",
+        "County":"Anderson",
+        "ZipCode":"29689",
+        "Latitude":34.5226,
+        "Longitude":-82.8963
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Williamston",
+        "County":"Anderson",
+        "ZipCode":"29697",
+        "Latitude":34.6206,
+        "Longitude":-82.511
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bamberg",
+        "County":"Bamberg",
+        "ZipCode":"29003",
+        "Latitude":33.2779,
+        "Longitude":-81.0177
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Denmark",
+        "County":"Bamberg",
+        "ZipCode":"29042",
+        "Latitude":33.3209,
+        "Longitude":-81.1407
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ehrhardt",
+        "County":"Bamberg",
+        "ZipCode":"29081",
+        "Latitude":33.1044,
+        "Longitude":-81.0221
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Olar",
+        "County":"Bamberg",
+        "ZipCode":"29843",
+        "Latitude":33.1836,
+        "Longitude":-81.164
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Barnwell",
+        "County":"Barnwell",
+        "ZipCode":"29812",
+        "Latitude":33.2335,
+        "Longitude":-81.3523
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hilda",
+        "County":"Barnwell",
+        "ZipCode":"29813",
+        "Latitude":33.2735,
+        "Longitude":-81.247
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Blackville",
+        "County":"Barnwell",
+        "ZipCode":"29817",
+        "Latitude":33.3645,
+        "Longitude":-81.2718
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Elko",
+        "County":"Barnwell",
+        "ZipCode":"29826",
+        "Latitude":33.3804,
+        "Longitude":-81.3796
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Williston",
+        "County":"Barnwell",
+        "ZipCode":"29853",
+        "Latitude":33.3926,
+        "Longitude":-81.4161
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beaufort",
+        "County":"Beaufort",
+        "ZipCode":"29901",
+        "Latitude":32.4244,
+        "Longitude":-80.5653
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beaufort",
+        "County":"Beaufort",
+        "ZipCode":"29902",
+        "Latitude":32.4316,
+        "Longitude":-80.6698
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beaufort",
+        "County":"Beaufort",
+        "ZipCode":"29903",
+        "Latitude":32.444,
+        "Longitude":-80.7352
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beaufort",
+        "County":"Beaufort",
+        "ZipCode":"29904",
+        "Latitude":32.3906,
+        "Longitude":-80.661
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Parris Island",
+        "County":"Beaufort",
+        "ZipCode":"29905",
+        "Latitude":32.3281,
+        "Longitude":-80.6915
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beaufort",
+        "County":"Beaufort",
+        "ZipCode":"29906",
+        "Latitude":32.3823,
+        "Longitude":-80.7603
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Beaufort",
+        "County":"Beaufort",
+        "ZipCode":"29907",
+        "Latitude":32.4316,
+        "Longitude":-80.6698
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bluffton",
+        "County":"Beaufort",
+        "ZipCode":"29910",
+        "Latitude":32.2513,
+        "Longitude":-80.8721
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Dale",
+        "County":"Beaufort",
+        "ZipCode":"29914",
+        "Latitude":32.5527,
+        "Longitude":-80.677
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Daufuskie Island",
+        "County":"Beaufort",
+        "ZipCode":"29915",
+        "Latitude":32.1145,
+        "Longitude":-80.8686
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Saint Helena Island",
+        "County":"Beaufort",
+        "ZipCode":"29920",
+        "Latitude":32.3716,
+        "Longitude":-80.5383
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hilton Head Island",
+        "County":"Beaufort",
+        "ZipCode":"29925",
+        "Latitude":32.2132,
+        "Longitude":-80.7997
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hilton Head Island",
+        "County":"Beaufort",
+        "ZipCode":"29926",
+        "Latitude":32.2077,
+        "Longitude":-80.7476
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hilton Head Island",
+        "County":"Beaufort",
+        "ZipCode":"29928",
+        "Latitude":32.1665,
+        "Longitude":-80.7569
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lobeco",
+        "County":"Beaufort",
+        "ZipCode":"29931",
+        "Latitude":32.5527,
+        "Longitude":-80.7434
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Port Royal",
+        "County":"Beaufort",
+        "ZipCode":"29935",
+        "Latitude":32.3874,
+        "Longitude":-80.6844
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hilton Head Island",
+        "County":"Beaufort",
+        "ZipCode":"29938",
+        "Latitude":32.3906,
+        "Longitude":-80.661
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Seabrook",
+        "County":"Beaufort",
+        "ZipCode":"29940",
+        "Latitude":32.5693,
+        "Longitude":-80.7192
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sheldon",
+        "County":"Beaufort",
+        "ZipCode":"29941",
+        "Latitude":32.5431,
+        "Longitude":-80.8126
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hanahan",
+        "County":"Berkeley",
+        "ZipCode":"29410",
+        "Latitude":32.9185,
+        "Longitude":-80.022
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bonneau",
+        "County":"Berkeley",
+        "ZipCode":"29431",
+        "Latitude":33.2703,
+        "Longitude":-79.8736
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cordesville",
+        "County":"Berkeley",
+        "ZipCode":"29434",
+        "Latitude":33.1362,
+        "Longitude":-79.8826
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cross",
+        "County":"Berkeley",
+        "ZipCode":"29436",
+        "Latitude":33.3364,
+        "Longitude":-80.1859
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Goose Creek",
+        "County":"Berkeley",
+        "ZipCode":"29445",
+        "Latitude":33.058,
+        "Longitude":-80.0101
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Huger",
+        "County":"Berkeley",
+        "ZipCode":"29450",
+        "Latitude":33.0439,
+        "Longitude":-79.7841
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jamestown",
+        "County":"Berkeley",
+        "ZipCode":"29453",
+        "Latitude":33.2221,
+        "Longitude":-79.6282
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ladson",
+        "County":"Berkeley",
+        "ZipCode":"29456",
+        "Latitude":32.993,
+        "Longitude":-80.1257
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Moncks Corner",
+        "County":"Berkeley",
+        "ZipCode":"29461",
+        "Latitude":33.1971,
+        "Longitude":-80.0233
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pineville",
+        "County":"Berkeley",
+        "ZipCode":"29468",
+        "Latitude":33.4199,
+        "Longitude":-80.0932
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pinopolis",
+        "County":"Berkeley",
+        "ZipCode":"29469",
+        "Latitude":33.2241,
+        "Longitude":-80.0398
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Russellville",
+        "County":"Berkeley",
+        "ZipCode":"29476",
+        "Latitude":33.3971,
+        "Longitude":-79.9717
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Saint Stephen",
+        "County":"Berkeley",
+        "ZipCode":"29479",
+        "Latitude":33.3362,
+        "Longitude":-79.9236
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Summerville",
+        "County":"Berkeley",
+        "ZipCode":"29486",
+        "Latitude":33.0185,
+        "Longitude":-80.1756
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Berkeley",
+        "ZipCode":"29492",
+        "Latitude":32.9668,
+        "Longitude":-79.8528
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cameron",
+        "County":"Calhoun",
+        "ZipCode":"29030",
+        "Latitude":33.5703,
+        "Longitude":-80.7081
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Saint Matthews",
+        "County":"Calhoun",
+        "ZipCode":"29135",
+        "Latitude":33.6967,
+        "Longitude":-80.8678
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29401",
+        "Latitude":32.7795,
+        "Longitude":-79.9371
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29402",
+        "Latitude":32.7766,
+        "Longitude":-79.9309
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29403",
+        "Latitude":32.7976,
+        "Longitude":-79.9493
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston Afb",
+        "County":"Charleston",
+        "ZipCode":"29404",
+        "Latitude":32.8982,
+        "Longitude":-80.0686
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Charleston",
+        "County":"Charleston",
+        "ZipCode":"29405",
+        "Latitude":32.853,
+        "Longitude":-79.9913
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29406",
+        "Latitude":32.9352,
+        "Longitude":-80.0325
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29407",
+        "Latitude":32.7993,
+        "Longitude":-80.006
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29409",
+        "Latitude":32.7961,
+        "Longitude":-79.9605
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29412",
+        "Latitude":32.718,
+        "Longitude":-79.9537
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29413",
+        "Latitude":32.8488,
+        "Longitude":-79.8577
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29414",
+        "Latitude":32.8215,
+        "Longitude":-80.0568
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Charleston",
+        "County":"Charleston",
+        "ZipCode":"29415",
+        "Latitude":32.8546,
+        "Longitude":-79.9748
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29416",
+        "Latitude":32.8488,
+        "Longitude":-79.8577
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29417",
+        "Latitude":32.8488,
+        "Longitude":-79.8577
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Charleston",
+        "County":"Charleston",
+        "ZipCode":"29418",
+        "Latitude":32.8929,
+        "Longitude":-80.0458
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Charleston",
+        "County":"Charleston",
+        "ZipCode":"29419",
+        "Latitude":32.8546,
+        "Longitude":-79.9748
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29422",
+        "Latitude":32.8488,
+        "Longitude":-79.8577
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29423",
+        "Latitude":32.8488,
+        "Longitude":-79.8577
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29424",
+        "Latitude":32.7831,
+        "Longitude":-79.937
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Charleston",
+        "County":"Charleston",
+        "ZipCode":"29425",
+        "Latitude":32.7862,
+        "Longitude":-79.9471
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Adams Run",
+        "County":"Charleston",
+        "ZipCode":"29426",
+        "Latitude":32.779,
+        "Longitude":-80.3288
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Awendaw",
+        "County":"Charleston",
+        "ZipCode":"29429",
+        "Latitude":33.0063,
+        "Longitude":-79.6561
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Folly Beach",
+        "County":"Charleston",
+        "ZipCode":"29439",
+        "Latitude":32.663,
+        "Longitude":-79.927
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hollywood",
+        "County":"Charleston",
+        "ZipCode":"29449",
+        "Latitude":32.7105,
+        "Longitude":-80.2744
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Isle Of Palms",
+        "County":"Charleston",
+        "ZipCode":"29451",
+        "Latitude":32.7943,
+        "Longitude":-79.7729
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Johns Island",
+        "County":"Charleston",
+        "ZipCode":"29455",
+        "Latitude":32.7924,
+        "Longitude":-80.1081
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Johns Island",
+        "County":"Charleston",
+        "ZipCode":"29457",
+        "Latitude":32.7924,
+        "Longitude":-80.1081
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mc Clellanville",
+        "County":"Charleston",
+        "ZipCode":"29458",
+        "Latitude":33.1194,
+        "Longitude":-79.5074
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mount Pleasant",
+        "County":"Charleston",
+        "ZipCode":"29464",
+        "Latitude":32.8473,
+        "Longitude":-79.8206
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mount Pleasant",
+        "County":"Charleston",
+        "ZipCode":"29465",
+        "Latitude":32.7941,
+        "Longitude":-79.8626
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mount Pleasant",
+        "County":"Charleston",
+        "ZipCode":"29466",
+        "Latitude":32.8674,
+        "Longitude":-79.8049
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ravenel",
+        "County":"Charleston",
+        "ZipCode":"29470",
+        "Latitude":32.7881,
+        "Longitude":-80.2223
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sullivans Island",
+        "County":"Charleston",
+        "ZipCode":"29482",
+        "Latitude":32.7637,
+        "Longitude":-79.8399
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Wadmalaw Island",
+        "County":"Charleston",
+        "ZipCode":"29487",
+        "Latitude":32.6529,
+        "Longitude":-80.1829
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gaffney",
+        "County":"Cherokee",
+        "ZipCode":"29340",
+        "Latitude":35.0615,
+        "Longitude":-81.6491
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gaffney",
+        "County":"Cherokee",
+        "ZipCode":"29341",
+        "Latitude":35.0999,
+        "Longitude":-81.7056
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gaffney",
+        "County":"Cherokee",
+        "ZipCode":"29342",
+        "Latitude":34.9963,
+        "Longitude":-81.6524
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Blacksburg",
+        "County":"Cherokee",
+        "ZipCode":"29702",
+        "Latitude":35.1095,
+        "Longitude":-81.4942
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Blackstock",
+        "County":"Chester",
+        "ZipCode":"29014",
+        "Latitude":34.5779,
+        "Longitude":-81.1249
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Great Falls",
+        "County":"Chester",
+        "ZipCode":"29055",
+        "Latitude":34.5705,
+        "Longitude":-80.9133
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Chester",
+        "County":"Chester",
+        "ZipCode":"29706",
+        "Latitude":34.7149,
+        "Longitude":-81.2186
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Edgemoor",
+        "County":"Chester",
+        "ZipCode":"29712",
+        "Latitude":34.797,
+        "Longitude":-80.9891
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fort Lawn",
+        "County":"Chester",
+        "ZipCode":"29714",
+        "Latitude":34.7006,
+        "Longitude":-80.9092
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lando",
+        "County":"Chester",
+        "ZipCode":"29724",
+        "Latitude":34.7763,
+        "Longitude":-81.0101
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Richburg",
+        "County":"Chester",
+        "ZipCode":"29729",
+        "Latitude":34.6822,
+        "Longitude":-80.9891
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mc Bee",
+        "County":"Chesterfield",
+        "ZipCode":"29101",
+        "Latitude":34.4606,
+        "Longitude":-80.2544
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cheraw",
+        "County":"Chesterfield",
+        "ZipCode":"29520",
+        "Latitude":34.6863,
+        "Longitude":-79.9174
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Patrick",
+        "County":"Chesterfield",
+        "ZipCode":"29584",
+        "Latitude":34.5598,
+        "Longitude":-80.065
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Chesterfield",
+        "County":"Chesterfield",
+        "ZipCode":"29709",
+        "Latitude":34.7278,
+        "Longitude":-80.0958
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jefferson",
+        "County":"Chesterfield",
+        "ZipCode":"29718",
+        "Latitude":34.6546,
+        "Longitude":-80.3639
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mount Croghan",
+        "County":"Chesterfield",
+        "ZipCode":"29727",
+        "Latitude":34.7439,
+        "Longitude":-80.2428
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pageland",
+        "County":"Chesterfield",
+        "ZipCode":"29728",
+        "Latitude":34.7722,
+        "Longitude":-80.3966
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ruby",
+        "County":"Chesterfield",
+        "ZipCode":"29741",
+        "Latitude":34.7379,
+        "Longitude":-80.191
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Alcolu",
+        "County":"Clarendon",
+        "ZipCode":"29001",
+        "Latitude":33.7684,
+        "Longitude":-80.1788
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Davis Station",
+        "County":"Clarendon",
+        "ZipCode":"29041",
+        "Latitude":33.6027,
+        "Longitude":-80.2645
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gable",
+        "County":"Clarendon",
+        "ZipCode":"29051",
+        "Latitude":33.8644,
+        "Longitude":-80.1276
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Manning",
+        "County":"Clarendon",
+        "ZipCode":"29102",
+        "Latitude":33.6184,
+        "Longitude":-80.2116
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"New Zion",
+        "County":"Clarendon",
+        "ZipCode":"29111",
+        "Latitude":33.7957,
+        "Longitude":-80.0148
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sardinia",
+        "County":"Clarendon",
+        "ZipCode":"29143",
+        "Latitude":33.8343,
+        "Longitude":-80.0829
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Summerton",
+        "County":"Clarendon",
+        "ZipCode":"29148",
+        "Latitude":33.5946,
+        "Longitude":-80.3606
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Turbeville",
+        "County":"Clarendon",
+        "ZipCode":"29162",
+        "Latitude":33.8907,
+        "Longitude":-80.0184
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lodge",
+        "County":"Colleton",
+        "ZipCode":"29082",
+        "Latitude":33.0377,
+        "Longitude":-80.9417
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Canadys",
+        "County":"Colleton",
+        "ZipCode":"29433",
+        "Latitude":33.0614,
+        "Longitude":-80.6312
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cottageville",
+        "County":"Colleton",
+        "ZipCode":"29435",
+        "Latitude":32.9612,
+        "Longitude":-80.4794
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Edisto Island",
+        "County":"Colleton",
+        "ZipCode":"29438",
+        "Latitude":32.5486,
+        "Longitude":-80.307
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Green Pond",
+        "County":"Colleton",
+        "ZipCode":"29446",
+        "Latitude":32.6628,
+        "Longitude":-80.528
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jacksonboro",
+        "County":"Colleton",
+        "ZipCode":"29452",
+        "Latitude":32.7305,
+        "Longitude":-80.4609
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Round O",
+        "County":"Colleton",
+        "ZipCode":"29474",
+        "Latitude":32.9405,
+        "Longitude":-80.5739
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ruffin",
+        "County":"Colleton",
+        "ZipCode":"29475",
+        "Latitude":33.0103,
+        "Longitude":-80.8137
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Smoaks",
+        "County":"Colleton",
+        "ZipCode":"29481",
+        "Latitude":33.0963,
+        "Longitude":-80.813
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Walterboro",
+        "County":"Colleton",
+        "ZipCode":"29488",
+        "Latitude":32.9052,
+        "Longitude":-80.6668
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Williams",
+        "County":"Colleton",
+        "ZipCode":"29493",
+        "Latitude":33.0327,
+        "Longitude":-80.8445
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Islandton",
+        "County":"Colleton",
+        "ZipCode":"29929",
+        "Latitude":32.9503,
+        "Longitude":-80.8916
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lamar",
+        "County":"Darlington",
+        "ZipCode":"29069",
+        "Latitude":34.1862,
+        "Longitude":-80.0963
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lydia",
+        "County":"Darlington",
+        "ZipCode":"29079",
+        "Latitude":34.289,
+        "Longitude":-80.1123
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Darlington",
+        "County":"Darlington",
+        "ZipCode":"29532",
+        "Latitude":34.3003,
+        "Longitude":-79.8732
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Darlington",
+        "County":"Darlington",
+        "ZipCode":"29540",
+        "Latitude":34.3843,
+        "Longitude":-79.8422
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hartsville",
+        "County":"Darlington",
+        "ZipCode":"29550",
+        "Latitude":34.3756,
+        "Longitude":-80.0842
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hartsville",
+        "County":"Darlington",
+        "ZipCode":"29551",
+        "Latitude":34.3659,
+        "Longitude":-80.1324
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Society Hill",
+        "County":"Darlington",
+        "ZipCode":"29593",
+        "Latitude":34.4512,
+        "Longitude":-79.8865
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Dillon",
+        "County":"Dillon",
+        "ZipCode":"29536",
+        "Latitude":34.4146,
+        "Longitude":-79.377
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fork",
+        "County":"Dillon",
+        "ZipCode":"29543",
+        "Latitude":34.2873,
+        "Longitude":-79.2501
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hamer",
+        "County":"Dillon",
+        "ZipCode":"29547",
+        "Latitude":34.4849,
+        "Longitude":-79.3502
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lake View",
+        "County":"Dillon",
+        "ZipCode":"29563",
+        "Latitude":34.3445,
+        "Longitude":-79.1929
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Latta",
+        "County":"Dillon",
+        "ZipCode":"29565",
+        "Latitude":34.3398,
+        "Longitude":-79.4417
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Little Rock",
+        "County":"Dillon",
+        "ZipCode":"29567",
+        "Latitude":34.5613,
+        "Longitude":-79.4335
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Charleston",
+        "County":"Dorchester",
+        "ZipCode":"29420",
+        "Latitude":32.9336,
+        "Longitude":-80.1026
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Dorchester",
+        "County":"Dorchester",
+        "ZipCode":"29437",
+        "Latitude":33.1247,
+        "Longitude":-80.4034
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Grover",
+        "County":"Dorchester",
+        "ZipCode":"29447",
+        "Latitude":33.1052,
+        "Longitude":-80.5948
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Harleyville",
+        "County":"Dorchester",
+        "ZipCode":"29448",
+        "Latitude":33.2205,
+        "Longitude":-80.4501
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Reevesville",
+        "County":"Dorchester",
+        "ZipCode":"29471",
+        "Latitude":33.1872,
+        "Longitude":-80.6672
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ridgeville",
+        "County":"Dorchester",
+        "ZipCode":"29472",
+        "Latitude":33.108,
+        "Longitude":-80.3086
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Saint George",
+        "County":"Dorchester",
+        "ZipCode":"29477",
+        "Latitude":33.1845,
+        "Longitude":-80.5732
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Summerville",
+        "County":"Dorchester",
+        "ZipCode":"29483",
+        "Latitude":33.028,
+        "Longitude":-80.1739
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Summerville",
+        "County":"Dorchester",
+        "ZipCode":"29484",
+        "Latitude":33.0023,
+        "Longitude":-80.2267
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Summerville",
+        "County":"Dorchester",
+        "ZipCode":"29485",
+        "Latitude":32.9756,
+        "Longitude":-80.1831
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Edgefield",
+        "County":"Edgefield",
+        "ZipCode":"29824",
+        "Latitude":33.8056,
+        "Longitude":-81.966
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Johnston",
+        "County":"Edgefield",
+        "ZipCode":"29832",
+        "Latitude":33.8231,
+        "Longitude":-81.7972
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Trenton",
+        "County":"Edgefield",
+        "ZipCode":"29847",
+        "Latitude":33.6938,
+        "Longitude":-81.8534
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Blair",
+        "County":"Fairfield",
+        "ZipCode":"29015",
+        "Latitude":34.4967,
+        "Longitude":-81.3459
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jenkinsville",
+        "County":"Fairfield",
+        "ZipCode":"29065",
+        "Latitude":34.2717,
+        "Longitude":-81.2712
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ridgeway",
+        "County":"Fairfield",
+        "ZipCode":"29130",
+        "Latitude":34.3167,
+        "Longitude":-80.9288
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rion",
+        "County":"Fairfield",
+        "ZipCode":"29132",
+        "Latitude":34.3074,
+        "Longitude":-81.1252
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Winnsboro",
+        "County":"Fairfield",
+        "ZipCode":"29180",
+        "Latitude":34.381,
+        "Longitude":-81.109
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Olanta",
+        "County":"Florence",
+        "ZipCode":"29114",
+        "Latitude":33.9285,
+        "Longitude":-79.9153
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Timmonsville",
+        "County":"Florence",
+        "ZipCode":"29161",
+        "Latitude":34.1012,
+        "Longitude":-79.9378
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Florence",
+        "County":"Florence",
+        "ZipCode":"29501",
+        "Latitude":34.1838,
+        "Longitude":-79.7728
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Florence",
+        "County":"Florence",
+        "ZipCode":"29502",
+        "Latitude":34.201,
+        "Longitude":-79.7847
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Florence",
+        "County":"Florence",
+        "ZipCode":"29503",
+        "Latitude":34.063,
+        "Longitude":-79.6506
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Florence",
+        "County":"Florence",
+        "ZipCode":"29504",
+        "Latitude":34.0416,
+        "Longitude":-79.6933
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Florence",
+        "County":"Florence",
+        "ZipCode":"29505",
+        "Latitude":34.1231,
+        "Longitude":-79.6893
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Florence",
+        "County":"Florence",
+        "ZipCode":"29506",
+        "Latitude":34.2153,
+        "Longitude":-79.6468
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Coward",
+        "County":"Florence",
+        "ZipCode":"29530",
+        "Latitude":33.9905,
+        "Longitude":-79.7515
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Effingham",
+        "County":"Florence",
+        "ZipCode":"29541",
+        "Latitude":34.0946,
+        "Longitude":-79.7918
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Johnsonville",
+        "County":"Florence",
+        "ZipCode":"29555",
+        "Latitude":33.8299,
+        "Longitude":-79.4783
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lake City",
+        "County":"Florence",
+        "ZipCode":"29560",
+        "Latitude":33.8655,
+        "Longitude":-79.7418
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pamplico",
+        "County":"Florence",
+        "ZipCode":"29583",
+        "Latitude":33.9922,
+        "Longitude":-79.5929
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Scranton",
+        "County":"Florence",
+        "ZipCode":"29591",
+        "Latitude":33.9281,
+        "Longitude":-79.7731
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Georgetown",
+        "County":"Georgetown",
+        "ZipCode":"29440",
+        "Latitude":33.4308,
+        "Longitude":-79.3235
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Georgetown",
+        "County":"Georgetown",
+        "ZipCode":"29442",
+        "Latitude":33.4037,
+        "Longitude":-79.2264
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Andrews",
+        "County":"Georgetown",
+        "ZipCode":"29510",
+        "Latitude":33.4525,
+        "Longitude":-79.5604
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Murrells Inlet",
+        "County":"Georgetown",
+        "ZipCode":"29576",
+        "Latitude":33.5507,
+        "Longitude":-79.0528
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pawleys Island",
+        "County":"Georgetown",
+        "ZipCode":"29585",
+        "Latitude":33.4508,
+        "Longitude":-79.1341
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29601",
+        "Latitude":34.8472,
+        "Longitude":-82.406
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29602",
+        "Latitude":34.8007,
+        "Longitude":-82.3956
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29603",
+        "Latitude":34.8377,
+        "Longitude":-82.3715
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29604",
+        "Latitude":34.8497,
+        "Longitude":-82.4538
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29605",
+        "Latitude":34.8001,
+        "Longitude":-82.3932
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29606",
+        "Latitude":34.8497,
+        "Longitude":-82.4538
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29607",
+        "Latitude":34.8285,
+        "Longitude":-82.3516
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29608",
+        "Latitude":34.8497,
+        "Longitude":-82.4538
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29609",
+        "Latitude":34.8921,
+        "Longitude":-82.4002
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29610",
+        "Latitude":34.8497,
+        "Longitude":-82.4538
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29611",
+        "Latitude":34.8533,
+        "Longitude":-82.4493
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29612",
+        "Latitude":34.8497,
+        "Longitude":-82.4538
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29613",
+        "Latitude":34.9249,
+        "Longitude":-82.4331
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29614",
+        "Latitude":34.8724,
+        "Longitude":-82.3626
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29615",
+        "Latitude":34.8661,
+        "Longitude":-82.3198
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29616",
+        "Latitude":34.8526,
+        "Longitude":-82.394
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenville",
+        "County":"Greenville",
+        "ZipCode":"29617",
+        "Latitude":34.912,
+        "Longitude":-82.4666
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cleveland",
+        "County":"Greenville",
+        "ZipCode":"29635",
+        "Latitude":35.0654,
+        "Longitude":-82.6093
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Conestee",
+        "County":"Greenville",
+        "ZipCode":"29636",
+        "Latitude":34.7682,
+        "Longitude":-82.3498
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fountain Inn",
+        "County":"Greenville",
+        "ZipCode":"29644",
+        "Latitude":34.6578,
+        "Longitude":-82.2441
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greer",
+        "County":"Greenville",
+        "ZipCode":"29650",
+        "Latitude":34.8968,
+        "Longitude":-82.2674
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greer",
+        "County":"Greenville",
+        "ZipCode":"29651",
+        "Latitude":34.9453,
+        "Longitude":-82.2209
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greer",
+        "County":"Greenville",
+        "ZipCode":"29652",
+        "Latitude":34.9387,
+        "Longitude":-82.2271
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Marietta",
+        "County":"Greenville",
+        "ZipCode":"29661",
+        "Latitude":35.0296,
+        "Longitude":-82.5136
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mauldin",
+        "County":"Greenville",
+        "ZipCode":"29662",
+        "Latitude":34.7807,
+        "Longitude":-82.3035
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Piedmont",
+        "County":"Greenville",
+        "ZipCode":"29673",
+        "Latitude":34.7244,
+        "Longitude":-82.4702
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Simpsonville",
+        "County":"Greenville",
+        "ZipCode":"29680",
+        "Latitude":34.6962,
+        "Longitude":-82.2893
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Simpsonville",
+        "County":"Greenville",
+        "ZipCode":"29681",
+        "Latitude":34.7512,
+        "Longitude":-82.255
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Slater",
+        "County":"Greenville",
+        "ZipCode":"29683",
+        "Latitude":35.0289,
+        "Longitude":-82.4941
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Taylors",
+        "County":"Greenville",
+        "ZipCode":"29687",
+        "Latitude":34.9245,
+        "Longitude":-82.3197
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Tigerville",
+        "County":"Greenville",
+        "ZipCode":"29688",
+        "Latitude":35.0477,
+        "Longitude":-82.353
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Travelers Rest",
+        "County":"Greenville",
+        "ZipCode":"29690",
+        "Latitude":35.0039,
+        "Longitude":-82.4272
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenwood",
+        "County":"Greenwood",
+        "ZipCode":"29646",
+        "Latitude":34.1758,
+        "Longitude":-82.1562
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenwood",
+        "County":"Greenwood",
+        "ZipCode":"29647",
+        "Latitude":34.1788,
+        "Longitude":-82.1631
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenwood",
+        "County":"Greenwood",
+        "ZipCode":"29648",
+        "Latitude":34.2124,
+        "Longitude":-82.1681
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greenwood",
+        "County":"Greenwood",
+        "ZipCode":"29649",
+        "Latitude":34.223,
+        "Longitude":-82.1582
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hodges",
+        "County":"Greenwood",
+        "ZipCode":"29653",
+        "Latitude":34.2882,
+        "Longitude":-82.2142
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ninety Six",
+        "County":"Greenwood",
+        "ZipCode":"29666",
+        "Latitude":34.1652,
+        "Longitude":-82.0292
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ware Shoals",
+        "County":"Greenwood",
+        "ZipCode":"29692",
+        "Latitude":34.4025,
+        "Longitude":-82.2678
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hodges",
+        "County":"Greenwood",
+        "ZipCode":"29695",
+        "Latitude":34.2876,
+        "Longitude":-82.2443
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bradley",
+        "County":"Greenwood",
+        "ZipCode":"29819",
+        "Latitude":34.0326,
+        "Longitude":-82.2027
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Troy",
+        "County":"Greenwood",
+        "ZipCode":"29848",
+        "Latitude":33.9876,
+        "Longitude":-82.2979
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Brunson",
+        "County":"Hampton",
+        "ZipCode":"29911",
+        "Latitude":32.9413,
+        "Longitude":-81.1807
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Crocketville",
+        "County":"Hampton",
+        "ZipCode":"29913",
+        "Latitude":32.9166,
+        "Longitude":-81.0773
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Early Branch",
+        "County":"Hampton",
+        "ZipCode":"29916",
+        "Latitude":32.723,
+        "Longitude":-80.9634
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Estill",
+        "County":"Hampton",
+        "ZipCode":"29918",
+        "Latitude":32.7375,
+        "Longitude":-81.2178
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Furman",
+        "County":"Hampton",
+        "ZipCode":"29921",
+        "Latitude":32.6816,
+        "Longitude":-81.1882
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Garnett",
+        "County":"Hampton",
+        "ZipCode":"29922",
+        "Latitude":32.6007,
+        "Longitude":-81.2396
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gifford",
+        "County":"Hampton",
+        "ZipCode":"29923",
+        "Latitude":32.8596,
+        "Longitude":-81.239
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hampton",
+        "County":"Hampton",
+        "ZipCode":"29924",
+        "Latitude":32.8729,
+        "Longitude":-81.0973
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Luray",
+        "County":"Hampton",
+        "ZipCode":"29932",
+        "Latitude":32.8138,
+        "Longitude":-81.2398
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Miley",
+        "County":"Hampton",
+        "ZipCode":"29933",
+        "Latitude":32.9479,
+        "Longitude":-81.0318
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Scotia",
+        "County":"Hampton",
+        "ZipCode":"29939",
+        "Latitude":32.6786,
+        "Longitude":-81.2455
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Varnville",
+        "County":"Hampton",
+        "ZipCode":"29944",
+        "Latitude":32.8349,
+        "Longitude":-81.0288
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Yemassee",
+        "County":"Hampton",
+        "ZipCode":"29945",
+        "Latitude":32.643,
+        "Longitude":-80.8129
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Aynor",
+        "County":"Horry",
+        "ZipCode":"29511",
+        "Latitude":33.9823,
+        "Longitude":-79.1777
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Conway",
+        "County":"Horry",
+        "ZipCode":"29526",
+        "Latitude":33.8731,
+        "Longitude":-79.0557
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Conway",
+        "County":"Horry",
+        "ZipCode":"29527",
+        "Latitude":33.7827,
+        "Longitude":-79.1473
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Conway",
+        "County":"Horry",
+        "ZipCode":"29528",
+        "Latitude":33.9358,
+        "Longitude":-78.9192
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Galivants Ferry",
+        "County":"Horry",
+        "ZipCode":"29544",
+        "Latitude":34.0563,
+        "Longitude":-79.2464
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Green Sea",
+        "County":"Horry",
+        "ZipCode":"29545",
+        "Latitude":34.1668,
+        "Longitude":-78.9589
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Little River",
+        "County":"Horry",
+        "ZipCode":"29566",
+        "Latitude":33.8768,
+        "Longitude":-78.6508
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Longs",
+        "County":"Horry",
+        "ZipCode":"29568",
+        "Latitude":33.9064,
+        "Longitude":-78.7934
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Loris",
+        "County":"Horry",
+        "ZipCode":"29569",
+        "Latitude":34.0558,
+        "Longitude":-78.9161
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29572",
+        "Latitude":33.7587,
+        "Longitude":-78.8044
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29575",
+        "Latitude":33.6286,
+        "Longitude":-78.9736
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29577",
+        "Latitude":33.6994,
+        "Longitude":-78.9137
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29578",
+        "Latitude":33.7389,
+        "Longitude":-78.9996
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29579",
+        "Latitude":33.7377,
+        "Longitude":-78.9787
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Nichols",
+        "County":"Horry",
+        "ZipCode":"29581",
+        "Latitude":34.2426,
+        "Longitude":-79.1625
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29582",
+        "Latitude":33.8343,
+        "Longitude":-78.6606
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29587",
+        "Latitude":33.6211,
+        "Longitude":-78.9632
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29588",
+        "Latitude":33.7226,
+        "Longitude":-78.9782
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29597",
+        "Latitude":33.816,
+        "Longitude":-78.68
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North Myrtle Beach",
+        "County":"Horry",
+        "ZipCode":"29598",
+        "Latitude":33.816,
+        "Longitude":-78.68
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Okatie",
+        "County":"Jasper",
+        "ZipCode":"29909",
+        "Latitude":32.3301,
+        "Longitude":-80.8435
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Coosawhatchie",
+        "County":"Jasper",
+        "ZipCode":"29912",
+        "Latitude":32.5888,
+        "Longitude":-80.9273
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hardeeville",
+        "County":"Jasper",
+        "ZipCode":"29927",
+        "Latitude":32.2635,
+        "Longitude":-81.0669
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pineland",
+        "County":"Jasper",
+        "ZipCode":"29934",
+        "Latitude":32.5931,
+        "Longitude":-81.1078
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ridgeland",
+        "County":"Jasper",
+        "ZipCode":"29936",
+        "Latitude":32.4807,
+        "Longitude":-80.9804
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Tillman",
+        "County":"Jasper",
+        "ZipCode":"29943",
+        "Latitude":32.468,
+        "Longitude":-81.1667
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bethune",
+        "County":"Kershaw",
+        "ZipCode":"29009",
+        "Latitude":34.4201,
+        "Longitude":-80.3662
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Camden",
+        "County":"Kershaw",
+        "ZipCode":"29020",
+        "Latitude":34.2696,
+        "Longitude":-80.591
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Camden",
+        "County":"Kershaw",
+        "ZipCode":"29021",
+        "Latitude":34.2974,
+        "Longitude":-80.6089
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cassatt",
+        "County":"Kershaw",
+        "ZipCode":"29032",
+        "Latitude":34.3424,
+        "Longitude":-80.5
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Elgin",
+        "County":"Kershaw",
+        "ZipCode":"29045",
+        "Latitude":34.162,
+        "Longitude":-80.8113
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Liberty Hill",
+        "County":"Kershaw",
+        "ZipCode":"29074",
+        "Latitude":34.457,
+        "Longitude":-80.7892
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lugoff",
+        "County":"Kershaw",
+        "ZipCode":"29078",
+        "Latitude":34.2296,
+        "Longitude":-80.7147
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Westville",
+        "County":"Kershaw",
+        "ZipCode":"29175",
+        "Latitude":34.4418,
+        "Longitude":-80.6033
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Heath Springs",
+        "County":"Lancaster",
+        "ZipCode":"29058",
+        "Latitude":34.6024,
+        "Longitude":-80.7103
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Kershaw",
+        "County":"Lancaster",
+        "ZipCode":"29067",
+        "Latitude":34.5578,
+        "Longitude":-80.5546
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fort Mill",
+        "County":"Lancaster",
+        "ZipCode":"29707",
+        "Latitude":34.9773,
+        "Longitude":-80.8584
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lancaster",
+        "County":"Lancaster",
+        "ZipCode":"29720",
+        "Latitude":34.749,
+        "Longitude":-80.7616
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lancaster",
+        "County":"Lancaster",
+        "ZipCode":"29721",
+        "Latitude":34.6994,
+        "Longitude":-80.7817
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lancaster",
+        "County":"Lancaster",
+        "ZipCode":"29722",
+        "Latitude":34.7673,
+        "Longitude":-80.6589
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Van Wyck",
+        "County":"Lancaster",
+        "ZipCode":"29744",
+        "Latitude":34.8585,
+        "Longitude":-80.8459
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clinton",
+        "County":"Laurens",
+        "ZipCode":"29325",
+        "Latitude":34.4707,
+        "Longitude":-81.8772
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cross Hill",
+        "County":"Laurens",
+        "ZipCode":"29332",
+        "Latitude":34.2693,
+        "Longitude":-81.9843
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Joanna",
+        "County":"Laurens",
+        "ZipCode":"29351",
+        "Latitude":34.4068,
+        "Longitude":-81.8191
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Laurens",
+        "County":"Laurens",
+        "ZipCode":"29360",
+        "Latitude":34.499,
+        "Longitude":-82.0143
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mountville",
+        "County":"Laurens",
+        "ZipCode":"29370",
+        "Latitude":34.3408,
+        "Longitude":-81.9584
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Waterloo",
+        "County":"Laurens",
+        "ZipCode":"29384",
+        "Latitude":34.3367,
+        "Longitude":-82.088
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gray Court",
+        "County":"Laurens",
+        "ZipCode":"29645",
+        "Latitude":34.5953,
+        "Longitude":-82.1147
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bishopville",
+        "County":"Lee",
+        "ZipCode":"29010",
+        "Latitude":34.2241,
+        "Longitude":-80.275
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Elliott",
+        "County":"Lee",
+        "ZipCode":"29046",
+        "Latitude":34.1071,
+        "Longitude":-80.1637
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lynchburg",
+        "County":"Lee",
+        "ZipCode":"29080",
+        "Latitude":34.0526,
+        "Longitude":-80.0988
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Batesburg",
+        "County":"Lexington",
+        "ZipCode":"29006",
+        "Latitude":33.8702,
+        "Longitude":-81.5505
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cayce",
+        "County":"Lexington",
+        "ZipCode":"29033",
+        "Latitude":33.9626,
+        "Longitude":-81.0671
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Chapin",
+        "County":"Lexington",
+        "ZipCode":"29036",
+        "Latitude":34.1312,
+        "Longitude":-81.3318
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gaston",
+        "County":"Lexington",
+        "ZipCode":"29053",
+        "Latitude":33.8337,
+        "Longitude":-81.1174
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gilbert",
+        "County":"Lexington",
+        "ZipCode":"29054",
+        "Latitude":33.9581,
+        "Longitude":-81.3914
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Leesville",
+        "County":"Lexington",
+        "ZipCode":"29070",
+        "Latitude":33.9132,
+        "Longitude":-81.4598
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lexington",
+        "County":"Lexington",
+        "ZipCode":"29071",
+        "Latitude":33.9815,
+        "Longitude":-81.2362
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lexington",
+        "County":"Lexington",
+        "ZipCode":"29072",
+        "Latitude":33.9724,
+        "Longitude":-81.2359
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lexington",
+        "County":"Lexington",
+        "ZipCode":"29073",
+        "Latitude":33.8632,
+        "Longitude":-81.2351
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pelion",
+        "County":"Lexington",
+        "ZipCode":"29123",
+        "Latitude":33.7766,
+        "Longitude":-81.2502
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Swansea",
+        "County":"Lexington",
+        "ZipCode":"29160",
+        "Latitude":33.7339,
+        "Longitude":-81.0933
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"West Columbia",
+        "County":"Lexington",
+        "ZipCode":"29169",
+        "Latitude":33.995,
+        "Longitude":-81.0888
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"West Columbia",
+        "County":"Lexington",
+        "ZipCode":"29170",
+        "Latitude":33.9568,
+        "Longitude":-81.1405
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"West Columbia",
+        "County":"Lexington",
+        "ZipCode":"29171",
+        "Latitude":33.9252,
+        "Longitude":-81.2483
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"West Columbia",
+        "County":"Lexington",
+        "ZipCode":"29172",
+        "Latitude":33.9,
+        "Longitude":-81.091
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Lexington",
+        "ZipCode":"29212",
+        "Latitude":34.0726,
+        "Longitude":-81.1796
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Lexington",
+        "ZipCode":"29228",
+        "Latitude":33.9252,
+        "Longitude":-81.2483
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clarks Hill",
+        "County":"McCormick",
+        "ZipCode":"29821",
+        "Latitude":33.6505,
+        "Longitude":-82.1488
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mc Cormick",
+        "County":"McCormick",
+        "ZipCode":"29835",
+        "Latitude":33.9146,
+        "Longitude":-82.2719
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Modoc",
+        "County":"McCormick",
+        "ZipCode":"29838",
+        "Latitude":33.7052,
+        "Longitude":-82.2187
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mount Carmel",
+        "County":"McCormick",
+        "ZipCode":"29840",
+        "Latitude":34.0065,
+        "Longitude":-82.5324
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Parksville",
+        "County":"McCormick",
+        "ZipCode":"29844",
+        "Latitude":33.7854,
+        "Longitude":-82.2111
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Plum Branch",
+        "County":"McCormick",
+        "ZipCode":"29845",
+        "Latitude":33.8329,
+        "Longitude":-82.248
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mc Cormick",
+        "County":"McCormick",
+        "ZipCode":"29899",
+        "Latitude":33.8356,
+        "Longitude":-82.32
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Centenary",
+        "County":"Marion",
+        "ZipCode":"29519",
+        "Latitude":34.027,
+        "Longitude":-79.3537
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gresham",
+        "County":"Marion",
+        "ZipCode":"29546",
+        "Latitude":33.9069,
+        "Longitude":-79.3564
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Marion",
+        "County":"Marion",
+        "ZipCode":"29571",
+        "Latitude":34.1562,
+        "Longitude":-79.3898
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mullins",
+        "County":"Marion",
+        "ZipCode":"29574",
+        "Latitude":34.2044,
+        "Longitude":-79.2542
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rains",
+        "County":"Marion",
+        "ZipCode":"29589",
+        "Latitude":34.1053,
+        "Longitude":-79.3221
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sellers",
+        "County":"Marion",
+        "ZipCode":"29592",
+        "Latitude":34.258,
+        "Longitude":-79.4783
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bennettsville",
+        "County":"Marlboro",
+        "ZipCode":"29512",
+        "Latitude":34.6255,
+        "Longitude":-79.6898
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Blenheim",
+        "County":"Marlboro",
+        "ZipCode":"29516",
+        "Latitude":34.5171,
+        "Longitude":-79.6442
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clio",
+        "County":"Marlboro",
+        "ZipCode":"29525",
+        "Latitude":34.5805,
+        "Longitude":-79.5453
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mc Coll",
+        "County":"Marlboro",
+        "ZipCode":"29570",
+        "Latitude":34.6704,
+        "Longitude":-79.5597
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Tatum",
+        "County":"Marlboro",
+        "ZipCode":"29594",
+        "Latitude":34.6405,
+        "Longitude":-79.5869
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Wallace",
+        "County":"Marlboro",
+        "ZipCode":"29596",
+        "Latitude":34.7307,
+        "Longitude":-79.8011
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Chappells",
+        "County":"Newberry",
+        "ZipCode":"29037",
+        "Latitude":34.1856,
+        "Longitude":-81.8644
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Little Mountain",
+        "County":"Newberry",
+        "ZipCode":"29075",
+        "Latitude":34.1676,
+        "Longitude":-81.4184
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Newberry",
+        "County":"Newberry",
+        "ZipCode":"29108",
+        "Latitude":34.2847,
+        "Longitude":-81.6157
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Peak",
+        "County":"Newberry",
+        "ZipCode":"29122",
+        "Latitude":34.2386,
+        "Longitude":-81.3271
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pomaria",
+        "County":"Newberry",
+        "ZipCode":"29126",
+        "Latitude":34.3063,
+        "Longitude":-81.45
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Prosperity",
+        "County":"Newberry",
+        "ZipCode":"29127",
+        "Latitude":34.1832,
+        "Longitude":-81.5324
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Silverstreet",
+        "County":"Newberry",
+        "ZipCode":"29145",
+        "Latitude":34.2207,
+        "Longitude":-81.7741
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Whitmire",
+        "County":"Newberry",
+        "ZipCode":"29178",
+        "Latitude":34.4955,
+        "Longitude":-81.606
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Kinards",
+        "County":"Newberry",
+        "ZipCode":"29355",
+        "Latitude":34.3804,
+        "Longitude":-81.7773
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fair Play",
+        "County":"Oconee",
+        "ZipCode":"29643",
+        "Latitude":34.5112,
+        "Longitude":-82.9854
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Long Creek",
+        "County":"Oconee",
+        "ZipCode":"29658",
+        "Latitude":34.7634,
+        "Longitude":-83.2776
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mountain Rest",
+        "County":"Oconee",
+        "ZipCode":"29664",
+        "Latitude":34.8541,
+        "Longitude":-83.1134
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Newry",
+        "County":"Oconee",
+        "ZipCode":"29665",
+        "Latitude":34.7247,
+        "Longitude":-82.9106
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Seneca",
+        "County":"Oconee",
+        "ZipCode":"29672",
+        "Latitude":34.774,
+        "Longitude":-82.9457
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Richland",
+        "County":"Oconee",
+        "ZipCode":"29675",
+        "Latitude":34.7641,
+        "Longitude":-83.0883
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Salem",
+        "County":"Oconee",
+        "ZipCode":"29676",
+        "Latitude":34.8728,
+        "Longitude":-82.9607
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Seneca",
+        "County":"Oconee",
+        "ZipCode":"29678",
+        "Latitude":34.6828,
+        "Longitude":-82.9362
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Seneca",
+        "County":"Oconee",
+        "ZipCode":"29679",
+        "Latitude":34.6857,
+        "Longitude":-82.9532
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Tamassee",
+        "County":"Oconee",
+        "ZipCode":"29686",
+        "Latitude":34.897,
+        "Longitude":-83.0375
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Walhalla",
+        "County":"Oconee",
+        "ZipCode":"29691",
+        "Latitude":34.7648,
+        "Longitude":-83.064
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Westminster",
+        "County":"Oconee",
+        "ZipCode":"29693",
+        "Latitude":34.6965,
+        "Longitude":-83.1535
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"West Union",
+        "County":"Oconee",
+        "ZipCode":"29696",
+        "Latitude":34.7516,
+        "Longitude":-83.0399
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bowman",
+        "County":"Orangeburg",
+        "ZipCode":"29018",
+        "Latitude":33.3475,
+        "Longitude":-80.6709
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cope",
+        "County":"Orangeburg",
+        "ZipCode":"29038",
+        "Latitude":33.3726,
+        "Longitude":-80.9631
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cordova",
+        "County":"Orangeburg",
+        "ZipCode":"29039",
+        "Latitude":33.4275,
+        "Longitude":-80.8857
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Elloree",
+        "County":"Orangeburg",
+        "ZipCode":"29047",
+        "Latitude":33.531,
+        "Longitude":-80.572
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Eutawville",
+        "County":"Orangeburg",
+        "ZipCode":"29048",
+        "Latitude":33.3922,
+        "Longitude":-80.32
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Holly Hill",
+        "County":"Orangeburg",
+        "ZipCode":"29059",
+        "Latitude":33.3276,
+        "Longitude":-80.4024
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Neeses",
+        "County":"Orangeburg",
+        "ZipCode":"29107",
+        "Latitude":33.5318,
+        "Longitude":-81.1232
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"North",
+        "County":"Orangeburg",
+        "ZipCode":"29112",
+        "Latitude":33.6211,
+        "Longitude":-81.0601
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Norway",
+        "County":"Orangeburg",
+        "ZipCode":"29113",
+        "Latitude":33.4534,
+        "Longitude":-81.1097
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Orangeburg",
+        "County":"Orangeburg",
+        "ZipCode":"29115",
+        "Latitude":33.5025,
+        "Longitude":-80.8593
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Orangeburg",
+        "County":"Orangeburg",
+        "ZipCode":"29116",
+        "Latitude":33.4959,
+        "Longitude":-80.8246
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Orangeburg",
+        "County":"Orangeburg",
+        "ZipCode":"29117",
+        "Latitude":33.4918,
+        "Longitude":-80.8556
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Orangeburg",
+        "County":"Orangeburg",
+        "ZipCode":"29118",
+        "Latitude":33.5675,
+        "Longitude":-80.9248
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rowesville",
+        "County":"Orangeburg",
+        "ZipCode":"29133",
+        "Latitude":33.3703,
+        "Longitude":-80.8331
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Santee",
+        "County":"Orangeburg",
+        "ZipCode":"29142",
+        "Latitude":33.4835,
+        "Longitude":-80.4805
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Springfield",
+        "County":"Orangeburg",
+        "ZipCode":"29146",
+        "Latitude":33.5343,
+        "Longitude":-81.2499
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Vance",
+        "County":"Orangeburg",
+        "ZipCode":"29163",
+        "Latitude":33.4139,
+        "Longitude":-80.4617
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Branchville",
+        "County":"Orangeburg",
+        "ZipCode":"29432",
+        "Latitude":33.2628,
+        "Longitude":-80.8059
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Central",
+        "County":"Pickens",
+        "ZipCode":"29630",
+        "Latitude":34.7401,
+        "Longitude":-82.7947
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clemson",
+        "County":"Pickens",
+        "ZipCode":"29631",
+        "Latitude":34.6831,
+        "Longitude":-82.825
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clemson",
+        "County":"Pickens",
+        "ZipCode":"29632",
+        "Latitude":34.6834,
+        "Longitude":-82.8374
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clemson",
+        "County":"Pickens",
+        "ZipCode":"29633",
+        "Latitude":34.6834,
+        "Longitude":-82.8374
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clemson",
+        "County":"Pickens",
+        "ZipCode":"29634",
+        "Latitude":34.6834,
+        "Longitude":-82.8374
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Easley",
+        "County":"Pickens",
+        "ZipCode":"29640",
+        "Latitude":34.829,
+        "Longitude":-82.5796
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Easley",
+        "County":"Pickens",
+        "ZipCode":"29641",
+        "Latitude":34.8135,
+        "Longitude":-82.6531
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Easley",
+        "County":"Pickens",
+        "ZipCode":"29642",
+        "Latitude":34.7901,
+        "Longitude":-82.5937
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Liberty",
+        "County":"Pickens",
+        "ZipCode":"29657",
+        "Latitude":34.7872,
+        "Longitude":-82.6974
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Norris",
+        "County":"Pickens",
+        "ZipCode":"29667",
+        "Latitude":34.7648,
+        "Longitude":-82.7567
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pickens",
+        "County":"Pickens",
+        "ZipCode":"29671",
+        "Latitude":34.9024,
+        "Longitude":-82.7058
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Six Mile",
+        "County":"Pickens",
+        "ZipCode":"29682",
+        "Latitude":34.8283,
+        "Longitude":-82.8278
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sunset",
+        "County":"Pickens",
+        "ZipCode":"29685",
+        "Latitude":34.9706,
+        "Longitude":-82.8076
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ballentine",
+        "County":"Richland",
+        "ZipCode":"29002",
+        "Latitude":34.1265,
+        "Longitude":-81.2348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Blythewood",
+        "County":"Richland",
+        "ZipCode":"29016",
+        "Latitude":34.1911,
+        "Longitude":-80.9758
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Eastover",
+        "County":"Richland",
+        "ZipCode":"29044",
+        "Latitude":33.9153,
+        "Longitude":-80.6996
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gadsden",
+        "County":"Richland",
+        "ZipCode":"29052",
+        "Latitude":33.8455,
+        "Longitude":-80.7532
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hopkins",
+        "County":"Richland",
+        "ZipCode":"29061",
+        "Latitude":33.9349,
+        "Longitude":-80.8449
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Irmo",
+        "County":"Richland",
+        "ZipCode":"29063",
+        "Latitude":34.1103,
+        "Longitude":-81.1966
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"State Park",
+        "County":"Richland",
+        "ZipCode":"29147",
+        "Latitude":34.0907,
+        "Longitude":-80.9662
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"White Rock",
+        "County":"Richland",
+        "ZipCode":"29177",
+        "Latitude":34.1504,
+        "Longitude":-81.2601
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29201",
+        "Latitude":34.0004,
+        "Longitude":-81.0334
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29202",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29203",
+        "Latitude":34.0635,
+        "Longitude":-81.0265
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29204",
+        "Latitude":34.026,
+        "Longitude":-81.0046
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29205",
+        "Latitude":33.9903,
+        "Longitude":-80.9997
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29206",
+        "Latitude":34.0247,
+        "Longitude":-80.9532
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29207",
+        "Latitude":34.0197,
+        "Longitude":-80.9391
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29208",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29209",
+        "Latitude":33.9659,
+        "Longitude":-80.9355
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29210",
+        "Latitude":34.0479,
+        "Longitude":-81.1101
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29211",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29214",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29215",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29216",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29217",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29218",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29219",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29220",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29221",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29222",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29223",
+        "Latitude":34.0853,
+        "Longitude":-80.9167
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29224",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29225",
+        "Latitude":34.0007,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29226",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29227",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29229",
+        "Latitude":34.1388,
+        "Longitude":-80.8892
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29230",
+        "Latitude":34.1075,
+        "Longitude":-81.0626
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29240",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29250",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29260",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29290",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Columbia",
+        "County":"Richland",
+        "ZipCode":"29292",
+        "Latitude":34.006,
+        "Longitude":-80.9708
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Monetta",
+        "County":"Saluda",
+        "ZipCode":"29105",
+        "Latitude":33.8084,
+        "Longitude":-81.5956
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ridge Spring",
+        "County":"Saluda",
+        "ZipCode":"29129",
+        "Latitude":33.8714,
+        "Longitude":-81.6559
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Saluda",
+        "County":"Saluda",
+        "ZipCode":"29138",
+        "Latitude":34.0175,
+        "Longitude":-81.7754
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Ward",
+        "County":"Saluda",
+        "ZipCode":"29166",
+        "Latitude":33.8849,
+        "Longitude":-81.7283
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29301",
+        "Latitude":34.9352,
+        "Longitude":-81.9654
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29302",
+        "Latitude":34.8939,
+        "Longitude":-81.834
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29303",
+        "Latitude":34.9803,
+        "Longitude":-81.9168
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29304",
+        "Latitude":34.9166,
+        "Longitude":-81.8639
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29305",
+        "Latitude":34.9496,
+        "Longitude":-81.932
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29306",
+        "Latitude":34.8937,
+        "Longitude":-81.9228
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29307",
+        "Latitude":34.9839,
+        "Longitude":-81.8313
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Boiling Springs",
+        "County":"Spartanburg",
+        "ZipCode":"29316",
+        "Latitude":35.0465,
+        "Longitude":-81.9818
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Spartanburg",
+        "County":"Spartanburg",
+        "ZipCode":"29319",
+        "Latitude":34.9496,
+        "Longitude":-81.932
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Arcadia",
+        "County":"Spartanburg",
+        "ZipCode":"29320",
+        "Latitude":34.9572,
+        "Longitude":-81.9916
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Campobello",
+        "County":"Spartanburg",
+        "ZipCode":"29322",
+        "Latitude":35.108,
+        "Longitude":-82.1403
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Chesnee",
+        "County":"Spartanburg",
+        "ZipCode":"29323",
+        "Latitude":35.1154,
+        "Longitude":-81.8678
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clifton",
+        "County":"Spartanburg",
+        "ZipCode":"29324",
+        "Latitude":34.9796,
+        "Longitude":-81.8179
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Converse",
+        "County":"Spartanburg",
+        "ZipCode":"29329",
+        "Latitude":34.9921,
+        "Longitude":-81.8348
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cowpens",
+        "County":"Spartanburg",
+        "ZipCode":"29330",
+        "Latitude":35.039,
+        "Longitude":-81.822
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cross Anchor",
+        "County":"Spartanburg",
+        "ZipCode":"29331",
+        "Latitude":34.6383,
+        "Longitude":-81.8567
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Drayton",
+        "County":"Spartanburg",
+        "ZipCode":"29333",
+        "Latitude":34.9685,
+        "Longitude":-81.9064
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Duncan",
+        "County":"Spartanburg",
+        "ZipCode":"29334",
+        "Latitude":34.9176,
+        "Longitude":-82.1258
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Enoree",
+        "County":"Spartanburg",
+        "ZipCode":"29335",
+        "Latitude":34.671,
+        "Longitude":-81.9237
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fairforest",
+        "County":"Spartanburg",
+        "ZipCode":"29336",
+        "Latitude":34.9565,
+        "Longitude":-82.0101
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fingerville",
+        "County":"Spartanburg",
+        "ZipCode":"29338",
+        "Latitude":35.134,
+        "Longitude":-82.0065
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Glendale",
+        "County":"Spartanburg",
+        "ZipCode":"29346",
+        "Latitude":34.9448,
+        "Longitude":-81.8376
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Gramling",
+        "County":"Spartanburg",
+        "ZipCode":"29348",
+        "Latitude":35.0768,
+        "Longitude":-82.1326
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Inman",
+        "County":"Spartanburg",
+        "ZipCode":"29349",
+        "Latitude":35.0528,
+        "Longitude":-82.054
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Landrum",
+        "County":"Spartanburg",
+        "ZipCode":"29356",
+        "Latitude":35.1565,
+        "Longitude":-82.2115
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lyman",
+        "County":"Spartanburg",
+        "ZipCode":"29365",
+        "Latitude":34.9684,
+        "Longitude":-82.1435
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mayo",
+        "County":"Spartanburg",
+        "ZipCode":"29368",
+        "Latitude":35.084,
+        "Longitude":-81.8598
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Moore",
+        "County":"Spartanburg",
+        "ZipCode":"29369",
+        "Latitude":34.8646,
+        "Longitude":-82.0215
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pacolet",
+        "County":"Spartanburg",
+        "ZipCode":"29372",
+        "Latitude":34.9017,
+        "Longitude":-81.7587
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pacolet Mills",
+        "County":"Spartanburg",
+        "ZipCode":"29373",
+        "Latitude":34.9226,
+        "Longitude":-81.7426
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pauline",
+        "County":"Spartanburg",
+        "ZipCode":"29374",
+        "Latitude":34.7855,
+        "Longitude":-81.8492
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Reidville",
+        "County":"Spartanburg",
+        "ZipCode":"29375",
+        "Latitude":34.8636,
+        "Longitude":-82.1101
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Roebuck",
+        "County":"Spartanburg",
+        "ZipCode":"29376",
+        "Latitude":34.8688,
+        "Longitude":-81.9526
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Startex",
+        "County":"Spartanburg",
+        "ZipCode":"29377",
+        "Latitude":34.9285,
+        "Longitude":-82.099
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Una",
+        "County":"Spartanburg",
+        "ZipCode":"29378",
+        "Latitude":34.969,
+        "Longitude":-81.9704
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Wellford",
+        "County":"Spartanburg",
+        "ZipCode":"29385",
+        "Latitude":34.9514,
+        "Longitude":-82.0927
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"White Stone",
+        "County":"Spartanburg",
+        "ZipCode":"29386",
+        "Latitude":34.8882,
+        "Longitude":-81.969
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Woodruff",
+        "County":"Spartanburg",
+        "ZipCode":"29388",
+        "Latitude":34.7579,
+        "Longitude":-82.0447
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Dalzell",
+        "County":"Sumter",
+        "ZipCode":"29040",
+        "Latitude":34.0144,
+        "Longitude":-80.4665
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Horatio",
+        "County":"Sumter",
+        "ZipCode":"29062",
+        "Latitude":34.0213,
+        "Longitude":-80.5659
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mayesville",
+        "County":"Sumter",
+        "ZipCode":"29104",
+        "Latitude":33.9502,
+        "Longitude":-80.2173
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Pinewood",
+        "County":"Sumter",
+        "ZipCode":"29125",
+        "Latitude":33.7642,
+        "Longitude":-80.4978
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rembert",
+        "County":"Sumter",
+        "ZipCode":"29128",
+        "Latitude":34.1085,
+        "Longitude":-80.4945
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sumter",
+        "County":"Sumter",
+        "ZipCode":"29150",
+        "Latitude":33.9137,
+        "Longitude":-80.3542
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sumter",
+        "County":"Sumter",
+        "ZipCode":"29151",
+        "Latitude":33.8999,
+        "Longitude":-80.3743
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Shaw Afb",
+        "County":"Sumter",
+        "ZipCode":"29152",
+        "Latitude":33.9204,
+        "Longitude":-80.3415
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sumter",
+        "County":"Sumter",
+        "ZipCode":"29153",
+        "Latitude":33.9446,
+        "Longitude":-80.3206
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sumter",
+        "County":"Sumter",
+        "ZipCode":"29154",
+        "Latitude":33.8821,
+        "Longitude":-80.4028
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Wedgefield",
+        "County":"Sumter",
+        "ZipCode":"29168",
+        "Latitude":33.8953,
+        "Longitude":-80.498
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Carlisle",
+        "County":"Union",
+        "ZipCode":"29031",
+        "Latitude":34.567,
+        "Longitude":-81.4814
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Buffalo",
+        "County":"Union",
+        "ZipCode":"29321",
+        "Latitude":34.7247,
+        "Longitude":-81.6826
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jonesville",
+        "County":"Union",
+        "ZipCode":"29353",
+        "Latitude":34.8125,
+        "Longitude":-81.6431
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lockhart",
+        "County":"Union",
+        "ZipCode":"29364",
+        "Latitude":34.7865,
+        "Longitude":-81.462
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Union",
+        "County":"Union",
+        "ZipCode":"29379",
+        "Latitude":34.7269,
+        "Longitude":-81.6202
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Jonesville",
+        "County":"Union",
+        "ZipCode":"29395",
+        "Latitude":34.8466,
+        "Longitude":-81.7227
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Greeleyville",
+        "County":"Williamsburg",
+        "ZipCode":"29056",
+        "Latitude":33.5966,
+        "Longitude":-79.9802
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Cades",
+        "County":"Williamsburg",
+        "ZipCode":"29518",
+        "Latitude":33.7886,
+        "Longitude":-79.848
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hemingway",
+        "County":"Williamsburg",
+        "ZipCode":"29554",
+        "Latitude":33.7419,
+        "Longitude":-79.4489
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Kingstree",
+        "County":"Williamsburg",
+        "ZipCode":"29556",
+        "Latitude":33.6878,
+        "Longitude":-79.7832
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Lane",
+        "County":"Williamsburg",
+        "ZipCode":"29564",
+        "Latitude":33.5083,
+        "Longitude":-79.8715
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Nesmith",
+        "County":"Williamsburg",
+        "ZipCode":"29580",
+        "Latitude":33.6625,
+        "Longitude":-79.5589
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Salters",
+        "County":"Williamsburg",
+        "ZipCode":"29590",
+        "Latitude":33.5611,
+        "Longitude":-79.83
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Bowling Green",
+        "County":"York",
+        "ZipCode":"29703",
+        "Latitude":35.1499,
+        "Longitude":-81.2123
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Catawba",
+        "County":"York",
+        "ZipCode":"29704",
+        "Latitude":34.8507,
+        "Longitude":-80.9342
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fort Mill",
+        "County":"York",
+        "ZipCode":"29708",
+        "Latitude":35.0502,
+        "Longitude":-80.9908
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Clover",
+        "County":"York",
+        "ZipCode":"29710",
+        "Latitude":35.1065,
+        "Longitude":-81.2201
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fort Mill",
+        "County":"York",
+        "ZipCode":"29715",
+        "Latitude":35.0108,
+        "Longitude":-80.9266
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Fort Mill",
+        "County":"York",
+        "ZipCode":"29716",
+        "Latitude":35.0074,
+        "Longitude":-80.9451
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Hickory Grove",
+        "County":"York",
+        "ZipCode":"29717",
+        "Latitude":34.9708,
+        "Longitude":-81.4306
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Mc Connells",
+        "County":"York",
+        "ZipCode":"29726",
+        "Latitude":34.8677,
+        "Longitude":-81.2368
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rock Hill",
+        "County":"York",
+        "ZipCode":"29730",
+        "Latitude":34.9151,
+        "Longitude":-81.0129
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rock Hill",
+        "County":"York",
+        "ZipCode":"29731",
+        "Latitude":34.9926,
+        "Longitude":-81.1787
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rock Hill",
+        "County":"York",
+        "ZipCode":"29732",
+        "Latitude":34.9681,
+        "Longitude":-81.0489
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rock Hill",
+        "County":"York",
+        "ZipCode":"29733",
+        "Latitude":34.9926,
+        "Longitude":-81.1787
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Rock Hill",
+        "County":"York",
+        "ZipCode":"29734",
+        "Latitude":34.9926,
+        "Longitude":-81.1787
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Sharon",
+        "County":"York",
+        "ZipCode":"29742",
+        "Latitude":34.9084,
+        "Longitude":-81.3729
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"Smyrna",
+        "County":"York",
+        "ZipCode":"29743",
+        "Latitude":35.0308,
+        "Longitude":-81.3896
+    },
+    {
+        "State":"South Carolina",
+        "StateAbbr":"SC",
+        "City":"York",
+        "County":"York",
+        "ZipCode":"29745",
+        "Latitude":34.9947,
+        "Longitude":-81.2245
+    }
+]

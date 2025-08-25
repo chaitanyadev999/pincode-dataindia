@@ -1,0 +1,6509 @@
+[
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hammonton",
+        "County":"Atlantic",
+        "ZipCode":"08037",
+        "Latitude":39.638,
+        "Longitude":-74.7728
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Absecon",
+        "County":"Atlantic",
+        "ZipCode":"08201",
+        "Latitude":39.4218,
+        "Longitude":-74.4949
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Brigantine",
+        "County":"Atlantic",
+        "ZipCode":"08203",
+        "Latitude":39.4101,
+        "Longitude":-74.3646
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Absecon",
+        "County":"Atlantic",
+        "ZipCode":"08205",
+        "Latitude":39.4745,
+        "Longitude":-74.4575
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cologne",
+        "County":"Atlantic",
+        "ZipCode":"08213",
+        "Latitude":39.5092,
+        "Longitude":-74.6086
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Egg Harbor City",
+        "County":"Atlantic",
+        "ZipCode":"08215",
+        "Latitude":39.5331,
+        "Longitude":-74.6177
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elwood",
+        "County":"Atlantic",
+        "ZipCode":"08217",
+        "Latitude":39.5737,
+        "Longitude":-74.72
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Leeds Point",
+        "County":"Atlantic",
+        "ZipCode":"08220",
+        "Latitude":39.4921,
+        "Longitude":-74.429
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Linwood",
+        "County":"Atlantic",
+        "ZipCode":"08221",
+        "Latitude":39.3469,
+        "Longitude":-74.5807
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Northfield",
+        "County":"Atlantic",
+        "ZipCode":"08225",
+        "Latitude":39.3703,
+        "Longitude":-74.5552
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oceanville",
+        "County":"Atlantic",
+        "ZipCode":"08231",
+        "Latitude":39.4712,
+        "Longitude":-74.4604
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pleasantville",
+        "County":"Atlantic",
+        "ZipCode":"08232",
+        "Latitude":39.3876,
+        "Longitude":-74.5149
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Egg Harbor Township",
+        "County":"Atlantic",
+        "ZipCode":"08234",
+        "Latitude":39.3741,
+        "Longitude":-74.6118
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pomona",
+        "County":"Atlantic",
+        "ZipCode":"08240",
+        "Latitude":39.4877,
+        "Longitude":-74.5543
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Port Republic",
+        "County":"Atlantic",
+        "ZipCode":"08241",
+        "Latitude":39.5272,
+        "Longitude":-74.4903
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Somers Point",
+        "County":"Atlantic",
+        "ZipCode":"08244",
+        "Latitude":39.3223,
+        "Longitude":-74.6008
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Buena",
+        "County":"Atlantic",
+        "ZipCode":"08310",
+        "Latitude":39.537,
+        "Longitude":-74.8895
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dorothy",
+        "County":"Atlantic",
+        "ZipCode":"08317",
+        "Latitude":39.4031,
+        "Longitude":-74.8316
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Estell Manor",
+        "County":"Atlantic",
+        "ZipCode":"08319",
+        "Latitude":39.3783,
+        "Longitude":-74.8165
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Landisville",
+        "County":"Atlantic",
+        "ZipCode":"08326",
+        "Latitude":39.5239,
+        "Longitude":-74.9377
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mays Landing",
+        "County":"Atlantic",
+        "ZipCode":"08330",
+        "Latitude":39.432,
+        "Longitude":-74.6962
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Milmay",
+        "County":"Atlantic",
+        "ZipCode":"08340",
+        "Latitude":39.4451,
+        "Longitude":-74.8667
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Minotola",
+        "County":"Atlantic",
+        "ZipCode":"08341",
+        "Latitude":39.5155,
+        "Longitude":-74.9467
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mizpah",
+        "County":"Atlantic",
+        "ZipCode":"08342",
+        "Latitude":39.5021,
+        "Longitude":-74.8335
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newtonville",
+        "County":"Atlantic",
+        "ZipCode":"08346",
+        "Latitude":39.5645,
+        "Longitude":-74.859
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Richland",
+        "County":"Atlantic",
+        "ZipCode":"08350",
+        "Latitude":39.485,
+        "Longitude":-74.8776
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Atlantic City",
+        "County":"Atlantic",
+        "ZipCode":"08401",
+        "Latitude":39.3664,
+        "Longitude":-74.4317
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Margate City",
+        "County":"Atlantic",
+        "ZipCode":"08402",
+        "Latitude":39.3286,
+        "Longitude":-74.509
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Longport",
+        "County":"Atlantic",
+        "ZipCode":"08403",
+        "Latitude":39.3194,
+        "Longitude":-74.5356
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Atlantic City",
+        "County":"Atlantic",
+        "ZipCode":"08404",
+        "Latitude":39.3643,
+        "Longitude":-74.4229
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Atlantic City",
+        "County":"Atlantic",
+        "ZipCode":"08405",
+        "Latitude":39.3643,
+        "Longitude":-74.4229
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ventnor City",
+        "County":"Atlantic",
+        "ZipCode":"08406",
+        "Latitude":39.346,
+        "Longitude":-74.4723
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cliffside Park",
+        "County":"Bergen",
+        "ZipCode":"07010",
+        "Latitude":40.8222,
+        "Longitude":-73.988
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Edgewater",
+        "County":"Bergen",
+        "ZipCode":"07020",
+        "Latitude":40.8317,
+        "Longitude":-73.9738
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fairview",
+        "County":"Bergen",
+        "ZipCode":"07022",
+        "Latitude":40.817,
+        "Longitude":-74.0
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fort Lee",
+        "County":"Bergen",
+        "ZipCode":"07024",
+        "Latitude":40.8503,
+        "Longitude":-73.9745
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Garfield",
+        "County":"Bergen",
+        "ZipCode":"07026",
+        "Latitude":40.8789,
+        "Longitude":-74.1081
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"North Arlington",
+        "County":"Bergen",
+        "ZipCode":"07031",
+        "Latitude":40.7898,
+        "Longitude":-74.1343
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wallington",
+        "County":"Bergen",
+        "ZipCode":"07057",
+        "Latitude":40.8536,
+        "Longitude":-74.1079
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rutherford",
+        "County":"Bergen",
+        "ZipCode":"07070",
+        "Latitude":40.8292,
+        "Longitude":-74.1121
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lyndhurst",
+        "County":"Bergen",
+        "ZipCode":"07071",
+        "Latitude":40.8094,
+        "Longitude":-74.1245
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Carlstadt",
+        "County":"Bergen",
+        "ZipCode":"07072",
+        "Latitude":40.8403,
+        "Longitude":-74.0925
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"East Rutherford",
+        "County":"Bergen",
+        "ZipCode":"07073",
+        "Latitude":40.8385,
+        "Longitude":-74.1041
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Moonachie",
+        "County":"Bergen",
+        "ZipCode":"07074",
+        "Latitude":40.8394,
+        "Longitude":-74.0566
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wood Ridge",
+        "County":"Bergen",
+        "ZipCode":"07075",
+        "Latitude":40.8493,
+        "Longitude":-74.0878
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Allendale",
+        "County":"Bergen",
+        "ZipCode":"07401",
+        "Latitude":41.0327,
+        "Longitude":-74.1342
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elmwood Park",
+        "County":"Bergen",
+        "ZipCode":"07407",
+        "Latitude":40.9069,
+        "Longitude":-74.1209
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fair Lawn",
+        "County":"Bergen",
+        "ZipCode":"07410",
+        "Latitude":40.9343,
+        "Longitude":-74.1166
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Franklin Lakes",
+        "County":"Bergen",
+        "ZipCode":"07417",
+        "Latitude":41.0081,
+        "Longitude":-74.2113
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ho Ho Kus",
+        "County":"Bergen",
+        "ZipCode":"07423",
+        "Latitude":41.0004,
+        "Longitude":-74.1025
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mahwah",
+        "County":"Bergen",
+        "ZipCode":"07430",
+        "Latitude":41.0817,
+        "Longitude":-74.1861
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Midland Park",
+        "County":"Bergen",
+        "ZipCode":"07432",
+        "Latitude":40.9957,
+        "Longitude":-74.1409
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oakland",
+        "County":"Bergen",
+        "ZipCode":"07436",
+        "Latitude":41.0294,
+        "Longitude":-74.2338
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ramsey",
+        "County":"Bergen",
+        "ZipCode":"07446",
+        "Latitude":41.0577,
+        "Longitude":-74.1445
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ridgewood",
+        "County":"Bergen",
+        "ZipCode":"07450",
+        "Latitude":40.982,
+        "Longitude":-74.1131
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ridgewood",
+        "County":"Bergen",
+        "ZipCode":"07451",
+        "Latitude":40.9793,
+        "Longitude":-74.1165
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glen Rock",
+        "County":"Bergen",
+        "ZipCode":"07452",
+        "Latitude":40.9602,
+        "Longitude":-74.1254
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Saddle River",
+        "County":"Bergen",
+        "ZipCode":"07458",
+        "Latitude":41.0443,
+        "Longitude":-74.0981
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Waldwick",
+        "County":"Bergen",
+        "ZipCode":"07463",
+        "Latitude":41.013,
+        "Longitude":-74.1243
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wyckoff",
+        "County":"Bergen",
+        "ZipCode":"07481",
+        "Latitude":40.9978,
+        "Longitude":-74.166
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mahwah",
+        "County":"Bergen",
+        "ZipCode":"07495",
+        "Latitude":41.1039,
+        "Longitude":-74.1644
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hackensack",
+        "County":"Bergen",
+        "ZipCode":"07601",
+        "Latitude":40.8882,
+        "Longitude":-74.0503
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hackensack",
+        "County":"Bergen",
+        "ZipCode":"07602",
+        "Latitude":40.8859,
+        "Longitude":-74.0435
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bogota",
+        "County":"Bergen",
+        "ZipCode":"07603",
+        "Latitude":40.8744,
+        "Longitude":-74.0281
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hasbrouck Heights",
+        "County":"Bergen",
+        "ZipCode":"07604",
+        "Latitude":40.8623,
+        "Longitude":-74.0756
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Leonia",
+        "County":"Bergen",
+        "ZipCode":"07605",
+        "Latitude":40.8629,
+        "Longitude":-73.9879
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Hackensack",
+        "County":"Bergen",
+        "ZipCode":"07606",
+        "Latitude":40.8634,
+        "Longitude":-74.0456
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Maywood",
+        "County":"Bergen",
+        "ZipCode":"07607",
+        "Latitude":40.9024,
+        "Longitude":-74.0629
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Teterboro",
+        "County":"Bergen",
+        "ZipCode":"07608",
+        "Latitude":40.864,
+        "Longitude":-74.0556
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Alpine",
+        "County":"Bergen",
+        "ZipCode":"07620",
+        "Latitude":40.9511,
+        "Longitude":-73.9308
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bergenfield",
+        "County":"Bergen",
+        "ZipCode":"07621",
+        "Latitude":40.9238,
+        "Longitude":-73.9989
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Closter",
+        "County":"Bergen",
+        "ZipCode":"07624",
+        "Latitude":40.9721,
+        "Longitude":-73.959
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cresskill",
+        "County":"Bergen",
+        "ZipCode":"07626",
+        "Latitude":40.9418,
+        "Longitude":-73.9652
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Demarest",
+        "County":"Bergen",
+        "ZipCode":"07627",
+        "Latitude":40.9548,
+        "Longitude":-73.9602
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dumont",
+        "County":"Bergen",
+        "ZipCode":"07628",
+        "Latitude":40.9447,
+        "Longitude":-73.9921
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Emerson",
+        "County":"Bergen",
+        "ZipCode":"07630",
+        "Latitude":40.9755,
+        "Longitude":-74.0285
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Englewood",
+        "County":"Bergen",
+        "ZipCode":"07631",
+        "Latitude":40.8943,
+        "Longitude":-73.9772
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Englewood Cliffs",
+        "County":"Bergen",
+        "ZipCode":"07632",
+        "Latitude":40.882,
+        "Longitude":-73.9544
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Harrington Park",
+        "County":"Bergen",
+        "ZipCode":"07640",
+        "Latitude":40.9918,
+        "Longitude":-73.98
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Haworth",
+        "County":"Bergen",
+        "ZipCode":"07641",
+        "Latitude":40.9608,
+        "Longitude":-73.9874
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hillsdale",
+        "County":"Bergen",
+        "ZipCode":"07642",
+        "Latitude":41.0069,
+        "Longitude":-74.0426
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Little Ferry",
+        "County":"Bergen",
+        "ZipCode":"07643",
+        "Latitude":40.8493,
+        "Longitude":-74.0405
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lodi",
+        "County":"Bergen",
+        "ZipCode":"07644",
+        "Latitude":40.8764,
+        "Longitude":-74.0838
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Montvale",
+        "County":"Bergen",
+        "ZipCode":"07645",
+        "Latitude":41.0495,
+        "Longitude":-74.0384
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Milford",
+        "County":"Bergen",
+        "ZipCode":"07646",
+        "Latitude":40.9331,
+        "Longitude":-74.0195
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Northvale",
+        "County":"Bergen",
+        "ZipCode":"07647",
+        "Latitude":41.0086,
+        "Longitude":-73.9389
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Norwood",
+        "County":"Bergen",
+        "ZipCode":"07648",
+        "Latitude":40.9952,
+        "Longitude":-73.9582
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oradell",
+        "County":"Bergen",
+        "ZipCode":"07649",
+        "Latitude":40.9535,
+        "Longitude":-74.0335
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Palisades Park",
+        "County":"Bergen",
+        "ZipCode":"07650",
+        "Latitude":40.8462,
+        "Longitude":-73.9954
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paramus",
+        "County":"Bergen",
+        "ZipCode":"07652",
+        "Latitude":40.9477,
+        "Longitude":-74.0672
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paramus",
+        "County":"Bergen",
+        "ZipCode":"07653",
+        "Latitude":40.9481,
+        "Longitude":-74.0832
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Park Ridge",
+        "County":"Bergen",
+        "ZipCode":"07656",
+        "Latitude":41.0343,
+        "Longitude":-74.0396
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ridgefield",
+        "County":"Bergen",
+        "ZipCode":"07657",
+        "Latitude":40.8326,
+        "Longitude":-74.0015
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ridgefield Park",
+        "County":"Bergen",
+        "ZipCode":"07660",
+        "Latitude":40.8562,
+        "Longitude":-74.023
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"River Edge",
+        "County":"Bergen",
+        "ZipCode":"07661",
+        "Latitude":40.9265,
+        "Longitude":-74.0392
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rochelle Park",
+        "County":"Bergen",
+        "ZipCode":"07662",
+        "Latitude":40.9057,
+        "Longitude":-74.079
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Saddle Brook",
+        "County":"Bergen",
+        "ZipCode":"07663",
+        "Latitude":40.9031,
+        "Longitude":-74.0955
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Teaneck",
+        "County":"Bergen",
+        "ZipCode":"07666",
+        "Latitude":40.8915,
+        "Longitude":-74.0119
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Tenafly",
+        "County":"Bergen",
+        "ZipCode":"07670",
+        "Latitude":40.9216,
+        "Longitude":-73.9659
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Westwood",
+        "County":"Bergen",
+        "ZipCode":"07675",
+        "Latitude":41.0092,
+        "Longitude":-74.0041
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Township Of Washington",
+        "County":"Bergen",
+        "ZipCode":"07676",
+        "Latitude":40.9883,
+        "Longitude":-74.0635
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Woodcliff Lake",
+        "County":"Bergen",
+        "ZipCode":"07677",
+        "Latitude":41.0234,
+        "Longitude":-74.0603
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Teterboro",
+        "County":"Bergen",
+        "ZipCode":"07699",
+        "Latitude":40.8463,
+        "Longitude":-74.0611
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Beverly",
+        "County":"Burlington",
+        "ZipCode":"08010",
+        "Latitude":40.0565,
+        "Longitude":-74.9114
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Birmingham",
+        "County":"Burlington",
+        "ZipCode":"08011",
+        "Latitude":39.976,
+        "Longitude":-74.7114
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Browns Mills",
+        "County":"Burlington",
+        "ZipCode":"08015",
+        "Latitude":39.9597,
+        "Longitude":-74.5655
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Burlington",
+        "County":"Burlington",
+        "ZipCode":"08016",
+        "Latitude":40.068,
+        "Longitude":-74.8454
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Chatsworth",
+        "County":"Burlington",
+        "ZipCode":"08019",
+        "Latitude":39.8019,
+        "Longitude":-74.5256
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Columbus",
+        "County":"Burlington",
+        "ZipCode":"08022",
+        "Latitude":40.0642,
+        "Longitude":-74.6899
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hainesport",
+        "County":"Burlington",
+        "ZipCode":"08036",
+        "Latitude":39.9872,
+        "Longitude":-74.8293
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jobstown",
+        "County":"Burlington",
+        "ZipCode":"08041",
+        "Latitude":40.0387,
+        "Longitude":-74.6873
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Juliustown",
+        "County":"Burlington",
+        "ZipCode":"08042",
+        "Latitude":40.0123,
+        "Longitude":-74.6646
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Willingboro",
+        "County":"Burlington",
+        "ZipCode":"08046",
+        "Latitude":40.029,
+        "Longitude":-74.8835
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lumberton",
+        "County":"Burlington",
+        "ZipCode":"08048",
+        "Latitude":39.9651,
+        "Longitude":-74.8067
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Maple Shade",
+        "County":"Burlington",
+        "ZipCode":"08052",
+        "Latitude":39.9511,
+        "Longitude":-74.9946
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Marlton",
+        "County":"Burlington",
+        "ZipCode":"08053",
+        "Latitude":39.8845,
+        "Longitude":-74.9067
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Laurel",
+        "County":"Burlington",
+        "ZipCode":"08054",
+        "Latitude":39.9478,
+        "Longitude":-74.9036
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Medford",
+        "County":"Burlington",
+        "ZipCode":"08055",
+        "Latitude":39.8637,
+        "Longitude":-74.8223
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Moorestown",
+        "County":"Burlington",
+        "ZipCode":"08057",
+        "Latitude":39.9683,
+        "Longitude":-74.9533
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Holly",
+        "County":"Burlington",
+        "ZipCode":"08060",
+        "Latitude":40.0086,
+        "Longitude":-74.7896
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Lisbon",
+        "County":"Burlington",
+        "ZipCode":"08064",
+        "Latitude":39.9582,
+        "Longitude":-74.6279
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Palmyra",
+        "County":"Burlington",
+        "ZipCode":"08065",
+        "Latitude":40.0037,
+        "Longitude":-75.0257
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pemberton",
+        "County":"Burlington",
+        "ZipCode":"08068",
+        "Latitude":39.9712,
+        "Longitude":-74.6676
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rancocas",
+        "County":"Burlington",
+        "ZipCode":"08073",
+        "Latitude":40.0095,
+        "Longitude":-74.8668
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Riverside",
+        "County":"Burlington",
+        "ZipCode":"08075",
+        "Latitude":40.0293,
+        "Longitude":-74.9497
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Riverton",
+        "County":"Burlington",
+        "ZipCode":"08076",
+        "Latitude":40.0115,
+        "Longitude":-75.0149
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Riverton",
+        "County":"Burlington",
+        "ZipCode":"08077",
+        "Latitude":40.002,
+        "Longitude":-74.9952
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vincentown",
+        "County":"Burlington",
+        "ZipCode":"08088",
+        "Latitude":39.8604,
+        "Longitude":-74.6693
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Gretna",
+        "County":"Burlington",
+        "ZipCode":"08224",
+        "Latitude":39.5923,
+        "Longitude":-74.451
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bordentown",
+        "County":"Burlington",
+        "ZipCode":"08505",
+        "Latitude":40.1431,
+        "Longitude":-74.7032
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cookstown",
+        "County":"Burlington",
+        "ZipCode":"08511",
+        "Latitude":40.0481,
+        "Longitude":-74.5595
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Chesterfield",
+        "County":"Burlington",
+        "ZipCode":"08515",
+        "Latitude":40.1151,
+        "Longitude":-74.6393
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Florence",
+        "County":"Burlington",
+        "ZipCode":"08518",
+        "Latitude":40.118,
+        "Longitude":-74.8055
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Roebling",
+        "County":"Burlington",
+        "ZipCode":"08554",
+        "Latitude":40.1154,
+        "Longitude":-74.7772
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wrightstown",
+        "County":"Burlington",
+        "ZipCode":"08562",
+        "Latitude":40.072,
+        "Longitude":-74.5731
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Joint Base Mdl",
+        "County":"Burlington",
+        "ZipCode":"08640",
+        "Latitude":40.2171,
+        "Longitude":-74.7429
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Joint Base Mdl",
+        "County":"Burlington",
+        "ZipCode":"08641",
+        "Latitude":40.2171,
+        "Longitude":-74.7429
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cherry Hill",
+        "County":"Camden",
+        "ZipCode":"08002",
+        "Latitude":39.9308,
+        "Longitude":-75.0175
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cherry Hill",
+        "County":"Camden",
+        "ZipCode":"08003",
+        "Latitude":39.8805,
+        "Longitude":-74.9706
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Atco",
+        "County":"Camden",
+        "ZipCode":"08004",
+        "Latitude":39.76,
+        "Longitude":-74.8665
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Barrington",
+        "County":"Camden",
+        "ZipCode":"08007",
+        "Latitude":39.8651,
+        "Longitude":-75.0564
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Berlin",
+        "County":"Camden",
+        "ZipCode":"08009",
+        "Latitude":39.7788,
+        "Longitude":-74.9308
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Blackwood",
+        "County":"Camden",
+        "ZipCode":"08012",
+        "Latitude":39.7901,
+        "Longitude":-75.0367
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cedar Brook",
+        "County":"Camden",
+        "ZipCode":"08018",
+        "Latitude":39.7154,
+        "Longitude":-74.9007
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clementon",
+        "County":"Camden",
+        "ZipCode":"08021",
+        "Latitude":39.8036,
+        "Longitude":-75.0058
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Gibbsboro",
+        "County":"Camden",
+        "ZipCode":"08026",
+        "Latitude":39.8365,
+        "Longitude":-74.971
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glendora",
+        "County":"Camden",
+        "ZipCode":"08029",
+        "Latitude":39.8404,
+        "Longitude":-75.0697
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Gloucester City",
+        "County":"Camden",
+        "ZipCode":"08030",
+        "Latitude":39.8911,
+        "Longitude":-75.117
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bellmawr",
+        "County":"Camden",
+        "ZipCode":"08031",
+        "Latitude":39.8689,
+        "Longitude":-75.0944
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Haddonfield",
+        "County":"Camden",
+        "ZipCode":"08033",
+        "Latitude":39.8954,
+        "Longitude":-75.0417
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cherry Hill",
+        "County":"Camden",
+        "ZipCode":"08034",
+        "Latitude":39.9074,
+        "Longitude":-75.0008
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Haddon Heights",
+        "County":"Camden",
+        "ZipCode":"08035",
+        "Latitude":39.8788,
+        "Longitude":-75.0664
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Voorhees",
+        "County":"Camden",
+        "ZipCode":"08043",
+        "Latitude":39.8504,
+        "Longitude":-74.9646
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lawnside",
+        "County":"Camden",
+        "ZipCode":"08045",
+        "Latitude":39.8676,
+        "Longitude":-75.0317
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Magnolia",
+        "County":"Camden",
+        "ZipCode":"08049",
+        "Latitude":39.8538,
+        "Longitude":-75.0393
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Ephraim",
+        "County":"Camden",
+        "ZipCode":"08059",
+        "Latitude":39.8827,
+        "Longitude":-75.0929
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Runnemede",
+        "County":"Camden",
+        "ZipCode":"08078",
+        "Latitude":39.8508,
+        "Longitude":-75.0742
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sicklerville",
+        "County":"Camden",
+        "ZipCode":"08081",
+        "Latitude":39.7354,
+        "Longitude":-74.9864
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Somerdale",
+        "County":"Camden",
+        "ZipCode":"08083",
+        "Latitude":39.84,
+        "Longitude":-75.0309
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stratford",
+        "County":"Camden",
+        "ZipCode":"08084",
+        "Latitude":39.8288,
+        "Longitude":-75.0147
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Waterford Works",
+        "County":"Camden",
+        "ZipCode":"08089",
+        "Latitude":39.7215,
+        "Longitude":-74.8609
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"West Berlin",
+        "County":"Camden",
+        "ZipCode":"08091",
+        "Latitude":39.8051,
+        "Longitude":-74.9255
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Winslow",
+        "County":"Camden",
+        "ZipCode":"08095",
+        "Latitude":39.6549,
+        "Longitude":-74.8685
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bellmawr",
+        "County":"Camden",
+        "ZipCode":"08099",
+        "Latitude":39.8676,
+        "Longitude":-75.0946
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Camden",
+        "County":"Camden",
+        "ZipCode":"08101",
+        "Latitude":39.9259,
+        "Longitude":-75.1196
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Camden",
+        "County":"Camden",
+        "ZipCode":"08102",
+        "Latitude":39.9512,
+        "Longitude":-75.1186
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Camden",
+        "County":"Camden",
+        "ZipCode":"08103",
+        "Latitude":39.9351,
+        "Longitude":-75.1117
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Camden",
+        "County":"Camden",
+        "ZipCode":"08104",
+        "Latitude":39.9186,
+        "Longitude":-75.1078
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Camden",
+        "County":"Camden",
+        "ZipCode":"08105",
+        "Latitude":39.9484,
+        "Longitude":-75.0864
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Audubon",
+        "County":"Camden",
+        "ZipCode":"08106",
+        "Latitude":39.891,
+        "Longitude":-75.0724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oaklyn",
+        "County":"Camden",
+        "ZipCode":"08107",
+        "Latitude":39.908,
+        "Longitude":-75.0849
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Collingswood",
+        "County":"Camden",
+        "ZipCode":"08108",
+        "Latitude":39.9157,
+        "Longitude":-75.0634
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Merchantville",
+        "County":"Camden",
+        "ZipCode":"08109",
+        "Latitude":39.9519,
+        "Longitude":-75.0482
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pennsauken",
+        "County":"Camden",
+        "ZipCode":"08110",
+        "Latitude":39.9723,
+        "Longitude":-75.0607
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Avalon",
+        "County":"Cape May",
+        "ZipCode":"08202",
+        "Latitude":39.0951,
+        "Longitude":-74.7262
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cape May",
+        "County":"Cape May",
+        "ZipCode":"08204",
+        "Latitude":38.9711,
+        "Longitude":-74.9214
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cape May Court House",
+        "County":"Cape May",
+        "ZipCode":"08210",
+        "Latitude":39.1378,
+        "Longitude":-74.7806
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cape May Point",
+        "County":"Cape May",
+        "ZipCode":"08212",
+        "Latitude":38.9372,
+        "Longitude":-74.9654
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dennisville",
+        "County":"Cape May",
+        "ZipCode":"08214",
+        "Latitude":39.1932,
+        "Longitude":-74.8252
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Goshen",
+        "County":"Cape May",
+        "ZipCode":"08218",
+        "Latitude":39.1415,
+        "Longitude":-74.8529
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Green Creek",
+        "County":"Cape May",
+        "ZipCode":"08219",
+        "Latitude":39.0462,
+        "Longitude":-74.9013
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Marmora",
+        "County":"Cape May",
+        "ZipCode":"08223",
+        "Latitude":39.2586,
+        "Longitude":-74.6593
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ocean City",
+        "County":"Cape May",
+        "ZipCode":"08226",
+        "Latitude":39.2709,
+        "Longitude":-74.5875
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ocean View",
+        "County":"Cape May",
+        "ZipCode":"08230",
+        "Latitude":39.2154,
+        "Longitude":-74.7075
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rio Grande",
+        "County":"Cape May",
+        "ZipCode":"08242",
+        "Latitude":39.0196,
+        "Longitude":-74.8756
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sea Isle City",
+        "County":"Cape May",
+        "ZipCode":"08243",
+        "Latitude":39.154,
+        "Longitude":-74.7005
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Dennis",
+        "County":"Cape May",
+        "ZipCode":"08245",
+        "Latitude":39.1,
+        "Longitude":-74.8487
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Seaville",
+        "County":"Cape May",
+        "ZipCode":"08246",
+        "Latitude":39.179,
+        "Longitude":-74.7599
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stone Harbor",
+        "County":"Cape May",
+        "ZipCode":"08247",
+        "Latitude":39.0533,
+        "Longitude":-74.762
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Strathmere",
+        "County":"Cape May",
+        "ZipCode":"08248",
+        "Latitude":39.1992,
+        "Longitude":-74.6554
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Tuckahoe",
+        "County":"Cape May",
+        "ZipCode":"08250",
+        "Latitude":39.2901,
+        "Longitude":-74.7538
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Villas",
+        "County":"Cape May",
+        "ZipCode":"08251",
+        "Latitude":39.0219,
+        "Longitude":-74.9354
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Whitesboro",
+        "County":"Cape May",
+        "ZipCode":"08252",
+        "Latitude":39.0421,
+        "Longitude":-74.8618
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wildwood",
+        "County":"Cape May",
+        "ZipCode":"08260",
+        "Latitude":38.9949,
+        "Longitude":-74.838
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Woodbine",
+        "County":"Cape May",
+        "ZipCode":"08270",
+        "Latitude":39.2716,
+        "Longitude":-74.7968
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bridgeton",
+        "County":"Cumberland",
+        "ZipCode":"08302",
+        "Latitude":39.3762,
+        "Longitude":-75.1617
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cedarville",
+        "County":"Cumberland",
+        "ZipCode":"08311",
+        "Latitude":39.337,
+        "Longitude":-75.1994
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Deerfield Street",
+        "County":"Cumberland",
+        "ZipCode":"08313",
+        "Latitude":39.5293,
+        "Longitude":-75.2249
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Delmont",
+        "County":"Cumberland",
+        "ZipCode":"08314",
+        "Latitude":39.2023,
+        "Longitude":-74.9705
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dividing Creek",
+        "County":"Cumberland",
+        "ZipCode":"08315",
+        "Latitude":39.2732,
+        "Longitude":-75.095
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dorchester",
+        "County":"Cumberland",
+        "ZipCode":"08316",
+        "Latitude":39.2679,
+        "Longitude":-74.9791
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fairton",
+        "County":"Cumberland",
+        "ZipCode":"08320",
+        "Latitude":39.3799,
+        "Longitude":-75.2217
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fortescue",
+        "County":"Cumberland",
+        "ZipCode":"08321",
+        "Latitude":39.2189,
+        "Longitude":-75.1403
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Greenwich",
+        "County":"Cumberland",
+        "ZipCode":"08323",
+        "Latitude":39.4055,
+        "Longitude":-75.3209
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Heislerville",
+        "County":"Cumberland",
+        "ZipCode":"08324",
+        "Latitude":39.224,
+        "Longitude":-74.9942
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Leesburg",
+        "County":"Cumberland",
+        "ZipCode":"08327",
+        "Latitude":39.2568,
+        "Longitude":-74.9874
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mauricetown",
+        "County":"Cumberland",
+        "ZipCode":"08329",
+        "Latitude":39.2853,
+        "Longitude":-74.9983
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Millville",
+        "County":"Cumberland",
+        "ZipCode":"08332",
+        "Latitude":39.3673,
+        "Longitude":-75.0293
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newport",
+        "County":"Cumberland",
+        "ZipCode":"08345",
+        "Latitude":39.2832,
+        "Longitude":-75.1716
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Port Elizabeth",
+        "County":"Cumberland",
+        "ZipCode":"08348",
+        "Latitude":39.3131,
+        "Longitude":-74.9807
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Port Norris",
+        "County":"Cumberland",
+        "ZipCode":"08349",
+        "Latitude":39.2563,
+        "Longitude":-75.0506
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rosenhayn",
+        "County":"Cumberland",
+        "ZipCode":"08352",
+        "Latitude":39.4782,
+        "Longitude":-75.1313
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Shiloh",
+        "County":"Cumberland",
+        "ZipCode":"08353",
+        "Latitude":39.4594,
+        "Longitude":-75.297
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vineland",
+        "County":"Cumberland",
+        "ZipCode":"08360",
+        "Latitude":39.4818,
+        "Longitude":-75.0091
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vineland",
+        "County":"Cumberland",
+        "ZipCode":"08361",
+        "Latitude":39.4655,
+        "Longitude":-74.9653
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vineland",
+        "County":"Cumberland",
+        "ZipCode":"08362",
+        "Latitude":39.4862,
+        "Longitude":-75.0257
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bloomfield",
+        "County":"Essex",
+        "ZipCode":"07003",
+        "Latitude":40.8035,
+        "Longitude":-74.1891
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fairfield",
+        "County":"Essex",
+        "ZipCode":"07004",
+        "Latitude":40.8822,
+        "Longitude":-74.296
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Caldwell",
+        "County":"Essex",
+        "ZipCode":"07006",
+        "Latitude":40.8545,
+        "Longitude":-74.2789
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Caldwell",
+        "County":"Essex",
+        "ZipCode":"07007",
+        "Latitude":40.8398,
+        "Longitude":-74.2765
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cedar Grove",
+        "County":"Essex",
+        "ZipCode":"07009",
+        "Latitude":40.8534,
+        "Longitude":-74.2297
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"East Orange",
+        "County":"Essex",
+        "ZipCode":"07017",
+        "Latitude":40.7696,
+        "Longitude":-74.2077
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"East Orange",
+        "County":"Essex",
+        "ZipCode":"07018",
+        "Latitude":40.7558,
+        "Longitude":-74.2198
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"East Orange",
+        "County":"Essex",
+        "ZipCode":"07019",
+        "Latitude":40.7673,
+        "Longitude":-74.2049
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Essex Fells",
+        "County":"Essex",
+        "ZipCode":"07021",
+        "Latitude":40.8279,
+        "Longitude":-74.2797
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glen Ridge",
+        "County":"Essex",
+        "ZipCode":"07028",
+        "Latitude":40.804,
+        "Longitude":-74.2055
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Livingston",
+        "County":"Essex",
+        "ZipCode":"07039",
+        "Latitude":40.7896,
+        "Longitude":-74.3202
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Maplewood",
+        "County":"Essex",
+        "ZipCode":"07040",
+        "Latitude":40.7279,
+        "Longitude":-74.2656
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Millburn",
+        "County":"Essex",
+        "ZipCode":"07041",
+        "Latitude":40.7228,
+        "Longitude":-74.3015
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Montclair",
+        "County":"Essex",
+        "ZipCode":"07042",
+        "Latitude":40.8131,
+        "Longitude":-74.2165
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Montclair",
+        "County":"Essex",
+        "ZipCode":"07043",
+        "Latitude":40.843,
+        "Longitude":-74.2011
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Verona",
+        "County":"Essex",
+        "ZipCode":"07044",
+        "Latitude":40.8319,
+        "Longitude":-74.2428
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Orange",
+        "County":"Essex",
+        "ZipCode":"07050",
+        "Latitude":40.7692,
+        "Longitude":-74.2355
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Orange",
+        "County":"Essex",
+        "ZipCode":"07051",
+        "Latitude":40.7918,
+        "Longitude":-74.2452
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"West Orange",
+        "County":"Essex",
+        "ZipCode":"07052",
+        "Latitude":40.7859,
+        "Longitude":-74.2568
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Roseland",
+        "County":"Essex",
+        "ZipCode":"07068",
+        "Latitude":40.8203,
+        "Longitude":-74.3047
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Short Hills",
+        "County":"Essex",
+        "ZipCode":"07078",
+        "Latitude":40.7368,
+        "Longitude":-74.3271
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Orange",
+        "County":"Essex",
+        "ZipCode":"07079",
+        "Latitude":40.7465,
+        "Longitude":-74.2575
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07101",
+        "Latitude":40.7361,
+        "Longitude":-74.2251
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07102",
+        "Latitude":40.732,
+        "Longitude":-74.1765
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07103",
+        "Latitude":40.737,
+        "Longitude":-74.1964
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07104",
+        "Latitude":40.7664,
+        "Longitude":-74.1695
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07105",
+        "Latitude":40.7271,
+        "Longitude":-74.1563
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07106",
+        "Latitude":40.7415,
+        "Longitude":-74.233
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07107",
+        "Latitude":40.7607,
+        "Longitude":-74.1882
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07108",
+        "Latitude":40.7236,
+        "Longitude":-74.2015
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Belleville",
+        "County":"Essex",
+        "ZipCode":"07109",
+        "Latitude":40.7946,
+        "Longitude":-74.1631
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Nutley",
+        "County":"Essex",
+        "ZipCode":"07110",
+        "Latitude":40.8185,
+        "Longitude":-74.1589
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Irvington",
+        "County":"Essex",
+        "ZipCode":"07111",
+        "Latitude":40.7261,
+        "Longitude":-74.2313
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07112",
+        "Latitude":40.7107,
+        "Longitude":-74.2131
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07114",
+        "Latitude":40.7082,
+        "Longitude":-74.1891
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07175",
+        "Latitude":40.7357,
+        "Longitude":-74.1724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07184",
+        "Latitude":40.7918,
+        "Longitude":-74.2452
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07188",
+        "Latitude":40.7357,
+        "Longitude":-74.1724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07189",
+        "Latitude":40.7918,
+        "Longitude":-74.2452
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07191",
+        "Latitude":40.7918,
+        "Longitude":-74.2452
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07192",
+        "Latitude":40.7357,
+        "Longitude":-74.1724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07193",
+        "Latitude":40.7357,
+        "Longitude":-74.1724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07195",
+        "Latitude":40.7357,
+        "Longitude":-74.1724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07198",
+        "Latitude":40.7918,
+        "Longitude":-74.2452
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newark",
+        "County":"Essex",
+        "ZipCode":"07199",
+        "Latitude":40.7357,
+        "Longitude":-74.1724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bridgeport",
+        "County":"Gloucester",
+        "ZipCode":"08014",
+        "Latitude":39.8016,
+        "Longitude":-75.3478
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clarksboro",
+        "County":"Gloucester",
+        "ZipCode":"08020",
+        "Latitude":39.7992,
+        "Longitude":-75.2237
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ewan",
+        "County":"Gloucester",
+        "ZipCode":"08025",
+        "Latitude":39.7015,
+        "Longitude":-75.1629
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Gibbstown",
+        "County":"Gloucester",
+        "ZipCode":"08027",
+        "Latitude":39.8231,
+        "Longitude":-75.2751
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glassboro",
+        "County":"Gloucester",
+        "ZipCode":"08028",
+        "Latitude":39.7068,
+        "Longitude":-75.1172
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Grenloch",
+        "County":"Gloucester",
+        "ZipCode":"08032",
+        "Latitude":39.7788,
+        "Longitude":-75.0601
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Harrisonville",
+        "County":"Gloucester",
+        "ZipCode":"08039",
+        "Latitude":39.6931,
+        "Longitude":-75.2711
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mantua",
+        "County":"Gloucester",
+        "ZipCode":"08051",
+        "Latitude":39.787,
+        "Longitude":-75.1785
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mickleton",
+        "County":"Gloucester",
+        "ZipCode":"08056",
+        "Latitude":39.7857,
+        "Longitude":-75.2498
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Royal",
+        "County":"Gloucester",
+        "ZipCode":"08061",
+        "Latitude":39.8097,
+        "Longitude":-75.2082
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mullica Hill",
+        "County":"Gloucester",
+        "ZipCode":"08062",
+        "Latitude":39.7252,
+        "Longitude":-75.2065
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"National Park",
+        "County":"Gloucester",
+        "ZipCode":"08063",
+        "Latitude":39.8664,
+        "Longitude":-75.1794
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paulsboro",
+        "County":"Gloucester",
+        "ZipCode":"08066",
+        "Latitude":39.8312,
+        "Longitude":-75.2242
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pitman",
+        "County":"Gloucester",
+        "ZipCode":"08071",
+        "Latitude":39.7312,
+        "Longitude":-75.1297
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Richwood",
+        "County":"Gloucester",
+        "ZipCode":"08074",
+        "Latitude":39.7206,
+        "Longitude":-75.1681
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sewell",
+        "County":"Gloucester",
+        "ZipCode":"08080",
+        "Latitude":39.7473,
+        "Longitude":-75.0899
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Swedesboro",
+        "County":"Gloucester",
+        "ZipCode":"08085",
+        "Latitude":39.7529,
+        "Longitude":-75.3362
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Thorofare",
+        "County":"Gloucester",
+        "ZipCode":"08086",
+        "Latitude":39.8457,
+        "Longitude":-75.1943
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wenonah",
+        "County":"Gloucester",
+        "ZipCode":"08090",
+        "Latitude":39.7993,
+        "Longitude":-75.1536
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Westville",
+        "County":"Gloucester",
+        "ZipCode":"08093",
+        "Latitude":39.8605,
+        "Longitude":-75.1323
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Williamstown",
+        "County":"Gloucester",
+        "ZipCode":"08094",
+        "Latitude":39.665,
+        "Longitude":-74.971
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Deptford",
+        "County":"Gloucester",
+        "ZipCode":"08096",
+        "Latitude":39.7539,
+        "Longitude":-74.996
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Woodbury Heights",
+        "County":"Gloucester",
+        "ZipCode":"08097",
+        "Latitude":39.8142,
+        "Longitude":-75.153
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clayton",
+        "County":"Gloucester",
+        "ZipCode":"08312",
+        "Latitude":39.659,
+        "Longitude":-75.0942
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Franklinville",
+        "County":"Gloucester",
+        "ZipCode":"08322",
+        "Latitude":39.6156,
+        "Longitude":-75.0409
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Malaga",
+        "County":"Gloucester",
+        "ZipCode":"08328",
+        "Latitude":39.5755,
+        "Longitude":-75.0582
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Monroeville",
+        "County":"Gloucester",
+        "ZipCode":"08343",
+        "Latitude":39.6442,
+        "Longitude":-75.1568
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newfield",
+        "County":"Gloucester",
+        "ZipCode":"08344",
+        "Latitude":39.5553,
+        "Longitude":-75.0276
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bayonne",
+        "County":"Hudson",
+        "ZipCode":"07002",
+        "Latitude":40.6664,
+        "Longitude":-74.1192
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Harrison",
+        "County":"Hudson",
+        "ZipCode":"07029",
+        "Latitude":40.7445,
+        "Longitude":-74.1508
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hoboken",
+        "County":"Hudson",
+        "ZipCode":"07030",
+        "Latitude":40.7445,
+        "Longitude":-74.0329
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Kearny",
+        "County":"Hudson",
+        "ZipCode":"07032",
+        "Latitude":40.7647,
+        "Longitude":-74.1471
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"North Bergen",
+        "County":"Hudson",
+        "ZipCode":"07047",
+        "Latitude":40.7939,
+        "Longitude":-74.0258
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Weehawken",
+        "County":"Hudson",
+        "ZipCode":"07086",
+        "Latitude":40.7681,
+        "Longitude":-74.0208
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Union City",
+        "County":"Hudson",
+        "ZipCode":"07087",
+        "Latitude":40.7674,
+        "Longitude":-74.0323
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"West New York",
+        "County":"Hudson",
+        "ZipCode":"07093",
+        "Latitude":40.7888,
+        "Longitude":-74.0115
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Secaucus",
+        "County":"Hudson",
+        "ZipCode":"07094",
+        "Latitude":40.791,
+        "Longitude":-74.0634
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Secaucus",
+        "County":"Hudson",
+        "ZipCode":"07096",
+        "Latitude":40.7328,
+        "Longitude":-74.0755
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07097",
+        "Latitude":40.7328,
+        "Longitude":-74.0755
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Kearny",
+        "County":"Hudson",
+        "ZipCode":"07099",
+        "Latitude":40.7328,
+        "Longitude":-74.0755
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07302",
+        "Latitude":40.7221,
+        "Longitude":-74.0469
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07303",
+        "Latitude":40.7328,
+        "Longitude":-74.0755
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07304",
+        "Latitude":40.718,
+        "Longitude":-74.0754
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07305",
+        "Latitude":40.702,
+        "Longitude":-74.089
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07306",
+        "Latitude":40.7321,
+        "Longitude":-74.066
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07307",
+        "Latitude":40.7482,
+        "Longitude":-74.0498
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07308",
+        "Latitude":40.7328,
+        "Longitude":-74.0755
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07310",
+        "Latitude":40.7324,
+        "Longitude":-74.0431
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07311",
+        "Latitude":40.7323,
+        "Longitude":-74.0754
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07395",
+        "Latitude":40.7279,
+        "Longitude":-74.078
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jersey City",
+        "County":"Hudson",
+        "ZipCode":"07399",
+        "Latitude":40.7323,
+        "Longitude":-74.0754
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Califon",
+        "County":"Hunterdon",
+        "ZipCode":"07830",
+        "Latitude":40.7162,
+        "Longitude":-74.8152
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pottersville",
+        "County":"Hunterdon",
+        "ZipCode":"07979",
+        "Latitude":40.7026,
+        "Longitude":-74.7276
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lambertville",
+        "County":"Hunterdon",
+        "ZipCode":"08530",
+        "Latitude":40.3731,
+        "Longitude":-74.9266
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ringoes",
+        "County":"Hunterdon",
+        "ZipCode":"08551",
+        "Latitude":40.4459,
+        "Longitude":-74.8288
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rosemont",
+        "County":"Hunterdon",
+        "ZipCode":"08556",
+        "Latitude":40.42,
+        "Longitude":-74.9886
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sergeantsville",
+        "County":"Hunterdon",
+        "ZipCode":"08557",
+        "Latitude":40.4459,
+        "Longitude":-74.9435
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stockton",
+        "County":"Hunterdon",
+        "ZipCode":"08559",
+        "Latitude":40.4397,
+        "Longitude":-74.9554
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Annandale",
+        "County":"Hunterdon",
+        "ZipCode":"08801",
+        "Latitude":40.6287,
+        "Longitude":-74.8855
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Baptistown",
+        "County":"Hunterdon",
+        "ZipCode":"08803",
+        "Latitude":40.5218,
+        "Longitude":-75.006
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bloomsbury",
+        "County":"Hunterdon",
+        "ZipCode":"08804",
+        "Latitude":40.6437,
+        "Longitude":-75.0966
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clinton",
+        "County":"Hunterdon",
+        "ZipCode":"08809",
+        "Latitude":40.6412,
+        "Longitude":-74.9088
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Flemington",
+        "County":"Hunterdon",
+        "ZipCode":"08822",
+        "Latitude":40.518,
+        "Longitude":-74.8453
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Frenchtown",
+        "County":"Hunterdon",
+        "ZipCode":"08825",
+        "Latitude":40.5208,
+        "Longitude":-75.0325
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glen Gardner",
+        "County":"Hunterdon",
+        "ZipCode":"08826",
+        "Latitude":40.7134,
+        "Longitude":-74.9162
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hampton",
+        "County":"Hunterdon",
+        "ZipCode":"08827",
+        "Latitude":40.6774,
+        "Longitude":-74.9622
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"High Bridge",
+        "County":"Hunterdon",
+        "ZipCode":"08829",
+        "Latitude":40.6684,
+        "Longitude":-74.8937
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lebanon",
+        "County":"Hunterdon",
+        "ZipCode":"08833",
+        "Latitude":40.6466,
+        "Longitude":-74.829
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Little York",
+        "County":"Hunterdon",
+        "ZipCode":"08834",
+        "Latitude":40.5637,
+        "Longitude":-74.9494
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Milford",
+        "County":"Hunterdon",
+        "ZipCode":"08848",
+        "Latitude":40.5929,
+        "Longitude":-75.1025
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oldwick",
+        "County":"Hunterdon",
+        "ZipCode":"08858",
+        "Latitude":40.6726,
+        "Longitude":-74.7474
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pittstown",
+        "County":"Hunterdon",
+        "ZipCode":"08867",
+        "Latitude":40.5992,
+        "Longitude":-74.9576
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Quakertown",
+        "County":"Hunterdon",
+        "ZipCode":"08868",
+        "Latitude":40.5655,
+        "Longitude":-74.9389
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Readington",
+        "County":"Hunterdon",
+        "ZipCode":"08870",
+        "Latitude":40.5687,
+        "Longitude":-74.7377
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stanton",
+        "County":"Hunterdon",
+        "ZipCode":"08885",
+        "Latitude":40.5764,
+        "Longitude":-74.8311
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Three Bridges",
+        "County":"Hunterdon",
+        "ZipCode":"08887",
+        "Latitude":40.5206,
+        "Longitude":-74.7946
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Whitehouse",
+        "County":"Hunterdon",
+        "ZipCode":"08888",
+        "Latitude":40.6194,
+        "Longitude":-74.7406
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Whitehouse Station",
+        "County":"Hunterdon",
+        "ZipCode":"08889",
+        "Latitude":40.6156,
+        "Longitude":-74.7724
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hightstown",
+        "County":"Mercer",
+        "ZipCode":"08520",
+        "Latitude":40.2669,
+        "Longitude":-74.525
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hopewell",
+        "County":"Mercer",
+        "ZipCode":"08525",
+        "Latitude":40.3902,
+        "Longitude":-74.771
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pennington",
+        "County":"Mercer",
+        "ZipCode":"08534",
+        "Latitude":40.3339,
+        "Longitude":-74.7944
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"08540",
+        "Latitude":40.3666,
+        "Longitude":-74.6408
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"08541",
+        "Latitude":40.3487,
+        "Longitude":-74.659
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"08542",
+        "Latitude":40.3535,
+        "Longitude":-74.6594
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"08543",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"08544",
+        "Latitude":40.3492,
+        "Longitude":-74.6528
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Princeton Junction",
+        "County":"Mercer",
+        "ZipCode":"08550",
+        "Latitude":40.2669,
+        "Longitude":-74.6511
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Titusville",
+        "County":"Mercer",
+        "ZipCode":"08560",
+        "Latitude":40.3077,
+        "Longitude":-74.8655
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Windsor",
+        "County":"Mercer",
+        "ZipCode":"08561",
+        "Latitude":40.2423,
+        "Longitude":-74.5787
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08601",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08602",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08603",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08604",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08605",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08606",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08607",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08608",
+        "Latitude":40.2204,
+        "Longitude":-74.7622
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08609",
+        "Latitude":40.2248,
+        "Longitude":-74.741
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08610",
+        "Latitude":40.2016,
+        "Longitude":-74.705
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08611",
+        "Latitude":40.2171,
+        "Longitude":-74.7429
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08618",
+        "Latitude":40.2377,
+        "Longitude":-74.7821
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08619",
+        "Latitude":40.2418,
+        "Longitude":-74.6962
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08620",
+        "Latitude":40.167,
+        "Longitude":-74.6488
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08625",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08628",
+        "Latitude":40.2655,
+        "Longitude":-74.8168
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08629",
+        "Latitude":40.2196,
+        "Longitude":-74.7334
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08638",
+        "Latitude":40.251,
+        "Longitude":-74.7627
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08644",
+        "Latitude":40.2171,
+        "Longitude":-74.7429
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08645",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08646",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08647",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lawrence Township",
+        "County":"Mercer",
+        "ZipCode":"08648",
+        "Latitude":40.2171,
+        "Longitude":-74.7429
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08650",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08666",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08690",
+        "Latitude":40.2336,
+        "Longitude":-74.6576
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08691",
+        "Latitude":40.2197,
+        "Longitude":-74.5939
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Trenton",
+        "County":"Mercer",
+        "ZipCode":"08695",
+        "Latitude":40.2805,
+        "Longitude":-74.712
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Avenel",
+        "County":"Middlesex",
+        "ZipCode":"07001",
+        "Latitude":40.5826,
+        "Longitude":-74.2785
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Carteret",
+        "County":"Middlesex",
+        "ZipCode":"07008",
+        "Latitude":40.5823,
+        "Longitude":-74.2313
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Port Reading",
+        "County":"Middlesex",
+        "ZipCode":"07064",
+        "Latitude":40.5709,
+        "Longitude":-74.2466
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Colonia",
+        "County":"Middlesex",
+        "ZipCode":"07067",
+        "Latitude":40.5937,
+        "Longitude":-74.3164
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sewaren",
+        "County":"Middlesex",
+        "ZipCode":"07077",
+        "Latitude":40.5542,
+        "Longitude":-74.2607
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Plainfield",
+        "County":"Middlesex",
+        "ZipCode":"07080",
+        "Latitude":40.5839,
+        "Longitude":-74.4147
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Woodbridge",
+        "County":"Middlesex",
+        "ZipCode":"07095",
+        "Latitude":40.556,
+        "Longitude":-74.2845
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cranbury",
+        "County":"Middlesex",
+        "ZipCode":"08512",
+        "Latitude":40.3039,
+        "Longitude":-74.5065
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Plainsboro",
+        "County":"Middlesex",
+        "ZipCode":"08536",
+        "Latitude":40.3324,
+        "Longitude":-74.5688
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dayton",
+        "County":"Middlesex",
+        "ZipCode":"08810",
+        "Latitude":40.3825,
+        "Longitude":-74.5111
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dunellen",
+        "County":"Middlesex",
+        "ZipCode":"08812",
+        "Latitude":40.5897,
+        "Longitude":-74.4639
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"East Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08816",
+        "Latitude":40.4284,
+        "Longitude":-74.4064
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Edison",
+        "County":"Middlesex",
+        "ZipCode":"08817",
+        "Latitude":40.5171,
+        "Longitude":-74.3973
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Edison",
+        "County":"Middlesex",
+        "ZipCode":"08818",
+        "Latitude":40.43,
+        "Longitude":-74.4173
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Edison",
+        "County":"Middlesex",
+        "ZipCode":"08820",
+        "Latitude":40.578,
+        "Longitude":-74.3589
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Kendall Park",
+        "County":"Middlesex",
+        "ZipCode":"08824",
+        "Latitude":40.4208,
+        "Longitude":-74.5529
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Helmetta",
+        "County":"Middlesex",
+        "ZipCode":"08828",
+        "Latitude":40.3777,
+        "Longitude":-74.4204
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Iselin",
+        "County":"Middlesex",
+        "ZipCode":"08830",
+        "Latitude":40.5716,
+        "Longitude":-74.3167
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Monroe Township",
+        "County":"Middlesex",
+        "ZipCode":"08831",
+        "Latitude":40.3192,
+        "Longitude":-74.4285
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Keasbey",
+        "County":"Middlesex",
+        "ZipCode":"08832",
+        "Latitude":40.5192,
+        "Longitude":-74.3021
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Edison",
+        "County":"Middlesex",
+        "ZipCode":"08837",
+        "Latitude":40.5325,
+        "Longitude":-74.3375
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Metuchen",
+        "County":"Middlesex",
+        "ZipCode":"08840",
+        "Latitude":40.5449,
+        "Longitude":-74.3517
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Middlesex",
+        "County":"Middlesex",
+        "ZipCode":"08846",
+        "Latitude":40.5759,
+        "Longitude":-74.5008
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Milltown",
+        "County":"Middlesex",
+        "ZipCode":"08850",
+        "Latitude":40.4493,
+        "Longitude":-74.439
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Monmouth Junction",
+        "County":"Middlesex",
+        "ZipCode":"08852",
+        "Latitude":40.3869,
+        "Longitude":-74.5558
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Piscataway",
+        "County":"Middlesex",
+        "ZipCode":"08854",
+        "Latitude":40.5515,
+        "Longitude":-74.459
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Piscataway",
+        "County":"Middlesex",
+        "ZipCode":"08855",
+        "Latitude":40.43,
+        "Longitude":-74.4173
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Old Bridge",
+        "County":"Middlesex",
+        "ZipCode":"08857",
+        "Latitude":40.398,
+        "Longitude":-74.3236
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Parlin",
+        "County":"Middlesex",
+        "ZipCode":"08859",
+        "Latitude":40.4587,
+        "Longitude":-74.305
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Perth Amboy",
+        "County":"Middlesex",
+        "ZipCode":"08861",
+        "Latitude":40.5176,
+        "Longitude":-74.2754
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Perth Amboy",
+        "County":"Middlesex",
+        "ZipCode":"08862",
+        "Latitude":40.43,
+        "Longitude":-74.4173
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fords",
+        "County":"Middlesex",
+        "ZipCode":"08863",
+        "Latitude":40.5393,
+        "Longitude":-74.3117
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sayreville",
+        "County":"Middlesex",
+        "ZipCode":"08871",
+        "Latitude":40.43,
+        "Longitude":-74.4173
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sayreville",
+        "County":"Middlesex",
+        "ZipCode":"08872",
+        "Latitude":40.46,
+        "Longitude":-74.3478
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Amboy",
+        "County":"Middlesex",
+        "ZipCode":"08879",
+        "Latitude":40.464,
+        "Longitude":-74.2742
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South River",
+        "County":"Middlesex",
+        "ZipCode":"08882",
+        "Latitude":40.4444,
+        "Longitude":-74.3801
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Spotswood",
+        "County":"Middlesex",
+        "ZipCode":"08884",
+        "Latitude":40.3847,
+        "Longitude":-74.3894
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Edison",
+        "County":"Middlesex",
+        "ZipCode":"08899",
+        "Latitude":40.5203,
+        "Longitude":-74.4205
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08901",
+        "Latitude":40.4891,
+        "Longitude":-74.4482
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"North Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08902",
+        "Latitude":40.4538,
+        "Longitude":-74.4823
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08903",
+        "Latitude":40.5139,
+        "Longitude":-74.4451
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Highland Park",
+        "County":"Middlesex",
+        "ZipCode":"08904",
+        "Latitude":40.4991,
+        "Longitude":-74.4266
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08906",
+        "Latitude":40.4862,
+        "Longitude":-74.4518
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08933",
+        "Latitude":40.4862,
+        "Longitude":-74.4518
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Brunswick",
+        "County":"Middlesex",
+        "ZipCode":"08989",
+        "Latitude":40.43,
+        "Longitude":-74.4173
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Red Bank",
+        "County":"Monmouth",
+        "ZipCode":"07701",
+        "Latitude":40.3584,
+        "Longitude":-74.0681
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Shrewsbury",
+        "County":"Monmouth",
+        "ZipCode":"07702",
+        "Latitude":40.3282,
+        "Longitude":-74.0589
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fort Monmouth",
+        "County":"Monmouth",
+        "ZipCode":"07703",
+        "Latitude":40.3177,
+        "Longitude":-74.039
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fair Haven",
+        "County":"Monmouth",
+        "ZipCode":"07704",
+        "Latitude":40.3599,
+        "Longitude":-74.0389
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Adelphia",
+        "County":"Monmouth",
+        "ZipCode":"07710",
+        "Latitude":40.2182,
+        "Longitude":-74.2563
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Allenhurst",
+        "County":"Monmouth",
+        "ZipCode":"07711",
+        "Latitude":40.2367,
+        "Longitude":-74.0067
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Asbury Park",
+        "County":"Monmouth",
+        "ZipCode":"07712",
+        "Latitude":40.2507,
+        "Longitude":-74.0486
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Belmar",
+        "County":"Monmouth",
+        "ZipCode":"07715",
+        "Latitude":40.1784,
+        "Longitude":-74.0218
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Atlantic Highlands",
+        "County":"Monmouth",
+        "ZipCode":"07716",
+        "Latitude":40.4015,
+        "Longitude":-74.0309
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Avon By The Sea",
+        "County":"Monmouth",
+        "ZipCode":"07717",
+        "Latitude":40.1918,
+        "Longitude":-74.0167
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Belford",
+        "County":"Monmouth",
+        "ZipCode":"07718",
+        "Latitude":40.4173,
+        "Longitude":-74.0889
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Belmar",
+        "County":"Monmouth",
+        "ZipCode":"07719",
+        "Latitude":40.1688,
+        "Longitude":-74.072
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bradley Beach",
+        "County":"Monmouth",
+        "ZipCode":"07720",
+        "Latitude":40.2023,
+        "Longitude":-74.0132
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cliffwood",
+        "County":"Monmouth",
+        "ZipCode":"07721",
+        "Latitude":40.4353,
+        "Longitude":-74.2358
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Colts Neck",
+        "County":"Monmouth",
+        "ZipCode":"07722",
+        "Latitude":40.3012,
+        "Longitude":-74.178
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Deal",
+        "County":"Monmouth",
+        "ZipCode":"07723",
+        "Latitude":40.2506,
+        "Longitude":-74.002
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Eatontown",
+        "County":"Monmouth",
+        "ZipCode":"07724",
+        "Latitude":40.3028,
+        "Longitude":-74.0698
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Englishtown",
+        "County":"Monmouth",
+        "ZipCode":"07726",
+        "Latitude":40.2825,
+        "Longitude":-74.3424
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Farmingdale",
+        "County":"Monmouth",
+        "ZipCode":"07727",
+        "Latitude":40.2043,
+        "Longitude":-74.1779
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Freehold",
+        "County":"Monmouth",
+        "ZipCode":"07728",
+        "Latitude":40.2458,
+        "Longitude":-74.2768
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hazlet",
+        "County":"Monmouth",
+        "ZipCode":"07730",
+        "Latitude":40.4226,
+        "Longitude":-74.1799
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Howell",
+        "County":"Monmouth",
+        "ZipCode":"07731",
+        "Latitude":40.1481,
+        "Longitude":-74.2137
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Highlands",
+        "County":"Monmouth",
+        "ZipCode":"07732",
+        "Latitude":40.4037,
+        "Longitude":-73.9915
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Holmdel",
+        "County":"Monmouth",
+        "ZipCode":"07733",
+        "Latitude":40.3859,
+        "Longitude":-74.174
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Keansburg",
+        "County":"Monmouth",
+        "ZipCode":"07734",
+        "Latitude":40.4414,
+        "Longitude":-74.1306
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Keyport",
+        "County":"Monmouth",
+        "ZipCode":"07735",
+        "Latitude":40.4332,
+        "Longitude":-74.1996
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Leonardo",
+        "County":"Monmouth",
+        "ZipCode":"07737",
+        "Latitude":40.4177,
+        "Longitude":-74.0623
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lincroft",
+        "County":"Monmouth",
+        "ZipCode":"07738",
+        "Latitude":40.3369,
+        "Longitude":-74.1205
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Little Silver",
+        "County":"Monmouth",
+        "ZipCode":"07739",
+        "Latitude":40.3354,
+        "Longitude":-74.0413
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Long Branch",
+        "County":"Monmouth",
+        "ZipCode":"07740",
+        "Latitude":40.2992,
+        "Longitude":-73.9912
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Marlboro",
+        "County":"Monmouth",
+        "ZipCode":"07746",
+        "Latitude":40.3182,
+        "Longitude":-74.2639
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Matawan",
+        "County":"Monmouth",
+        "ZipCode":"07747",
+        "Latitude":40.4109,
+        "Longitude":-74.238
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Middletown",
+        "County":"Monmouth",
+        "ZipCode":"07748",
+        "Latitude":40.3944,
+        "Longitude":-74.1157
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Monmouth Beach",
+        "County":"Monmouth",
+        "ZipCode":"07750",
+        "Latitude":40.333,
+        "Longitude":-73.9809
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Morganville",
+        "County":"Monmouth",
+        "ZipCode":"07751",
+        "Latitude":40.3529,
+        "Longitude":-74.2779
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Navesink",
+        "County":"Monmouth",
+        "ZipCode":"07752",
+        "Latitude":40.4023,
+        "Longitude":-74.0273
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Neptune",
+        "County":"Monmouth",
+        "ZipCode":"07753",
+        "Latitude":40.2096,
+        "Longitude":-74.0714
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Neptune",
+        "County":"Monmouth",
+        "ZipCode":"07754",
+        "Latitude":40.2001,
+        "Longitude":-74.0279
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oakhurst",
+        "County":"Monmouth",
+        "ZipCode":"07755",
+        "Latitude":40.2648,
+        "Longitude":-74.0184
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ocean Grove",
+        "County":"Monmouth",
+        "ZipCode":"07756",
+        "Latitude":40.2116,
+        "Longitude":-74.0093
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oceanport",
+        "County":"Monmouth",
+        "ZipCode":"07757",
+        "Latitude":40.3157,
+        "Longitude":-74.0164
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Port Monmouth",
+        "County":"Monmouth",
+        "ZipCode":"07758",
+        "Latitude":40.4289,
+        "Longitude":-74.1083
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rumson",
+        "County":"Monmouth",
+        "ZipCode":"07760",
+        "Latitude":40.3707,
+        "Longitude":-74.0084
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Spring Lake",
+        "County":"Monmouth",
+        "ZipCode":"07762",
+        "Latitude":40.1542,
+        "Longitude":-74.0379
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Tennent",
+        "County":"Monmouth",
+        "ZipCode":"07763",
+        "Latitude":40.2796,
+        "Longitude":-74.3343
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"West Long Branch",
+        "County":"Monmouth",
+        "ZipCode":"07764",
+        "Latitude":40.2878,
+        "Longitude":-74.0162
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wickatunk",
+        "County":"Monmouth",
+        "ZipCode":"07765",
+        "Latitude":40.3501,
+        "Longitude":-74.2479
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Eatontown",
+        "County":"Monmouth",
+        "ZipCode":"07799",
+        "Latitude":40.3027,
+        "Longitude":-74.2493
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Allentown",
+        "County":"Monmouth",
+        "ZipCode":"08501",
+        "Latitude":40.1589,
+        "Longitude":-74.5909
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Millstone Township",
+        "County":"Monmouth",
+        "ZipCode":"08510",
+        "Latitude":40.147,
+        "Longitude":-74.609
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cream Ridge",
+        "County":"Monmouth",
+        "ZipCode":"08514",
+        "Latitude":40.1399,
+        "Longitude":-74.465
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Imlaystown",
+        "County":"Monmouth",
+        "ZipCode":"08526",
+        "Latitude":40.1623,
+        "Longitude":-74.4759
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Millstone Township",
+        "County":"Monmouth",
+        "ZipCode":"08535",
+        "Latitude":40.2739,
+        "Longitude":-74.7162
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Roosevelt",
+        "County":"Monmouth",
+        "ZipCode":"08555",
+        "Latitude":40.2214,
+        "Longitude":-74.4747
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Allenwood",
+        "County":"Monmouth",
+        "ZipCode":"08720",
+        "Latitude":40.1389,
+        "Longitude":-74.1122
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Brielle",
+        "County":"Monmouth",
+        "ZipCode":"08730",
+        "Latitude":40.1077,
+        "Longitude":-74.0635
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Manasquan",
+        "County":"Monmouth",
+        "ZipCode":"08736",
+        "Latitude":40.1217,
+        "Longitude":-74.0611
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sea Girt",
+        "County":"Monmouth",
+        "ZipCode":"08750",
+        "Latitude":40.1345,
+        "Longitude":-74.0436
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Boonton",
+        "County":"Morris",
+        "ZipCode":"07005",
+        "Latitude":40.9115,
+        "Longitude":-74.414
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lake Hiawatha",
+        "County":"Morris",
+        "ZipCode":"07034",
+        "Latitude":40.8825,
+        "Longitude":-74.383
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lincoln Park",
+        "County":"Morris",
+        "ZipCode":"07035",
+        "Latitude":40.9208,
+        "Longitude":-74.2995
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Montville",
+        "County":"Morris",
+        "ZipCode":"07045",
+        "Latitude":40.9049,
+        "Longitude":-74.3646
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mountain Lakes",
+        "County":"Morris",
+        "ZipCode":"07046",
+        "Latitude":40.8904,
+        "Longitude":-74.4415
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Parsippany",
+        "County":"Morris",
+        "ZipCode":"07054",
+        "Latitude":40.8621,
+        "Longitude":-74.4117
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pine Brook",
+        "County":"Morris",
+        "ZipCode":"07058",
+        "Latitude":40.8742,
+        "Longitude":-74.35
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Towaco",
+        "County":"Morris",
+        "ZipCode":"07082",
+        "Latitude":40.9277,
+        "Longitude":-74.3428
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Butler",
+        "County":"Morris",
+        "ZipCode":"07405",
+        "Latitude":40.9988,
+        "Longitude":-74.4261
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pequannock",
+        "County":"Morris",
+        "ZipCode":"07440",
+        "Latitude":40.9473,
+        "Longitude":-74.296
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pompton Plains",
+        "County":"Morris",
+        "ZipCode":"07444",
+        "Latitude":40.9655,
+        "Longitude":-74.3016
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Riverdale",
+        "County":"Morris",
+        "ZipCode":"07457",
+        "Latitude":40.9931,
+        "Longitude":-74.3088
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dover",
+        "County":"Morris",
+        "ZipCode":"07801",
+        "Latitude":40.9176,
+        "Longitude":-74.5467
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Dover",
+        "County":"Morris",
+        "ZipCode":"07802",
+        "Latitude":40.8673,
+        "Longitude":-74.5783
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mine Hill",
+        "County":"Morris",
+        "ZipCode":"07803",
+        "Latitude":40.8771,
+        "Longitude":-74.5845
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Picatinny Arsenal",
+        "County":"Morris",
+        "ZipCode":"07806",
+        "Latitude":40.8673,
+        "Longitude":-74.5783
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Budd Lake",
+        "County":"Morris",
+        "ZipCode":"07828",
+        "Latitude":40.8731,
+        "Longitude":-74.7426
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Denville",
+        "County":"Morris",
+        "ZipCode":"07834",
+        "Latitude":40.8897,
+        "Longitude":-74.4844
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Flanders",
+        "County":"Morris",
+        "ZipCode":"07836",
+        "Latitude":40.8453,
+        "Longitude":-74.7019
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hibernia",
+        "County":"Morris",
+        "ZipCode":"07842",
+        "Latitude":40.944,
+        "Longitude":-74.4927
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ironia",
+        "County":"Morris",
+        "ZipCode":"07845",
+        "Latitude":40.8229,
+        "Longitude":-74.6257
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Kenvil",
+        "County":"Morris",
+        "ZipCode":"07847",
+        "Latitude":40.8819,
+        "Longitude":-74.621
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lake Hopatcong",
+        "County":"Morris",
+        "ZipCode":"07849",
+        "Latitude":40.9506,
+        "Longitude":-74.6129
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Landing",
+        "County":"Morris",
+        "ZipCode":"07850",
+        "Latitude":40.9087,
+        "Longitude":-74.6554
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ledgewood",
+        "County":"Morris",
+        "ZipCode":"07852",
+        "Latitude":40.878,
+        "Longitude":-74.6554
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Long Valley",
+        "County":"Morris",
+        "ZipCode":"07853",
+        "Latitude":40.7878,
+        "Longitude":-74.787
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Arlington",
+        "County":"Morris",
+        "ZipCode":"07856",
+        "Latitude":40.9283,
+        "Longitude":-74.6363
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Netcong",
+        "County":"Morris",
+        "ZipCode":"07857",
+        "Latitude":40.8985,
+        "Longitude":-74.6985
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rockaway",
+        "County":"Morris",
+        "ZipCode":"07866",
+        "Latitude":40.9229,
+        "Longitude":-74.5094
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Randolph",
+        "County":"Morris",
+        "ZipCode":"07869",
+        "Latitude":40.8456,
+        "Longitude":-74.5725
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Schooleys Mountain",
+        "County":"Morris",
+        "ZipCode":"07870",
+        "Latitude":40.7993,
+        "Longitude":-74.8138
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Succasunna",
+        "County":"Morris",
+        "ZipCode":"07876",
+        "Latitude":40.8539,
+        "Longitude":-74.6536
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Tabor",
+        "County":"Morris",
+        "ZipCode":"07878",
+        "Latitude":40.8711,
+        "Longitude":-74.4777
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wharton",
+        "County":"Morris",
+        "ZipCode":"07885",
+        "Latitude":40.9139,
+        "Longitude":-74.5863
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Brookside",
+        "County":"Morris",
+        "ZipCode":"07926",
+        "Latitude":40.8004,
+        "Longitude":-74.5718
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cedar Knolls",
+        "County":"Morris",
+        "ZipCode":"07927",
+        "Latitude":40.8223,
+        "Longitude":-74.4569
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Chatham",
+        "County":"Morris",
+        "ZipCode":"07928",
+        "Latitude":40.7305,
+        "Longitude":-74.4017
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Chester",
+        "County":"Morris",
+        "ZipCode":"07930",
+        "Latitude":40.7892,
+        "Longitude":-74.6776
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Florham Park",
+        "County":"Morris",
+        "ZipCode":"07932",
+        "Latitude":40.7757,
+        "Longitude":-74.3928
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Gillette",
+        "County":"Morris",
+        "ZipCode":"07933",
+        "Latitude":40.6877,
+        "Longitude":-74.4681
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Green Village",
+        "County":"Morris",
+        "ZipCode":"07935",
+        "Latitude":40.7416,
+        "Longitude":-74.4517
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"East Hanover",
+        "County":"Morris",
+        "ZipCode":"07936",
+        "Latitude":40.8192,
+        "Longitude":-74.3636
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Madison",
+        "County":"Morris",
+        "ZipCode":"07940",
+        "Latitude":40.7599,
+        "Longitude":-74.4179
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mendham",
+        "County":"Morris",
+        "ZipCode":"07945",
+        "Latitude":40.7789,
+        "Longitude":-74.6
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Millington",
+        "County":"Morris",
+        "ZipCode":"07946",
+        "Latitude":40.6727,
+        "Longitude":-74.5183
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Morris Plains",
+        "County":"Morris",
+        "ZipCode":"07950",
+        "Latitude":40.8445,
+        "Longitude":-74.4824
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Morristown",
+        "County":"Morris",
+        "ZipCode":"07960",
+        "Latitude":40.7952,
+        "Longitude":-74.4873
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Convent Station",
+        "County":"Morris",
+        "ZipCode":"07961",
+        "Latitude":40.7968,
+        "Longitude":-74.4815
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Morristown",
+        "County":"Morris",
+        "ZipCode":"07962",
+        "Latitude":40.8673,
+        "Longitude":-74.5783
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Morristown",
+        "County":"Morris",
+        "ZipCode":"07963",
+        "Latitude":40.7968,
+        "Longitude":-74.4815
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mount Freedom",
+        "County":"Morris",
+        "ZipCode":"07970",
+        "Latitude":40.8055,
+        "Longitude":-74.5738
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Vernon",
+        "County":"Morris",
+        "ZipCode":"07976",
+        "Latitude":40.7347,
+        "Longitude":-74.4845
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stirling",
+        "County":"Morris",
+        "ZipCode":"07980",
+        "Latitude":40.6774,
+        "Longitude":-74.4968
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Whippany",
+        "County":"Morris",
+        "ZipCode":"07981",
+        "Latitude":40.8219,
+        "Longitude":-74.42
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Whippany",
+        "County":"Morris",
+        "ZipCode":"07999",
+        "Latitude":40.8673,
+        "Longitude":-74.5783
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Barnegat",
+        "County":"Ocean",
+        "ZipCode":"08005",
+        "Latitude":39.7552,
+        "Longitude":-74.247
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Barnegat Light",
+        "County":"Ocean",
+        "ZipCode":"08006",
+        "Latitude":39.7512,
+        "Longitude":-74.1146
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Beach Haven",
+        "County":"Ocean",
+        "ZipCode":"08008",
+        "Latitude":39.6411,
+        "Longitude":-74.1922
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Manahawkin",
+        "County":"Ocean",
+        "ZipCode":"08050",
+        "Latitude":39.705,
+        "Longitude":-74.2604
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Tuckerton",
+        "County":"Ocean",
+        "ZipCode":"08087",
+        "Latitude":39.5881,
+        "Longitude":-74.3646
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"West Creek",
+        "County":"Ocean",
+        "ZipCode":"08092",
+        "Latitude":39.6627,
+        "Longitude":-74.2885
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Jackson",
+        "County":"Ocean",
+        "ZipCode":"08527",
+        "Latitude":40.121,
+        "Longitude":-74.3017
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Egypt",
+        "County":"Ocean",
+        "ZipCode":"08533",
+        "Latitude":40.0713,
+        "Longitude":-74.5067
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lakewood",
+        "County":"Ocean",
+        "ZipCode":"08701",
+        "Latitude":40.085,
+        "Longitude":-74.2042
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bayville",
+        "County":"Ocean",
+        "ZipCode":"08721",
+        "Latitude":39.9093,
+        "Longitude":-74.1549
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Beachwood",
+        "County":"Ocean",
+        "ZipCode":"08722",
+        "Latitude":39.9302,
+        "Longitude":-74.1961
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Brick",
+        "County":"Ocean",
+        "ZipCode":"08723",
+        "Latitude":40.0389,
+        "Longitude":-74.1109
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Brick",
+        "County":"Ocean",
+        "ZipCode":"08724",
+        "Latitude":40.0874,
+        "Longitude":-74.1152
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Forked River",
+        "County":"Ocean",
+        "ZipCode":"08731",
+        "Latitude":39.8444,
+        "Longitude":-74.1973
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Island Heights",
+        "County":"Ocean",
+        "ZipCode":"08732",
+        "Latitude":39.9432,
+        "Longitude":-74.1468
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lakehurst",
+        "County":"Ocean",
+        "ZipCode":"08733",
+        "Latitude":40.0263,
+        "Longitude":-74.3254
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lanoka Harbor",
+        "County":"Ocean",
+        "ZipCode":"08734",
+        "Latitude":39.862,
+        "Longitude":-74.1668
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lavallette",
+        "County":"Ocean",
+        "ZipCode":"08735",
+        "Latitude":39.9775,
+        "Longitude":-74.0704
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mantoloking",
+        "County":"Ocean",
+        "ZipCode":"08738",
+        "Latitude":40.0261,
+        "Longitude":-74.0562
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Normandy Beach",
+        "County":"Ocean",
+        "ZipCode":"08739",
+        "Latitude":40.0026,
+        "Longitude":-74.0604
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ocean Gate",
+        "County":"Ocean",
+        "ZipCode":"08740",
+        "Latitude":39.926,
+        "Longitude":-74.1351
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pine Beach",
+        "County":"Ocean",
+        "ZipCode":"08741",
+        "Latitude":39.9347,
+        "Longitude":-74.168
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Point Pleasant Beach",
+        "County":"Ocean",
+        "ZipCode":"08742",
+        "Latitude":40.0806,
+        "Longitude":-74.0595
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Seaside Heights",
+        "County":"Ocean",
+        "ZipCode":"08751",
+        "Latitude":39.9466,
+        "Longitude":-74.0765
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Seaside Park",
+        "County":"Ocean",
+        "ZipCode":"08752",
+        "Latitude":39.9222,
+        "Longitude":-74.0795
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Toms River",
+        "County":"Ocean",
+        "ZipCode":"08753",
+        "Latitude":39.9771,
+        "Longitude":-74.1565
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Toms River",
+        "County":"Ocean",
+        "ZipCode":"08754",
+        "Latitude":40.0008,
+        "Longitude":-74.2493
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Toms River",
+        "County":"Ocean",
+        "ZipCode":"08755",
+        "Latitude":39.9999,
+        "Longitude":-74.2228
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Toms River",
+        "County":"Ocean",
+        "ZipCode":"08756",
+        "Latitude":39.788,
+        "Longitude":-74.1911
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Toms River",
+        "County":"Ocean",
+        "ZipCode":"08757",
+        "Latitude":39.9715,
+        "Longitude":-74.2512
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Waretown",
+        "County":"Ocean",
+        "ZipCode":"08758",
+        "Latitude":39.7896,
+        "Longitude":-74.1954
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Manchester Township",
+        "County":"Ocean",
+        "ZipCode":"08759",
+        "Latitude":39.9515,
+        "Longitude":-74.1521
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clifton",
+        "County":"Passaic",
+        "ZipCode":"07011",
+        "Latitude":40.8789,
+        "Longitude":-74.1425
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clifton",
+        "County":"Passaic",
+        "ZipCode":"07012",
+        "Latitude":40.8488,
+        "Longitude":-74.1612
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clifton",
+        "County":"Passaic",
+        "ZipCode":"07013",
+        "Latitude":40.8693,
+        "Longitude":-74.1711
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clifton",
+        "County":"Passaic",
+        "ZipCode":"07014",
+        "Latitude":40.8344,
+        "Longitude":-74.1377
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clifton",
+        "County":"Passaic",
+        "ZipCode":"07015",
+        "Latitude":40.8584,
+        "Longitude":-74.1638
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Passaic",
+        "County":"Passaic",
+        "ZipCode":"07055",
+        "Latitude":40.8601,
+        "Longitude":-74.1283
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bloomingdale",
+        "County":"Passaic",
+        "ZipCode":"07403",
+        "Latitude":41.0128,
+        "Longitude":-74.3338
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Haskell",
+        "County":"Passaic",
+        "ZipCode":"07420",
+        "Latitude":41.0301,
+        "Longitude":-74.2965
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hewitt",
+        "County":"Passaic",
+        "ZipCode":"07421",
+        "Latitude":41.1709,
+        "Longitude":-74.3686
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Little Falls",
+        "County":"Passaic",
+        "ZipCode":"07424",
+        "Latitude":40.8835,
+        "Longitude":-74.2144
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newfoundland",
+        "County":"Passaic",
+        "ZipCode":"07435",
+        "Latitude":41.0647,
+        "Longitude":-74.4359
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oak Ridge",
+        "County":"Passaic",
+        "ZipCode":"07438",
+        "Latitude":41.0302,
+        "Longitude":-74.5198
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pompton Lakes",
+        "County":"Passaic",
+        "ZipCode":"07442",
+        "Latitude":40.9993,
+        "Longitude":-74.2876
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ringwood",
+        "County":"Passaic",
+        "ZipCode":"07456",
+        "Latitude":41.0928,
+        "Longitude":-74.2659
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wanaque",
+        "County":"Passaic",
+        "ZipCode":"07465",
+        "Latitude":41.0544,
+        "Longitude":-74.279
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wayne",
+        "County":"Passaic",
+        "ZipCode":"07470",
+        "Latitude":40.9471,
+        "Longitude":-74.2466
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wayne",
+        "County":"Passaic",
+        "ZipCode":"07474",
+        "Latitude":40.9481,
+        "Longitude":-74.245
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"West Milford",
+        "County":"Passaic",
+        "ZipCode":"07480",
+        "Latitude":41.0915,
+        "Longitude":-74.375
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07501",
+        "Latitude":40.9143,
+        "Longitude":-74.1671
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07502",
+        "Latitude":40.9199,
+        "Longitude":-74.1932
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07503",
+        "Latitude":40.897,
+        "Longitude":-74.1573
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07504",
+        "Latitude":40.9122,
+        "Longitude":-74.1452
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07505",
+        "Latitude":40.9166,
+        "Longitude":-74.174
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hawthorne",
+        "County":"Passaic",
+        "ZipCode":"07506",
+        "Latitude":40.9564,
+        "Longitude":-74.1569
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hawthorne",
+        "County":"Passaic",
+        "ZipCode":"07507",
+        "Latitude":40.9493,
+        "Longitude":-74.1538
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Haledon",
+        "County":"Passaic",
+        "ZipCode":"07508",
+        "Latitude":40.9457,
+        "Longitude":-74.1826
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07509",
+        "Latitude":40.9168,
+        "Longitude":-74.1718
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07510",
+        "Latitude":40.9168,
+        "Longitude":-74.1718
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Totowa",
+        "County":"Passaic",
+        "ZipCode":"07511",
+        "Latitude":41.0114,
+        "Longitude":-74.3048
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Totowa",
+        "County":"Passaic",
+        "ZipCode":"07512",
+        "Latitude":40.9048,
+        "Longitude":-74.2168
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07513",
+        "Latitude":40.907,
+        "Longitude":-74.1529
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07514",
+        "Latitude":40.9248,
+        "Longitude":-74.1467
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07522",
+        "Latitude":40.9252,
+        "Longitude":-74.1781
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07524",
+        "Latitude":40.9309,
+        "Longitude":-74.1555
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07533",
+        "Latitude":41.0114,
+        "Longitude":-74.3048
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Haledon",
+        "County":"Passaic",
+        "ZipCode":"07538",
+        "Latitude":40.9357,
+        "Longitude":-74.1863
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07543",
+        "Latitude":41.0114,
+        "Longitude":-74.3048
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Paterson",
+        "County":"Passaic",
+        "ZipCode":"07544",
+        "Latitude":41.0114,
+        "Longitude":-74.3048
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Alloway",
+        "County":"Salem",
+        "ZipCode":"08001",
+        "Latitude":39.5591,
+        "Longitude":-75.3506
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Deepwater",
+        "County":"Salem",
+        "ZipCode":"08023",
+        "Latitude":39.6815,
+        "Longitude":-75.4934
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hancocks Bridge",
+        "County":"Salem",
+        "ZipCode":"08038",
+        "Latitude":39.4716,
+        "Longitude":-75.4902
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pedricktown",
+        "County":"Salem",
+        "ZipCode":"08067",
+        "Latitude":39.7435,
+        "Longitude":-75.412
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Penns Grove",
+        "County":"Salem",
+        "ZipCode":"08069",
+        "Latitude":39.6994,
+        "Longitude":-75.4495
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pennsville",
+        "County":"Salem",
+        "ZipCode":"08070",
+        "Latitude":39.6491,
+        "Longitude":-75.5155
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Quinton",
+        "County":"Salem",
+        "ZipCode":"08072",
+        "Latitude":39.5459,
+        "Longitude":-75.4124
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Salem",
+        "County":"Salem",
+        "ZipCode":"08079",
+        "Latitude":39.5591,
+        "Longitude":-75.4521
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Woodstown",
+        "County":"Salem",
+        "ZipCode":"08098",
+        "Latitude":39.6457,
+        "Longitude":-75.3248
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elmer",
+        "County":"Salem",
+        "ZipCode":"08318",
+        "Latitude":39.5691,
+        "Longitude":-75.163
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Norma",
+        "County":"Salem",
+        "ZipCode":"08347",
+        "Latitude":39.4998,
+        "Longitude":-75.082
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Warren",
+        "County":"Somerset",
+        "ZipCode":"07059",
+        "Latitude":40.6318,
+        "Longitude":-74.5105
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Basking Ridge",
+        "County":"Somerset",
+        "ZipCode":"07920",
+        "Latitude":40.6789,
+        "Longitude":-74.5605
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bedminster",
+        "County":"Somerset",
+        "ZipCode":"07921",
+        "Latitude":40.6571,
+        "Longitude":-74.6432
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bernardsville",
+        "County":"Somerset",
+        "ZipCode":"07924",
+        "Latitude":40.7225,
+        "Longitude":-74.5778
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Far Hills",
+        "County":"Somerset",
+        "ZipCode":"07931",
+        "Latitude":40.6996,
+        "Longitude":-74.6536
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Gladstone",
+        "County":"Somerset",
+        "ZipCode":"07934",
+        "Latitude":40.7219,
+        "Longitude":-74.6707
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Liberty Corner",
+        "County":"Somerset",
+        "ZipCode":"07938",
+        "Latitude":40.6554,
+        "Longitude":-74.5862
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lyons",
+        "County":"Somerset",
+        "ZipCode":"07939",
+        "Latitude":40.6674,
+        "Longitude":-74.5539
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Peapack",
+        "County":"Somerset",
+        "ZipCode":"07977",
+        "Latitude":40.7079,
+        "Longitude":-74.6541
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Pluckemin",
+        "County":"Somerset",
+        "ZipCode":"07978",
+        "Latitude":40.6425,
+        "Longitude":-74.6396
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Belle Mead",
+        "County":"Somerset",
+        "ZipCode":"08502",
+        "Latitude":40.4483,
+        "Longitude":-74.6557
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Blawenburg",
+        "County":"Somerset",
+        "ZipCode":"08504",
+        "Latitude":40.4076,
+        "Longitude":-74.7027
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Kingston",
+        "County":"Somerset",
+        "ZipCode":"08528",
+        "Latitude":40.3828,
+        "Longitude":-74.6096
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rocky Hill",
+        "County":"Somerset",
+        "ZipCode":"08553",
+        "Latitude":40.401,
+        "Longitude":-74.64
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Skillman",
+        "County":"Somerset",
+        "ZipCode":"08558",
+        "Latitude":40.4173,
+        "Longitude":-74.6938
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bound Brook",
+        "County":"Somerset",
+        "ZipCode":"08805",
+        "Latitude":40.5681,
+        "Longitude":-74.5397
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Bridgewater",
+        "County":"Somerset",
+        "ZipCode":"08807",
+        "Latitude":40.5904,
+        "Longitude":-74.6267
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Flagtown",
+        "County":"Somerset",
+        "ZipCode":"08821",
+        "Latitude":40.517,
+        "Longitude":-74.6843
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Franklin Park",
+        "County":"Somerset",
+        "ZipCode":"08823",
+        "Latitude":40.4421,
+        "Longitude":-74.5369
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Manville",
+        "County":"Somerset",
+        "ZipCode":"08835",
+        "Latitude":40.5399,
+        "Longitude":-74.5934
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Martinsville",
+        "County":"Somerset",
+        "ZipCode":"08836",
+        "Latitude":40.6,
+        "Longitude":-74.5572
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hillsborough",
+        "County":"Somerset",
+        "ZipCode":"08844",
+        "Latitude":40.4775,
+        "Longitude":-74.6272
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Neshanic Station",
+        "County":"Somerset",
+        "ZipCode":"08853",
+        "Latitude":40.5293,
+        "Longitude":-74.7401
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Raritan",
+        "County":"Somerset",
+        "ZipCode":"08869",
+        "Latitude":40.5711,
+        "Longitude":-74.6377
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Somerset",
+        "County":"Somerset",
+        "ZipCode":"08873",
+        "Latitude":40.5007,
+        "Longitude":-74.5013
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Somerset",
+        "County":"Somerset",
+        "ZipCode":"08875",
+        "Latitude":40.4976,
+        "Longitude":-74.4885
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Somerville",
+        "County":"Somerset",
+        "ZipCode":"08876",
+        "Latitude":40.588,
+        "Longitude":-74.6874
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"South Bound Brook",
+        "County":"Somerset",
+        "ZipCode":"08880",
+        "Latitude":40.5523,
+        "Longitude":-74.5311
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Zarephath",
+        "County":"Somerset",
+        "ZipCode":"08890",
+        "Latitude":40.5361,
+        "Longitude":-74.5789
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Franklin",
+        "County":"Sussex",
+        "ZipCode":"07416",
+        "Latitude":41.1164,
+        "Longitude":-74.5865
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glenwood",
+        "County":"Sussex",
+        "ZipCode":"07418",
+        "Latitude":41.2356,
+        "Longitude":-74.4885
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hamburg",
+        "County":"Sussex",
+        "ZipCode":"07419",
+        "Latitude":41.1467,
+        "Longitude":-74.5874
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Highland Lakes",
+        "County":"Sussex",
+        "ZipCode":"07422",
+        "Latitude":41.1826,
+        "Longitude":-74.4564
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mc Afee",
+        "County":"Sussex",
+        "ZipCode":"07428",
+        "Latitude":41.2065,
+        "Longitude":-74.5381
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Ogdensburg",
+        "County":"Sussex",
+        "ZipCode":"07439",
+        "Latitude":41.0767,
+        "Longitude":-74.5982
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stockholm",
+        "County":"Sussex",
+        "ZipCode":"07460",
+        "Latitude":41.0992,
+        "Longitude":-74.5283
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sussex",
+        "County":"Sussex",
+        "ZipCode":"07461",
+        "Latitude":41.2292,
+        "Longitude":-74.5992
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vernon",
+        "County":"Sussex",
+        "ZipCode":"07462",
+        "Latitude":41.185,
+        "Longitude":-74.5332
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Andover",
+        "County":"Sussex",
+        "ZipCode":"07821",
+        "Latitude":40.9614,
+        "Longitude":-74.7524
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Augusta",
+        "County":"Sussex",
+        "ZipCode":"07822",
+        "Latitude":41.1451,
+        "Longitude":-74.6848
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Branchville",
+        "County":"Sussex",
+        "ZipCode":"07826",
+        "Latitude":41.1705,
+        "Longitude":-74.75
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Montague",
+        "County":"Sussex",
+        "ZipCode":"07827",
+        "Latitude":41.3023,
+        "Longitude":-74.754
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Glasser",
+        "County":"Sussex",
+        "ZipCode":"07837",
+        "Latitude":41.1283,
+        "Longitude":-74.679
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Greendell",
+        "County":"Sussex",
+        "ZipCode":"07839",
+        "Latitude":40.974,
+        "Longitude":-74.821
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hopatcong",
+        "County":"Sussex",
+        "ZipCode":"07843",
+        "Latitude":40.939,
+        "Longitude":-74.6616
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Lafayette",
+        "County":"Sussex",
+        "ZipCode":"07848",
+        "Latitude":41.0761,
+        "Longitude":-74.6912
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Layton",
+        "County":"Sussex",
+        "ZipCode":"07851",
+        "Latitude":41.2299,
+        "Longitude":-74.8466
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Middleville",
+        "County":"Sussex",
+        "ZipCode":"07855",
+        "Latitude":41.0559,
+        "Longitude":-74.8629
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Newton",
+        "County":"Sussex",
+        "ZipCode":"07860",
+        "Latitude":41.0695,
+        "Longitude":-74.8069
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Sparta",
+        "County":"Sussex",
+        "ZipCode":"07871",
+        "Latitude":41.0277,
+        "Longitude":-74.6407
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stanhope",
+        "County":"Sussex",
+        "ZipCode":"07874",
+        "Latitude":40.9217,
+        "Longitude":-74.7004
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stillwater",
+        "County":"Sussex",
+        "ZipCode":"07875",
+        "Latitude":41.0439,
+        "Longitude":-74.872
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Swartswood",
+        "County":"Sussex",
+        "ZipCode":"07877",
+        "Latitude":41.1029,
+        "Longitude":-74.8508
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Tranquility",
+        "County":"Sussex",
+        "ZipCode":"07879",
+        "Latitude":40.9559,
+        "Longitude":-74.7881
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Wallpack Center",
+        "County":"Sussex",
+        "ZipCode":"07881",
+        "Latitude":41.1256,
+        "Longitude":-74.9177
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Branchville",
+        "County":"Sussex",
+        "ZipCode":"07890",
+        "Latitude":41.1465,
+        "Longitude":-74.7524
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Cranford",
+        "County":"Union",
+        "ZipCode":"07016",
+        "Latitude":40.6554,
+        "Longitude":-74.3057
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Fanwood",
+        "County":"Union",
+        "ZipCode":"07023",
+        "Latitude":40.6419,
+        "Longitude":-74.3868
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Garwood",
+        "County":"Union",
+        "ZipCode":"07027",
+        "Latitude":40.6512,
+        "Longitude":-74.3239
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Kenilworth",
+        "County":"Union",
+        "ZipCode":"07033",
+        "Latitude":40.6759,
+        "Longitude":-74.2944
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Linden",
+        "County":"Union",
+        "ZipCode":"07036",
+        "Latitude":40.6354,
+        "Longitude":-74.2556
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Plainfield",
+        "County":"Union",
+        "ZipCode":"07060",
+        "Latitude":40.6152,
+        "Longitude":-74.415
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Plainfield",
+        "County":"Union",
+        "ZipCode":"07061",
+        "Latitude":40.6657,
+        "Longitude":-74.2997
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Plainfield",
+        "County":"Union",
+        "ZipCode":"07062",
+        "Latitude":40.6323,
+        "Longitude":-74.3997
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Plainfield",
+        "County":"Union",
+        "ZipCode":"07063",
+        "Latitude":40.6048,
+        "Longitude":-74.4427
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Rahway",
+        "County":"Union",
+        "ZipCode":"07065",
+        "Latitude":40.6087,
+        "Longitude":-74.2819
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Clark",
+        "County":"Union",
+        "ZipCode":"07066",
+        "Latitude":40.6203,
+        "Longitude":-74.3106
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Watchung",
+        "County":"Union",
+        "ZipCode":"07069",
+        "Latitude":40.6378,
+        "Longitude":-74.4514
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Scotch Plains",
+        "County":"Union",
+        "ZipCode":"07076",
+        "Latitude":40.6379,
+        "Longitude":-74.3682
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Springfield",
+        "County":"Union",
+        "ZipCode":"07081",
+        "Latitude":40.7015,
+        "Longitude":-74.3227
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Union",
+        "County":"Union",
+        "ZipCode":"07083",
+        "Latitude":40.6952,
+        "Longitude":-74.2677
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vauxhall",
+        "County":"Union",
+        "ZipCode":"07088",
+        "Latitude":40.7179,
+        "Longitude":-74.2829
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Westfield",
+        "County":"Union",
+        "ZipCode":"07090",
+        "Latitude":40.6479,
+        "Longitude":-74.3451
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Westfield",
+        "County":"Union",
+        "ZipCode":"07091",
+        "Latitude":40.6657,
+        "Longitude":-74.2997
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Mountainside",
+        "County":"Union",
+        "ZipCode":"07092",
+        "Latitude":40.6785,
+        "Longitude":-74.3588
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elizabeth",
+        "County":"Union",
+        "ZipCode":"07201",
+        "Latitude":40.6717,
+        "Longitude":-74.2043
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elizabeth",
+        "County":"Union",
+        "ZipCode":"07202",
+        "Latitude":40.6565,
+        "Longitude":-74.2215
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Roselle",
+        "County":"Union",
+        "ZipCode":"07203",
+        "Latitude":40.653,
+        "Longitude":-74.261
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Roselle Park",
+        "County":"Union",
+        "ZipCode":"07204",
+        "Latitude":40.6651,
+        "Longitude":-74.267
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hillside",
+        "County":"Union",
+        "ZipCode":"07205",
+        "Latitude":40.6968,
+        "Longitude":-74.2281
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elizabethport",
+        "County":"Union",
+        "ZipCode":"07206",
+        "Latitude":40.6501,
+        "Longitude":-74.1871
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elizabeth",
+        "County":"Union",
+        "ZipCode":"07207",
+        "Latitude":40.664,
+        "Longitude":-74.2107
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Elizabeth",
+        "County":"Union",
+        "ZipCode":"07208",
+        "Latitude":40.6747,
+        "Longitude":-74.2239
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Summit",
+        "County":"Union",
+        "ZipCode":"07901",
+        "Latitude":40.7149,
+        "Longitude":-74.3642
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Summit",
+        "County":"Union",
+        "ZipCode":"07902",
+        "Latitude":40.7156,
+        "Longitude":-74.3647
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Berkeley Heights",
+        "County":"Union",
+        "ZipCode":"07922",
+        "Latitude":40.6752,
+        "Longitude":-74.4346
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"New Providence",
+        "County":"Union",
+        "ZipCode":"07974",
+        "Latitude":40.7004,
+        "Longitude":-74.4023
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Allamuchy",
+        "County":"Warren",
+        "ZipCode":"07820",
+        "Latitude":40.9218,
+        "Longitude":-74.8102
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Belvidere",
+        "County":"Warren",
+        "ZipCode":"07823",
+        "Latitude":40.8308,
+        "Longitude":-75.0503
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Blairstown",
+        "County":"Warren",
+        "ZipCode":"07825",
+        "Latitude":40.9674,
+        "Longitude":-74.9651
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Buttzville",
+        "County":"Warren",
+        "ZipCode":"07829",
+        "Latitude":40.8434,
+        "Longitude":-74.9859
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Changewater",
+        "County":"Warren",
+        "ZipCode":"07831",
+        "Latitude":40.7394,
+        "Longitude":-74.9448
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Columbia",
+        "County":"Warren",
+        "ZipCode":"07832",
+        "Latitude":40.9388,
+        "Longitude":-75.055
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Delaware",
+        "County":"Warren",
+        "ZipCode":"07833",
+        "Latitude":40.8929,
+        "Longitude":-75.0646
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Great Meadows",
+        "County":"Warren",
+        "ZipCode":"07838",
+        "Latitude":40.852,
+        "Longitude":-74.9418
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hackettstown",
+        "County":"Warren",
+        "ZipCode":"07840",
+        "Latitude":40.8529,
+        "Longitude":-74.8343
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Hope",
+        "County":"Warren",
+        "ZipCode":"07844",
+        "Latitude":40.9197,
+        "Longitude":-74.9846
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Johnsonburg",
+        "County":"Warren",
+        "ZipCode":"07846",
+        "Latitude":40.9645,
+        "Longitude":-74.8785
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Oxford",
+        "County":"Warren",
+        "ZipCode":"07863",
+        "Latitude":40.8105,
+        "Longitude":-75.0019
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Port Murray",
+        "County":"Warren",
+        "ZipCode":"07865",
+        "Latitude":40.7906,
+        "Longitude":-74.9167
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Vienna",
+        "County":"Warren",
+        "ZipCode":"07880",
+        "Latitude":40.8648,
+        "Longitude":-74.897
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Washington",
+        "County":"Warren",
+        "ZipCode":"07882",
+        "Latitude":40.7582,
+        "Longitude":-74.9914
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Asbury",
+        "County":"Warren",
+        "ZipCode":"08802",
+        "Latitude":40.695,
+        "Longitude":-75.0281
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Broadway",
+        "County":"Warren",
+        "ZipCode":"08808",
+        "Latitude":40.732,
+        "Longitude":-75.0516
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Phillipsburg",
+        "County":"Warren",
+        "ZipCode":"08865",
+        "Latitude":40.7079,
+        "Longitude":-75.1507
+    },
+    {
+        "State":"New Jersey",
+        "StateAbbr":"NJ",
+        "City":"Stewartsville",
+        "County":"Warren",
+        "ZipCode":"08886",
+        "Latitude":40.6937,
+        "Longitude":-75.111
+    }
+]

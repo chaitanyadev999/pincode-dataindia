@@ -1,0 +1,3863 @@
+[
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Redding Center",
+        "County":"Fairfield",
+        "ZipCode":"06875",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Preston Marble Dale",
+        "County":"Litchfield",
+        "ZipCode":"06777",
+        "Latitude":41.6903,
+        "Longitude":-73.3103
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Washington Depot",
+        "County":"Litchfield",
+        "ZipCode":"06794",
+        "Latitude":41.6559,
+        "Longitude":-73.3274
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Rockfall",
+        "County":"Middlesex",
+        "ZipCode":"06481",
+        "Latitude":41.5341,
+        "Longitude":-72.6997
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Lyme",
+        "County":"New London",
+        "ZipCode":"06333",
+        "Latitude":41.3668,
+        "Longitude":-72.233
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bozrah",
+        "County":"New London",
+        "ZipCode":"06334",
+        "Latitude":41.5465,
+        "Longitude":-72.1711
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Vernon Rockville",
+        "County":"Tolland",
+        "ZipCode":"06066",
+        "Latitude":41.8501,
+        "Longitude":-72.4649
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Storrs Mansfield",
+        "County":"Tolland",
+        "ZipCode":"06268",
+        "Latitude":41.7997,
+        "Longitude":-72.2478
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Storrs Mansfield",
+        "County":"Tolland",
+        "ZipCode":"06269",
+        "Latitude":41.808,
+        "Longitude":-72.251
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Willington",
+        "County":"Tolland",
+        "ZipCode":"06279",
+        "Latitude":41.8966,
+        "Longitude":-72.2622
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Grosvenordale",
+        "County":"Windham",
+        "ZipCode":"06255",
+        "Latitude":41.9784,
+        "Longitude":-71.8997
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Avon",
+        "County":"Capitol Region",
+        "ZipCode":"06001",
+        "Latitude":41.7905,
+        "Longitude":-72.8653
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bloomfield",
+        "County":"Capitol Region",
+        "ZipCode":"06002",
+        "Latitude":41.8316,
+        "Longitude":-72.7249
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Windsor",
+        "County":"Capitol Region",
+        "ZipCode":"06006",
+        "Latitude":41.8526,
+        "Longitude":-72.6437
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Broad Brook",
+        "County":"Capitol Region",
+        "ZipCode":"06016",
+        "Latitude":41.9042,
+        "Longitude":-72.5444
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Canton",
+        "County":"Capitol Region",
+        "ZipCode":"06019",
+        "Latitude":41.8384,
+        "Longitude":-72.8987
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Canton Center",
+        "County":"Capitol Region",
+        "ZipCode":"06020",
+        "Latitude":41.8539,
+        "Longitude":-72.9028
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Collinsville",
+        "County":"Capitol Region",
+        "ZipCode":"06022",
+        "Latitude":41.8513,
+        "Longitude":-72.9283
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Berlin",
+        "County":"Capitol Region",
+        "ZipCode":"06023",
+        "Latitude":41.6128,
+        "Longitude":-72.719
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Glastonbury",
+        "County":"Capitol Region",
+        "ZipCode":"06025",
+        "Latitude":41.6889,
+        "Longitude":-72.5345
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Granby",
+        "County":"Capitol Region",
+        "ZipCode":"06026",
+        "Latitude":41.9322,
+        "Longitude":-72.7459
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Windsor Hill",
+        "County":"Capitol Region",
+        "ZipCode":"06028",
+        "Latitude":41.8592,
+        "Longitude":-72.603
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ellington",
+        "County":"Capitol Region",
+        "ZipCode":"06029",
+        "Latitude":41.9114,
+        "Longitude":-72.4626
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Farmington",
+        "County":"Capitol Region",
+        "ZipCode":"06030",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Farmington",
+        "County":"Capitol Region",
+        "ZipCode":"06032",
+        "Latitude":41.7284,
+        "Longitude":-72.8415
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Glastonbury",
+        "County":"Capitol Region",
+        "ZipCode":"06033",
+        "Latitude":41.7073,
+        "Longitude":-72.5727
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Farmington",
+        "County":"Capitol Region",
+        "ZipCode":"06034",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Granby",
+        "County":"Capitol Region",
+        "ZipCode":"06035",
+        "Latitude":41.9602,
+        "Longitude":-72.7994
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Berlin",
+        "County":"Capitol Region",
+        "ZipCode":"06037",
+        "Latitude":41.6215,
+        "Longitude":-72.7457
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Manchester",
+        "County":"Capitol Region",
+        "ZipCode":"06040",
+        "Latitude":41.7777,
+        "Longitude":-72.5244
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Manchester",
+        "County":"Capitol Region",
+        "ZipCode":"06041",
+        "Latitude":41.7759,
+        "Longitude":-72.5215
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Manchester",
+        "County":"Capitol Region",
+        "ZipCode":"06042",
+        "Latitude":41.7966,
+        "Longitude":-72.5292
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bolton",
+        "County":"Capitol Region",
+        "ZipCode":"06043",
+        "Latitude":41.7689,
+        "Longitude":-72.4396
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Manchester",
+        "County":"Capitol Region",
+        "ZipCode":"06045",
+        "Latitude":41.7759,
+        "Longitude":-72.5215
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Britain",
+        "County":"Capitol Region",
+        "ZipCode":"06050",
+        "Latitude":41.666,
+        "Longitude":-72.7784
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Britain",
+        "County":"Capitol Region",
+        "ZipCode":"06051",
+        "Latitude":41.6667,
+        "Longitude":-72.7722
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Britain",
+        "County":"Capitol Region",
+        "ZipCode":"06052",
+        "Latitude":41.6588,
+        "Longitude":-72.7989
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Britain",
+        "County":"Capitol Region",
+        "ZipCode":"06053",
+        "Latitude":41.6867,
+        "Longitude":-72.7908
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Canton",
+        "County":"Capitol Region",
+        "ZipCode":"06059",
+        "Latitude":41.8997,
+        "Longitude":-72.8907
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Granby",
+        "County":"Capitol Region",
+        "ZipCode":"06060",
+        "Latitude":42.0219,
+        "Longitude":-72.8409
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Plainville",
+        "County":"Capitol Region",
+        "ZipCode":"06062",
+        "Latitude":41.6727,
+        "Longitude":-72.8644
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Poquonock",
+        "County":"Capitol Region",
+        "ZipCode":"06064",
+        "Latitude":41.9048,
+        "Longitude":-72.6787
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Rocky Hill",
+        "County":"Capitol Region",
+        "ZipCode":"06067",
+        "Latitude":41.6583,
+        "Longitude":-72.6632
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Simsbury",
+        "County":"Capitol Region",
+        "ZipCode":"06070",
+        "Latitude":41.8759,
+        "Longitude":-72.8012
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Somers",
+        "County":"Capitol Region",
+        "ZipCode":"06071",
+        "Latitude":41.9978,
+        "Longitude":-72.4583
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Somersville",
+        "County":"Capitol Region",
+        "ZipCode":"06072",
+        "Latitude":41.9765,
+        "Longitude":-72.4906
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Glastonbury",
+        "County":"Capitol Region",
+        "ZipCode":"06073",
+        "Latitude":41.6571,
+        "Longitude":-72.5722
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Windsor",
+        "County":"Capitol Region",
+        "ZipCode":"06074",
+        "Latitude":41.8341,
+        "Longitude":-72.5576
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stafford",
+        "County":"Capitol Region",
+        "ZipCode":"06075",
+        "Latitude":41.9848,
+        "Longitude":-72.289
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stafford Springs",
+        "County":"Capitol Region",
+        "ZipCode":"06076",
+        "Latitude":41.9661,
+        "Longitude":-72.2899
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Staffordville",
+        "County":"Capitol Region",
+        "ZipCode":"06077",
+        "Latitude":41.9916,
+        "Longitude":-72.2577
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Suffield",
+        "County":"Capitol Region",
+        "ZipCode":"06078",
+        "Latitude":41.99,
+        "Longitude":-72.642
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Suffield",
+        "County":"Capitol Region",
+        "ZipCode":"06080",
+        "Latitude":41.9818,
+        "Longitude":-72.6506
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Tariffville",
+        "County":"Capitol Region",
+        "ZipCode":"06081",
+        "Latitude":41.9077,
+        "Longitude":-72.7678
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Enfield",
+        "County":"Capitol Region",
+        "ZipCode":"06082",
+        "Latitude":41.989,
+        "Longitude":-72.5652
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Enfield",
+        "County":"Capitol Region",
+        "ZipCode":"06083",
+        "Latitude":41.9762,
+        "Longitude":-72.5918
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Tolland",
+        "County":"Capitol Region",
+        "ZipCode":"06084",
+        "Latitude":41.8696,
+        "Longitude":-72.3718
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Unionville",
+        "County":"Capitol Region",
+        "ZipCode":"06085",
+        "Latitude":41.7477,
+        "Longitude":-72.8874
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Unionville",
+        "County":"Capitol Region",
+        "ZipCode":"06087",
+        "Latitude":41.7576,
+        "Longitude":-72.885
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Windsor",
+        "County":"Capitol Region",
+        "ZipCode":"06088",
+        "Latitude":41.9099,
+        "Longitude":-72.6029
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Weatogue",
+        "County":"Capitol Region",
+        "ZipCode":"06089",
+        "Latitude":41.8372,
+        "Longitude":-72.8253
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Granby",
+        "County":"Capitol Region",
+        "ZipCode":"06090",
+        "Latitude":41.9556,
+        "Longitude":-72.862
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Simsbury",
+        "County":"Capitol Region",
+        "ZipCode":"06092",
+        "Latitude":41.8718,
+        "Longitude":-72.8577
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Suffield",
+        "County":"Capitol Region",
+        "ZipCode":"06093",
+        "Latitude":42.0115,
+        "Longitude":-72.7362
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Windsor",
+        "County":"Capitol Region",
+        "ZipCode":"06095",
+        "Latitude":41.8561,
+        "Longitude":-72.6639
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Windsor Locks",
+        "County":"Capitol Region",
+        "ZipCode":"06096",
+        "Latitude":41.9261,
+        "Longitude":-72.6458
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06101",
+        "Latitude":41.7801,
+        "Longitude":-72.6771
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06102",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06103",
+        "Latitude":41.7672,
+        "Longitude":-72.676
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06104",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06105",
+        "Latitude":41.7691,
+        "Longitude":-72.701
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06106",
+        "Latitude":41.7498,
+        "Longitude":-72.6947
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06107",
+        "Latitude":41.7556,
+        "Longitude":-72.7532
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06108",
+        "Latitude":41.7803,
+        "Longitude":-72.618
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wethersfield",
+        "County":"Capitol Region",
+        "ZipCode":"06109",
+        "Latitude":41.7013,
+        "Longitude":-72.6763
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06110",
+        "Latitude":41.7326,
+        "Longitude":-72.7337
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Newington",
+        "County":"Capitol Region",
+        "ZipCode":"06111",
+        "Latitude":41.686,
+        "Longitude":-72.7296
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06112",
+        "Latitude":41.7905,
+        "Longitude":-72.6964
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06114",
+        "Latitude":41.7403,
+        "Longitude":-72.6807
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06115",
+        "Latitude":41.7588,
+        "Longitude":-72.6794
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06117",
+        "Latitude":41.79,
+        "Longitude":-72.7457
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06118",
+        "Latitude":41.7472,
+        "Longitude":-72.6103
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06119",
+        "Latitude":41.7628,
+        "Longitude":-72.7268
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06120",
+        "Latitude":41.786,
+        "Longitude":-72.6758
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06123",
+        "Latitude":41.7637,
+        "Longitude":-72.6851
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06126",
+        "Latitude":41.7637,
+        "Longitude":-72.6851
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06127",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06128",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wethersfield",
+        "County":"Capitol Region",
+        "ZipCode":"06129",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Newington",
+        "County":"Capitol Region",
+        "ZipCode":"06131",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06132",
+        "Latitude":41.7637,
+        "Longitude":-72.6851
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06133",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06134",
+        "Latitude":41.7637,
+        "Longitude":-72.6851
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06137",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06138",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06140",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06141",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06142",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06143",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06144",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06145",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06146",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06147",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06150",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06151",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06152",
+        "Latitude":41.7637,
+        "Longitude":-72.6851
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06153",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06154",
+        "Latitude":41.7715,
+        "Longitude":-72.6867
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06155",
+        "Latitude":41.7693,
+        "Longitude":-72.6865
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06156",
+        "Latitude":41.7679,
+        "Longitude":-72.6907
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06160",
+        "Latitude":41.7665,
+        "Longitude":-72.6933
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06161",
+        "Latitude":41.766,
+        "Longitude":-72.6718
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06167",
+        "Latitude":41.7637,
+        "Longitude":-72.6851
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06176",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06180",
+        "Latitude":41.7918,
+        "Longitude":-72.7188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06183",
+        "Latitude":41.7638,
+        "Longitude":-72.673
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hartford",
+        "County":"Capitol Region",
+        "ZipCode":"06199",
+        "Latitude":41.9274,
+        "Longitude":-72.6804
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Amston",
+        "County":"Capitol Region",
+        "ZipCode":"06231",
+        "Latitude":41.629,
+        "Longitude":-72.3646
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Andover",
+        "County":"Capitol Region",
+        "ZipCode":"06232",
+        "Latitude":41.7332,
+        "Longitude":-72.3767
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Columbia",
+        "County":"Capitol Region",
+        "ZipCode":"06237",
+        "Latitude":41.6973,
+        "Longitude":-72.3072
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Coventry",
+        "County":"Capitol Region",
+        "ZipCode":"06238",
+        "Latitude":41.7822,
+        "Longitude":-72.3332
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hebron",
+        "County":"Capitol Region",
+        "ZipCode":"06248",
+        "Latitude":41.6842,
+        "Longitude":-72.3986
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Mansfield Center",
+        "County":"Capitol Region",
+        "ZipCode":"06250",
+        "Latitude":41.7698,
+        "Longitude":-72.2011
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Mansfield Depot",
+        "County":"Capitol Region",
+        "ZipCode":"06251",
+        "Latitude":41.7993,
+        "Longitude":-72.3065
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Willington",
+        "County":"Capitol Region",
+        "ZipCode":"06265",
+        "Latitude":41.8554,
+        "Longitude":-72.3015
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Marion",
+        "County":"Capitol Region",
+        "ZipCode":"06444",
+        "Latitude":41.5637,
+        "Longitude":-72.9257
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Marlborough",
+        "County":"Capitol Region",
+        "ZipCode":"06447",
+        "Latitude":41.6412,
+        "Longitude":-72.4609
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Milldale",
+        "County":"Capitol Region",
+        "ZipCode":"06467",
+        "Latitude":41.5659,
+        "Longitude":-72.8918
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Plantsville",
+        "County":"Capitol Region",
+        "ZipCode":"06479",
+        "Latitude":41.5797,
+        "Longitude":-72.899
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Southington",
+        "County":"Capitol Region",
+        "ZipCode":"06489",
+        "Latitude":41.6052,
+        "Longitude":-72.8727
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Monroe",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06468",
+        "Latitude":41.3312,
+        "Longitude":-73.2243
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stevenson",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06491",
+        "Latitude":41.3866,
+        "Longitude":-73.1872
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06601",
+        "Latitude":41.167,
+        "Longitude":-73.2048
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06602",
+        "Latitude":41.1798,
+        "Longitude":-73.189
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06604",
+        "Latitude":41.1796,
+        "Longitude":-73.2019
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06605",
+        "Latitude":41.1668,
+        "Longitude":-73.2163
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06606",
+        "Latitude":41.2091,
+        "Longitude":-73.2086
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06607",
+        "Latitude":41.1784,
+        "Longitude":-73.165
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06608",
+        "Latitude":41.1895,
+        "Longitude":-73.1811
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06610",
+        "Latitude":41.2005,
+        "Longitude":-73.1688
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Trumbull",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06611",
+        "Latitude":41.2564,
+        "Longitude":-73.2111
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Easton",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06612",
+        "Latitude":41.2523,
+        "Longitude":-73.2871
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stratford",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06614",
+        "Latitude":41.216,
+        "Longitude":-73.1304
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stratford",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06615",
+        "Latitude":41.177,
+        "Longitude":-73.1336
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06673",
+        "Latitude":41.167,
+        "Longitude":-73.2048
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgeport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06699",
+        "Latitude":41.167,
+        "Longitude":-73.2048
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Fairfield",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06824",
+        "Latitude":41.1692,
+        "Longitude":-73.2681
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Fairfield",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06825",
+        "Latitude":41.1928,
+        "Longitude":-73.2402
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Fairfield",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06828",
+        "Latitude":41.169,
+        "Longitude":-73.2334
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Southport",
+        "County":"Connecticut Metropolitan",
+        "ZipCode":"06890",
+        "Latitude":41.1428,
+        "Longitude":-73.2884
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Old Lyme",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06371",
+        "Latitude":41.3347,
+        "Longitude":-72.3086
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Lyme",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06376",
+        "Latitude":41.2967,
+        "Longitude":-72.2633
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Centerbrook",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06409",
+        "Latitude":41.3474,
+        "Longitude":-72.4173
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Chester",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06412",
+        "Latitude":41.4049,
+        "Longitude":-72.4643
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Clinton",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06413",
+        "Latitude":41.2912,
+        "Longitude":-72.528
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cobalt",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06414",
+        "Latitude":41.5667,
+        "Longitude":-72.5581
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cromwell",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06416",
+        "Latitude":41.6105,
+        "Longitude":-72.6663
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Deep River",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06417",
+        "Latitude":41.3765,
+        "Longitude":-72.4486
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Killingworth",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06419",
+        "Latitude":41.3696,
+        "Longitude":-72.5712
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Durham",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06422",
+        "Latitude":41.465,
+        "Longitude":-72.6875
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Haddam",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06423",
+        "Latitude":41.4696,
+        "Longitude":-72.4059
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Hampton",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06424",
+        "Latitude":41.5761,
+        "Longitude":-72.5093
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Essex",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06426",
+        "Latitude":41.3549,
+        "Longitude":-72.3965
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Haddam",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06438",
+        "Latitude":41.4627,
+        "Longitude":-72.505
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hadlyme",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06439",
+        "Latitude":41.4212,
+        "Longitude":-72.4141
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Higganum",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06441",
+        "Latitude":41.4682,
+        "Longitude":-72.5751
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ivoryton",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06442",
+        "Latitude":41.3421,
+        "Longitude":-72.4404
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Middlefield",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06455",
+        "Latitude":41.5168,
+        "Longitude":-72.7186
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Middle Haddam",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06456",
+        "Latitude":41.554,
+        "Longitude":-72.5501
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Middletown",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06457",
+        "Latitude":41.5569,
+        "Longitude":-72.6652
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Middletown",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06459",
+        "Latitude":41.5565,
+        "Longitude":-72.6582
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Moodus",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06469",
+        "Latitude":41.5078,
+        "Longitude":-72.4419
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Old Saybrook",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06475",
+        "Latitude":41.2913,
+        "Longitude":-72.385
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Portland",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06480",
+        "Latitude":41.5852,
+        "Longitude":-72.6128
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Westbrook",
+        "County":"Lower Connecticut River Valley",
+        "ZipCode":"06498",
+        "Latitude":41.2927,
+        "Longitude":-72.4563
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bristol",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06010",
+        "Latitude":41.6823,
+        "Longitude":-72.9302
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bristol",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06011",
+        "Latitude":41.6718,
+        "Longitude":-72.9493
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ansonia",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06401",
+        "Latitude":41.3427,
+        "Longitude":-73.0742
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Beacon Falls",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06403",
+        "Latitude":41.4369,
+        "Longitude":-73.0597
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cheshire",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06408",
+        "Latitude":41.3657,
+        "Longitude":-72.9275
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cheshire",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06410",
+        "Latitude":41.5055,
+        "Longitude":-72.9081
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cheshire",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06411",
+        "Latitude":41.499,
+        "Longitude":-72.9007
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Derby",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06418",
+        "Latitude":41.3229,
+        "Longitude":-73.08
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Oxford",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06478",
+        "Latitude":41.4202,
+        "Longitude":-73.1296
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Seymour",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06483",
+        "Latitude":41.3862,
+        "Longitude":-73.0817
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Shelton",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06484",
+        "Latitude":41.3047,
+        "Longitude":-73.1294
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Britain",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06487",
+        "Latitude":41.4709,
+        "Longitude":-73.2515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Southbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06488",
+        "Latitude":41.4767,
+        "Longitude":-73.2241
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06701",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06702",
+        "Latitude":41.5566,
+        "Longitude":-73.0385
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06703",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06704",
+        "Latitude":41.5754,
+        "Longitude":-73.0318
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06705",
+        "Latitude":41.5503,
+        "Longitude":-72.9963
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06706",
+        "Latitude":41.5363,
+        "Longitude":-73.0306
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06708",
+        "Latitude":41.5511,
+        "Longitude":-73.0645
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06710",
+        "Latitude":41.5675,
+        "Longitude":-73.0468
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Prospect",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06712",
+        "Latitude":41.5022,
+        "Longitude":-72.9788
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wolcott",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06716",
+        "Latitude":41.597,
+        "Longitude":-72.9828
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06720",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06721",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06722",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06723",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06724",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06725",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06726",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06749",
+        "Latitude":41.5582,
+        "Longitude":-73.0515
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bethlehem",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06751",
+        "Latitude":41.6387,
+        "Longitude":-73.2091
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Middlebury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06762",
+        "Latitude":41.5343,
+        "Longitude":-73.1131
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Naugatuck",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06770",
+        "Latitude":41.492,
+        "Longitude":-73.0493
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Oakville",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06779",
+        "Latitude":41.5909,
+        "Longitude":-73.0873
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Pequabuck",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06781",
+        "Latitude":41.6699,
+        "Longitude":-72.9915
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Plymouth",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06782",
+        "Latitude":41.6611,
+        "Longitude":-73.0449
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Terryville",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06786",
+        "Latitude":41.6762,
+        "Longitude":-73.0092
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Thomaston",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06787",
+        "Latitude":41.6786,
+        "Longitude":-73.0886
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Watertown",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06795",
+        "Latitude":41.6057,
+        "Longitude":-73.1221
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Woodbury",
+        "County":"Naugatuck Valley",
+        "ZipCode":"06798",
+        "Latitude":41.5521,
+        "Longitude":-73.2083
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Abington",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06230",
+        "Latitude":41.8473,
+        "Longitude":-72.0253
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ballouville",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06233",
+        "Latitude":41.8768,
+        "Longitude":-71.8612
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Brooklyn",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06234",
+        "Latitude":41.7807,
+        "Longitude":-71.9541
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Chaplin",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06235",
+        "Latitude":41.8026,
+        "Longitude":-72.1372
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danielson",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06239",
+        "Latitude":41.7982,
+        "Longitude":-71.8807
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Dayville",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06241",
+        "Latitude":41.854,
+        "Longitude":-71.8683
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Eastford",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06242",
+        "Latitude":41.8771,
+        "Longitude":-72.0895
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Killingly",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06243",
+        "Latitude":41.8452,
+        "Longitude":-71.8026
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Woodstock",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06244",
+        "Latitude":41.9843,
+        "Longitude":-71.981
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Fabyan",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06245",
+        "Latitude":42.0198,
+        "Longitude":-71.9417
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Grosvenor Dale",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06246",
+        "Latitude":41.9711,
+        "Longitude":-71.8917
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hampton",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06247",
+        "Latitude":41.7671,
+        "Longitude":-72.0662
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Pomfret",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06258",
+        "Latitude":41.889,
+        "Longitude":-71.9682
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Pomfret Center",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06259",
+        "Latitude":41.8697,
+        "Longitude":-71.982
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Putnam",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06260",
+        "Latitude":41.9185,
+        "Longitude":-71.8968
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Quinebaug",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06262",
+        "Latitude":42.0217,
+        "Longitude":-71.9391
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Rogers",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06263",
+        "Latitude":41.8391,
+        "Longitude":-71.9063
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Scotland",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06264",
+        "Latitude":41.6958,
+        "Longitude":-72.087
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Woodstock",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06267",
+        "Latitude":41.9439,
+        "Longitude":-71.9453
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Thompson",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06277",
+        "Latitude":41.9803,
+        "Longitude":-71.8376
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ashford",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06278",
+        "Latitude":41.889,
+        "Longitude":-72.1476
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Woodstock",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06281",
+        "Latitude":41.9602,
+        "Longitude":-72.004
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Woodstock Valley",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06282",
+        "Latitude":41.9153,
+        "Longitude":-72.0937
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Canterbury",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06331",
+        "Latitude":41.6844,
+        "Longitude":-72.001
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Central Village",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06332",
+        "Latitude":41.7229,
+        "Longitude":-71.9067
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Moosup",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06354",
+        "Latitude":41.721,
+        "Longitude":-71.885
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Oneco",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06373",
+        "Latitude":41.6937,
+        "Longitude":-71.8084
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Plainfield",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06374",
+        "Latitude":41.6775,
+        "Longitude":-71.922
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Sterling",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06377",
+        "Latitude":41.7156,
+        "Longitude":-71.8196
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Voluntown",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06384",
+        "Latitude":41.5831,
+        "Longitude":-71.855
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wauregan",
+        "County":"Northeastern Connecticut",
+        "ZipCode":"06387",
+        "Latitude":41.7445,
+        "Longitude":-71.9133
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Burlington",
+        "County":"Northwest Hills",
+        "ZipCode":"06013",
+        "Latitude":41.7573,
+        "Longitude":-72.9444
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Canaan",
+        "County":"Northwest Hills",
+        "ZipCode":"06018",
+        "Latitude":42.0248,
+        "Longitude":-73.3232
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Colebrook",
+        "County":"Northwest Hills",
+        "ZipCode":"06021",
+        "Latitude":41.9895,
+        "Longitude":-73.0957
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Canaan",
+        "County":"Northwest Hills",
+        "ZipCode":"06024",
+        "Latitude":42.0158,
+        "Longitude":-73.2913
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"East Hartland",
+        "County":"Northwest Hills",
+        "ZipCode":"06027",
+        "Latitude":42.0016,
+        "Longitude":-72.9242
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Falls Village",
+        "County":"Northwest Hills",
+        "ZipCode":"06031",
+        "Latitude":41.9559,
+        "Longitude":-73.3632
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Lakeville",
+        "County":"Northwest Hills",
+        "ZipCode":"06039",
+        "Latitude":41.9516,
+        "Longitude":-73.4377
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Hartford",
+        "County":"Northwest Hills",
+        "ZipCode":"06057",
+        "Latitude":41.8468,
+        "Longitude":-73.0104
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norfolk",
+        "County":"Northwest Hills",
+        "ZipCode":"06058",
+        "Latitude":41.9854,
+        "Longitude":-73.1992
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Pine Meadow",
+        "County":"Northwest Hills",
+        "ZipCode":"06061",
+        "Latitude":41.8765,
+        "Longitude":-72.967
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Barkhamsted",
+        "County":"Northwest Hills",
+        "ZipCode":"06063",
+        "Latitude":41.9293,
+        "Longitude":-72.914
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Riverton",
+        "County":"Northwest Hills",
+        "ZipCode":"06065",
+        "Latitude":41.9686,
+        "Longitude":-73.0145
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Salisbury",
+        "County":"Northwest Hills",
+        "ZipCode":"06068",
+        "Latitude":42.0015,
+        "Longitude":-73.4215
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Sharon",
+        "County":"Northwest Hills",
+        "ZipCode":"06069",
+        "Latitude":41.8714,
+        "Longitude":-73.4578
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Taconic",
+        "County":"Northwest Hills",
+        "ZipCode":"06079",
+        "Latitude":42.032,
+        "Longitude":-73.4038
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Hartland",
+        "County":"Northwest Hills",
+        "ZipCode":"06091",
+        "Latitude":42.0076,
+        "Longitude":-72.9707
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Winchester Center",
+        "County":"Northwest Hills",
+        "ZipCode":"06094",
+        "Latitude":41.8963,
+        "Longitude":-73.1463
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Winsted",
+        "County":"Northwest Hills",
+        "ZipCode":"06098",
+        "Latitude":41.9252,
+        "Longitude":-73.0663
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bantam",
+        "County":"Northwest Hills",
+        "ZipCode":"06750",
+        "Latitude":41.7215,
+        "Longitude":-73.252
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cornwall",
+        "County":"Northwest Hills",
+        "ZipCode":"06753",
+        "Latitude":41.8281,
+        "Longitude":-73.3323
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cornwall Bridge",
+        "County":"Northwest Hills",
+        "ZipCode":"06754",
+        "Latitude":41.8187,
+        "Longitude":-73.371
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Goshen",
+        "County":"Northwest Hills",
+        "ZipCode":"06756",
+        "Latitude":41.8335,
+        "Longitude":-73.2429
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Kent",
+        "County":"Northwest Hills",
+        "ZipCode":"06757",
+        "Latitude":41.7316,
+        "Longitude":-73.4583
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Lakeside",
+        "County":"Northwest Hills",
+        "ZipCode":"06758",
+        "Latitude":41.6754,
+        "Longitude":-73.242
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Litchfield",
+        "County":"Northwest Hills",
+        "ZipCode":"06759",
+        "Latitude":41.7541,
+        "Longitude":-73.2
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Morris",
+        "County":"Northwest Hills",
+        "ZipCode":"06763",
+        "Latitude":41.6881,
+        "Longitude":-73.1765
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Northfield",
+        "County":"Northwest Hills",
+        "ZipCode":"06778",
+        "Latitude":41.7077,
+        "Longitude":-73.109
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Roxbury",
+        "County":"Northwest Hills",
+        "ZipCode":"06783",
+        "Latitude":41.5509,
+        "Longitude":-73.2993
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Kent",
+        "County":"Northwest Hills",
+        "ZipCode":"06785",
+        "Latitude":41.6951,
+        "Longitude":-73.469
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Torrington",
+        "County":"Northwest Hills",
+        "ZipCode":"06790",
+        "Latitude":41.8131,
+        "Longitude":-73.1156
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Harwinton",
+        "County":"Northwest Hills",
+        "ZipCode":"06791",
+        "Latitude":41.7701,
+        "Longitude":-73.0728
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Torrington",
+        "County":"Northwest Hills",
+        "ZipCode":"06792",
+        "Latitude":41.7549,
+        "Longitude":-73.0582
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Washington",
+        "County":"Northwest Hills",
+        "ZipCode":"06793",
+        "Latitude":41.6296,
+        "Longitude":-73.2884
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Cornwall",
+        "County":"Northwest Hills",
+        "ZipCode":"06796",
+        "Latitude":41.8689,
+        "Longitude":-73.3313
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Branford",
+        "County":"South Central Regional",
+        "ZipCode":"06405",
+        "Latitude":41.28,
+        "Longitude":-72.8106
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Guilford",
+        "County":"South Central Regional",
+        "ZipCode":"06437",
+        "Latitude":41.3154,
+        "Longitude":-72.6968
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Madison",
+        "County":"South Central Regional",
+        "ZipCode":"06443",
+        "Latitude":41.309,
+        "Longitude":-72.6153
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Meriden",
+        "County":"South Central Regional",
+        "ZipCode":"06450",
+        "Latitude":41.5334,
+        "Longitude":-72.7997
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Meriden",
+        "County":"South Central Regional",
+        "ZipCode":"06451",
+        "Latitude":41.5401,
+        "Longitude":-72.8189
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Milford",
+        "County":"South Central Regional",
+        "ZipCode":"06460",
+        "Latitude":41.2175,
+        "Longitude":-73.0549
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Milford",
+        "County":"South Central Regional",
+        "ZipCode":"06461",
+        "Latitude":41.2338,
+        "Longitude":-73.0747
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Branford",
+        "County":"South Central Regional",
+        "ZipCode":"06471",
+        "Latitude":41.3323,
+        "Longitude":-72.7809
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Northford",
+        "County":"South Central Regional",
+        "ZipCode":"06472",
+        "Latitude":41.3962,
+        "Longitude":-72.7809
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06473",
+        "Latitude":41.3822,
+        "Longitude":-72.8585
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Orange",
+        "County":"South Central Regional",
+        "ZipCode":"06477",
+        "Latitude":41.2815,
+        "Longitude":-73.0287
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wallingford",
+        "County":"South Central Regional",
+        "ZipCode":"06492",
+        "Latitude":41.46,
+        "Longitude":-72.8222
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wallingford",
+        "County":"South Central Regional",
+        "ZipCode":"06493",
+        "Latitude":41.3657,
+        "Longitude":-72.9275
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wallingford",
+        "County":"South Central Regional",
+        "ZipCode":"06494",
+        "Latitude":41.3657,
+        "Longitude":-72.9275
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wallingford",
+        "County":"South Central Regional",
+        "ZipCode":"06495",
+        "Latitude":41.3885,
+        "Longitude":-72.8795
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06501",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06502",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06503",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06504",
+        "Latitude":41.3657,
+        "Longitude":-72.9275
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06505",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06506",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06507",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06508",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06509",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06510",
+        "Latitude":41.3087,
+        "Longitude":-72.9271
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06511",
+        "Latitude":41.3184,
+        "Longitude":-72.9318
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06512",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06513",
+        "Latitude":41.3072,
+        "Longitude":-72.8654
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hamden",
+        "County":"South Central Regional",
+        "ZipCode":"06514",
+        "Latitude":41.362,
+        "Longitude":-72.9361
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06515",
+        "Latitude":41.3293,
+        "Longitude":-72.9664
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06516",
+        "Latitude":41.2701,
+        "Longitude":-72.9638
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hamden",
+        "County":"South Central Regional",
+        "ZipCode":"06517",
+        "Latitude":41.3484,
+        "Longitude":-72.9117
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hamden",
+        "County":"South Central Regional",
+        "ZipCode":"06518",
+        "Latitude":41.4097,
+        "Longitude":-72.911
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06519",
+        "Latitude":41.2963,
+        "Longitude":-72.9373
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06520",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06521",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bethany",
+        "County":"South Central Regional",
+        "ZipCode":"06524",
+        "Latitude":41.4262,
+        "Longitude":-73.0007
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06525",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06530",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06531",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06532",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06533",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06534",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06535",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06536",
+        "Latitude":41.3082,
+        "Longitude":-72.9282
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06537",
+        "Latitude":41.3657,
+        "Longitude":-72.9275
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06538",
+        "Latitude":41.3657,
+        "Longitude":-72.9275
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Haven",
+        "County":"South Central Regional",
+        "ZipCode":"06540",
+        "Latitude":41.2996,
+        "Longitude":-72.9188
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Willimantic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06226",
+        "Latitude":41.7149,
+        "Longitude":-72.2134
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Lebanon",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06249",
+        "Latitude":41.633,
+        "Longitude":-72.244
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Franklin",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06254",
+        "Latitude":41.6161,
+        "Longitude":-72.1425
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Windham",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06256",
+        "Latitude":41.7451,
+        "Longitude":-72.1601
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"South Windham",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06266",
+        "Latitude":41.6677,
+        "Longitude":-72.1681
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Windham",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06280",
+        "Latitude":41.7027,
+        "Longitude":-72.1526
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New London",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06320",
+        "Latitude":41.3507,
+        "Longitude":-72.1062
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Baltic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06330",
+        "Latitude":41.6263,
+        "Longitude":-72.0775
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Gales Ferry",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06335",
+        "Latitude":41.4285,
+        "Longitude":-72.0672
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Gilman",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06336",
+        "Latitude":41.5795,
+        "Longitude":-72.1963
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Mashantucket",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06338",
+        "Latitude":41.4757,
+        "Longitude":-71.9574
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ledyard",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06339",
+        "Latitude":41.4401,
+        "Longitude":-71.9956
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Groton",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06340",
+        "Latitude":41.3572,
+        "Longitude":-72.0579
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Groton",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06349",
+        "Latitude":41.3997,
+        "Longitude":-72.0904
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hanover",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06350",
+        "Latitude":41.6445,
+        "Longitude":-72.0677
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Jewett City",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06351",
+        "Latitude":41.6052,
+        "Longitude":-71.9808
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Montville",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06353",
+        "Latitude":41.479,
+        "Longitude":-72.1512
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Mystic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06355",
+        "Latitude":41.3616,
+        "Longitude":-71.9774
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Niantic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06357",
+        "Latitude":41.3253,
+        "Longitude":-72.2108
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Stonington",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06359",
+        "Latitude":41.4531,
+        "Longitude":-71.8727
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwich",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06360",
+        "Latitude":41.5371,
+        "Longitude":-72.0849
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Preston",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06365",
+        "Latitude":41.5224,
+        "Longitude":-71.9934
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Oakdale",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06370",
+        "Latitude":41.4706,
+        "Longitude":-72.1904
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Old Mystic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06372",
+        "Latitude":41.3882,
+        "Longitude":-71.9495
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Quaker Hill",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06375",
+        "Latitude":41.4032,
+        "Longitude":-72.1172
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stonington",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06378",
+        "Latitude":41.3664,
+        "Longitude":-71.9155
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Pawcatuck",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06379",
+        "Latitude":41.3735,
+        "Longitude":-71.8478
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Taftville",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06380",
+        "Latitude":41.5653,
+        "Longitude":-72.0529
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Uncasville",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06382",
+        "Latitude":41.4622,
+        "Longitude":-72.1126
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Versailles",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06383",
+        "Latitude":41.6016,
+        "Longitude":-72.0404
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Waterford",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06385",
+        "Latitude":41.3469,
+        "Longitude":-72.1458
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"West Mystic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06388",
+        "Latitude":41.3441,
+        "Longitude":-71.9765
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Yantic",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06389",
+        "Latitude":41.5598,
+        "Longitude":-72.1237
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Colchester",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06415",
+        "Latitude":41.5662,
+        "Longitude":-72.3441
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Salem",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06420",
+        "Latitude":41.4966,
+        "Longitude":-72.2725
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"North Westchester",
+        "County":"Southeastern Connecticut",
+        "ZipCode":"06474",
+        "Latitude":41.5809,
+        "Longitude":-72.4012
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Botsford",
+        "County":"Western Connecticut",
+        "ZipCode":"06404",
+        "Latitude":41.3665,
+        "Longitude":-73.2571
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Hawleyville",
+        "County":"Western Connecticut",
+        "ZipCode":"06440",
+        "Latitude":41.4276,
+        "Longitude":-73.3551
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Newtown",
+        "County":"Western Connecticut",
+        "ZipCode":"06470",
+        "Latitude":41.3931,
+        "Longitude":-73.3167
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Sandy Hook",
+        "County":"Western Connecticut",
+        "ZipCode":"06482",
+        "Latitude":41.4087,
+        "Longitude":-73.2485
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bridgewater",
+        "County":"Western Connecticut",
+        "ZipCode":"06752",
+        "Latitude":41.5287,
+        "Longitude":-73.3609
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Gaylordsville",
+        "County":"Western Connecticut",
+        "ZipCode":"06755",
+        "Latitude":41.6486,
+        "Longitude":-73.4835
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Milford",
+        "County":"Western Connecticut",
+        "ZipCode":"06776",
+        "Latitude":41.5817,
+        "Longitude":-73.4128
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Sherman",
+        "County":"Western Connecticut",
+        "ZipCode":"06784",
+        "Latitude":41.5714,
+        "Longitude":-73.4947
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Bethel",
+        "County":"Western Connecticut",
+        "ZipCode":"06801",
+        "Latitude":41.3813,
+        "Longitude":-73.4008
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Brookfield",
+        "County":"Western Connecticut",
+        "ZipCode":"06804",
+        "Latitude":41.465,
+        "Longitude":-73.398
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Cos Cob",
+        "County":"Western Connecticut",
+        "ZipCode":"06807",
+        "Latitude":41.053,
+        "Longitude":-73.5935
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danbury",
+        "County":"Western Connecticut",
+        "ZipCode":"06810",
+        "Latitude":41.3917,
+        "Longitude":-73.4532
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danbury",
+        "County":"Western Connecticut",
+        "ZipCode":"06811",
+        "Latitude":41.424,
+        "Longitude":-73.4716
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Fairfield",
+        "County":"Western Connecticut",
+        "ZipCode":"06812",
+        "Latitude":41.473,
+        "Longitude":-73.4978
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danbury",
+        "County":"Western Connecticut",
+        "ZipCode":"06813",
+        "Latitude":41.3948,
+        "Longitude":-73.454
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danbury",
+        "County":"Western Connecticut",
+        "ZipCode":"06814",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danbury",
+        "County":"Western Connecticut",
+        "ZipCode":"06816",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Danbury",
+        "County":"Western Connecticut",
+        "ZipCode":"06817",
+        "Latitude":41.3948,
+        "Longitude":-73.454
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Darien",
+        "County":"Western Connecticut",
+        "ZipCode":"06820",
+        "Latitude":41.0768,
+        "Longitude":-73.4853
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Georgetown",
+        "County":"Western Connecticut",
+        "ZipCode":"06829",
+        "Latitude":41.2555,
+        "Longitude":-73.4279
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Greenwich",
+        "County":"Western Connecticut",
+        "ZipCode":"06830",
+        "Latitude":41.0427,
+        "Longitude":-73.6262
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Greenwich",
+        "County":"Western Connecticut",
+        "ZipCode":"06831",
+        "Latitude":41.0549,
+        "Longitude":-73.6594
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Greenwich",
+        "County":"Western Connecticut",
+        "ZipCode":"06836",
+        "Latitude":41.0265,
+        "Longitude":-73.6285
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Greens Farms",
+        "County":"Western Connecticut",
+        "ZipCode":"06838",
+        "Latitude":41.1238,
+        "Longitude":-73.3195
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"New Canaan",
+        "County":"Western Connecticut",
+        "ZipCode":"06840",
+        "Latitude":41.151,
+        "Longitude":-73.4944
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06850",
+        "Latitude":41.1222,
+        "Longitude":-73.4358
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06851",
+        "Latitude":41.1323,
+        "Longitude":-73.4058
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06852",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06853",
+        "Latitude":41.0702,
+        "Longitude":-73.4397
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06854",
+        "Latitude":41.0957,
+        "Longitude":-73.4285
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06855",
+        "Latitude":41.1014,
+        "Longitude":-73.4011
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06856",
+        "Latitude":41.1112,
+        "Longitude":-73.4204
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06857",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06858",
+        "Latitude":41.1105,
+        "Longitude":-73.4162
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Norwalk",
+        "County":"Western Connecticut",
+        "ZipCode":"06860",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Old Greenwich",
+        "County":"Western Connecticut",
+        "ZipCode":"06870",
+        "Latitude":41.0354,
+        "Longitude":-73.5673
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Redding Ridge",
+        "County":"Western Connecticut",
+        "ZipCode":"06876",
+        "Latitude":41.314,
+        "Longitude":-73.3504
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ridgefield",
+        "County":"Western Connecticut",
+        "ZipCode":"06877",
+        "Latitude":41.2977,
+        "Longitude":-73.4973
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Riverside",
+        "County":"Western Connecticut",
+        "ZipCode":"06878",
+        "Latitude":41.038,
+        "Longitude":-73.5811
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Ridgefield",
+        "County":"Western Connecticut",
+        "ZipCode":"06879",
+        "Latitude":41.2815,
+        "Longitude":-73.4982
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Westport",
+        "County":"Western Connecticut",
+        "ZipCode":"06880",
+        "Latitude":41.1434,
+        "Longitude":-73.3496
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Westport",
+        "County":"Western Connecticut",
+        "ZipCode":"06881",
+        "Latitude":41.1415,
+        "Longitude":-73.3579
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Weston",
+        "County":"Western Connecticut",
+        "ZipCode":"06883",
+        "Latitude":41.2195,
+        "Longitude":-73.3715
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Westport",
+        "County":"Western Connecticut",
+        "ZipCode":"06888",
+        "Latitude":41.3089,
+        "Longitude":-73.3637
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Westport",
+        "County":"Western Connecticut",
+        "ZipCode":"06889",
+        "Latitude":41.141,
+        "Longitude":-73.3469
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Redding",
+        "County":"Western Connecticut",
+        "ZipCode":"06896",
+        "Latitude":41.2711,
+        "Longitude":-73.3863
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Wilton",
+        "County":"Western Connecticut",
+        "ZipCode":"06897",
+        "Latitude":41.2018,
+        "Longitude":-73.4383
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06901",
+        "Latitude":41.0531,
+        "Longitude":-73.539
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06902",
+        "Latitude":41.0602,
+        "Longitude":-73.5445
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06903",
+        "Latitude":41.1352,
+        "Longitude":-73.5684
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06904",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06905",
+        "Latitude":41.0888,
+        "Longitude":-73.5435
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06906",
+        "Latitude":41.0692,
+        "Longitude":-73.5236
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06907",
+        "Latitude":41.0942,
+        "Longitude":-73.5203
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06910",
+        "Latitude":41.0391,
+        "Longitude":-73.5591
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06911",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06912",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06913",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06914",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06920",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06921",
+        "Latitude":41.0499,
+        "Longitude":-73.538
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06922",
+        "Latitude":41.0516,
+        "Longitude":-73.5143
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06926",
+        "Latitude":41.0412,
+        "Longitude":-73.5386
+    },
+    {
+        "State":"Connecticut",
+        "StateAbbr":"CT",
+        "City":"Stamford",
+        "County":"Western Connecticut",
+        "ZipCode":"06927",
+        "Latitude":41.0534,
+        "Longitude":-73.5387
+    }
+]

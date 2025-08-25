@@ -1,0 +1,2459 @@
+[
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Akutan",
+        "County":"Aleutians East",
+        "ZipCode":"99553",
+        "Latitude":54.143,
+        "Longitude":-165.7854
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Cold Bay",
+        "County":"Aleutians East",
+        "ZipCode":"99571",
+        "Latitude":55.1858,
+        "Longitude":-162.7211
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"False Pass",
+        "County":"Aleutians East",
+        "ZipCode":"99583",
+        "Latitude":54.8542,
+        "Longitude":-163.4113
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"King Cove",
+        "County":"Aleutians East",
+        "ZipCode":"99612",
+        "Latitude":55.0628,
+        "Longitude":-162.3056
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Sand Point",
+        "County":"Aleutians East",
+        "ZipCode":"99661",
+        "Latitude":55.3192,
+        "Longitude":-160.4914
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Adak",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99546",
+        "Latitude":51.874,
+        "Longitude":-176.634
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Atka",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99547",
+        "Latitude":52.1961,
+        "Longitude":-174.2006
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Saint George Island",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99591",
+        "Latitude":56.5944,
+        "Longitude":-169.6186
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nikolski",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99638",
+        "Latitude":52.9381,
+        "Longitude":-168.8678
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Saint Paul Island",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99660",
+        "Latitude":57.1842,
+        "Longitude":-170.2764
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Unalaska",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99685",
+        "Latitude":53.8871,
+        "Longitude":-166.5199
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Dutch Harbor",
+        "County":"Aleutians West (CA)",
+        "ZipCode":"99692",
+        "Latitude":53.8898,
+        "Longitude":-166.5422
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99501",
+        "Latitude":61.2116,
+        "Longitude":-149.8761
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99502",
+        "Latitude":61.1661,
+        "Longitude":-149.96
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99503",
+        "Latitude":61.19,
+        "Longitude":-149.8938
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99504",
+        "Latitude":61.2037,
+        "Longitude":-149.7447
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Jber",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99505",
+        "Latitude":59.8666,
+        "Longitude":-158.5996
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Jber",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99506",
+        "Latitude":59.8666,
+        "Longitude":-158.5996
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99507",
+        "Latitude":61.1535,
+        "Longitude":-149.8289
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99508",
+        "Latitude":61.206,
+        "Longitude":-149.8101
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99509",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99510",
+        "Latitude":61.1446,
+        "Longitude":-149.8784
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99511",
+        "Latitude":61.0683,
+        "Longitude":-149.8005
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99513",
+        "Latitude":61.2149,
+        "Longitude":-149.8862
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99514",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99515",
+        "Latitude":61.1194,
+        "Longitude":-149.8974
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99516",
+        "Latitude":61.1054,
+        "Longitude":-149.78
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99517",
+        "Latitude":61.1901,
+        "Longitude":-149.9361
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99518",
+        "Latitude":61.1549,
+        "Longitude":-149.8866
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99519",
+        "Latitude":61.1089,
+        "Longitude":-149.4403
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99520",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99521",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99522",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99523",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99524",
+        "Latitude":61.2181,
+        "Longitude":-149.9003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99529",
+        "Latitude":61.1515,
+        "Longitude":-149.9443
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99530",
+        "Latitude":61.1515,
+        "Longitude":-149.9443
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Indian",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99540",
+        "Latitude":61.1089,
+        "Longitude":-149.4403
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chugiak",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99567",
+        "Latitude":61.4098,
+        "Longitude":-149.4537
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Eagle River",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99577",
+        "Latitude":61.3114,
+        "Longitude":-149.5085
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Girdwood",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99587",
+        "Latitude":60.9577,
+        "Longitude":-149.1406
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99599",
+        "Latitude":61.1872,
+        "Longitude":-149.8804
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchorage",
+        "County":"Anchorage Municipality",
+        "ZipCode":"99695",
+        "Latitude":61.1089,
+        "Longitude":-149.4403
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kongiganak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99545",
+        "Latitude":59.9599,
+        "Longitude":-162.8919
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Akiachak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99551",
+        "Latitude":60.9094,
+        "Longitude":-161.4314
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Akiak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99552",
+        "Latitude":60.9122,
+        "Longitude":-161.2139
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Aniak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99557",
+        "Latitude":61.5783,
+        "Longitude":-159.5222
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Bethel",
+        "County":"Bethel Census Area",
+        "ZipCode":"99559",
+        "Latitude":60.7922,
+        "Longitude":-161.7558
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chefornak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99561",
+        "Latitude":60.1537,
+        "Longitude":-164.2103
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Crooked Creek",
+        "County":"Bethel Census Area",
+        "ZipCode":"99575",
+        "Latitude":61.8181,
+        "Longitude":-158.0025
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Eek",
+        "County":"Bethel Census Area",
+        "ZipCode":"99578",
+        "Latitude":60.2151,
+        "Longitude":-162.0323
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Goodnews Bay",
+        "County":"Bethel Census Area",
+        "ZipCode":"99589",
+        "Latitude":59.1189,
+        "Longitude":-161.5875
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kalskag",
+        "County":"Bethel Census Area",
+        "ZipCode":"99607",
+        "Latitude":61.541,
+        "Longitude":-160.3261
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kasigluk",
+        "County":"Bethel Census Area",
+        "ZipCode":"99609",
+        "Latitude":60.8956,
+        "Longitude":-162.5181
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kipnuk",
+        "County":"Bethel Census Area",
+        "ZipCode":"99614",
+        "Latitude":59.9232,
+        "Longitude":-164.101
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kwethluk",
+        "County":"Bethel Census Area",
+        "ZipCode":"99621",
+        "Latitude":60.8122,
+        "Longitude":-161.4358
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kwigillingok",
+        "County":"Bethel Census Area",
+        "ZipCode":"99622",
+        "Latitude":59.8644,
+        "Longitude":-163.1342
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Lower Kalskag",
+        "County":"Bethel Census Area",
+        "ZipCode":"99626",
+        "Latitude":61.5138,
+        "Longitude":-160.36
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Mekoryuk",
+        "County":"Bethel Census Area",
+        "ZipCode":"99630",
+        "Latitude":60.3657,
+        "Longitude":-166.2836
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Napakiak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99634",
+        "Latitude":60.6967,
+        "Longitude":-161.9519
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Toksook Bay",
+        "County":"Bethel Census Area",
+        "ZipCode":"99637",
+        "Latitude":60.5338,
+        "Longitude":-165.1037
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nunapitchuk",
+        "County":"Bethel Census Area",
+        "ZipCode":"99641",
+        "Latitude":60.8969,
+        "Longitude":-162.4594
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Platinum",
+        "County":"Bethel Census Area",
+        "ZipCode":"99651",
+        "Latitude":59.0131,
+        "Longitude":-161.8164
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Quinhagak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99655",
+        "Latitude":59.7381,
+        "Longitude":-161.8749
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Red Devil",
+        "County":"Bethel Census Area",
+        "ZipCode":"99656",
+        "Latitude":61.7611,
+        "Longitude":-157.3125
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Sleetmute",
+        "County":"Bethel Census Area",
+        "ZipCode":"99668",
+        "Latitude":61.7025,
+        "Longitude":-157.1697
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tuluksak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99679",
+        "Latitude":61.1088,
+        "Longitude":-160.9389
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tuntutuliak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99680",
+        "Latitude":60.3431,
+        "Longitude":-162.6631
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tununak",
+        "County":"Bethel Census Area",
+        "ZipCode":"99681",
+        "Latitude":60.5856,
+        "Longitude":-165.2558
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nightmute",
+        "County":"Bethel Census Area",
+        "ZipCode":"99690",
+        "Latitude":60.4794,
+        "Longitude":-164.7239
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"King Salmon",
+        "County":"Bristol Bay",
+        "ZipCode":"99613",
+        "Latitude":58.6883,
+        "Longitude":-156.6614
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Naknek",
+        "County":"Bristol Bay",
+        "ZipCode":"99633",
+        "Latitude":58.783,
+        "Longitude":-156.8992
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"South Naknek",
+        "County":"Bristol Bay",
+        "ZipCode":"99670",
+        "Latitude":58.6639,
+        "Longitude":-156.9756
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Cordova",
+        "County":"Chugach Census Area",
+        "ZipCode":"99574",
+        "Latitude":60.5362,
+        "Longitude":-145.7534
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tatitlek",
+        "County":"Chugach Census Area",
+        "ZipCode":"99677",
+        "Latitude":60.8906,
+        "Longitude":-146.6703
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Valdez",
+        "County":"Chugach Census Area",
+        "ZipCode":"99686",
+        "Latitude":61.101,
+        "Longitude":-146.9
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Whittier",
+        "County":"Chugach Census Area",
+        "ZipCode":"99693",
+        "Latitude":60.7734,
+        "Longitude":-148.6839
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chitina",
+        "County":"Copper River Census Area",
+        "ZipCode":"99566",
+        "Latitude":61.5156,
+        "Longitude":-144.4396
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Copper Center",
+        "County":"Copper River Census Area",
+        "ZipCode":"99573",
+        "Latitude":61.977,
+        "Longitude":-145.3297
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Gakona",
+        "County":"Copper River Census Area",
+        "ZipCode":"99586",
+        "Latitude":62.3014,
+        "Longitude":-145.3027
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Glennallen",
+        "County":"Copper River Census Area",
+        "ZipCode":"99588",
+        "Latitude":62.1039,
+        "Longitude":-145.6617
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Clear",
+        "County":"Denali",
+        "ZipCode":"99704",
+        "Latitude":64.2966,
+        "Longitude":-149.1608
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Cantwell",
+        "County":"Denali",
+        "ZipCode":"99729",
+        "Latitude":63.3955,
+        "Longitude":-148.8973
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Healy",
+        "County":"Denali",
+        "ZipCode":"99743",
+        "Latitude":63.9171,
+        "Longitude":-149.0111
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anderson",
+        "County":"Denali",
+        "ZipCode":"99744",
+        "Latitude":64.3442,
+        "Longitude":-149.1869
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Denali National Park",
+        "County":"Denali",
+        "ZipCode":"99755",
+        "Latitude":63.5436,
+        "Longitude":-149.9867
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Aleknagik",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99555",
+        "Latitude":59.2697,
+        "Longitude":-158.6199
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Clarks Point",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99569",
+        "Latitude":58.8173,
+        "Longitude":-158.5299
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Dillingham",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99576",
+        "Latitude":59.0402,
+        "Longitude":-158.5231
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ekwok",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99580",
+        "Latitude":59.3628,
+        "Longitude":-157.4782
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Manokotak",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99628",
+        "Latitude":59.0096,
+        "Longitude":-158.9897
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"New Stuyahok",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99636",
+        "Latitude":59.4882,
+        "Longitude":-157.2905
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Togiak",
+        "County":"Dillingham (CA)",
+        "ZipCode":"99678",
+        "Latitude":59.0619,
+        "Longitude":-160.3764
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99701",
+        "Latitude":64.8378,
+        "Longitude":-147.7164
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Eielson Afb",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99702",
+        "Latitude":64.6735,
+        "Longitude":-147.0805
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fort Wainwright",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99703",
+        "Latitude":64.8283,
+        "Longitude":-147.6557
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"North Pole",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99705",
+        "Latitude":64.7805,
+        "Longitude":-147.3694
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99706",
+        "Latitude":64.8521,
+        "Longitude":-147.9377
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99707",
+        "Latitude":64.8378,
+        "Longitude":-147.7164
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99708",
+        "Latitude":64.9475,
+        "Longitude":-147.8564
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99709",
+        "Latitude":64.8544,
+        "Longitude":-147.8469
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99710",
+        "Latitude":64.8378,
+        "Longitude":-147.7164
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99711",
+        "Latitude":64.8378,
+        "Longitude":-147.7164
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99712",
+        "Latitude":64.9109,
+        "Longitude":-147.5105
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Salcha",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99714",
+        "Latitude":64.5091,
+        "Longitude":-146.953
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Two Rivers",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99716",
+        "Latitude":64.8746,
+        "Longitude":-146.8982
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ester",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99725",
+        "Latitude":64.871,
+        "Longitude":-148.0949
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99775",
+        "Latitude":64.8591,
+        "Longitude":-147.8267
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fairbanks",
+        "County":"Fairbanks North Star",
+        "ZipCode":"99790",
+        "Latitude":64.8378,
+        "Longitude":-147.7164
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Haines",
+        "County":"Haines",
+        "ZipCode":"99827",
+        "Latitude":59.2519,
+        "Longitude":-135.542
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Angoon",
+        "County":"Hoonah-Angoon",
+        "ZipCode":"99820",
+        "Latitude":57.5005,
+        "Longitude":-134.586
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Elfin Cove",
+        "County":"Hoonah-Angoon",
+        "ZipCode":"99825",
+        "Latitude":58.1944,
+        "Longitude":-136.3433
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Gustavus",
+        "County":"Hoonah-Angoon",
+        "ZipCode":"99826",
+        "Latitude":58.4284,
+        "Longitude":-135.7615
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Hoonah",
+        "County":"Hoonah-Angoon",
+        "ZipCode":"99829",
+        "Latitude":58.0977,
+        "Longitude":-135.4316
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Pelican",
+        "County":"Hoonah-Angoon",
+        "ZipCode":"99832",
+        "Latitude":57.9608,
+        "Longitude":-136.2275
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tenakee Springs",
+        "County":"Hoonah-Angoon",
+        "ZipCode":"99841",
+        "Latitude":57.7808,
+        "Longitude":-135.2189
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Juneau",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99801",
+        "Latitude":58.3628,
+        "Longitude":-134.5294
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Juneau",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99802",
+        "Latitude":58.3019,
+        "Longitude":-134.4197
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Juneau",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99803",
+        "Latitude":58.3019,
+        "Longitude":-134.4197
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Juneau",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99811",
+        "Latitude":58.3019,
+        "Longitude":-134.4197
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Juneau",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99812",
+        "Latitude":58.3271,
+        "Longitude":-134.4742
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Auke Bay",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99821",
+        "Latitude":58.4494,
+        "Longitude":-134.7003
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Douglas",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99824",
+        "Latitude":58.2756,
+        "Longitude":-134.395
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Juneau",
+        "County":"Juneau City and Borough",
+        "ZipCode":"99850",
+        "Latitude":58.3019,
+        "Longitude":-134.4197
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anchor Point",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99556",
+        "Latitude":59.8371,
+        "Longitude":-151.7078
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Clam Gulch",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99568",
+        "Latitude":60.2311,
+        "Longitude":-151.3936
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Cooper Landing",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99572",
+        "Latitude":60.4767,
+        "Longitude":-149.8235
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Homer",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99603",
+        "Latitude":59.5374,
+        "Longitude":-151.2356
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Hope",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99605",
+        "Latitude":60.8726,
+        "Longitude":-149.4683
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kasilof",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99610",
+        "Latitude":60.3164,
+        "Longitude":-151.2896
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kenai",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99611",
+        "Latitude":60.6145,
+        "Longitude":-151.2546
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Moose Pass",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99631",
+        "Latitude":60.6148,
+        "Longitude":-149.4056
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nikiski",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99635",
+        "Latitude":60.7007,
+        "Longitude":-151.2766
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ninilchik",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99639",
+        "Latitude":60.0108,
+        "Longitude":-151.6396
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Seldovia",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99663",
+        "Latitude":59.4495,
+        "Longitude":-151.7009
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Seward",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99664",
+        "Latitude":60.1329,
+        "Longitude":-149.3985
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Soldotna",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99669",
+        "Latitude":60.4818,
+        "Longitude":-151.1358
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Sterling",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99672",
+        "Latitude":60.5136,
+        "Longitude":-150.8532
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tyonek",
+        "County":"Kenai Peninsula",
+        "ZipCode":"99682",
+        "Latitude":61.0681,
+        "Longitude":-151.1369
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ketchikan",
+        "County":"Ketchikan Gateway",
+        "ZipCode":"99901",
+        "Latitude":55.372,
+        "Longitude":-131.6832
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ward Cove",
+        "County":"Ketchikan Gateway",
+        "ZipCode":"99928",
+        "Latitude":55.3954,
+        "Longitude":-131.6754
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ketchikan",
+        "County":"Ketchikan Gateway",
+        "ZipCode":"99950",
+        "Latitude":55.3422,
+        "Longitude":-131.6478
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Port Lions",
+        "County":"Kodiak Island",
+        "ZipCode":"99550",
+        "Latitude":57.8675,
+        "Longitude":-152.8822
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Karluk",
+        "County":"Kodiak Island",
+        "ZipCode":"99608",
+        "Latitude":57.5689,
+        "Longitude":-154.4551
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kodiak",
+        "County":"Kodiak Island",
+        "ZipCode":"99615",
+        "Latitude":57.6036,
+        "Longitude":-153.3751
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kodiak",
+        "County":"Kodiak Island",
+        "ZipCode":"99619",
+        "Latitude":57.79,
+        "Longitude":-152.4072
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Larsen Bay",
+        "County":"Kodiak Island",
+        "ZipCode":"99624",
+        "Latitude":57.54,
+        "Longitude":-153.9786
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Old Harbor",
+        "County":"Kodiak Island",
+        "ZipCode":"99643",
+        "Latitude":57.2028,
+        "Longitude":-153.3039
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ouzinkie",
+        "County":"Kodiak Island",
+        "ZipCode":"99644",
+        "Latitude":57.9236,
+        "Longitude":-152.5022
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kodiak",
+        "County":"Kodiak Island",
+        "ZipCode":"99697",
+        "Latitude":57.79,
+        "Longitude":-152.4072
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Alakanuk",
+        "County":"Kusilvak",
+        "ZipCode":"99554",
+        "Latitude":62.6944,
+        "Longitude":-164.6475
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chevak",
+        "County":"Kusilvak",
+        "ZipCode":"99563",
+        "Latitude":61.529,
+        "Longitude":-165.5905
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Emmonak",
+        "County":"Kusilvak",
+        "ZipCode":"99581",
+        "Latitude":62.7818,
+        "Longitude":-164.5335
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Marshall",
+        "County":"Kusilvak",
+        "ZipCode":"99585",
+        "Latitude":61.9287,
+        "Longitude":-162.268
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Hooper Bay",
+        "County":"Kusilvak",
+        "ZipCode":"99604",
+        "Latitude":61.527,
+        "Longitude":-166.1151
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kotlik",
+        "County":"Kusilvak",
+        "ZipCode":"99620",
+        "Latitude":63.0295,
+        "Longitude":-163.5542
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Mountain Village",
+        "County":"Kusilvak",
+        "ZipCode":"99632",
+        "Latitude":62.1123,
+        "Longitude":-163.6644
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Pilot Station",
+        "County":"Kusilvak",
+        "ZipCode":"99650",
+        "Latitude":61.9462,
+        "Longitude":-162.8747
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Russian Mission",
+        "County":"Kusilvak",
+        "ZipCode":"99657",
+        "Latitude":61.7744,
+        "Longitude":-161.3939
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Saint Marys",
+        "County":"Kusilvak",
+        "ZipCode":"99658",
+        "Latitude":62.1172,
+        "Longitude":-163.2376
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Scammon Bay",
+        "County":"Kusilvak",
+        "ZipCode":"99662",
+        "Latitude":61.845,
+        "Longitude":-165.5819
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nunam Iqua",
+        "County":"Kusilvak",
+        "ZipCode":"99666",
+        "Latitude":62.5309,
+        "Longitude":-164.8496
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chignik Lake",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99548",
+        "Latitude":56.2448,
+        "Longitude":-158.7578
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Port Heiden",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99549",
+        "Latitude":56.9643,
+        "Longitude":-158.5664
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chignik",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99564",
+        "Latitude":56.3016,
+        "Longitude":-158.4157
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chignik Lagoon",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99565",
+        "Latitude":58.2687,
+        "Longitude":-156.6484
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Egegik",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99579",
+        "Latitude":58.2062,
+        "Longitude":-157.3422
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Iliamna",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99606",
+        "Latitude":59.7525,
+        "Longitude":-154.8236
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Levelock",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99625",
+        "Latitude":59.2905,
+        "Longitude":-156.6503
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nondalton",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99640",
+        "Latitude":59.9736,
+        "Longitude":-154.8458
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Pedro Bay",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99647",
+        "Latitude":59.8681,
+        "Longitude":-154.0757
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Perryville",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99648",
+        "Latitude":55.9453,
+        "Longitude":-159.2593
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Pilot Point",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99649",
+        "Latitude":57.5642,
+        "Longitude":-157.5792
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Port Alsworth",
+        "County":"Lake and Peninsula",
+        "ZipCode":"99653",
+        "Latitude":60.2025,
+        "Longitude":-154.3128
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wasilla",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99623",
+        "Latitude":61.5463,
+        "Longitude":-149.5901
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wasilla",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99629",
+        "Latitude":61.5841,
+        "Longitude":-149.4436
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Palmer",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99645",
+        "Latitude":61.6303,
+        "Longitude":-148.9872
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Big Lake",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99652",
+        "Latitude":61.5214,
+        "Longitude":-149.9544
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wasilla",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99654",
+        "Latitude":61.5923,
+        "Longitude":-149.3959
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Skwentna",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99667",
+        "Latitude":61.9903,
+        "Longitude":-151.3978
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Sutton",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99674",
+        "Latitude":61.7327,
+        "Longitude":-148.7837
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Talkeetna",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99676",
+        "Latitude":62.2605,
+        "Longitude":-150.1101
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Trapper Creek",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99683",
+        "Latitude":62.3167,
+        "Longitude":-150.2314
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wasilla",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99687",
+        "Latitude":61.5313,
+        "Longitude":-149.4784
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Willow",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99688",
+        "Latitude":61.8966,
+        "Longitude":-150.0038
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Houston",
+        "County":"Matanuska-Susitna Borough",
+        "ZipCode":"99694",
+        "Latitude":61.6303,
+        "Longitude":-149.8181
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Saint Michael",
+        "County":"Nome (CA)",
+        "ZipCode":"99659",
+        "Latitude":63.4776,
+        "Longitude":-162.1091
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Stebbins",
+        "County":"Nome (CA)",
+        "ZipCode":"99671",
+        "Latitude":63.5222,
+        "Longitude":-162.2881
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Unalakleet",
+        "County":"Nome (CA)",
+        "ZipCode":"99684",
+        "Latitude":63.8835,
+        "Longitude":-160.7884
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Elim",
+        "County":"Nome (CA)",
+        "ZipCode":"99739",
+        "Latitude":64.6217,
+        "Longitude":-162.2604
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Gambell",
+        "County":"Nome (CA)",
+        "ZipCode":"99742",
+        "Latitude":63.7766,
+        "Longitude":-171.7017
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Koyuk",
+        "County":"Nome (CA)",
+        "ZipCode":"99753",
+        "Latitude":64.9319,
+        "Longitude":-161.1569
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nome",
+        "County":"Nome (CA)",
+        "ZipCode":"99762",
+        "Latitude":64.5011,
+        "Longitude":-165.4064
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Savoonga",
+        "County":"Nome (CA)",
+        "ZipCode":"99769",
+        "Latitude":63.6797,
+        "Longitude":-170.4709
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Shaktoolik",
+        "County":"Nome (CA)",
+        "ZipCode":"99771",
+        "Latitude":64.3537,
+        "Longitude":-161.1932
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Shishmaref",
+        "County":"Nome (CA)",
+        "ZipCode":"99772",
+        "Latitude":66.2306,
+        "Longitude":-166.1373
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Teller",
+        "County":"Nome (CA)",
+        "ZipCode":"99778",
+        "Latitude":65.2402,
+        "Longitude":-166.3833
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wales",
+        "County":"Nome (CA)",
+        "ZipCode":"99783",
+        "Latitude":65.6092,
+        "Longitude":-168.0875
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"White Mountain",
+        "County":"Nome (CA)",
+        "ZipCode":"99784",
+        "Latitude":64.6814,
+        "Longitude":-163.4056
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Brevig Mission",
+        "County":"Nome (CA)",
+        "ZipCode":"99785",
+        "Latitude":65.3342,
+        "Longitude":-166.4786
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anaktuvuk Pass",
+        "County":"North Slope",
+        "ZipCode":"99721",
+        "Latitude":68.1433,
+        "Longitude":-151.7358
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Barrow",
+        "County":"North Slope",
+        "ZipCode":"99723",
+        "Latitude":71.2346,
+        "Longitude":-156.8174
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Prudhoe Bay",
+        "County":"North Slope",
+        "ZipCode":"99734",
+        "Latitude":70.2922,
+        "Longitude":-148.6694
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kaktovik",
+        "County":"North Slope",
+        "ZipCode":"99747",
+        "Latitude":70.1319,
+        "Longitude":-143.6239
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Point Lay",
+        "County":"North Slope",
+        "ZipCode":"99759",
+        "Latitude":69.7439,
+        "Longitude":-163.0084
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Point Hope",
+        "County":"North Slope",
+        "ZipCode":"99766",
+        "Latitude":68.3486,
+        "Longitude":-166.7347
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wainwright",
+        "County":"North Slope",
+        "ZipCode":"99782",
+        "Latitude":70.6369,
+        "Longitude":-160.0383
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nuiqsut",
+        "County":"North Slope",
+        "ZipCode":"99789",
+        "Latitude":70.1927,
+        "Longitude":-150.9971
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Atqasuk",
+        "County":"North Slope",
+        "ZipCode":"99791",
+        "Latitude":70.4947,
+        "Longitude":-157.4411
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Buckland",
+        "County":"Northwest Arctic",
+        "ZipCode":"99727",
+        "Latitude":65.9789,
+        "Longitude":-161.1262
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Deering",
+        "County":"Northwest Arctic",
+        "ZipCode":"99736",
+        "Latitude":66.0737,
+        "Longitude":-162.714
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kiana",
+        "County":"Northwest Arctic",
+        "ZipCode":"99749",
+        "Latitude":66.975,
+        "Longitude":-160.4228
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kivalina",
+        "County":"Northwest Arctic",
+        "ZipCode":"99750",
+        "Latitude":67.7269,
+        "Longitude":-164.5333
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kobuk",
+        "County":"Northwest Arctic",
+        "ZipCode":"99751",
+        "Latitude":66.9072,
+        "Longitude":-156.8811
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kotzebue",
+        "County":"Northwest Arctic",
+        "ZipCode":"99752",
+        "Latitude":66.8985,
+        "Longitude":-162.5981
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Noatak",
+        "County":"Northwest Arctic",
+        "ZipCode":"99761",
+        "Latitude":67.5711,
+        "Longitude":-162.9653
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Noorvik",
+        "County":"Northwest Arctic",
+        "ZipCode":"99763",
+        "Latitude":66.8364,
+        "Longitude":-161.0441
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Selawik",
+        "County":"Northwest Arctic",
+        "ZipCode":"99770",
+        "Latitude":66.6039,
+        "Longitude":-160.0069
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Shungnak",
+        "County":"Northwest Arctic",
+        "ZipCode":"99773",
+        "Latitude":66.8881,
+        "Longitude":-157.1364
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ambler",
+        "County":"Northwest Arctic",
+        "ZipCode":"99786",
+        "Latitude":67.0861,
+        "Longitude":-157.8514
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kake",
+        "County":"Petersburg",
+        "ZipCode":"99830",
+        "Latitude":56.9736,
+        "Longitude":-133.936
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Petersburg",
+        "County":"Petersburg",
+        "ZipCode":"99833",
+        "Latitude":56.8271,
+        "Longitude":-133.1607
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Port Alexander",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99836",
+        "Latitude":56.2497,
+        "Longitude":-134.6444
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Meyers Chuck",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99903",
+        "Latitude":55.7408,
+        "Longitude":-132.2564
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Coffman Cove",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99918",
+        "Latitude":55.9524,
+        "Longitude":-132.7503
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Thorne Bay",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99919",
+        "Latitude":55.6609,
+        "Longitude":-132.5138
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Craig",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99921",
+        "Latitude":55.4732,
+        "Longitude":-133.1171
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Hydaburg",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99922",
+        "Latitude":55.2087,
+        "Longitude":-132.8259
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Hyder",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99923",
+        "Latitude":55.9169,
+        "Longitude":-130.0247
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Klawock",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99925",
+        "Latitude":55.5526,
+        "Longitude":-133.0555
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Metlakatla",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99926",
+        "Latitude":55.1215,
+        "Longitude":-131.579
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Point Baker",
+        "County":"Prince of Wales-Hyder",
+        "ZipCode":"99927",
+        "Latitude":56.3528,
+        "Longitude":-133.6211
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Sitka",
+        "County":"Sitka City and Borough",
+        "ZipCode":"99835",
+        "Latitude":57.0514,
+        "Longitude":-135.3166
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Skagway",
+        "County":"Skagway",
+        "ZipCode":"99840",
+        "Latitude":59.4685,
+        "Longitude":-135.3018
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Yakutat",
+        "County":"Skagway-Hoonah-Angoon",
+        "ZipCode":"99689",
+        "Latitude":59.812,
+        "Longitude":-139.5505
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fort Greely",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99731",
+        "Latitude":63.952,
+        "Longitude":-146.451
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chicken",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99732",
+        "Latitude":64.0733,
+        "Longitude":-141.9361
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Delta Junction",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99737",
+        "Latitude":64.0378,
+        "Longitude":-145.7322
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Eagle",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99738",
+        "Latitude":64.7881,
+        "Longitude":-141.2
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Northway",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99764",
+        "Latitude":62.9617,
+        "Longitude":-141.9372
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tanacross",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99776",
+        "Latitude":63.3853,
+        "Longitude":-143.3464
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tok",
+        "County":"Southeast Fairbanks Census Area",
+        "ZipCode":"99780",
+        "Latitude":63.3367,
+        "Longitude":-142.9856
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Wrangell",
+        "County":"City and Borough of Wrangell",
+        "ZipCode":"99929",
+        "Latitude":56.4335,
+        "Longitude":-132.3529
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Anvik",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99558",
+        "Latitude":62.6561,
+        "Longitude":-160.2067
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Grayling",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99590",
+        "Latitude":62.9036,
+        "Longitude":-160.0647
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Holy Cross",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99602",
+        "Latitude":62.1926,
+        "Longitude":-159.8251
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Mc Grath",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99627",
+        "Latitude":62.9457,
+        "Longitude":-155.5712
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Shageluk",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99665",
+        "Latitude":62.6822,
+        "Longitude":-159.5619
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Takotna",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99675",
+        "Latitude":62.9886,
+        "Longitude":-156.0642
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nikolai",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99691",
+        "Latitude":63.0133,
+        "Longitude":-154.375
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Allakaket",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99720",
+        "Latitude":66.5656,
+        "Longitude":-152.6456
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Arctic Village",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99722",
+        "Latitude":68.1269,
+        "Longitude":-145.5378
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Beaver",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99724",
+        "Latitude":66.3594,
+        "Longitude":-147.3964
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Bettles Field",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99726",
+        "Latitude":65.2264,
+        "Longitude":-151.0251
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Central",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99730",
+        "Latitude":65.4681,
+        "Longitude":-144.7489
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Circle",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99733",
+        "Latitude":65.8245,
+        "Longitude":-144.0826
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Fort Yukon",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99740",
+        "Latitude":66.5647,
+        "Longitude":-145.2739
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Galena",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99741",
+        "Latitude":64.7333,
+        "Longitude":-156.9275
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Hughes",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99745",
+        "Latitude":66.0382,
+        "Longitude":-154.2644
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Huslia",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99746",
+        "Latitude":65.6899,
+        "Longitude":-156.292
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Kaltag",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99748",
+        "Latitude":64.3305,
+        "Longitude":-158.7243
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Koyukuk",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99754",
+        "Latitude":64.8803,
+        "Longitude":-157.7008
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Manley Hot Springs",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99756",
+        "Latitude":65.0011,
+        "Longitude":-150.6339
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Lake Minchumina",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99757",
+        "Latitude":63.8828,
+        "Longitude":-152.3122
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Minto",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99758",
+        "Latitude":65.0584,
+        "Longitude":-149.6912
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nenana",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99760",
+        "Latitude":64.5577,
+        "Longitude":-149.0867
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Nulato",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99765",
+        "Latitude":64.7194,
+        "Longitude":-158.1031
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Rampart",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99767",
+        "Latitude":65.509,
+        "Longitude":-150.1619
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Ruby",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99768",
+        "Latitude":64.7201,
+        "Longitude":-155.5039
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Stevens Village",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99774",
+        "Latitude":66.0064,
+        "Longitude":-149.0908
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Tanana",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99777",
+        "Latitude":65.1719,
+        "Longitude":-152.0789
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Venetie",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99781",
+        "Latitude":67.0104,
+        "Longitude":-146.4137
+    },
+    {
+        "State":"Alaska",
+        "StateAbbr":"AK",
+        "City":"Chalkyitsik",
+        "County":"Yukon-Koyukuk (CA)",
+        "ZipCode":"99788",
+        "Latitude":66.6544,
+        "Longitude":-143.7222
+    }
+]

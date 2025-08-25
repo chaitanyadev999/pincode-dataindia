@@ -1,0 +1,731 @@
+[
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2946,
+        "Longitude":-73.7611
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0113,
+        "Longitude":-73.8413
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0259,
+        "Longitude":-73.8718
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.136,
+        "Longitude":-73.7009
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3421,
+        "Longitude":-73.7454
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.1909,
+        "Longitude":-73.6355
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2344,
+        "Longitude":-73.6915
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.1444,
+        "Longitude":-73.835
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2583,
+        "Longitude":-73.9412
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.1705,
+        "Longitude":-73.7715
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3006,
+        "Longitude":-73.8612
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2722,
+        "Longitude":-73.602
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3477,
+        "Longitude":-73.661
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.218,
+        "Longitude":-73.8924
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2343,
+        "Longitude":-73.9262
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0118,
+        "Longitude":-73.8665
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0572,
+        "Longitude":-73.8136
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3004,
+        "Longitude":-73.6479
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3098,
+        "Longitude":-73.753
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9719,
+        "Longitude":-73.7181
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0197,
+        "Longitude":-73.8074
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.1073,
+        "Longitude":-73.796
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0381,
+        "Longitude":-73.8597
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3385,
+        "Longitude":-73.7947
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2709,
+        "Longitude":-73.6841
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9351,
+        "Longitude":-73.7571
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3334,
+        "Longitude":-73.7243
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9525,
+        "Longitude":-73.735
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.119,
+        "Longitude":-73.733
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2015,
+        "Longitude":-73.7926
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3143,
+        "Longitude":-73.8508
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2496,
+        "Longitude":-73.9446
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.205,
+        "Longitude":-73.7299
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9079,
+        "Longitude":-73.838
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9126,
+        "Longitude":-73.8371
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9231,
+        "Longitude":-73.8299
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9086,
+        "Longitude":-73.8221
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3414,
+        "Longitude":-73.5929
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.1673,
+        "Longitude":-73.8538
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2892,
+        "Longitude":-73.9184
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.284,
+        "Longitude":-73.8931
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.135,
+        "Longitude":-73.7845
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0222,
+        "Longitude":-73.6798
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2042,
+        "Longitude":-73.5732
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0384,
+        "Longitude":-73.7156
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3259,
+        "Longitude":-73.6551
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9734,
+        "Longitude":-73.6907
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9927,
+        "Longitude":-73.7995
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3287,
+        "Longitude":-73.7423
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3286,
+        "Longitude":-73.8273
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3346,
+        "Longitude":-73.6951
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2553,
+        "Longitude":-73.5402
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0897,
+        "Longitude":-73.844
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.1182,
+        "Longitude":-73.7733
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0856,
+        "Longitude":-73.7776
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2548,
+        "Longitude":-73.9587
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.3032,
+        "Longitude":-73.6032
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.2999,
+        "Longitude":-73.7924
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.033,
+        "Longitude":-73.7652
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.034,
+        "Longitude":-73.7629
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0499,
+        "Longitude":-73.7776
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0592,
+        "Longitude":-73.7395
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0141,
+        "Longitude":-73.7552
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0247,
+        "Longitude":-73.7781
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.0398,
+        "Longitude":-73.8117
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":41.119,
+        "Longitude":-73.733
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9461,
+        "Longitude":-73.8669
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9312,
+        "Longitude":-73.8987
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9518,
+        "Longitude":-73.8852
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9176,
+        "Longitude":-73.8593
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9177,
+        "Longitude":-73.895
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9878,
+        "Longitude":-73.863
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9569,
+        "Longitude":-73.8198
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9391,
+        "Longitude":-73.8353
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.955,
+        "Longitude":-73.8086
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9656,
+        "Longitude":-73.8434
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9166,
+        "Longitude":-73.7877
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9115,
+        "Longitude":-73.7824
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9045,
+        "Longitude":-73.8073
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9491,
+        "Longitude":-73.7863
+    },
+    {
+        "State":"Westchester",
+        "StateAbbr":119.0,
+        "City":"NY",
+        "County":null,
+        "ZipCode":"New York",
+        "Latitude":40.9002,
+        "Longitude":-73.781
+    }
+]

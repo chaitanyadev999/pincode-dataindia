@@ -1,0 +1,20 @@
+[
+    {
+        "State":"Marshall Islands",
+        "StateAbbr":"MH",
+        "City":"Marshall Islands",
+        "County":"Marshall Islands",
+        "ZipCode":"96960",
+        "Latitude":7.1128,
+        "Longitude":171.237
+    },
+    {
+        "State":"Marshall Islands",
+        "StateAbbr":"MH",
+        "City":"Ebeye",
+        "County":"Marshall Islands",
+        "ZipCode":"96970",
+        "Latitude":8.786,
+        "Longitude":167.7365
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "State":"West Feliciana",
+        "StateAbbr":125.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.9656,
+        "Longitude":-91.5979
+    },
+    {
+        "State":"West Feliciana",
+        "StateAbbr":125.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.8694,
+        "Longitude":-91.4186
+    },
+    {
+        "State":"West Feliciana",
+        "StateAbbr":125.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.9601,
+        "Longitude":-91.5396
+    },
+    {
+        "State":"West Feliciana",
+        "StateAbbr":125.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.9175,
+        "Longitude":-91.3581
+    },
+    {
+        "State":"West Feliciana",
+        "StateAbbr":125.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.9468,
+        "Longitude":-91.4612
+    }
+]

@@ -1,0 +1,3845 @@
+[
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cedar Crest",
+        "County":"Bernalillo",
+        "ZipCode":"87008",
+        "Latitude":35.1285,
+        "Longitude":-106.3617
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Isleta",
+        "County":"Bernalillo",
+        "ZipCode":"87022",
+        "Latitude":34.9073,
+        "Longitude":-106.6892
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sandia Park",
+        "County":"Bernalillo",
+        "ZipCode":"87047",
+        "Latitude":35.1683,
+        "Longitude":-106.3238
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tijeras",
+        "County":"Bernalillo",
+        "ZipCode":"87059",
+        "Latitude":35.0446,
+        "Longitude":-106.3062
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87101",
+        "Latitude":35.1996,
+        "Longitude":-106.6448
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87102",
+        "Latitude":35.0818,
+        "Longitude":-106.6482
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87103",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87104",
+        "Latitude":35.1038,
+        "Longitude":-106.6712
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87105",
+        "Latitude":35.0448,
+        "Longitude":-106.6893
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87106",
+        "Latitude":35.079,
+        "Longitude":-106.6169
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87107",
+        "Latitude":35.1347,
+        "Longitude":-106.6427
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87108",
+        "Latitude":35.0726,
+        "Longitude":-106.5749
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87109",
+        "Latitude":35.1506,
+        "Longitude":-106.569
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87110",
+        "Latitude":35.1104,
+        "Longitude":-106.5781
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87111",
+        "Latitude":35.1347,
+        "Longitude":-106.5222
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87112",
+        "Latitude":35.101,
+        "Longitude":-106.5183
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87113",
+        "Latitude":35.1759,
+        "Longitude":-106.6015
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87114",
+        "Latitude":35.1868,
+        "Longitude":-106.6652
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87115",
+        "Latitude":35.0549,
+        "Longitude":-106.5461
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87116",
+        "Latitude":35.0561,
+        "Longitude":-106.5506
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Kirtland Afb",
+        "County":"Bernalillo",
+        "ZipCode":"87117",
+        "Latitude":35.0203,
+        "Longitude":-106.5503
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87119",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87120",
+        "Latitude":35.1421,
+        "Longitude":-106.7041
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87121",
+        "Latitude":35.0512,
+        "Longitude":-106.7269
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87122",
+        "Latitude":35.1787,
+        "Longitude":-106.5102
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87123",
+        "Latitude":35.0717,
+        "Longitude":-106.509
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87125",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87131",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87151",
+        "Latitude":35.023,
+        "Longitude":-106.8556
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87153",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87154",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87158",
+        "Latitude":35.0845,
+        "Longitude":-106.6511
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rio Rancho",
+        "County":"Bernalillo",
+        "ZipCode":"87174",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87176",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87181",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87184",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87185",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87187",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87190",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87191",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87192",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87193",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87194",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87195",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87196",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87197",
+        "Latitude":35.0845,
+        "Longitude":-106.6511
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87198",
+        "Latitude":35.0845,
+        "Longitude":-106.6511
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Albuquerque",
+        "County":"Bernalillo",
+        "ZipCode":"87199",
+        "Latitude":35.0443,
+        "Longitude":-106.6729
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Aragon",
+        "County":"Catron",
+        "ZipCode":"87820",
+        "Latitude":33.8859,
+        "Longitude":-108.5466
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Datil",
+        "County":"Catron",
+        "ZipCode":"87821",
+        "Latitude":34.0427,
+        "Longitude":-108.0183
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Luna",
+        "County":"Catron",
+        "ZipCode":"87824",
+        "Latitude":33.8189,
+        "Longitude":-108.9545
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pie Town",
+        "County":"Catron",
+        "ZipCode":"87827",
+        "Latitude":34.3243,
+        "Longitude":-108.3682
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Quemado",
+        "County":"Catron",
+        "ZipCode":"87829",
+        "Latitude":34.2652,
+        "Longitude":-108.7578
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Reserve",
+        "County":"Catron",
+        "ZipCode":"87830",
+        "Latitude":33.7131,
+        "Longitude":-108.7578
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Glenwood",
+        "County":"Catron",
+        "ZipCode":"88039",
+        "Latitude":33.3048,
+        "Longitude":-108.7743
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Roswell",
+        "County":"Chaves",
+        "ZipCode":"88201",
+        "Latitude":33.6397,
+        "Longitude":-104.3748
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Roswell",
+        "County":"Chaves",
+        "ZipCode":"88202",
+        "Latitude":33.3038,
+        "Longitude":-104.4318
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Roswell",
+        "County":"Chaves",
+        "ZipCode":"88203",
+        "Latitude":33.3718,
+        "Longitude":-104.5284
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Dexter",
+        "County":"Chaves",
+        "ZipCode":"88230",
+        "Latitude":33.191,
+        "Longitude":-104.3833
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hagerman",
+        "County":"Chaves",
+        "ZipCode":"88232",
+        "Latitude":33.1076,
+        "Longitude":-104.3298
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lake Arthur",
+        "County":"Chaves",
+        "ZipCode":"88253",
+        "Latitude":32.9982,
+        "Longitude":-104.3666
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bluewater",
+        "County":"Cibola",
+        "ZipCode":"87005",
+        "Latitude":35.255,
+        "Longitude":-107.9856
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Casa Blanca",
+        "County":"Cibola",
+        "ZipCode":"87007",
+        "Latitude":35.0456,
+        "Longitude":-107.4714
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cubero",
+        "County":"Cibola",
+        "ZipCode":"87014",
+        "Latitude":35.0859,
+        "Longitude":-107.5181
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Grants",
+        "County":"Cibola",
+        "ZipCode":"87020",
+        "Latitude":35.1476,
+        "Longitude":-107.8526
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Milan",
+        "County":"Cibola",
+        "ZipCode":"87021",
+        "Latitude":35.1698,
+        "Longitude":-107.8909
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Laguna",
+        "County":"Cibola",
+        "ZipCode":"87026",
+        "Latitude":34.9625,
+        "Longitude":-107.2325
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"New Laguna",
+        "County":"Cibola",
+        "ZipCode":"87038",
+        "Latitude":35.0409,
+        "Longitude":-107.422
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Paguate",
+        "County":"Cibola",
+        "ZipCode":"87040",
+        "Latitude":35.1387,
+        "Longitude":-107.3789
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Fidel",
+        "County":"Cibola",
+        "ZipCode":"87049",
+        "Latitude":35.0823,
+        "Longitude":-107.5992
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Rafael",
+        "County":"Cibola",
+        "ZipCode":"87051",
+        "Latitude":35.1125,
+        "Longitude":-107.8826
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fence Lake",
+        "County":"Cibola",
+        "ZipCode":"87315",
+        "Latitude":34.7344,
+        "Longitude":-108.6934
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pinehill",
+        "County":"Cibola",
+        "ZipCode":"87357",
+        "Latitude":34.9992,
+        "Longitude":-108.4112
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Angel Fire",
+        "County":"Colfax",
+        "ZipCode":"87710",
+        "Latitude":36.3849,
+        "Longitude":-105.2439
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cimarron",
+        "County":"Colfax",
+        "ZipCode":"87714",
+        "Latitude":36.4574,
+        "Longitude":-105.0697
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Eagle Nest",
+        "County":"Colfax",
+        "ZipCode":"87718",
+        "Latitude":36.5326,
+        "Longitude":-105.2756
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Maxwell",
+        "County":"Colfax",
+        "ZipCode":"87728",
+        "Latitude":36.5434,
+        "Longitude":-104.564
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Miami",
+        "County":"Colfax",
+        "ZipCode":"87729",
+        "Latitude":36.35,
+        "Longitude":-104.7931
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Raton",
+        "County":"Colfax",
+        "ZipCode":"87740",
+        "Latitude":36.8952,
+        "Longitude":-104.4349
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Springer",
+        "County":"Colfax",
+        "ZipCode":"87747",
+        "Latitude":36.3767,
+        "Longitude":-104.5927
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ute Park",
+        "County":"Colfax",
+        "ZipCode":"87749",
+        "Latitude":36.5581,
+        "Longitude":-105.115
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Clovis",
+        "County":"Curry",
+        "ZipCode":"88101",
+        "Latitude":34.4126,
+        "Longitude":-103.2214
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Clovis",
+        "County":"Curry",
+        "ZipCode":"88102",
+        "Latitude":34.4048,
+        "Longitude":-103.2052
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cannon Afb",
+        "County":"Curry",
+        "ZipCode":"88103",
+        "Latitude":34.3841,
+        "Longitude":-103.3154
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Broadview",
+        "County":"Curry",
+        "ZipCode":"88112",
+        "Latitude":34.804,
+        "Longitude":-103.1292
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Grady",
+        "County":"Curry",
+        "ZipCode":"88120",
+        "Latitude":34.8107,
+        "Longitude":-103.298
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Melrose",
+        "County":"Curry",
+        "ZipCode":"88124",
+        "Latitude":34.4479,
+        "Longitude":-103.6325
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Saint Vrain",
+        "County":"Curry",
+        "ZipCode":"88133",
+        "Latitude":34.4756,
+        "Longitude":-103.4669
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Texico",
+        "County":"Curry",
+        "ZipCode":"88135",
+        "Latitude":34.3958,
+        "Longitude":-103.0615
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fort Sumner",
+        "County":"DeBaca",
+        "ZipCode":"88119",
+        "Latitude":34.46,
+        "Longitude":-104.2317
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Taiban",
+        "County":"DeBaca",
+        "ZipCode":"88134",
+        "Latitude":34.3271,
+        "Longitude":-104.0159
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Yeso",
+        "County":"DeBaca",
+        "ZipCode":"88136",
+        "Latitude":34.455,
+        "Longitude":-104.7452
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Garfield",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"87936",
+        "Latitude":32.7557,
+        "Longitude":-107.2704
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hatch",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"87937",
+        "Latitude":32.6583,
+        "Longitude":-107.159
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rincon",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"87940",
+        "Latitude":32.6597,
+        "Longitude":-107.0643
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Salem",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"87941",
+        "Latitude":32.7093,
+        "Longitude":-107.2157
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88001",
+        "Latitude":32.2901,
+        "Longitude":-106.7539
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"White Sands Missile Range",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88002",
+        "Latitude":32.3839,
+        "Longitude":-106.4937
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88003",
+        "Latitude":32.2738,
+        "Longitude":-106.7472
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88004",
+        "Latitude":32.4181,
+        "Longitude":-106.8201
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88005",
+        "Latitude":32.3161,
+        "Longitude":-106.7991
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88006",
+        "Latitude":32.3052,
+        "Longitude":-106.7863
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88007",
+        "Latitude":32.3224,
+        "Longitude":-106.8041
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Teresa",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88008",
+        "Latitude":31.8394,
+        "Longitude":-106.6821
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88011",
+        "Latitude":32.3244,
+        "Longitude":-106.6683
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88012",
+        "Latitude":32.5835,
+        "Longitude":-106.7714
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Cruces",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88013",
+        "Latitude":32.5835,
+        "Longitude":-106.7714
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Anthony",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88021",
+        "Latitude":32.004,
+        "Longitude":-106.6058
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Berino",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88024",
+        "Latitude":32.0682,
+        "Longitude":-106.631
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Chamberino",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88027",
+        "Latitude":32.0401,
+        "Longitude":-106.6856
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Dona Ana",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88032",
+        "Latitude":32.3895,
+        "Longitude":-106.8139
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fairacres",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88033",
+        "Latitude":32.2984,
+        "Longitude":-106.8812
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Mesa",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88044",
+        "Latitude":32.1383,
+        "Longitude":-106.7999
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mesilla",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88046",
+        "Latitude":32.268,
+        "Longitude":-106.8059
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mesilla Park",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88047",
+        "Latitude":32.21,
+        "Longitude":-106.7147
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mesquite",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88048",
+        "Latitude":32.146,
+        "Longitude":-106.6676
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Organ",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88052",
+        "Latitude":32.4259,
+        "Longitude":-106.6136
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Radium Springs",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88054",
+        "Latitude":32.4888,
+        "Longitude":-106.9146
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Miguel",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88058",
+        "Latitude":32.1554,
+        "Longitude":-106.735
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sunland Park",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88063",
+        "Latitude":31.8186,
+        "Longitude":-106.5997
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Vado",
+        "County":"Do\u00f1a Ana",
+        "ZipCode":"88072",
+        "Latitude":32.1187,
+        "Longitude":-106.649
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Artesia",
+        "County":"Eddy",
+        "ZipCode":"88210",
+        "Latitude":32.8384,
+        "Longitude":-104.4074
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Artesia",
+        "County":"Eddy",
+        "ZipCode":"88211",
+        "Latitude":32.7536,
+        "Longitude":-104.3281
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Carlsbad",
+        "County":"Eddy",
+        "ZipCode":"88220",
+        "Latitude":32.4119,
+        "Longitude":-104.2395
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Carlsbad",
+        "County":"Eddy",
+        "ZipCode":"88221",
+        "Latitude":32.342,
+        "Longitude":-104.2937
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hope",
+        "County":"Eddy",
+        "ZipCode":"88250",
+        "Latitude":32.8156,
+        "Longitude":-104.7299
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lakewood",
+        "County":"Eddy",
+        "ZipCode":"88254",
+        "Latitude":32.6362,
+        "Longitude":-104.365
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Loco Hills",
+        "County":"Eddy",
+        "ZipCode":"88255",
+        "Latitude":32.819,
+        "Longitude":-103.9777
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Loving",
+        "County":"Eddy",
+        "ZipCode":"88256",
+        "Latitude":32.274,
+        "Longitude":-104.0914
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Malaga",
+        "County":"Eddy",
+        "ZipCode":"88263",
+        "Latitude":32.1813,
+        "Longitude":-104.0668
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Whites City",
+        "County":"Eddy",
+        "ZipCode":"88268",
+        "Latitude":32.1757,
+        "Longitude":-104.3766
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Arenas Valley",
+        "County":"Grant",
+        "ZipCode":"88022",
+        "Latitude":32.7839,
+        "Longitude":-108.1854
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bayard",
+        "County":"Grant",
+        "ZipCode":"88023",
+        "Latitude":32.7617,
+        "Longitude":-108.1306
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Buckhorn",
+        "County":"Grant",
+        "ZipCode":"88025",
+        "Latitude":33.0633,
+        "Longitude":-108.6956
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Clara",
+        "County":"Grant",
+        "ZipCode":"88026",
+        "Latitude":32.7795,
+        "Longitude":-108.1503
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cliff",
+        "County":"Grant",
+        "ZipCode":"88028",
+        "Latitude":32.9623,
+        "Longitude":-108.6112
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Faywood",
+        "County":"Grant",
+        "ZipCode":"88034",
+        "Latitude":32.5642,
+        "Longitude":-108.0242
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fort Bayard",
+        "County":"Grant",
+        "ZipCode":"88036",
+        "Latitude":32.7574,
+        "Longitude":-108.0075
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gila",
+        "County":"Grant",
+        "ZipCode":"88038",
+        "Latitude":32.9659,
+        "Longitude":-108.5767
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hachita",
+        "County":"Grant",
+        "ZipCode":"88040",
+        "Latitude":31.8904,
+        "Longitude":-108.3316
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hanover",
+        "County":"Grant",
+        "ZipCode":"88041",
+        "Latitude":32.8045,
+        "Longitude":-107.9545
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hurley",
+        "County":"Grant",
+        "ZipCode":"88043",
+        "Latitude":32.648,
+        "Longitude":-108.1516
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mimbres",
+        "County":"Grant",
+        "ZipCode":"88049",
+        "Latitude":32.909,
+        "Longitude":-108.0332
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mule Creek",
+        "County":"Grant",
+        "ZipCode":"88051",
+        "Latitude":33.1071,
+        "Longitude":-108.9032
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pinos Altos",
+        "County":"Grant",
+        "ZipCode":"88053",
+        "Latitude":32.8614,
+        "Longitude":-108.2192
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Redrock",
+        "County":"Grant",
+        "ZipCode":"88055",
+        "Latitude":32.6862,
+        "Longitude":-108.7381
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Silver City",
+        "County":"Grant",
+        "ZipCode":"88061",
+        "Latitude":32.79,
+        "Longitude":-108.2749
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Silver City",
+        "County":"Grant",
+        "ZipCode":"88062",
+        "Latitude":32.7282,
+        "Longitude":-108.1379
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tyrone",
+        "County":"Grant",
+        "ZipCode":"88065",
+        "Latitude":32.7098,
+        "Longitude":-108.302
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Anton Chico",
+        "County":"Guadalupe",
+        "ZipCode":"87711",
+        "Latitude":35.2001,
+        "Longitude":-105.1422
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Loma",
+        "County":"Guadalupe",
+        "ZipCode":"87724",
+        "Latitude":35.1734,
+        "Longitude":-105.0775
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Vaughn",
+        "County":"Guadalupe",
+        "ZipCode":"88353",
+        "Latitude":34.6241,
+        "Longitude":-105.1926
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cuervo",
+        "County":"Guadalupe",
+        "ZipCode":"88417",
+        "Latitude":35.0312,
+        "Longitude":-104.4086
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Newkirk",
+        "County":"Guadalupe",
+        "ZipCode":"88431",
+        "Latitude":35.0847,
+        "Longitude":-104.2433
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Rosa",
+        "County":"Guadalupe",
+        "ZipCode":"88435",
+        "Latitude":34.8526,
+        "Longitude":-104.5899
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mills",
+        "County":"Harding",
+        "ZipCode":"87730",
+        "Latitude":36.1281,
+        "Longitude":-104.2277
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mosquero",
+        "County":"Harding",
+        "ZipCode":"87733",
+        "Latitude":35.8041,
+        "Longitude":-103.9021
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Roy",
+        "County":"Harding",
+        "ZipCode":"87743",
+        "Latitude":35.9522,
+        "Longitude":-104.1497
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Solano",
+        "County":"Harding",
+        "ZipCode":"87746",
+        "Latitude":35.8484,
+        "Longitude":-104.0675
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Playas",
+        "County":"Hidalgo",
+        "ZipCode":"88009",
+        "Latitude":32.055,
+        "Longitude":-108.6291
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Animas",
+        "County":"Hidalgo",
+        "ZipCode":"88020",
+        "Latitude":32.053,
+        "Longitude":-108.9069
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lordsburg",
+        "County":"Hidalgo",
+        "ZipCode":"88045",
+        "Latitude":32.316,
+        "Longitude":-108.723
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rodeo",
+        "County":"Hidalgo",
+        "ZipCode":"88056",
+        "Latitude":31.8358,
+        "Longitude":-109.0322
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Crossroads",
+        "County":"Lea",
+        "ZipCode":"88114",
+        "Latitude":33.5272,
+        "Longitude":-103.3564
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Caprock",
+        "County":"Lea",
+        "ZipCode":"88213",
+        "Latitude":33.3939,
+        "Longitude":-103.639
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Eunice",
+        "County":"Lea",
+        "ZipCode":"88231",
+        "Latitude":32.4392,
+        "Longitude":-103.1594
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hobbs",
+        "County":"Lea",
+        "ZipCode":"88240",
+        "Latitude":32.7222,
+        "Longitude":-103.1372
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hobbs",
+        "County":"Lea",
+        "ZipCode":"88241",
+        "Latitude":32.7475,
+        "Longitude":-103.2165
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hobbs",
+        "County":"Lea",
+        "ZipCode":"88242",
+        "Latitude":32.8105,
+        "Longitude":-103.1587
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hobbs",
+        "County":"Lea",
+        "ZipCode":"88244",
+        "Latitude":32.7026,
+        "Longitude":-103.136
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Jal",
+        "County":"Lea",
+        "ZipCode":"88252",
+        "Latitude":32.1128,
+        "Longitude":-103.1997
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lovington",
+        "County":"Lea",
+        "ZipCode":"88260",
+        "Latitude":32.9512,
+        "Longitude":-103.3488
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mcdonald",
+        "County":"Lea",
+        "ZipCode":"88262",
+        "Latitude":33.1407,
+        "Longitude":-103.3174
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Maljamar",
+        "County":"Lea",
+        "ZipCode":"88264",
+        "Latitude":32.8562,
+        "Longitude":-103.7627
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Monument",
+        "County":"Lea",
+        "ZipCode":"88265",
+        "Latitude":32.5874,
+        "Longitude":-103.2703
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tatum",
+        "County":"Lea",
+        "ZipCode":"88267",
+        "Latitude":33.26,
+        "Longitude":-103.314
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Carrizozo",
+        "County":"Lincoln",
+        "ZipCode":"88301",
+        "Latitude":33.6496,
+        "Longitude":-105.8696
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Alto",
+        "County":"Lincoln",
+        "ZipCode":"88312",
+        "Latitude":33.4314,
+        "Longitude":-105.6776
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Capitan",
+        "County":"Lincoln",
+        "ZipCode":"88316",
+        "Latitude":33.5602,
+        "Longitude":-105.5269
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Corona",
+        "County":"Lincoln",
+        "ZipCode":"88318",
+        "Latitude":34.1693,
+        "Longitude":-105.5339
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fort Stanton",
+        "County":"Lincoln",
+        "ZipCode":"88323",
+        "Latitude":33.4959,
+        "Longitude":-105.523
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Glencoe",
+        "County":"Lincoln",
+        "ZipCode":"88324",
+        "Latitude":33.3898,
+        "Longitude":-105.4391
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hondo",
+        "County":"Lincoln",
+        "ZipCode":"88336",
+        "Latitude":33.3876,
+        "Longitude":-105.2708
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lincoln",
+        "County":"Lincoln",
+        "ZipCode":"88338",
+        "Latitude":33.4869,
+        "Longitude":-105.382
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Nogal",
+        "County":"Lincoln",
+        "ZipCode":"88341",
+        "Latitude":33.4996,
+        "Longitude":-105.7036
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Picacho",
+        "County":"Lincoln",
+        "ZipCode":"88343",
+        "Latitude":33.3518,
+        "Longitude":-105.145
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ruidoso",
+        "County":"Lincoln",
+        "ZipCode":"88345",
+        "Latitude":33.3474,
+        "Longitude":-105.651
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ruidoso Downs",
+        "County":"Lincoln",
+        "ZipCode":"88346",
+        "Latitude":33.3577,
+        "Longitude":-105.5383
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Patricio",
+        "County":"Lincoln",
+        "ZipCode":"88348",
+        "Latitude":33.3877,
+        "Longitude":-105.3498
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tinnie",
+        "County":"Lincoln",
+        "ZipCode":"88351",
+        "Latitude":33.3706,
+        "Longitude":-105.2264
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ruidoso",
+        "County":"Lincoln",
+        "ZipCode":"88355",
+        "Latitude":33.3305,
+        "Longitude":-105.6933
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Los Alamos",
+        "County":"Los Alamos",
+        "ZipCode":"87544",
+        "Latitude":35.8663,
+        "Longitude":-106.2676
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Los Alamos",
+        "County":"Los Alamos",
+        "ZipCode":"87545",
+        "Latitude":35.8639,
+        "Longitude":-106.2953
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"White Rock",
+        "County":"Los Alamos",
+        "ZipCode":"87547",
+        "Latitude":35.8275,
+        "Longitude":-106.2039
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Columbus",
+        "County":"Luna",
+        "ZipCode":"88029",
+        "Latitude":31.8276,
+        "Longitude":-107.64
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Deming",
+        "County":"Luna",
+        "ZipCode":"88030",
+        "Latitude":32.2318,
+        "Longitude":-107.7466
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Deming",
+        "County":"Luna",
+        "ZipCode":"88031",
+        "Latitude":32.2398,
+        "Longitude":-107.7404
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Prewitt",
+        "County":"McKinley",
+        "ZipCode":"87045",
+        "Latitude":35.3547,
+        "Longitude":-108.1038
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gallup",
+        "County":"McKinley",
+        "ZipCode":"87301",
+        "Latitude":35.5065,
+        "Longitude":-108.7414
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gallup",
+        "County":"McKinley",
+        "ZipCode":"87302",
+        "Latitude":35.5281,
+        "Longitude":-108.7426
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gallup",
+        "County":"McKinley",
+        "ZipCode":"87305",
+        "Latitude":35.4499,
+        "Longitude":-108.7705
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Brimhall",
+        "County":"McKinley",
+        "ZipCode":"87310",
+        "Latitude":35.8005,
+        "Longitude":-108.5815
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Church Rock",
+        "County":"McKinley",
+        "ZipCode":"87311",
+        "Latitude":35.5339,
+        "Longitude":-108.5998
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Continental Divide",
+        "County":"McKinley",
+        "ZipCode":"87312",
+        "Latitude":35.4226,
+        "Longitude":-108.323
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Crownpoint",
+        "County":"McKinley",
+        "ZipCode":"87313",
+        "Latitude":35.7206,
+        "Longitude":-108.0271
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fort Wingate",
+        "County":"McKinley",
+        "ZipCode":"87316",
+        "Latitude":35.5191,
+        "Longitude":-108.4864
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gamerco",
+        "County":"McKinley",
+        "ZipCode":"87317",
+        "Latitude":35.5763,
+        "Longitude":-108.7626
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mentmore",
+        "County":"McKinley",
+        "ZipCode":"87319",
+        "Latitude":35.5042,
+        "Longitude":-108.8317
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mexican Springs",
+        "County":"McKinley",
+        "ZipCode":"87320",
+        "Latitude":35.7837,
+        "Longitude":-108.819
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ramah",
+        "County":"McKinley",
+        "ZipCode":"87321",
+        "Latitude":35.1324,
+        "Longitude":-108.492
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rehoboth",
+        "County":"McKinley",
+        "ZipCode":"87322",
+        "Latitude":35.5289,
+        "Longitude":-108.6548
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Thoreau",
+        "County":"McKinley",
+        "ZipCode":"87323",
+        "Latitude":35.3976,
+        "Longitude":-108.1604
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tohatchi",
+        "County":"McKinley",
+        "ZipCode":"87325",
+        "Latitude":36.0021,
+        "Longitude":-108.6229
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Vanderwagen",
+        "County":"McKinley",
+        "ZipCode":"87326",
+        "Latitude":35.3509,
+        "Longitude":-108.6985
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Zuni",
+        "County":"McKinley",
+        "ZipCode":"87327",
+        "Latitude":35.0684,
+        "Longitude":-108.8336
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Navajo",
+        "County":"McKinley",
+        "ZipCode":"87328",
+        "Latitude":35.8942,
+        "Longitude":-109.0226
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Jamestown",
+        "County":"McKinley",
+        "ZipCode":"87347",
+        "Latitude":35.4809,
+        "Longitude":-108.1767
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Smith Lake",
+        "County":"McKinley",
+        "ZipCode":"87365",
+        "Latitude":35.4809,
+        "Longitude":-108.1767
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Yatahey",
+        "County":"McKinley",
+        "ZipCode":"87375",
+        "Latitude":35.4809,
+        "Longitude":-108.1767
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Buena Vista",
+        "County":"Mora",
+        "ZipCode":"87712",
+        "Latitude":35.9136,
+        "Longitude":-105.2492
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Chacon",
+        "County":"Mora",
+        "ZipCode":"87713",
+        "Latitude":36.1388,
+        "Longitude":-105.3854
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cleveland",
+        "County":"Mora",
+        "ZipCode":"87715",
+        "Latitude":35.9898,
+        "Longitude":-105.4326
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Guadalupita",
+        "County":"Mora",
+        "ZipCode":"87722",
+        "Latitude":36.1375,
+        "Longitude":-105.2386
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Holman",
+        "County":"Mora",
+        "ZipCode":"87723",
+        "Latitude":36.0384,
+        "Longitude":-105.3836
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mora",
+        "County":"Mora",
+        "ZipCode":"87732",
+        "Latitude":35.9742,
+        "Longitude":-105.33
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ocate",
+        "County":"Mora",
+        "ZipCode":"87734",
+        "Latitude":36.1037,
+        "Longitude":-105.066
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ojo Feliz",
+        "County":"Mora",
+        "ZipCode":"87735",
+        "Latitude":36.0578,
+        "Longitude":-105.1183
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rainsville",
+        "County":"Mora",
+        "ZipCode":"87736",
+        "Latitude":35.9786,
+        "Longitude":-105.2092
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Valmora",
+        "County":"Mora",
+        "ZipCode":"87750",
+        "Latitude":35.8164,
+        "Longitude":-104.9231
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Wagon Mound",
+        "County":"Mora",
+        "ZipCode":"87752",
+        "Latitude":35.9814,
+        "Longitude":-104.691
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Watrous",
+        "County":"Mora",
+        "ZipCode":"87753",
+        "Latitude":35.7906,
+        "Longitude":-104.9817
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Chaparral",
+        "County":"Otero",
+        "ZipCode":"88081",
+        "Latitude":32.2239,
+        "Longitude":-106.2631
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Alamogordo",
+        "County":"Otero",
+        "ZipCode":"88310",
+        "Latitude":32.8932,
+        "Longitude":-105.9485
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Alamogordo",
+        "County":"Otero",
+        "ZipCode":"88311",
+        "Latitude":32.8995,
+        "Longitude":-105.9603
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bent",
+        "County":"Otero",
+        "ZipCode":"88314",
+        "Latitude":33.148,
+        "Longitude":-105.8635
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cloudcroft",
+        "County":"Otero",
+        "ZipCode":"88317",
+        "Latitude":32.8897,
+        "Longitude":-105.6744
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"High Rolls Mountain Park",
+        "County":"Otero",
+        "ZipCode":"88325",
+        "Latitude":32.9396,
+        "Longitude":-105.8189
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Holloman Air Force Base",
+        "County":"Otero",
+        "ZipCode":"88330",
+        "Latitude":32.8366,
+        "Longitude":-106.0774
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Luz",
+        "County":"Otero",
+        "ZipCode":"88337",
+        "Latitude":32.9774,
+        "Longitude":-105.9534
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mayhill",
+        "County":"Otero",
+        "ZipCode":"88339",
+        "Latitude":32.907,
+        "Longitude":-105.5181
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mescalero",
+        "County":"Otero",
+        "ZipCode":"88340",
+        "Latitude":33.2164,
+        "Longitude":-105.7743
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Orogrande",
+        "County":"Otero",
+        "ZipCode":"88342",
+        "Latitude":32.3712,
+        "Longitude":-106.0844
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pinon",
+        "County":"Otero",
+        "ZipCode":"88344",
+        "Latitude":32.6396,
+        "Longitude":-105.4157
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sacramento",
+        "County":"Otero",
+        "ZipCode":"88347",
+        "Latitude":32.8052,
+        "Longitude":-105.6211
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sunspot",
+        "County":"Otero",
+        "ZipCode":"88349",
+        "Latitude":32.8672,
+        "Longitude":-105.7811
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Timberon",
+        "County":"Otero",
+        "ZipCode":"88350",
+        "Latitude":32.6295,
+        "Longitude":-105.6945
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tularosa",
+        "County":"Otero",
+        "ZipCode":"88352",
+        "Latitude":33.065,
+        "Longitude":-106.0108
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Weed",
+        "County":"Otero",
+        "ZipCode":"88354",
+        "Latitude":32.8052,
+        "Longitude":-105.5063
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"House",
+        "County":"Quay",
+        "ZipCode":"88121",
+        "Latitude":34.6952,
+        "Longitude":-103.9203
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tucumcari",
+        "County":"Quay",
+        "ZipCode":"88401",
+        "Latitude":35.168,
+        "Longitude":-103.7179
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bard",
+        "County":"Quay",
+        "ZipCode":"88411",
+        "Latitude":35.1303,
+        "Longitude":-103.1605
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Logan",
+        "County":"Quay",
+        "ZipCode":"88426",
+        "Latitude":35.3681,
+        "Longitude":-103.4383
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mcalister",
+        "County":"Quay",
+        "ZipCode":"88427",
+        "Latitude":34.6923,
+        "Longitude":-103.7764
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Nara Visa",
+        "County":"Quay",
+        "ZipCode":"88430",
+        "Latitude":35.618,
+        "Longitude":-103.1317
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Quay",
+        "County":"Quay",
+        "ZipCode":"88433",
+        "Latitude":34.9167,
+        "Longitude":-103.7782
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Jon",
+        "County":"Quay",
+        "ZipCode":"88434",
+        "Latitude":35.1198,
+        "Longitude":-103.2846
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Coyote",
+        "County":"Rio Arriba",
+        "ZipCode":"87012",
+        "Latitude":36.1018,
+        "Longitude":-106.6692
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gallina",
+        "County":"Rio Arriba",
+        "ZipCode":"87017",
+        "Latitude":36.3202,
+        "Longitude":-106.7687
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lindrith",
+        "County":"Rio Arriba",
+        "ZipCode":"87029",
+        "Latitude":36.3249,
+        "Longitude":-107.0495
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Youngsville",
+        "County":"Rio Arriba",
+        "ZipCode":"87064",
+        "Latitude":36.1875,
+        "Longitude":-106.5564
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Abiquiu",
+        "County":"Rio Arriba",
+        "ZipCode":"87510",
+        "Latitude":36.1769,
+        "Longitude":-106.2449
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Alcalde",
+        "County":"Rio Arriba",
+        "ZipCode":"87511",
+        "Latitude":36.0889,
+        "Longitude":-106.0536
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Canjilon",
+        "County":"Rio Arriba",
+        "ZipCode":"87515",
+        "Latitude":36.4795,
+        "Longitude":-106.4378
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Canones",
+        "County":"Rio Arriba",
+        "ZipCode":"87516",
+        "Latitude":36.1814,
+        "Longitude":-106.4376
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cebolla",
+        "County":"Rio Arriba",
+        "ZipCode":"87518",
+        "Latitude":36.4654,
+        "Longitude":-106.5785
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Chama",
+        "County":"Rio Arriba",
+        "ZipCode":"87520",
+        "Latitude":36.8962,
+        "Longitude":-106.5829
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Chimayo",
+        "County":"Rio Arriba",
+        "ZipCode":"87522",
+        "Latitude":36.0039,
+        "Longitude":-105.947
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cordova",
+        "County":"Rio Arriba",
+        "ZipCode":"87523",
+        "Latitude":36.0072,
+        "Longitude":-105.8606
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Dixon",
+        "County":"Rio Arriba",
+        "ZipCode":"87527",
+        "Latitude":36.179,
+        "Longitude":-105.8615
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Dulce",
+        "County":"Rio Arriba",
+        "ZipCode":"87528",
+        "Latitude":36.8598,
+        "Longitude":-107.0602
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"El Rito",
+        "County":"Rio Arriba",
+        "ZipCode":"87530",
+        "Latitude":36.3647,
+        "Longitude":-106.2192
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Embudo",
+        "County":"Rio Arriba",
+        "ZipCode":"87531",
+        "Latitude":36.2153,
+        "Longitude":-105.8901
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Espanola",
+        "County":"Rio Arriba",
+        "ZipCode":"87532",
+        "Latitude":35.9872,
+        "Longitude":-106.0717
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Espanola",
+        "County":"Rio Arriba",
+        "ZipCode":"87533",
+        "Latitude":35.9866,
+        "Longitude":-106.0654
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hernandez",
+        "County":"Rio Arriba",
+        "ZipCode":"87537",
+        "Latitude":36.0738,
+        "Longitude":-106.1396
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Madera",
+        "County":"Rio Arriba",
+        "ZipCode":"87539",
+        "Latitude":36.4654,
+        "Longitude":-106.5785
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Medanales",
+        "County":"Rio Arriba",
+        "ZipCode":"87548",
+        "Latitude":36.1756,
+        "Longitude":-106.1834
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Los Ojos",
+        "County":"Rio Arriba",
+        "ZipCode":"87551",
+        "Latitude":36.7292,
+        "Longitude":-106.57
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Petaca",
+        "County":"Rio Arriba",
+        "ZipCode":"87554",
+        "Latitude":36.5084,
+        "Longitude":-106.0106
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ohkay Owingeh",
+        "County":"Rio Arriba",
+        "ZipCode":"87566",
+        "Latitude":36.0508,
+        "Longitude":-106.069
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tierra Amarilla",
+        "County":"Rio Arriba",
+        "ZipCode":"87575",
+        "Latitude":36.6805,
+        "Longitude":-106.557
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Truchas",
+        "County":"Rio Arriba",
+        "ZipCode":"87578",
+        "Latitude":36.0444,
+        "Longitude":-105.8129
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Vallecitos",
+        "County":"Rio Arriba",
+        "ZipCode":"87581",
+        "Latitude":36.5286,
+        "Longitude":-106.1448
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Velarde",
+        "County":"Rio Arriba",
+        "ZipCode":"87582",
+        "Latitude":36.1589,
+        "Longitude":-105.9747
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Causey",
+        "County":"Roosevelt",
+        "ZipCode":"88113",
+        "Latitude":33.7781,
+        "Longitude":-103.0865
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Dora",
+        "County":"Roosevelt",
+        "ZipCode":"88115",
+        "Latitude":33.9387,
+        "Longitude":-103.3366
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Elida",
+        "County":"Roosevelt",
+        "ZipCode":"88116",
+        "Latitude":33.9405,
+        "Longitude":-103.6323
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Floyd",
+        "County":"Roosevelt",
+        "ZipCode":"88118",
+        "Latitude":34.252,
+        "Longitude":-103.5827
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Kenna",
+        "County":"Roosevelt",
+        "ZipCode":"88122",
+        "Latitude":33.8423,
+        "Longitude":-103.7719
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lingo",
+        "County":"Roosevelt",
+        "ZipCode":"88123",
+        "Latitude":33.7176,
+        "Longitude":-103.1451
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Milnesand",
+        "County":"Roosevelt",
+        "ZipCode":"88125",
+        "Latitude":33.605,
+        "Longitude":-103.2782
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pep",
+        "County":"Roosevelt",
+        "ZipCode":"88126",
+        "Latitude":33.8362,
+        "Longitude":-103.3355
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Portales",
+        "County":"Roosevelt",
+        "ZipCode":"88130",
+        "Latitude":34.1799,
+        "Longitude":-103.3363
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rogers",
+        "County":"Roosevelt",
+        "ZipCode":"88132",
+        "Latitude":33.9216,
+        "Longitude":-103.1898
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Algodones",
+        "County":"Sandoval",
+        "ZipCode":"87001",
+        "Latitude":35.389,
+        "Longitude":-106.3517
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bernalillo",
+        "County":"Sandoval",
+        "ZipCode":"87004",
+        "Latitude":35.3285,
+        "Longitude":-106.5309
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cuba",
+        "County":"Sandoval",
+        "ZipCode":"87013",
+        "Latitude":36.0482,
+        "Longitude":-107.1885
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Counselor",
+        "County":"Sandoval",
+        "ZipCode":"87018",
+        "Latitude":36.2092,
+        "Longitude":-107.4578
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Jemez Pueblo",
+        "County":"Sandoval",
+        "ZipCode":"87024",
+        "Latitude":35.6243,
+        "Longitude":-106.7219
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Jemez Springs",
+        "County":"Sandoval",
+        "ZipCode":"87025",
+        "Latitude":35.8927,
+        "Longitude":-106.7714
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Jara",
+        "County":"Sandoval",
+        "ZipCode":"87027",
+        "Latitude":36.1194,
+        "Longitude":-106.9923
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pena Blanca",
+        "County":"Sandoval",
+        "ZipCode":"87041",
+        "Latitude":35.5709,
+        "Longitude":-106.3381
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Placitas",
+        "County":"Sandoval",
+        "ZipCode":"87043",
+        "Latitude":35.3092,
+        "Longitude":-106.5293
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ponderosa",
+        "County":"Sandoval",
+        "ZipCode":"87044",
+        "Latitude":35.66,
+        "Longitude":-106.6675
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Regina",
+        "County":"Sandoval",
+        "ZipCode":"87046",
+        "Latitude":36.1842,
+        "Longitude":-106.9567
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Corrales",
+        "County":"Sandoval",
+        "ZipCode":"87048",
+        "Latitude":35.2339,
+        "Longitude":-106.62
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santo Domingo Pueblo",
+        "County":"Sandoval",
+        "ZipCode":"87052",
+        "Latitude":35.5269,
+        "Longitude":-106.3445
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Ysidro",
+        "County":"Sandoval",
+        "ZipCode":"87053",
+        "Latitude":35.5634,
+        "Longitude":-106.7706
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cochiti Pueblo",
+        "County":"Sandoval",
+        "ZipCode":"87072",
+        "Latitude":35.6089,
+        "Longitude":-106.3518
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cochiti Lake",
+        "County":"Sandoval",
+        "ZipCode":"87083",
+        "Latitude":35.6485,
+        "Longitude":-106.3428
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rio Rancho",
+        "County":"Sandoval",
+        "ZipCode":"87124",
+        "Latitude":35.2493,
+        "Longitude":-106.6818
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rio Rancho",
+        "County":"Sandoval",
+        "ZipCode":"87144",
+        "Latitude":35.324,
+        "Longitude":-106.7099
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Nageezi",
+        "County":"San Juan",
+        "ZipCode":"87037",
+        "Latitude":36.1598,
+        "Longitude":-107.7664
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sheep Springs",
+        "County":"San Juan",
+        "ZipCode":"87364",
+        "Latitude":36.142,
+        "Longitude":-108.7064
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Farmington",
+        "County":"San Juan",
+        "ZipCode":"87401",
+        "Latitude":36.7412,
+        "Longitude":-108.1797
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Farmington",
+        "County":"San Juan",
+        "ZipCode":"87402",
+        "Latitude":36.7685,
+        "Longitude":-108.1478
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Aztec",
+        "County":"San Juan",
+        "ZipCode":"87410",
+        "Latitude":36.8205,
+        "Longitude":-108.011
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Blanco",
+        "County":"San Juan",
+        "ZipCode":"87412",
+        "Latitude":36.7242,
+        "Longitude":-107.8253
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bloomfield",
+        "County":"San Juan",
+        "ZipCode":"87413",
+        "Latitude":36.6955,
+        "Longitude":-107.9784
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Flora Vista",
+        "County":"San Juan",
+        "ZipCode":"87415",
+        "Latitude":36.8028,
+        "Longitude":-108.0827
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Fruitland",
+        "County":"San Juan",
+        "ZipCode":"87416",
+        "Latitude":36.6933,
+        "Longitude":-108.4218
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Kirtland",
+        "County":"San Juan",
+        "ZipCode":"87417",
+        "Latitude":36.741,
+        "Longitude":-108.351
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Plata",
+        "County":"San Juan",
+        "ZipCode":"87418",
+        "Latitude":36.9576,
+        "Longitude":-108.1792
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Navajo Dam",
+        "County":"San Juan",
+        "ZipCode":"87419",
+        "Latitude":36.8689,
+        "Longitude":-107.6528
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Shiprock",
+        "County":"San Juan",
+        "ZipCode":"87420",
+        "Latitude":36.656,
+        "Longitude":-108.7355
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Waterflow",
+        "County":"San Juan",
+        "ZipCode":"87421",
+        "Latitude":36.7637,
+        "Longitude":-108.5186
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Newcomb",
+        "County":"San Juan",
+        "ZipCode":"87455",
+        "Latitude":36.2847,
+        "Longitude":-108.7059
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sanostee",
+        "County":"San Juan",
+        "ZipCode":"87461",
+        "Latitude":36.4247,
+        "Longitude":-108.8743
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Farmington",
+        "County":"San Juan",
+        "ZipCode":"87499",
+        "Latitude":36.7745,
+        "Longitude":-108.0692
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ilfeld",
+        "County":"San Miguel",
+        "ZipCode":"87538",
+        "Latitude":35.4212,
+        "Longitude":-105.5589
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pecos",
+        "County":"San Miguel",
+        "ZipCode":"87552",
+        "Latitude":35.571,
+        "Longitude":-105.6701
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ribera",
+        "County":"San Miguel",
+        "ZipCode":"87560",
+        "Latitude":35.3344,
+        "Longitude":-105.4652
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rowe",
+        "County":"San Miguel",
+        "ZipCode":"87562",
+        "Latitude":35.4917,
+        "Longitude":-105.6753
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Jose",
+        "County":"San Miguel",
+        "ZipCode":"87565",
+        "Latitude":35.4569,
+        "Longitude":-105.4383
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Serafina",
+        "County":"San Miguel",
+        "ZipCode":"87569",
+        "Latitude":35.3975,
+        "Longitude":-105.3236
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tererro",
+        "County":"San Miguel",
+        "ZipCode":"87573",
+        "Latitude":35.7727,
+        "Longitude":-105.6713
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Villanueva",
+        "County":"San Miguel",
+        "ZipCode":"87583",
+        "Latitude":35.2667,
+        "Longitude":-105.3608
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Las Vegas",
+        "County":"San Miguel",
+        "ZipCode":"87701",
+        "Latitude":35.5949,
+        "Longitude":-105.2272
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Montezuma",
+        "County":"San Miguel",
+        "ZipCode":"87731",
+        "Latitude":35.6523,
+        "Longitude":-105.2764
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Rociada",
+        "County":"San Miguel",
+        "ZipCode":"87742",
+        "Latitude":35.8226,
+        "Longitude":-105.3147
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sapello",
+        "County":"San Miguel",
+        "ZipCode":"87745",
+        "Latitude":35.762,
+        "Longitude":-105.1077
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Conchas Dam",
+        "County":"San Miguel",
+        "ZipCode":"88416",
+        "Latitude":35.3786,
+        "Longitude":-104.2052
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Garita",
+        "County":"San Miguel",
+        "ZipCode":"88421",
+        "Latitude":35.3502,
+        "Longitude":-104.4419
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Trementina",
+        "County":"San Miguel",
+        "ZipCode":"88439",
+        "Latitude":35.4563,
+        "Longitude":-104.6796
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cerrillos",
+        "County":"Santa Fe",
+        "ZipCode":"87010",
+        "Latitude":35.423,
+        "Longitude":-106.1317
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Edgewood",
+        "County":"Santa Fe",
+        "ZipCode":"87015",
+        "Latitude":35.0776,
+        "Longitude":-106.1872
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Stanley",
+        "County":"Santa Fe",
+        "ZipCode":"87056",
+        "Latitude":35.1295,
+        "Longitude":-106.0283
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87501",
+        "Latitude":35.6975,
+        "Longitude":-105.9821
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87502",
+        "Latitude":35.687,
+        "Longitude":-105.9378
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87503",
+        "Latitude":35.687,
+        "Longitude":-105.9378
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87504",
+        "Latitude":35.687,
+        "Longitude":-105.9378
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87505",
+        "Latitude":35.6219,
+        "Longitude":-105.8688
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87506",
+        "Latitude":35.8195,
+        "Longitude":-105.9886
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87507",
+        "Latitude":35.6567,
+        "Longitude":-106.0152
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87508",
+        "Latitude":35.5335,
+        "Longitude":-105.926
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87509",
+        "Latitude":35.5212,
+        "Longitude":-105.9818
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Glorieta",
+        "County":"Santa Fe",
+        "ZipCode":"87535",
+        "Latitude":35.5288,
+        "Longitude":-105.7477
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lamy",
+        "County":"Santa Fe",
+        "ZipCode":"87540",
+        "Latitude":35.4311,
+        "Longitude":-105.9409
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Cruz",
+        "County":"Santa Fe",
+        "ZipCode":"87567",
+        "Latitude":35.986,
+        "Longitude":-106.0318
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tesuque",
+        "County":"Santa Fe",
+        "ZipCode":"87574",
+        "Latitude":35.7874,
+        "Longitude":-105.9157
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87592",
+        "Latitude":35.5212,
+        "Longitude":-105.9818
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Santa Fe",
+        "County":"Santa Fe",
+        "ZipCode":"87594",
+        "Latitude":35.5212,
+        "Longitude":-105.9818
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Spaceport City",
+        "County":"Sierra",
+        "ZipCode":"87654",
+        "Latitude":32.9903,
+        "Longitude":-106.9697
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Truth Or Consequences",
+        "County":"Sierra",
+        "ZipCode":"87901",
+        "Latitude":33.1606,
+        "Longitude":-107.2669
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Arrey",
+        "County":"Sierra",
+        "ZipCode":"87930",
+        "Latitude":32.8487,
+        "Longitude":-107.3192
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Caballo",
+        "County":"Sierra",
+        "ZipCode":"87931",
+        "Latitude":32.9641,
+        "Longitude":-107.4102
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Derry",
+        "County":"Sierra",
+        "ZipCode":"87933",
+        "Latitude":32.7881,
+        "Longitude":-107.2822
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Elephant Butte",
+        "County":"Sierra",
+        "ZipCode":"87935",
+        "Latitude":33.209,
+        "Longitude":-107.2212
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Monticello",
+        "County":"Sierra",
+        "ZipCode":"87939",
+        "Latitude":33.397,
+        "Longitude":-107.4509
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Williamsburg",
+        "County":"Sierra",
+        "ZipCode":"87942",
+        "Latitude":33.1171,
+        "Longitude":-107.2915
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Winston",
+        "County":"Sierra",
+        "ZipCode":"87943",
+        "Latitude":33.3061,
+        "Longitude":-107.6675
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Hillsboro",
+        "County":"Sierra",
+        "ZipCode":"88042",
+        "Latitude":32.9239,
+        "Longitude":-107.6276
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Claunch",
+        "County":"Socorro",
+        "ZipCode":"87011",
+        "Latitude":34.0646,
+        "Longitude":-105.9496
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"La Joya",
+        "County":"Socorro",
+        "ZipCode":"87028",
+        "Latitude":34.3813,
+        "Longitude":-106.815
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Veguita",
+        "County":"Socorro",
+        "ZipCode":"87062",
+        "Latitude":34.485,
+        "Longitude":-106.7591
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Socorro",
+        "County":"Socorro",
+        "ZipCode":"87801",
+        "Latitude":34.0479,
+        "Longitude":-106.8907
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Lemitar",
+        "County":"Socorro",
+        "ZipCode":"87823",
+        "Latitude":34.156,
+        "Longitude":-106.9044
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Magdalena",
+        "County":"Socorro",
+        "ZipCode":"87825",
+        "Latitude":34.1114,
+        "Longitude":-107.2409
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Polvadera",
+        "County":"Socorro",
+        "ZipCode":"87828",
+        "Latitude":34.2059,
+        "Longitude":-106.9167
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Acacia",
+        "County":"Socorro",
+        "ZipCode":"87831",
+        "Latitude":34.2283,
+        "Longitude":-106.9049
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Antonio",
+        "County":"Socorro",
+        "ZipCode":"87832",
+        "Latitude":33.819,
+        "Longitude":-106.8285
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Amalia",
+        "County":"Taos",
+        "ZipCode":"87512",
+        "Latitude":36.942,
+        "Longitude":-105.4545
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Arroyo Hondo",
+        "County":"Taos",
+        "ZipCode":"87513",
+        "Latitude":36.5796,
+        "Longitude":-105.6873
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Arroyo Seco",
+        "County":"Taos",
+        "ZipCode":"87514",
+        "Latitude":36.52,
+        "Longitude":-105.534
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Carson",
+        "County":"Taos",
+        "ZipCode":"87517",
+        "Latitude":36.3645,
+        "Longitude":-105.7653
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cerro",
+        "County":"Taos",
+        "ZipCode":"87519",
+        "Latitude":36.7539,
+        "Longitude":-105.6128
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Chamisal",
+        "County":"Taos",
+        "ZipCode":"87521",
+        "Latitude":36.1311,
+        "Longitude":-105.7385
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Costilla",
+        "County":"Taos",
+        "ZipCode":"87524",
+        "Latitude":36.9324,
+        "Longitude":-105.6723
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Taos Ski Valley",
+        "County":"Taos",
+        "ZipCode":"87525",
+        "Latitude":36.596,
+        "Longitude":-105.4545
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"El Prado",
+        "County":"Taos",
+        "ZipCode":"87529",
+        "Latitude":36.4317,
+        "Longitude":-105.5747
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Llano",
+        "County":"Taos",
+        "ZipCode":"87543",
+        "Latitude":36.14,
+        "Longitude":-105.6817
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ojo Caliente",
+        "County":"Taos",
+        "ZipCode":"87549",
+        "Latitude":36.3313,
+        "Longitude":-106.0028
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Penasco",
+        "County":"Taos",
+        "ZipCode":"87553",
+        "Latitude":36.1763,
+        "Longitude":-105.7105
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Questa",
+        "County":"Taos",
+        "ZipCode":"87556",
+        "Latitude":36.7039,
+        "Longitude":-105.595
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Ranchos De Taos",
+        "County":"Taos",
+        "ZipCode":"87557",
+        "Latitude":36.3357,
+        "Longitude":-105.6086
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Red River",
+        "County":"Taos",
+        "ZipCode":"87558",
+        "Latitude":36.6659,
+        "Longitude":-105.4694
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"San Cristobal",
+        "County":"Taos",
+        "ZipCode":"87564",
+        "Latitude":36.6116,
+        "Longitude":-105.636
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Taos",
+        "County":"Taos",
+        "ZipCode":"87571",
+        "Latitude":36.3953,
+        "Longitude":-105.5847
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Trampas",
+        "County":"Taos",
+        "ZipCode":"87576",
+        "Latitude":36.1311,
+        "Longitude":-105.7589
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tres Piedras",
+        "County":"Taos",
+        "ZipCode":"87577",
+        "Latitude":36.647,
+        "Longitude":-105.9672
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Vadito",
+        "County":"Taos",
+        "ZipCode":"87579",
+        "Latitude":36.1338,
+        "Longitude":-105.5712
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Valdez",
+        "County":"Taos",
+        "ZipCode":"87580",
+        "Latitude":36.5701,
+        "Longitude":-105.5658
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Cedarvale",
+        "County":"Torrance",
+        "ZipCode":"87009",
+        "Latitude":34.3706,
+        "Longitude":-105.702
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Estancia",
+        "County":"Torrance",
+        "ZipCode":"87016",
+        "Latitude":34.77,
+        "Longitude":-106.135
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mcintosh",
+        "County":"Torrance",
+        "ZipCode":"87032",
+        "Latitude":34.8648,
+        "Longitude":-106.0517
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Moriarty",
+        "County":"Torrance",
+        "ZipCode":"87035",
+        "Latitude":34.9889,
+        "Longitude":-106.0609
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Mountainair",
+        "County":"Torrance",
+        "ZipCode":"87036",
+        "Latitude":34.5158,
+        "Longitude":-106.2577
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Torreon",
+        "County":"Torrance",
+        "ZipCode":"87061",
+        "Latitude":34.6948,
+        "Longitude":-106.3247
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Willard",
+        "County":"Torrance",
+        "ZipCode":"87063",
+        "Latitude":34.5754,
+        "Longitude":-106.0307
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Clines Corners",
+        "County":"Torrance",
+        "ZipCode":"87070",
+        "Latitude":35.0095,
+        "Longitude":-105.6692
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Encino",
+        "County":"Torrance",
+        "ZipCode":"88321",
+        "Latitude":34.615,
+        "Longitude":-105.4839
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Amistad",
+        "County":"Union",
+        "ZipCode":"88410",
+        "Latitude":35.8983,
+        "Longitude":-103.213
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Capulin",
+        "County":"Union",
+        "ZipCode":"88414",
+        "Latitude":36.7785,
+        "Longitude":-103.9986
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Clayton",
+        "County":"Union",
+        "ZipCode":"88415",
+        "Latitude":36.4414,
+        "Longitude":-103.1888
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Des Moines",
+        "County":"Union",
+        "ZipCode":"88418",
+        "Latitude":36.7291,
+        "Longitude":-103.8739
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Folsom",
+        "County":"Union",
+        "ZipCode":"88419",
+        "Latitude":36.869,
+        "Longitude":-103.8399
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Gladstone",
+        "County":"Union",
+        "ZipCode":"88422",
+        "Latitude":36.3048,
+        "Longitude":-103.973
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Grenville",
+        "County":"Union",
+        "ZipCode":"88424",
+        "Latitude":36.3698,
+        "Longitude":-103.5055
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Sedan",
+        "County":"Union",
+        "ZipCode":"88436",
+        "Latitude":36.226,
+        "Longitude":-103.1449
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Belen",
+        "County":"Valencia",
+        "ZipCode":"87002",
+        "Latitude":34.6511,
+        "Longitude":-106.6952
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bosque",
+        "County":"Valencia",
+        "ZipCode":"87006",
+        "Latitude":34.4996,
+        "Longitude":-106.8038
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Jarales",
+        "County":"Valencia",
+        "ZipCode":"87023",
+        "Latitude":34.592,
+        "Longitude":-106.7611
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Los Lunas",
+        "County":"Valencia",
+        "ZipCode":"87031",
+        "Latitude":34.7806,
+        "Longitude":-106.7115
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Pueblo Of Acoma",
+        "County":"Valencia",
+        "ZipCode":"87034",
+        "Latitude":34.8964,
+        "Longitude":-107.5817
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Peralta",
+        "County":"Valencia",
+        "ZipCode":"87042",
+        "Latitude":34.8332,
+        "Longitude":-106.6872
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Tome",
+        "County":"Valencia",
+        "ZipCode":"87060",
+        "Latitude":34.7426,
+        "Longitude":-106.7328
+    },
+    {
+        "State":"New Mexico",
+        "StateAbbr":"NM",
+        "City":"Bosque Farms",
+        "County":"Valencia",
+        "ZipCode":"87068",
+        "Latitude":34.8764,
+        "Longitude":-106.6975
+    }
+]

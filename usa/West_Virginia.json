@@ -1,0 +1,7661 @@
+[
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Volga",
+        "County":"Barbour",
+        "ZipCode":"26238",
+        "Latitude":39.0784,
+        "Longitude":-80.1354
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Belington",
+        "County":"Barbour",
+        "ZipCode":"26250",
+        "Latitude":39.0244,
+        "Longitude":-79.9495
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Junior",
+        "County":"Barbour",
+        "ZipCode":"26275",
+        "Latitude":38.9784,
+        "Longitude":-79.9494
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Galloway",
+        "County":"Barbour",
+        "ZipCode":"26349",
+        "Latitude":39.2318,
+        "Longitude":-80.122
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Moatsville",
+        "County":"Barbour",
+        "ZipCode":"26405",
+        "Latitude":39.2234,
+        "Longitude":-79.9017
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Philippi",
+        "County":"Barbour",
+        "ZipCode":"26416",
+        "Latitude":39.1613,
+        "Longitude":-80.0492
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Martinsburg",
+        "County":"Berkeley",
+        "ZipCode":"25401",
+        "Latitude":39.4567,
+        "Longitude":-77.9727
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Martinsburg",
+        "County":"Berkeley",
+        "ZipCode":"25402",
+        "Latitude":39.4562,
+        "Longitude":-77.9639
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Martinsburg",
+        "County":"Berkeley",
+        "ZipCode":"25403",
+        "Latitude":39.5227,
+        "Longitude":-77.9747
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Martinsburg",
+        "County":"Berkeley",
+        "ZipCode":"25404",
+        "Latitude":39.4852,
+        "Longitude":-77.8954
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Martinsburg",
+        "County":"Berkeley",
+        "ZipCode":"25405",
+        "Latitude":39.4092,
+        "Longitude":-77.9615
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bunker Hill",
+        "County":"Berkeley",
+        "ZipCode":"25413",
+        "Latitude":39.3276,
+        "Longitude":-78.0487
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Falling Waters",
+        "County":"Berkeley",
+        "ZipCode":"25419",
+        "Latitude":39.5865,
+        "Longitude":-77.8852
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gerrardstown",
+        "County":"Berkeley",
+        "ZipCode":"25420",
+        "Latitude":39.378,
+        "Longitude":-78.1141
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glengary",
+        "County":"Berkeley",
+        "ZipCode":"25421",
+        "Latitude":39.3813,
+        "Longitude":-78.1435
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hedgesville",
+        "County":"Berkeley",
+        "ZipCode":"25427",
+        "Latitude":39.5214,
+        "Longitude":-78.0912
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Inwood",
+        "County":"Berkeley",
+        "ZipCode":"25428",
+        "Latitude":39.3701,
+        "Longitude":-78.0242
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ridgeway",
+        "County":"Berkeley",
+        "ZipCode":"25440",
+        "Latitude":39.2973,
+        "Longitude":-78.0717
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ashford",
+        "County":"Boone",
+        "ZipCode":"25009",
+        "Latitude":38.1823,
+        "Longitude":-81.7113
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bim",
+        "County":"Boone",
+        "ZipCode":"25021",
+        "Latitude":37.9218,
+        "Longitude":-81.6893
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bloomingrose",
+        "County":"Boone",
+        "ZipCode":"25024",
+        "Latitude":38.1412,
+        "Longitude":-81.6367
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bob White",
+        "County":"Boone",
+        "ZipCode":"25028",
+        "Latitude":37.9543,
+        "Longitude":-81.7185
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Comfort",
+        "County":"Boone",
+        "ZipCode":"25049",
+        "Latitude":38.1372,
+        "Longitude":-81.5962
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Costa",
+        "County":"Boone",
+        "ZipCode":"25051",
+        "Latitude":38.1591,
+        "Longitude":-81.7092
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Danville",
+        "County":"Boone",
+        "ZipCode":"25053",
+        "Latitude":38.0809,
+        "Longitude":-81.834
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Foster",
+        "County":"Boone",
+        "ZipCode":"25081",
+        "Latitude":38.0908,
+        "Longitude":-81.7659
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gordon",
+        "County":"Boone",
+        "ZipCode":"25093",
+        "Latitude":37.987,
+        "Longitude":-81.6954
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hewett",
+        "County":"Boone",
+        "ZipCode":"25108",
+        "Latitude":37.9581,
+        "Longitude":-81.8509
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jeffrey",
+        "County":"Boone",
+        "ZipCode":"25114",
+        "Latitude":37.9715,
+        "Longitude":-81.8215
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Madison",
+        "County":"Boone",
+        "ZipCode":"25130",
+        "Latitude":38.0444,
+        "Longitude":-81.7938
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nellis",
+        "County":"Boone",
+        "ZipCode":"25142",
+        "Latitude":38.153,
+        "Longitude":-81.7321
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Orgas",
+        "County":"Boone",
+        "ZipCode":"25148",
+        "Latitude":38.0492,
+        "Longitude":-81.5688
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ottawa",
+        "County":"Boone",
+        "ZipCode":"25149",
+        "Latitude":37.9587,
+        "Longitude":-81.8165
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Peytona",
+        "County":"Boone",
+        "ZipCode":"25154",
+        "Latitude":38.125,
+        "Longitude":-81.7018
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Racine",
+        "County":"Boone",
+        "ZipCode":"25165",
+        "Latitude":38.141,
+        "Longitude":-81.6588
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ridgeview",
+        "County":"Boone",
+        "ZipCode":"25169",
+        "Latitude":38.1486,
+        "Longitude":-81.7725
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Seth",
+        "County":"Boone",
+        "ZipCode":"25181",
+        "Latitude":38.0971,
+        "Longitude":-81.6393
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sylvester",
+        "County":"Boone",
+        "ZipCode":"25193",
+        "Latitude":38.0091,
+        "Longitude":-81.5492
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Turtle Creek",
+        "County":"Boone",
+        "ZipCode":"25203",
+        "Latitude":38.0298,
+        "Longitude":-81.8729
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Twilight",
+        "County":"Boone",
+        "ZipCode":"25204",
+        "Latitude":37.926,
+        "Longitude":-81.6141
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Uneeda",
+        "County":"Boone",
+        "ZipCode":"25205",
+        "Latitude":38.0357,
+        "Longitude":-81.7807
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Van",
+        "County":"Boone",
+        "ZipCode":"25206",
+        "Latitude":37.9712,
+        "Longitude":-81.7022
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wharton",
+        "County":"Boone",
+        "ZipCode":"25208",
+        "Latitude":37.9034,
+        "Longitude":-81.6773
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Whitesville",
+        "County":"Boone",
+        "ZipCode":"25209",
+        "Latitude":37.9916,
+        "Longitude":-81.5422
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Julian",
+        "County":"Boone",
+        "ZipCode":"25529",
+        "Latitude":38.1264,
+        "Longitude":-81.8642
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Burnsville",
+        "County":"Braxton",
+        "ZipCode":"26335",
+        "Latitude":38.7775,
+        "Longitude":-80.657
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sutton",
+        "County":"Braxton",
+        "ZipCode":"26601",
+        "Latitude":38.6541,
+        "Longitude":-80.676
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Copen",
+        "County":"Braxton",
+        "ZipCode":"26615",
+        "Latitude":38.8376,
+        "Longitude":-80.7295
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Exchange",
+        "County":"Braxton",
+        "ZipCode":"26619",
+        "Latitude":38.7358,
+        "Longitude":-80.7324
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Flatwoods",
+        "County":"Braxton",
+        "ZipCode":"26621",
+        "Latitude":38.7232,
+        "Longitude":-80.6498
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Frametown",
+        "County":"Braxton",
+        "ZipCode":"26623",
+        "Latitude":38.6305,
+        "Longitude":-80.8589
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gassaway",
+        "County":"Braxton",
+        "ZipCode":"26624",
+        "Latitude":38.6862,
+        "Longitude":-80.7863
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Heaters",
+        "County":"Braxton",
+        "ZipCode":"26627",
+        "Latitude":38.7621,
+        "Longitude":-80.6406
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Little Birch",
+        "County":"Braxton",
+        "ZipCode":"26629",
+        "Latitude":38.579,
+        "Longitude":-80.7068
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Napier",
+        "County":"Braxton",
+        "ZipCode":"26631",
+        "Latitude":38.7909,
+        "Longitude":-80.5887
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Beech Bottom",
+        "County":"Brooke",
+        "ZipCode":"26030",
+        "Latitude":40.2259,
+        "Longitude":-80.6513
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bethany",
+        "County":"Brooke",
+        "ZipCode":"26032",
+        "Latitude":40.2107,
+        "Longitude":-80.5503
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Colliers",
+        "County":"Brooke",
+        "ZipCode":"26035",
+        "Latitude":40.3484,
+        "Longitude":-80.5493
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Follansbee",
+        "County":"Brooke",
+        "ZipCode":"26037",
+        "Latitude":40.3296,
+        "Longitude":-80.585
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Short Creek",
+        "County":"Brooke",
+        "ZipCode":"26058",
+        "Latitude":40.1856,
+        "Longitude":-80.6745
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wellsburg",
+        "County":"Brooke",
+        "ZipCode":"26070",
+        "Latitude":40.2548,
+        "Longitude":-80.5961
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Windsor Heights",
+        "County":"Brooke",
+        "ZipCode":"26075",
+        "Latitude":40.1927,
+        "Longitude":-80.6659
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Barboursville",
+        "County":"Cabell",
+        "ZipCode":"25504",
+        "Latitude":38.3893,
+        "Longitude":-82.296
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Culloden",
+        "County":"Cabell",
+        "ZipCode":"25510",
+        "Latitude":38.4198,
+        "Longitude":-82.069
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lesage",
+        "County":"Cabell",
+        "ZipCode":"25537",
+        "Latitude":38.477,
+        "Longitude":-82.2957
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Milton",
+        "County":"Cabell",
+        "ZipCode":"25541",
+        "Latitude":38.414,
+        "Longitude":-82.1458
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ona",
+        "County":"Cabell",
+        "ZipCode":"25545",
+        "Latitude":38.4529,
+        "Longitude":-82.2181
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Salt Rock",
+        "County":"Cabell",
+        "ZipCode":"25559",
+        "Latitude":38.3265,
+        "Longitude":-82.247
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25701",
+        "Latitude":38.4097,
+        "Longitude":-82.4423
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25702",
+        "Latitude":38.4286,
+        "Longitude":-82.3911
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25703",
+        "Latitude":38.4211,
+        "Longitude":-82.4227
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25704",
+        "Latitude":38.3849,
+        "Longitude":-82.5036
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25705",
+        "Latitude":38.4096,
+        "Longitude":-82.369
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25706",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25707",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25708",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25710",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25711",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25712",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25713",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25714",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25715",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25716",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25717",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25718",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25719",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25720",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25721",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25722",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25723",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25724",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25725",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25726",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25727",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25728",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25729",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25755",
+        "Latitude":38.4221,
+        "Longitude":-82.4317
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25770",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25771",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25772",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25773",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25774",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25775",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25776",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25777",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25778",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Cabell",
+        "ZipCode":"25779",
+        "Latitude":38.4134,
+        "Longitude":-82.2774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Arnoldsburg",
+        "County":"Calhoun",
+        "ZipCode":"25234",
+        "Latitude":38.8227,
+        "Longitude":-81.1551
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Chloe",
+        "County":"Calhoun",
+        "ZipCode":"25235",
+        "Latitude":38.6686,
+        "Longitude":-81.0944
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Millstone",
+        "County":"Calhoun",
+        "ZipCode":"25261",
+        "Latitude":38.8015,
+        "Longitude":-81.0962
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Orma",
+        "County":"Calhoun",
+        "ZipCode":"25268",
+        "Latitude":38.7481,
+        "Longitude":-81.0998
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Big Bend",
+        "County":"Calhoun",
+        "ZipCode":"26136",
+        "Latitude":38.9719,
+        "Longitude":-81.136
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Big Springs",
+        "County":"Calhoun",
+        "ZipCode":"26137",
+        "Latitude":38.9854,
+        "Longitude":-81.0721
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Grantsville",
+        "County":"Calhoun",
+        "ZipCode":"26147",
+        "Latitude":38.9324,
+        "Longitude":-81.0763
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Zion",
+        "County":"Calhoun",
+        "ZipCode":"26151",
+        "Latitude":38.8286,
+        "Longitude":-81.1322
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bickmore",
+        "County":"Clay",
+        "ZipCode":"25019",
+        "Latitude":38.3729,
+        "Longitude":-81.0868
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bomont",
+        "County":"Clay",
+        "ZipCode":"25030",
+        "Latitude":38.4498,
+        "Longitude":-81.2323
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clay",
+        "County":"Clay",
+        "ZipCode":"25043",
+        "Latitude":38.4764,
+        "Longitude":-81.0696
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Duck",
+        "County":"Clay",
+        "ZipCode":"25063",
+        "Latitude":38.5647,
+        "Longitude":-80.9764
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen",
+        "County":"Clay",
+        "ZipCode":"25088",
+        "Latitude":38.3943,
+        "Longitude":-81.2426
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Indore",
+        "County":"Clay",
+        "ZipCode":"25111",
+        "Latitude":38.3498,
+        "Longitude":-81.1269
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ivydale",
+        "County":"Clay",
+        "ZipCode":"25113",
+        "Latitude":38.5357,
+        "Longitude":-81.0348
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lizemores",
+        "County":"Clay",
+        "ZipCode":"25125",
+        "Latitude":38.3366,
+        "Longitude":-81.1633
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Maysel",
+        "County":"Clay",
+        "ZipCode":"25133",
+        "Latitude":38.4939,
+        "Longitude":-81.1227
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nebo",
+        "County":"Clay",
+        "ZipCode":"25141",
+        "Latitude":38.6271,
+        "Longitude":-81.0257
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Procious",
+        "County":"Clay",
+        "ZipCode":"25164",
+        "Latitude":38.4912,
+        "Longitude":-81.1989
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Widen",
+        "County":"Clay",
+        "ZipCode":"25211",
+        "Latitude":38.4662,
+        "Longitude":-80.8573
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wallback",
+        "County":"Clay",
+        "ZipCode":"25285",
+        "Latitude":38.5432,
+        "Longitude":-81.1114
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dille",
+        "County":"Clay",
+        "ZipCode":"26617",
+        "Latitude":38.489,
+        "Longitude":-80.8257
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Center Point",
+        "County":"Doddridge",
+        "ZipCode":"26339",
+        "Latitude":39.4125,
+        "Longitude":-80.6352
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Milton",
+        "County":"Doddridge",
+        "ZipCode":"26411",
+        "Latitude":39.1899,
+        "Longitude":-80.7076
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Smithburg",
+        "County":"Doddridge",
+        "ZipCode":"26436",
+        "Latitude":39.2893,
+        "Longitude":-80.7343
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"West Union",
+        "County":"Doddridge",
+        "ZipCode":"26456",
+        "Latitude":39.2762,
+        "Longitude":-80.7911
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Alloy",
+        "County":"Fayette",
+        "ZipCode":"25002",
+        "Latitude":38.1376,
+        "Longitude":-81.2743
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Boomer",
+        "County":"Fayette",
+        "ZipCode":"25031",
+        "Latitude":38.1519,
+        "Longitude":-81.2656
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cannelton",
+        "County":"Fayette",
+        "ZipCode":"25036",
+        "Latitude":38.1943,
+        "Longitude":-81.2959
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charlton Heights",
+        "County":"Fayette",
+        "ZipCode":"25040",
+        "Latitude":38.1237,
+        "Longitude":-81.234
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Deep Water",
+        "County":"Fayette",
+        "ZipCode":"25057",
+        "Latitude":38.1268,
+        "Longitude":-81.2637
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gauley Bridge",
+        "County":"Fayette",
+        "ZipCode":"25085",
+        "Latitude":38.1689,
+        "Longitude":-81.196
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Ferris",
+        "County":"Fayette",
+        "ZipCode":"25090",
+        "Latitude":38.1532,
+        "Longitude":-81.2148
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kanawha Falls",
+        "County":"Fayette",
+        "ZipCode":"25115",
+        "Latitude":38.1426,
+        "Longitude":-81.2065
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kimberly",
+        "County":"Fayette",
+        "ZipCode":"25118",
+        "Latitude":38.1249,
+        "Longitude":-81.3217
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kincaid",
+        "County":"Fayette",
+        "ZipCode":"25119",
+        "Latitude":38.0407,
+        "Longitude":-81.2701
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Montgomery",
+        "County":"Fayette",
+        "ZipCode":"25136",
+        "Latitude":38.1725,
+        "Longitude":-81.3222
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Carbon",
+        "County":"Fayette",
+        "ZipCode":"25139",
+        "Latitude":38.1399,
+        "Longitude":-81.2931
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Page",
+        "County":"Fayette",
+        "ZipCode":"25152",
+        "Latitude":38.0529,
+        "Longitude":-81.2698
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Powellton",
+        "County":"Fayette",
+        "ZipCode":"25161",
+        "Latitude":38.099,
+        "Longitude":-81.324
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Robson",
+        "County":"Fayette",
+        "ZipCode":"25173",
+        "Latitude":38.0973,
+        "Longitude":-81.2488
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Olive",
+        "County":"Fayette",
+        "ZipCode":"25185",
+        "Latitude":38.2379,
+        "Longitude":-81.2334
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Smithers",
+        "County":"Fayette",
+        "ZipCode":"25186",
+        "Latitude":38.1812,
+        "Longitude":-81.3071
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ansted",
+        "County":"Fayette",
+        "ZipCode":"25812",
+        "Latitude":38.1369,
+        "Longitude":-81.0955
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Danese",
+        "County":"Fayette",
+        "ZipCode":"25831",
+        "Latitude":37.9567,
+        "Longitude":-80.9379
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dothan",
+        "County":"Fayette",
+        "ZipCode":"25833",
+        "Latitude":38.0413,
+        "Longitude":-81.0648
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Edmond",
+        "County":"Fayette",
+        "ZipCode":"25837",
+        "Latitude":38.0544,
+        "Longitude":-81.0326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fayetteville",
+        "County":"Fayette",
+        "ZipCode":"25840",
+        "Latitude":38.064,
+        "Longitude":-81.0943
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Jean",
+        "County":"Fayette",
+        "ZipCode":"25846",
+        "Latitude":37.9265,
+        "Longitude":-81.1501
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hico",
+        "County":"Fayette",
+        "ZipCode":"25854",
+        "Latitude":38.1094,
+        "Longitude":-80.9638
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hilltop",
+        "County":"Fayette",
+        "ZipCode":"25855",
+        "Latitude":37.9429,
+        "Longitude":-81.1509
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lansing",
+        "County":"Fayette",
+        "ZipCode":"25862",
+        "Latitude":38.0869,
+        "Longitude":-81.0588
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Layland",
+        "County":"Fayette",
+        "ZipCode":"25864",
+        "Latitude":37.8893,
+        "Longitude":-80.9712
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lochgelly",
+        "County":"Fayette",
+        "ZipCode":"25866",
+        "Latitude":38.0107,
+        "Longitude":-81.1451
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lookout",
+        "County":"Fayette",
+        "ZipCode":"25868",
+        "Latitude":38.0654,
+        "Longitude":-80.9684
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Minden",
+        "County":"Fayette",
+        "ZipCode":"25879",
+        "Latitude":37.9758,
+        "Longitude":-81.115
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Hope",
+        "County":"Fayette",
+        "ZipCode":"25880",
+        "Latitude":37.8782,
+        "Longitude":-81.2058
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Hope",
+        "County":"Fayette",
+        "ZipCode":"25888",
+        "Latitude":37.893,
+        "Longitude":-81.1668
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Oak Hill",
+        "County":"Fayette",
+        "ZipCode":"25901",
+        "Latitude":37.9723,
+        "Longitude":-81.1487
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pax",
+        "County":"Fayette",
+        "ZipCode":"25904",
+        "Latitude":37.911,
+        "Longitude":-81.2648
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Prince",
+        "County":"Fayette",
+        "ZipCode":"25907",
+        "Latitude":37.8532,
+        "Longitude":-81.0817
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Scarbro",
+        "County":"Fayette",
+        "ZipCode":"25917",
+        "Latitude":37.9488,
+        "Longitude":-81.1531
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Thurmond",
+        "County":"Fayette",
+        "ZipCode":"25936",
+        "Latitude":37.9554,
+        "Longitude":-81.0714
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Victor",
+        "County":"Fayette",
+        "ZipCode":"25938",
+        "Latitude":38.1402,
+        "Longitude":-81.0322
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Winona",
+        "County":"Fayette",
+        "ZipCode":"25942",
+        "Latitude":38.0465,
+        "Longitude":-80.9923
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Meadow Bridge",
+        "County":"Fayette",
+        "ZipCode":"25976",
+        "Latitude":37.878,
+        "Longitude":-80.8521
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Spring Dale",
+        "County":"Fayette",
+        "ZipCode":"25986",
+        "Latitude":37.8798,
+        "Longitude":-80.8034
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nallen",
+        "County":"Fayette",
+        "ZipCode":"26680",
+        "Latitude":38.1107,
+        "Longitude":-80.877
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Normantown",
+        "County":"Gilmer",
+        "ZipCode":"25267",
+        "Latitude":38.8802,
+        "Longitude":-80.9419
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Coxs Mills",
+        "County":"Gilmer",
+        "ZipCode":"26342",
+        "Latitude":39.0301,
+        "Longitude":-80.8498
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glenville",
+        "County":"Gilmer",
+        "ZipCode":"26351",
+        "Latitude":38.9409,
+        "Longitude":-80.8313
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Linn",
+        "County":"Gilmer",
+        "ZipCode":"26384",
+        "Latitude":38.9573,
+        "Longitude":-80.73
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sand Fork",
+        "County":"Gilmer",
+        "ZipCode":"26430",
+        "Latitude":38.914,
+        "Longitude":-80.7498
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Troy",
+        "County":"Gilmer",
+        "ZipCode":"26443",
+        "Latitude":39.0839,
+        "Longitude":-80.7549
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cedarville",
+        "County":"Gilmer",
+        "ZipCode":"26611",
+        "Latitude":38.8451,
+        "Longitude":-80.8323
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rosedale",
+        "County":"Gilmer",
+        "ZipCode":"26636",
+        "Latitude":38.7393,
+        "Longitude":-80.9429
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shock",
+        "County":"Gilmer",
+        "ZipCode":"26638",
+        "Latitude":38.7617,
+        "Longitude":-81.0045
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bayard",
+        "County":"Grant",
+        "ZipCode":"26707",
+        "Latitude":39.2729,
+        "Longitude":-79.3645
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gormania",
+        "County":"Grant",
+        "ZipCode":"26720",
+        "Latitude":39.2803,
+        "Longitude":-79.3296
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lahmansville",
+        "County":"Grant",
+        "ZipCode":"26731",
+        "Latitude":39.1642,
+        "Longitude":-79.0433
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Storm",
+        "County":"Grant",
+        "ZipCode":"26739",
+        "Latitude":39.2652,
+        "Longitude":-79.2255
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Maysville",
+        "County":"Grant",
+        "ZipCode":"26833",
+        "Latitude":39.0712,
+        "Longitude":-79.1937
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Petersburg",
+        "County":"Grant",
+        "ZipCode":"26847",
+        "Latitude":38.9908,
+        "Longitude":-79.1293
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cabins",
+        "County":"Grant",
+        "ZipCode":"26855",
+        "Latitude":38.9512,
+        "Longitude":-79.2783
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lewisburg",
+        "County":"Greenbrier",
+        "ZipCode":"24901",
+        "Latitude":37.8083,
+        "Longitude":-80.4407
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fairlea",
+        "County":"Greenbrier",
+        "ZipCode":"24902",
+        "Latitude":37.7747,
+        "Longitude":-80.4615
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Alderson",
+        "County":"Greenbrier",
+        "ZipCode":"24910",
+        "Latitude":37.7371,
+        "Longitude":-80.661
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Asbury",
+        "County":"Greenbrier",
+        "ZipCode":"24916",
+        "Latitude":37.8313,
+        "Longitude":-80.5747
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Caldwell",
+        "County":"Greenbrier",
+        "ZipCode":"24925",
+        "Latitude":37.7807,
+        "Longitude":-80.394
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Crawley",
+        "County":"Greenbrier",
+        "ZipCode":"24931",
+        "Latitude":37.9397,
+        "Longitude":-80.6309
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Frankford",
+        "County":"Greenbrier",
+        "ZipCode":"24938",
+        "Latitude":37.9154,
+        "Longitude":-80.3353
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Grassy Meadows",
+        "County":"Greenbrier",
+        "ZipCode":"24943",
+        "Latitude":37.8268,
+        "Longitude":-80.7209
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Maxwelton",
+        "County":"Greenbrier",
+        "ZipCode":"24957",
+        "Latitude":37.8765,
+        "Longitude":-80.4192
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Renick",
+        "County":"Greenbrier",
+        "ZipCode":"24966",
+        "Latitude":37.9922,
+        "Longitude":-80.3653
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ronceverte",
+        "County":"Greenbrier",
+        "ZipCode":"24970",
+        "Latitude":37.7418,
+        "Longitude":-80.4626
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Smoot",
+        "County":"Greenbrier",
+        "ZipCode":"24977",
+        "Latitude":37.8772,
+        "Longitude":-80.668
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"White Sulphur Springs",
+        "County":"Greenbrier",
+        "ZipCode":"24986",
+        "Latitude":37.7827,
+        "Longitude":-80.3129
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Williamsburg",
+        "County":"Greenbrier",
+        "ZipCode":"24991",
+        "Latitude":37.9701,
+        "Longitude":-80.4923
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charmco",
+        "County":"Greenbrier",
+        "ZipCode":"25958",
+        "Latitude":38.0023,
+        "Longitude":-80.737
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rainelle",
+        "County":"Greenbrier",
+        "ZipCode":"25962",
+        "Latitude":37.9661,
+        "Longitude":-80.7821
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Leslie",
+        "County":"Greenbrier",
+        "ZipCode":"25972",
+        "Latitude":38.0446,
+        "Longitude":-80.7229
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Quinwood",
+        "County":"Greenbrier",
+        "ZipCode":"25981",
+        "Latitude":38.0576,
+        "Longitude":-80.7068
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rupert",
+        "County":"Greenbrier",
+        "ZipCode":"25984",
+        "Latitude":37.9685,
+        "Longitude":-80.6696
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Levels",
+        "County":"Hampshire",
+        "ZipCode":"25431",
+        "Latitude":39.4976,
+        "Longitude":-78.5508
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Points",
+        "County":"Hampshire",
+        "ZipCode":"25437",
+        "Latitude":39.4401,
+        "Longitude":-78.6103
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Slanesville",
+        "County":"Hampshire",
+        "ZipCode":"25444",
+        "Latitude":39.3732,
+        "Longitude":-78.5228
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Augusta",
+        "County":"Hampshire",
+        "ZipCode":"26704",
+        "Latitude":39.2998,
+        "Longitude":-78.5931
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Capon Bridge",
+        "County":"Hampshire",
+        "ZipCode":"26711",
+        "Latitude":39.2802,
+        "Longitude":-78.4644
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Delray",
+        "County":"Hampshire",
+        "ZipCode":"26714",
+        "Latitude":39.1945,
+        "Longitude":-78.6042
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Green Spring",
+        "County":"Hampshire",
+        "ZipCode":"26722",
+        "Latitude":39.5029,
+        "Longitude":-78.6272
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rio",
+        "County":"Hampshire",
+        "ZipCode":"26755",
+        "Latitude":39.1847,
+        "Longitude":-78.727
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Romney",
+        "County":"Hampshire",
+        "ZipCode":"26757",
+        "Latitude":39.3424,
+        "Longitude":-78.7481
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shanks",
+        "County":"Hampshire",
+        "ZipCode":"26761",
+        "Latitude":39.2849,
+        "Longitude":-78.6995
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Springfield",
+        "County":"Hampshire",
+        "ZipCode":"26763",
+        "Latitude":39.463,
+        "Longitude":-78.695
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"High View",
+        "County":"Hampshire",
+        "ZipCode":"26808",
+        "Latitude":39.2225,
+        "Longitude":-78.4425
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bloomery",
+        "County":"Hampshire",
+        "ZipCode":"26817",
+        "Latitude":39.3604,
+        "Longitude":-78.3917
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Capon Springs",
+        "County":"Hampshire",
+        "ZipCode":"26823",
+        "Latitude":39.1362,
+        "Longitude":-78.4845
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Purgitsville",
+        "County":"Hampshire",
+        "ZipCode":"26852",
+        "Latitude":39.2681,
+        "Longitude":-78.906
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Yellow Spring",
+        "County":"Hampshire",
+        "ZipCode":"26865",
+        "Latitude":39.1823,
+        "Longitude":-78.5095
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Chester",
+        "County":"Hancock",
+        "ZipCode":"26034",
+        "Latitude":40.5981,
+        "Longitude":-80.5584
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Cumberland",
+        "County":"Hancock",
+        "ZipCode":"26047",
+        "Latitude":40.5228,
+        "Longitude":-80.5901
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Newell",
+        "County":"Hancock",
+        "ZipCode":"26050",
+        "Latitude":40.614,
+        "Longitude":-80.6011
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Manchester",
+        "County":"Hancock",
+        "ZipCode":"26056",
+        "Latitude":40.5315,
+        "Longitude":-80.5801
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Weirton",
+        "County":"Hancock",
+        "ZipCode":"26062",
+        "Latitude":40.4137,
+        "Longitude":-80.5683
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Baker",
+        "County":"Hardy",
+        "ZipCode":"26801",
+        "Latitude":39.0656,
+        "Longitude":-78.7748
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lost City",
+        "County":"Hardy",
+        "ZipCode":"26810",
+        "Latitude":38.9812,
+        "Longitude":-78.7448
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mathias",
+        "County":"Hardy",
+        "ZipCode":"26812",
+        "Latitude":38.8744,
+        "Longitude":-78.8814
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fisher",
+        "County":"Hardy",
+        "ZipCode":"26818",
+        "Latitude":39.075,
+        "Longitude":-79.0342
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Moorefield",
+        "County":"Hardy",
+        "ZipCode":"26836",
+        "Latitude":38.9907,
+        "Longitude":-78.9745
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Milam",
+        "County":"Hardy",
+        "ZipCode":"26838",
+        "Latitude":38.8125,
+        "Longitude":-79.0729
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Old Fields",
+        "County":"Hardy",
+        "ZipCode":"26845",
+        "Latitude":39.1502,
+        "Longitude":-78.9509
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wardensville",
+        "County":"Hardy",
+        "ZipCode":"26851",
+        "Latitude":39.0562,
+        "Longitude":-78.6175
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clarksburg",
+        "County":"Harrison",
+        "ZipCode":"26301",
+        "Latitude":39.2874,
+        "Longitude":-80.3419
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clarksburg",
+        "County":"Harrison",
+        "ZipCode":"26302",
+        "Latitude":39.2677,
+        "Longitude":-80.3077
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clarksburg",
+        "County":"Harrison",
+        "ZipCode":"26306",
+        "Latitude":39.2852,
+        "Longitude":-80.3853
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Anmoore",
+        "County":"Harrison",
+        "ZipCode":"26323",
+        "Latitude":39.2587,
+        "Longitude":-80.2875
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bridgeport",
+        "County":"Harrison",
+        "ZipCode":"26330",
+        "Latitude":39.2954,
+        "Longitude":-80.2427
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gypsy",
+        "County":"Harrison",
+        "ZipCode":"26361",
+        "Latitude":39.3687,
+        "Longitude":-80.3179
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Haywood",
+        "County":"Harrison",
+        "ZipCode":"26366",
+        "Latitude":39.3812,
+        "Longitude":-80.3359
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hepzibah",
+        "County":"Harrison",
+        "ZipCode":"26369",
+        "Latitude":39.3312,
+        "Longitude":-80.3325
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lost Creek",
+        "County":"Harrison",
+        "ZipCode":"26385",
+        "Latitude":39.1725,
+        "Longitude":-80.3777
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lumberport",
+        "County":"Harrison",
+        "ZipCode":"26386",
+        "Latitude":39.3781,
+        "Longitude":-80.3676
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Meadowbrook",
+        "County":"Harrison",
+        "ZipCode":"26404",
+        "Latitude":39.3518,
+        "Longitude":-80.3187
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Clare",
+        "County":"Harrison",
+        "ZipCode":"26408",
+        "Latitude":39.2107,
+        "Longitude":-80.2899
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Reynoldsville",
+        "County":"Harrison",
+        "ZipCode":"26422",
+        "Latitude":39.2884,
+        "Longitude":-80.4348
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Salem",
+        "County":"Harrison",
+        "ZipCode":"26426",
+        "Latitude":39.2829,
+        "Longitude":-80.559
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shinnston",
+        "County":"Harrison",
+        "ZipCode":"26431",
+        "Latitude":39.3888,
+        "Longitude":-80.2834
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Spelter",
+        "County":"Harrison",
+        "ZipCode":"26438",
+        "Latitude":39.3465,
+        "Longitude":-80.3206
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wallace",
+        "County":"Harrison",
+        "ZipCode":"26448",
+        "Latitude":39.4117,
+        "Longitude":-80.4865
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"West Milford",
+        "County":"Harrison",
+        "ZipCode":"26451",
+        "Latitude":39.1996,
+        "Longitude":-80.4026
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wyatt",
+        "County":"Harrison",
+        "ZipCode":"26463",
+        "Latitude":39.4351,
+        "Longitude":-80.3534
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Enterprise",
+        "County":"Harrison",
+        "ZipCode":"26568",
+        "Latitude":39.4209,
+        "Longitude":-80.2779
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Advent",
+        "County":"Jackson",
+        "ZipCode":"25231",
+        "Latitude":38.6104,
+        "Longitude":-81.5587
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cottageville",
+        "County":"Jackson",
+        "ZipCode":"25239",
+        "Latitude":38.8633,
+        "Longitude":-81.8186
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Evans",
+        "County":"Jackson",
+        "ZipCode":"25241",
+        "Latitude":38.8113,
+        "Longitude":-81.7909
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gay",
+        "County":"Jackson",
+        "ZipCode":"25244",
+        "Latitude":38.7706,
+        "Longitude":-81.5532
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Given",
+        "County":"Jackson",
+        "ZipCode":"25245",
+        "Latitude":38.707,
+        "Longitude":-81.7223
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kenna",
+        "County":"Jackson",
+        "ZipCode":"25248",
+        "Latitude":38.6232,
+        "Longitude":-81.6217
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Le Roy",
+        "County":"Jackson",
+        "ZipCode":"25252",
+        "Latitude":38.8888,
+        "Longitude":-81.5326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Millwood",
+        "County":"Jackson",
+        "ZipCode":"25262",
+        "Latitude":38.8962,
+        "Longitude":-81.8248
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Alto",
+        "County":"Jackson",
+        "ZipCode":"25264",
+        "Latitude":38.8639,
+        "Longitude":-81.8784
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ripley",
+        "County":"Jackson",
+        "ZipCode":"25271",
+        "Latitude":38.809,
+        "Longitude":-81.702
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sandyville",
+        "County":"Jackson",
+        "ZipCode":"25275",
+        "Latitude":38.9093,
+        "Longitude":-81.6543
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ravenswood",
+        "County":"Jackson",
+        "ZipCode":"26164",
+        "Latitude":38.9468,
+        "Longitude":-81.7524
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bakerton",
+        "County":"Jefferson",
+        "ZipCode":"25410",
+        "Latitude":39.3159,
+        "Longitude":-77.8772
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charles Town",
+        "County":"Jefferson",
+        "ZipCode":"25414",
+        "Latitude":39.2771,
+        "Longitude":-77.8563
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Halltown",
+        "County":"Jefferson",
+        "ZipCode":"25423",
+        "Latitude":39.314,
+        "Longitude":-77.7978
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Harpers Ferry",
+        "County":"Jefferson",
+        "ZipCode":"25425",
+        "Latitude":39.3153,
+        "Longitude":-77.7694
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kearneysville",
+        "County":"Jefferson",
+        "ZipCode":"25430",
+        "Latitude":39.322,
+        "Longitude":-77.9588
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Millville",
+        "County":"Jefferson",
+        "ZipCode":"25432",
+        "Latitude":39.294,
+        "Longitude":-77.7858
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ranson",
+        "County":"Jefferson",
+        "ZipCode":"25438",
+        "Latitude":39.2995,
+        "Longitude":-77.8606
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rippon",
+        "County":"Jefferson",
+        "ZipCode":"25441",
+        "Latitude":39.3159,
+        "Longitude":-77.8772
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shenandoah Junction",
+        "County":"Jefferson",
+        "ZipCode":"25442",
+        "Latitude":39.3716,
+        "Longitude":-77.8229
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shepherdstown",
+        "County":"Jefferson",
+        "ZipCode":"25443",
+        "Latitude":39.4311,
+        "Longitude":-77.8158
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Summit Point",
+        "County":"Jefferson",
+        "ZipCode":"25446",
+        "Latitude":39.2338,
+        "Longitude":-77.9586
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Alum Creek",
+        "County":"Kanawha",
+        "ZipCode":"25003",
+        "Latitude":38.2868,
+        "Longitude":-81.8051
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Belle",
+        "County":"Kanawha",
+        "ZipCode":"25015",
+        "Latitude":38.2324,
+        "Longitude":-81.5024
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Blount",
+        "County":"Kanawha",
+        "ZipCode":"25025",
+        "Latitude":38.3121,
+        "Longitude":-81.4052
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Blue Creek",
+        "County":"Kanawha",
+        "ZipCode":"25026",
+        "Latitude":38.4908,
+        "Longitude":-81.3928
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cabin Creek",
+        "County":"Kanawha",
+        "ZipCode":"25035",
+        "Latitude":38.193,
+        "Longitude":-81.4984
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cedar Grove",
+        "County":"Kanawha",
+        "ZipCode":"25039",
+        "Latitude":38.2212,
+        "Longitude":-81.4279
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clendenin",
+        "County":"Kanawha",
+        "ZipCode":"25045",
+        "Latitude":38.4539,
+        "Longitude":-81.3572
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dawes",
+        "County":"Kanawha",
+        "ZipCode":"25054",
+        "Latitude":38.1429,
+        "Longitude":-81.4521
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Drybranch",
+        "County":"Kanawha",
+        "ZipCode":"25061",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dunbar",
+        "County":"Kanawha",
+        "ZipCode":"25064",
+        "Latitude":38.3683,
+        "Longitude":-81.7425
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"East Bank",
+        "County":"Kanawha",
+        "ZipCode":"25067",
+        "Latitude":38.2099,
+        "Longitude":-81.4381
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Elkview",
+        "County":"Kanawha",
+        "ZipCode":"25071",
+        "Latitude":38.4429,
+        "Longitude":-81.4804
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Eskdale",
+        "County":"Kanawha",
+        "ZipCode":"25075",
+        "Latitude":38.0505,
+        "Longitude":-81.4227
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Falling Rock",
+        "County":"Kanawha",
+        "ZipCode":"25079",
+        "Latitude":38.4951,
+        "Longitude":-81.3984
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gallagher",
+        "County":"Kanawha",
+        "ZipCode":"25083",
+        "Latitude":38.0704,
+        "Longitude":-81.3625
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glasgow",
+        "County":"Kanawha",
+        "ZipCode":"25086",
+        "Latitude":38.2154,
+        "Longitude":-81.4246
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Handley",
+        "County":"Kanawha",
+        "ZipCode":"25102",
+        "Latitude":38.1879,
+        "Longitude":-81.3657
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hansford",
+        "County":"Kanawha",
+        "ZipCode":"25103",
+        "Latitude":38.207,
+        "Longitude":-81.3929
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hernshaw",
+        "County":"Kanawha",
+        "ZipCode":"25107",
+        "Latitude":38.1942,
+        "Longitude":-81.613
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hugheston",
+        "County":"Kanawha",
+        "ZipCode":"25110",
+        "Latitude":38.2095,
+        "Longitude":-81.3726
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Institute",
+        "County":"Kanawha",
+        "ZipCode":"25112",
+        "Latitude":38.3837,
+        "Longitude":-81.7654
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"London",
+        "County":"Kanawha",
+        "ZipCode":"25126",
+        "Latitude":38.196,
+        "Longitude":-81.3714
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mammoth",
+        "County":"Kanawha",
+        "ZipCode":"25132",
+        "Latitude":38.2634,
+        "Longitude":-81.3721
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Miami",
+        "County":"Kanawha",
+        "ZipCode":"25134",
+        "Latitude":38.1523,
+        "Longitude":-81.4479
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nitro",
+        "County":"Kanawha",
+        "ZipCode":"25143",
+        "Latitude":38.4193,
+        "Longitude":-81.8293
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pinch",
+        "County":"Kanawha",
+        "ZipCode":"25156",
+        "Latitude":38.402,
+        "Longitude":-81.4611
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pond Gap",
+        "County":"Kanawha",
+        "ZipCode":"25160",
+        "Latitude":38.2904,
+        "Longitude":-81.2866
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pratt",
+        "County":"Kanawha",
+        "ZipCode":"25162",
+        "Latitude":38.2101,
+        "Longitude":-81.3851
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Saint Albans",
+        "County":"Kanawha",
+        "ZipCode":"25177",
+        "Latitude":38.3774,
+        "Longitude":-81.8305
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Tad",
+        "County":"Kanawha",
+        "ZipCode":"25201",
+        "Latitude":38.3334,
+        "Longitude":-81.4943
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Tornado",
+        "County":"Kanawha",
+        "ZipCode":"25202",
+        "Latitude":38.3357,
+        "Longitude":-81.8476
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Winifrede",
+        "County":"Kanawha",
+        "ZipCode":"25214",
+        "Latitude":38.1852,
+        "Longitude":-81.5587
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25301",
+        "Latitude":38.349,
+        "Longitude":-81.6306
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25302",
+        "Latitude":38.4015,
+        "Longitude":-81.5841
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"South Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25303",
+        "Latitude":38.3684,
+        "Longitude":-81.6996
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25304",
+        "Latitude":38.3173,
+        "Longitude":-81.5903
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25305",
+        "Latitude":38.3358,
+        "Longitude":-81.6123
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25306",
+        "Latitude":38.3175,
+        "Longitude":-81.5274
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"South Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25309",
+        "Latitude":38.3684,
+        "Longitude":-81.6996
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25311",
+        "Latitude":38.349,
+        "Longitude":-81.5993
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25312",
+        "Latitude":38.4096,
+        "Longitude":-81.6747
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25313",
+        "Latitude":38.4142,
+        "Longitude":-81.7582
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25314",
+        "Latitude":38.3274,
+        "Longitude":-81.669
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25315",
+        "Latitude":38.2351,
+        "Longitude":-81.5536
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25317",
+        "Latitude":38.3356,
+        "Longitude":-81.6138
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25320",
+        "Latitude":38.5428,
+        "Longitude":-81.6334
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25321",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25322",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25323",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25324",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25325",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25326",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25327",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25328",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25329",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25330",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25331",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25332",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25333",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25334",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25335",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25336",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25337",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25338",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25339",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25350",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25356",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25357",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25358",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25360",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25361",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25362",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25364",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25365",
+        "Latitude":38.2968,
+        "Longitude":-81.5547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25375",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25387",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25389",
+        "Latitude":38.354,
+        "Longitude":-81.6394
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25392",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Charleston",
+        "County":"Kanawha",
+        "ZipCode":"25396",
+        "Latitude":38.3498,
+        "Longitude":-81.6326
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Alum Bridge",
+        "County":"Lewis",
+        "ZipCode":"26321",
+        "Latitude":39.0425,
+        "Longitude":-80.6882
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Camden",
+        "County":"Lewis",
+        "ZipCode":"26338",
+        "Latitude":39.0893,
+        "Longitude":-80.5915
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Crawford",
+        "County":"Lewis",
+        "ZipCode":"26343",
+        "Latitude":38.872,
+        "Longitude":-80.4368
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Horner",
+        "County":"Lewis",
+        "ZipCode":"26372",
+        "Latitude":38.9726,
+        "Longitude":-80.3656
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ireland",
+        "County":"Lewis",
+        "ZipCode":"26376",
+        "Latitude":38.7763,
+        "Longitude":-80.4567
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jane Lew",
+        "County":"Lewis",
+        "ZipCode":"26378",
+        "Latitude":39.11,
+        "Longitude":-80.4311
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Orlando",
+        "County":"Lewis",
+        "ZipCode":"26412",
+        "Latitude":38.8712,
+        "Longitude":-80.5937
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Walkersville",
+        "County":"Lewis",
+        "ZipCode":"26447",
+        "Latitude":38.8507,
+        "Longitude":-80.4802
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Weston",
+        "County":"Lewis",
+        "ZipCode":"26452",
+        "Latitude":39.0411,
+        "Longitude":-80.4737
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Alkol",
+        "County":"Lincoln",
+        "ZipCode":"25501",
+        "Latitude":38.1609,
+        "Longitude":-81.984
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Branchland",
+        "County":"Lincoln",
+        "ZipCode":"25506",
+        "Latitude":38.2694,
+        "Longitude":-82.2684
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Griffithsville",
+        "County":"Lincoln",
+        "ZipCode":"25521",
+        "Latitude":38.2197,
+        "Longitude":-81.9995
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hamlin",
+        "County":"Lincoln",
+        "ZipCode":"25523",
+        "Latitude":38.2896,
+        "Longitude":-82.1047
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Harts",
+        "County":"Lincoln",
+        "ZipCode":"25524",
+        "Latitude":38.0341,
+        "Longitude":-82.1008
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Midkiff",
+        "County":"Lincoln",
+        "ZipCode":"25540",
+        "Latitude":38.1762,
+        "Longitude":-82.1788
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Myra",
+        "County":"Lincoln",
+        "ZipCode":"25544",
+        "Latitude":38.2198,
+        "Longitude":-82.1351
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ranger",
+        "County":"Lincoln",
+        "ZipCode":"25557",
+        "Latitude":38.097,
+        "Longitude":-82.1633
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sod",
+        "County":"Lincoln",
+        "ZipCode":"25564",
+        "Latitude":38.2559,
+        "Longitude":-81.891
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Spurlockville",
+        "County":"Lincoln",
+        "ZipCode":"25565",
+        "Latitude":38.1057,
+        "Longitude":-82.0272
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sumerco",
+        "County":"Lincoln",
+        "ZipCode":"25567",
+        "Latitude":38.2312,
+        "Longitude":-81.9115
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"West Hamlin",
+        "County":"Lincoln",
+        "ZipCode":"25571",
+        "Latitude":38.2886,
+        "Longitude":-82.1843
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Woodville",
+        "County":"Lincoln",
+        "ZipCode":"25572",
+        "Latitude":38.1615,
+        "Longitude":-81.8921
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Yawkey",
+        "County":"Lincoln",
+        "ZipCode":"25573",
+        "Latitude":38.2193,
+        "Longitude":-81.9568
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Blair",
+        "County":"Logan",
+        "ZipCode":"25022",
+        "Latitude":37.8784,
+        "Longitude":-81.8279
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clothier",
+        "County":"Logan",
+        "ZipCode":"25047",
+        "Latitude":37.9468,
+        "Longitude":-81.8104
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ethel",
+        "County":"Logan",
+        "ZipCode":"25076",
+        "Latitude":37.8665,
+        "Longitude":-81.9123
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lake",
+        "County":"Logan",
+        "ZipCode":"25121",
+        "Latitude":37.9204,
+        "Longitude":-81.9034
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sharples",
+        "County":"Logan",
+        "ZipCode":"25183",
+        "Latitude":37.9204,
+        "Longitude":-81.8293
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Big Creek",
+        "County":"Logan",
+        "ZipCode":"25505",
+        "Latitude":38.0043,
+        "Longitude":-82.0401
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Chapmanville",
+        "County":"Logan",
+        "ZipCode":"25508",
+        "Latitude":37.9737,
+        "Longitude":-82.0174
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pecks Mill",
+        "County":"Logan",
+        "ZipCode":"25547",
+        "Latitude":37.9298,
+        "Longitude":-81.9654
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Logan",
+        "County":"Logan",
+        "ZipCode":"25601",
+        "Latitude":37.8487,
+        "Longitude":-81.9935
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Accoville",
+        "County":"Logan",
+        "ZipCode":"25606",
+        "Latitude":37.7687,
+        "Longitude":-81.8371
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Amherstdale",
+        "County":"Logan",
+        "ZipCode":"25607",
+        "Latitude":37.7959,
+        "Longitude":-81.7833
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bruno",
+        "County":"Logan",
+        "ZipCode":"25611",
+        "Latitude":37.6907,
+        "Longitude":-81.869
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Chauncey",
+        "County":"Logan",
+        "ZipCode":"25612",
+        "Latitude":37.7662,
+        "Longitude":-81.9876
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cora",
+        "County":"Logan",
+        "ZipCode":"25614",
+        "Latitude":37.8332,
+        "Longitude":-81.9024
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Davin",
+        "County":"Logan",
+        "ZipCode":"25617",
+        "Latitude":37.7265,
+        "Longitude":-81.8057
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Henlawson",
+        "County":"Logan",
+        "ZipCode":"25624",
+        "Latitude":37.9023,
+        "Longitude":-81.9882
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Holden",
+        "County":"Logan",
+        "ZipCode":"25625",
+        "Latitude":37.83,
+        "Longitude":-82.0585
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kistler",
+        "County":"Logan",
+        "ZipCode":"25628",
+        "Latitude":37.7562,
+        "Longitude":-81.8601
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lorado",
+        "County":"Logan",
+        "ZipCode":"25630",
+        "Latitude":37.7957,
+        "Longitude":-81.7148
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lyburn",
+        "County":"Logan",
+        "ZipCode":"25632",
+        "Latitude":37.7656,
+        "Longitude":-81.9217
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mallory",
+        "County":"Logan",
+        "ZipCode":"25634",
+        "Latitude":37.7307,
+        "Longitude":-81.8379
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Man",
+        "County":"Logan",
+        "ZipCode":"25635",
+        "Latitude":37.7357,
+        "Longitude":-81.8754
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Gay",
+        "County":"Logan",
+        "ZipCode":"25637",
+        "Latitude":37.8415,
+        "Longitude":-82.0087
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Omar",
+        "County":"Logan",
+        "ZipCode":"25638",
+        "Latitude":37.7557,
+        "Longitude":-81.9996
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Peach Creek",
+        "County":"Logan",
+        "ZipCode":"25639",
+        "Latitude":37.8752,
+        "Longitude":-81.9826
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sarah Ann",
+        "County":"Logan",
+        "ZipCode":"25644",
+        "Latitude":37.7112,
+        "Longitude":-81.9873
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Stollings",
+        "County":"Logan",
+        "ZipCode":"25646",
+        "Latitude":37.8303,
+        "Longitude":-81.9639
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Switzer",
+        "County":"Logan",
+        "ZipCode":"25647",
+        "Latitude":37.7846,
+        "Longitude":-81.9908
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Verdunville",
+        "County":"Logan",
+        "ZipCode":"25649",
+        "Latitude":37.8445,
+        "Longitude":-82.0551
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Whitman",
+        "County":"Logan",
+        "ZipCode":"25652",
+        "Latitude":37.8035,
+        "Longitude":-82.0466
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wilkinson",
+        "County":"Logan",
+        "ZipCode":"25653",
+        "Latitude":37.8279,
+        "Longitude":-81.9976
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Yolyn",
+        "County":"Logan",
+        "ZipCode":"25654",
+        "Latitude":37.7818,
+        "Longitude":-81.892
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Welch",
+        "County":"McDowell",
+        "ZipCode":"24801",
+        "Latitude":37.4329,
+        "Longitude":-81.5846
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Anawalt",
+        "County":"McDowell",
+        "ZipCode":"24808",
+        "Latitude":37.3362,
+        "Longitude":-81.4151
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Avondale",
+        "County":"McDowell",
+        "ZipCode":"24811",
+        "Latitude":37.4126,
+        "Longitude":-81.7843
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bartley",
+        "County":"McDowell",
+        "ZipCode":"24813",
+        "Latitude":37.3407,
+        "Longitude":-81.7376
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Berwind",
+        "County":"McDowell",
+        "ZipCode":"24815",
+        "Latitude":37.2687,
+        "Longitude":-81.6668
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Big Sandy",
+        "County":"McDowell",
+        "ZipCode":"24816",
+        "Latitude":37.4643,
+        "Longitude":-81.6982
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bradshaw",
+        "County":"McDowell",
+        "ZipCode":"24817",
+        "Latitude":37.3518,
+        "Longitude":-81.7987
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cucumber",
+        "County":"McDowell",
+        "ZipCode":"24826",
+        "Latitude":37.2779,
+        "Longitude":-81.6268
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Davy",
+        "County":"McDowell",
+        "ZipCode":"24828",
+        "Latitude":37.4784,
+        "Longitude":-81.6534
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Eckman",
+        "County":"McDowell",
+        "ZipCode":"24829",
+        "Latitude":37.3752,
+        "Longitude":-81.6539
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Elbert",
+        "County":"McDowell",
+        "ZipCode":"24830",
+        "Latitude":37.3354,
+        "Longitude":-81.5393
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Elkhorn",
+        "County":"McDowell",
+        "ZipCode":"24831",
+        "Latitude":37.3857,
+        "Longitude":-81.4109
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gary",
+        "County":"McDowell",
+        "ZipCode":"24836",
+        "Latitude":37.3658,
+        "Longitude":-81.5544
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hensley",
+        "County":"McDowell",
+        "ZipCode":"24843",
+        "Latitude":37.474,
+        "Longitude":-81.6998
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Iaeger",
+        "County":"McDowell",
+        "ZipCode":"24844",
+        "Latitude":37.4499,
+        "Longitude":-81.812
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Isaban",
+        "County":"McDowell",
+        "ZipCode":"24846",
+        "Latitude":37.5301,
+        "Longitude":-81.8882
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jenkinjones",
+        "County":"McDowell",
+        "ZipCode":"24848",
+        "Latitude":37.2937,
+        "Longitude":-81.4259
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jolo",
+        "County":"McDowell",
+        "ZipCode":"24850",
+        "Latitude":37.3324,
+        "Longitude":-81.8316
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kimball",
+        "County":"McDowell",
+        "ZipCode":"24853",
+        "Latitude":37.4421,
+        "Longitude":-81.512
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kyle",
+        "County":"McDowell",
+        "ZipCode":"24855",
+        "Latitude":37.4082,
+        "Longitude":-81.4257
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Maybeury",
+        "County":"McDowell",
+        "ZipCode":"24861",
+        "Latitude":37.3709,
+        "Longitude":-81.3665
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mohawk",
+        "County":"McDowell",
+        "ZipCode":"24862",
+        "Latitude":37.5048,
+        "Longitude":-81.9151
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Newhall",
+        "County":"McDowell",
+        "ZipCode":"24866",
+        "Latitude":37.2637,
+        "Longitude":-81.6187
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Northfork",
+        "County":"McDowell",
+        "ZipCode":"24868",
+        "Latitude":37.4194,
+        "Longitude":-81.4058
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pageton",
+        "County":"McDowell",
+        "ZipCode":"24871",
+        "Latitude":37.3493,
+        "Longitude":-81.4654
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Panther",
+        "County":"McDowell",
+        "ZipCode":"24872",
+        "Latitude":37.4834,
+        "Longitude":-81.896
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Paynesville",
+        "County":"McDowell",
+        "ZipCode":"24873",
+        "Latitude":37.3315,
+        "Longitude":-81.8915
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Premier",
+        "County":"McDowell",
+        "ZipCode":"24878",
+        "Latitude":37.4223,
+        "Longitude":-81.6437
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Raysal",
+        "County":"McDowell",
+        "ZipCode":"24879",
+        "Latitude":37.3244,
+        "Longitude":-81.7614
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Roderfield",
+        "County":"McDowell",
+        "ZipCode":"24881",
+        "Latitude":37.4504,
+        "Longitude":-81.7057
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Squire",
+        "County":"McDowell",
+        "ZipCode":"24884",
+        "Latitude":37.2384,
+        "Longitude":-81.6098
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Switchback",
+        "County":"McDowell",
+        "ZipCode":"24887",
+        "Latitude":37.3712,
+        "Longitude":-81.3857
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Thorpe",
+        "County":"McDowell",
+        "ZipCode":"24888",
+        "Latitude":37.3687,
+        "Longitude":-81.5165
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"War",
+        "County":"McDowell",
+        "ZipCode":"24892",
+        "Latitude":37.3012,
+        "Longitude":-81.6909
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Warriormine",
+        "County":"McDowell",
+        "ZipCode":"24894",
+        "Latitude":37.2929,
+        "Longitude":-81.6971
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wilcoe",
+        "County":"McDowell",
+        "ZipCode":"24895",
+        "Latitude":37.3752,
+        "Longitude":-81.6539
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fairmont",
+        "County":"Marion",
+        "ZipCode":"26554",
+        "Latitude":39.4941,
+        "Longitude":-80.2213
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fairmont",
+        "County":"Marion",
+        "ZipCode":"26555",
+        "Latitude":39.5143,
+        "Longitude":-80.2185
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Barrackville",
+        "County":"Marion",
+        "ZipCode":"26559",
+        "Latitude":39.5052,
+        "Longitude":-80.1725
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Baxter",
+        "County":"Marion",
+        "ZipCode":"26560",
+        "Latitude":39.544,
+        "Longitude":-80.1423
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Carolina",
+        "County":"Marion",
+        "ZipCode":"26563",
+        "Latitude":39.4782,
+        "Longitude":-80.272
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Colfax",
+        "County":"Marion",
+        "ZipCode":"26566",
+        "Latitude":39.4348,
+        "Longitude":-80.1317
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fairview",
+        "County":"Marion",
+        "ZipCode":"26570",
+        "Latitude":39.6103,
+        "Longitude":-80.2529
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Farmington",
+        "County":"Marion",
+        "ZipCode":"26571",
+        "Latitude":39.5029,
+        "Longitude":-80.2566
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Four States",
+        "County":"Marion",
+        "ZipCode":"26572",
+        "Latitude":39.4798,
+        "Longitude":-80.3098
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Grant Town",
+        "County":"Marion",
+        "ZipCode":"26574",
+        "Latitude":39.5587,
+        "Longitude":-80.1805
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Idamay",
+        "County":"Marion",
+        "ZipCode":"26576",
+        "Latitude":39.4877,
+        "Longitude":-80.2666
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kingmont",
+        "County":"Marion",
+        "ZipCode":"26578",
+        "Latitude":39.4466,
+        "Longitude":-80.1762
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mannington",
+        "County":"Marion",
+        "ZipCode":"26582",
+        "Latitude":39.522,
+        "Longitude":-80.3552
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Metz",
+        "County":"Marion",
+        "ZipCode":"26585",
+        "Latitude":39.6078,
+        "Longitude":-80.4168
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Montana Mines",
+        "County":"Marion",
+        "ZipCode":"26586",
+        "Latitude":39.5191,
+        "Longitude":-80.0897
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rachel",
+        "County":"Marion",
+        "ZipCode":"26587",
+        "Latitude":39.5225,
+        "Longitude":-80.2957
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rivesville",
+        "County":"Marion",
+        "ZipCode":"26588",
+        "Latitude":39.5568,
+        "Longitude":-80.1417
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Worthington",
+        "County":"Marion",
+        "ZipCode":"26591",
+        "Latitude":39.4522,
+        "Longitude":-80.2905
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Benwood",
+        "County":"Marshall",
+        "ZipCode":"26031",
+        "Latitude":40.0181,
+        "Longitude":-80.7342
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cameron",
+        "County":"Marshall",
+        "ZipCode":"26033",
+        "Latitude":39.8227,
+        "Longitude":-80.5669
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dallas",
+        "County":"Marshall",
+        "ZipCode":"26036",
+        "Latitude":39.9783,
+        "Longitude":-80.5508
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Dale",
+        "County":"Marshall",
+        "ZipCode":"26038",
+        "Latitude":39.9597,
+        "Longitude":-80.7323
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Easton",
+        "County":"Marshall",
+        "ZipCode":"26039",
+        "Latitude":39.8531,
+        "Longitude":-80.6661
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mcmechen",
+        "County":"Marshall",
+        "ZipCode":"26040",
+        "Latitude":39.9881,
+        "Longitude":-80.7315
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Moundsville",
+        "County":"Marshall",
+        "ZipCode":"26041",
+        "Latitude":39.9148,
+        "Longitude":-80.731
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Proctor",
+        "County":"Marshall",
+        "ZipCode":"26055",
+        "Latitude":39.7207,
+        "Longitude":-80.7618
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Henderson",
+        "County":"Mason",
+        "ZipCode":"25106",
+        "Latitude":38.8265,
+        "Longitude":-82.1364
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Leon",
+        "County":"Mason",
+        "ZipCode":"25123",
+        "Latitude":38.7048,
+        "Longitude":-81.9145
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Southside",
+        "County":"Mason",
+        "ZipCode":"25187",
+        "Latitude":38.712,
+        "Longitude":-81.9966
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hartford",
+        "County":"Mason",
+        "ZipCode":"25247",
+        "Latitude":39.004,
+        "Longitude":-81.989
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Letart",
+        "County":"Mason",
+        "ZipCode":"25253",
+        "Latitude":38.9311,
+        "Longitude":-81.9751
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mason",
+        "County":"Mason",
+        "ZipCode":"25260",
+        "Latitude":39.0064,
+        "Longitude":-82.0282
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Haven",
+        "County":"Mason",
+        "ZipCode":"25265",
+        "Latitude":38.9863,
+        "Longitude":-81.9652
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"West Columbia",
+        "County":"Mason",
+        "ZipCode":"25287",
+        "Latitude":38.9574,
+        "Longitude":-82.0517
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Apple Grove",
+        "County":"Mason",
+        "ZipCode":"25502",
+        "Latitude":38.6575,
+        "Longitude":-82.1068
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ashton",
+        "County":"Mason",
+        "ZipCode":"25503",
+        "Latitude":38.6032,
+        "Longitude":-82.1123
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gallipolis Ferry",
+        "County":"Mason",
+        "ZipCode":"25515",
+        "Latitude":38.765,
+        "Longitude":-82.1535
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glenwood",
+        "County":"Mason",
+        "ZipCode":"25520",
+        "Latitude":38.5909,
+        "Longitude":-82.1773
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Point Pleasant",
+        "County":"Mason",
+        "ZipCode":"25550",
+        "Latitude":38.8632,
+        "Longitude":-82.1132
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bluefield",
+        "County":"Mercer",
+        "ZipCode":"24701",
+        "Latitude":37.2698,
+        "Longitude":-81.2223
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Athens",
+        "County":"Mercer",
+        "ZipCode":"24712",
+        "Latitude":37.4323,
+        "Longitude":-80.9974
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Beeson",
+        "County":"Mercer",
+        "ZipCode":"24714",
+        "Latitude":37.4909,
+        "Longitude":-81.2062
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bramwell",
+        "County":"Mercer",
+        "ZipCode":"24715",
+        "Latitude":37.3321,
+        "Longitude":-81.3256
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Freeman",
+        "County":"Mercer",
+        "ZipCode":"24724",
+        "Latitude":37.3309,
+        "Longitude":-81.2998
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hiawatha",
+        "County":"Mercer",
+        "ZipCode":"24729",
+        "Latitude":37.4401,
+        "Longitude":-81.244
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kegley",
+        "County":"Mercer",
+        "ZipCode":"24731",
+        "Latitude":37.3971,
+        "Longitude":-81.1318
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kellysville",
+        "County":"Mercer",
+        "ZipCode":"24732",
+        "Latitude":37.3448,
+        "Longitude":-80.9279
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lashmeet",
+        "County":"Mercer",
+        "ZipCode":"24733",
+        "Latitude":37.442,
+        "Longitude":-81.2138
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Matoaka",
+        "County":"Mercer",
+        "ZipCode":"24736",
+        "Latitude":37.4201,
+        "Longitude":-81.2432
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Montcalm",
+        "County":"Mercer",
+        "ZipCode":"24737",
+        "Latitude":37.3539,
+        "Longitude":-81.2518
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nemours",
+        "County":"Mercer",
+        "ZipCode":"24738",
+        "Latitude":37.3015,
+        "Longitude":-81.3043
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"24739",
+        "Latitude":37.3662,
+        "Longitude":-81.1026
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Princeton",
+        "County":"Mercer",
+        "ZipCode":"24740",
+        "Latitude":37.3799,
+        "Longitude":-81.1175
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rock",
+        "County":"Mercer",
+        "ZipCode":"24747",
+        "Latitude":37.4142,
+        "Longitude":-81.1784
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wolfe",
+        "County":"Mercer",
+        "ZipCode":"24751",
+        "Latitude":37.3073,
+        "Longitude":-81.3287
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Camp Creek",
+        "County":"Mercer",
+        "ZipCode":"25820",
+        "Latitude":37.4841,
+        "Longitude":-81.1111
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Flat Top",
+        "County":"Mercer",
+        "ZipCode":"25841",
+        "Latitude":37.55,
+        "Longitude":-81.128
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Spanishburg",
+        "County":"Mercer",
+        "ZipCode":"25922",
+        "Latitude":37.4605,
+        "Longitude":-81.1128
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lerona",
+        "County":"Mercer",
+        "ZipCode":"25971",
+        "Latitude":37.4925,
+        "Longitude":-80.9796
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Burlington",
+        "County":"Mineral",
+        "ZipCode":"26710",
+        "Latitude":39.3376,
+        "Longitude":-78.9181
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Elk Garden",
+        "County":"Mineral",
+        "ZipCode":"26717",
+        "Latitude":39.3631,
+        "Longitude":-79.1539
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fort Ashby",
+        "County":"Mineral",
+        "ZipCode":"26719",
+        "Latitude":39.497,
+        "Longitude":-78.7743
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Keyser",
+        "County":"Mineral",
+        "ZipCode":"26726",
+        "Latitude":39.4527,
+        "Longitude":-78.8926
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Creek",
+        "County":"Mineral",
+        "ZipCode":"26743",
+        "Latitude":39.3612,
+        "Longitude":-79.0452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Piedmont",
+        "County":"Mineral",
+        "ZipCode":"26750",
+        "Latitude":39.4799,
+        "Longitude":-79.0489
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ridgeley",
+        "County":"Mineral",
+        "ZipCode":"26753",
+        "Latitude":39.5636,
+        "Longitude":-78.7887
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wiley Ford",
+        "County":"Mineral",
+        "ZipCode":"26767",
+        "Latitude":39.6133,
+        "Longitude":-78.775
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Justice",
+        "County":"Mingo",
+        "ZipCode":"24851",
+        "Latitude":37.5887,
+        "Longitude":-81.8354
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Baisden",
+        "County":"Mingo",
+        "ZipCode":"25608",
+        "Latitude":37.584,
+        "Longitude":-81.9051
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gilbert",
+        "County":"Mingo",
+        "ZipCode":"25621",
+        "Latitude":37.6366,
+        "Longitude":-81.9501
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Verner",
+        "County":"Mingo",
+        "ZipCode":"25650",
+        "Latitude":37.6634,
+        "Longitude":-81.8504
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wharncliffe",
+        "County":"Mingo",
+        "ZipCode":"25651",
+        "Latitude":37.5554,
+        "Longitude":-81.9657
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Williamson",
+        "County":"Mingo",
+        "ZipCode":"25661",
+        "Latitude":37.6902,
+        "Longitude":-82.2642
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Borderland",
+        "County":"Mingo",
+        "ZipCode":"25665",
+        "Latitude":37.7214,
+        "Longitude":-82.3084
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Breeden",
+        "County":"Mingo",
+        "ZipCode":"25666",
+        "Latitude":37.9198,
+        "Longitude":-82.2547
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Chattaroy",
+        "County":"Mingo",
+        "ZipCode":"25667",
+        "Latitude":37.7047,
+        "Longitude":-82.2739
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Delbarton",
+        "County":"Mingo",
+        "ZipCode":"25670",
+        "Latitude":37.7189,
+        "Longitude":-82.1931
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dingess",
+        "County":"Mingo",
+        "ZipCode":"25671",
+        "Latitude":37.8703,
+        "Longitude":-82.1951
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Edgarton",
+        "County":"Mingo",
+        "ZipCode":"25672",
+        "Latitude":37.7431,
+        "Longitude":-82.108
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kermit",
+        "County":"Mingo",
+        "ZipCode":"25674",
+        "Latitude":37.8642,
+        "Longitude":-82.3741
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lenore",
+        "County":"Mingo",
+        "ZipCode":"25676",
+        "Latitude":37.799,
+        "Longitude":-82.2868
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Matewan",
+        "County":"Mingo",
+        "ZipCode":"25678",
+        "Latitude":37.5903,
+        "Longitude":-82.0652
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Naugatuck",
+        "County":"Mingo",
+        "ZipCode":"25685",
+        "Latitude":37.7898,
+        "Longitude":-82.349
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Newtown",
+        "County":"Mingo",
+        "ZipCode":"25686",
+        "Latitude":37.7431,
+        "Longitude":-82.108
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"North Matewan",
+        "County":"Mingo",
+        "ZipCode":"25688",
+        "Latitude":37.6265,
+        "Longitude":-82.1482
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ragland",
+        "County":"Mingo",
+        "ZipCode":"25690",
+        "Latitude":37.6898,
+        "Longitude":-82.1244
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rawl",
+        "County":"Mingo",
+        "ZipCode":"25691",
+        "Latitude":37.6498,
+        "Longitude":-82.2196
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Red Jacket",
+        "County":"Mingo",
+        "ZipCode":"25692",
+        "Latitude":37.6484,
+        "Longitude":-82.1401
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Varney",
+        "County":"Mingo",
+        "ZipCode":"25696",
+        "Latitude":37.6693,
+        "Longitude":-82.1221
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26501",
+        "Latitude":39.6099,
+        "Longitude":-79.9831
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26502",
+        "Latitude":39.6253,
+        "Longitude":-79.9672
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26504",
+        "Latitude":39.5785,
+        "Longitude":-80.093
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26505",
+        "Latitude":39.6505,
+        "Longitude":-79.944
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26506",
+        "Latitude":39.6453,
+        "Longitude":-79.9627
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26507",
+        "Latitude":39.6808,
+        "Longitude":-79.8365
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Morgantown",
+        "County":"Monongalia",
+        "ZipCode":"26508",
+        "Latitude":39.5953,
+        "Longitude":-79.9229
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Blacksville",
+        "County":"Monongalia",
+        "ZipCode":"26521",
+        "Latitude":39.7142,
+        "Longitude":-80.2265
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cassville",
+        "County":"Monongalia",
+        "ZipCode":"26527",
+        "Latitude":39.6656,
+        "Longitude":-80.0637
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dellslow",
+        "County":"Monongalia",
+        "ZipCode":"26531",
+        "Latitude":39.6053,
+        "Longitude":-79.8958
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Granville",
+        "County":"Monongalia",
+        "ZipCode":"26534",
+        "Latitude":39.6459,
+        "Longitude":-79.9873
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Maidsville",
+        "County":"Monongalia",
+        "ZipCode":"26541",
+        "Latitude":39.6884,
+        "Longitude":-79.9801
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Osage",
+        "County":"Monongalia",
+        "ZipCode":"26543",
+        "Latitude":39.6587,
+        "Longitude":-80.0076
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pentress",
+        "County":"Monongalia",
+        "ZipCode":"26544",
+        "Latitude":39.5785,
+        "Longitude":-80.093
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pursglove",
+        "County":"Monongalia",
+        "ZipCode":"26546",
+        "Latitude":39.6746,
+        "Longitude":-80.035
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wana",
+        "County":"Monongalia",
+        "ZipCode":"26590",
+        "Latitude":39.6735,
+        "Longitude":-80.3183
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ballard",
+        "County":"Monroe",
+        "ZipCode":"24918",
+        "Latitude":37.498,
+        "Longitude":-80.7614
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gap Mills",
+        "County":"Monroe",
+        "ZipCode":"24941",
+        "Latitude":37.589,
+        "Longitude":-80.3401
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Greenville",
+        "County":"Monroe",
+        "ZipCode":"24945",
+        "Latitude":37.5435,
+        "Longitude":-80.6826
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lindside",
+        "County":"Monroe",
+        "ZipCode":"24951",
+        "Latitude":37.4817,
+        "Longitude":-80.6203
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Peterstown",
+        "County":"Monroe",
+        "ZipCode":"24963",
+        "Latitude":37.4147,
+        "Longitude":-80.7686
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Secondcreek",
+        "County":"Monroe",
+        "ZipCode":"24974",
+        "Latitude":37.6654,
+        "Longitude":-80.454
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sinks Grove",
+        "County":"Monroe",
+        "ZipCode":"24976",
+        "Latitude":37.6643,
+        "Longitude":-80.5409
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Union",
+        "County":"Monroe",
+        "ZipCode":"24983",
+        "Latitude":37.5802,
+        "Longitude":-80.5248
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Waiteville",
+        "County":"Monroe",
+        "ZipCode":"24984",
+        "Latitude":37.4645,
+        "Longitude":-80.4634
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wayside",
+        "County":"Monroe",
+        "ZipCode":"24985",
+        "Latitude":37.5937,
+        "Longitude":-80.7458
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wolfcreek",
+        "County":"Monroe",
+        "ZipCode":"24993",
+        "Latitude":37.552,
+        "Longitude":-80.5397
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Berkeley Springs",
+        "County":"Morgan",
+        "ZipCode":"25411",
+        "Latitude":39.5526,
+        "Longitude":-78.1877
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Great Cacapon",
+        "County":"Morgan",
+        "ZipCode":"25422",
+        "Latitude":39.5836,
+        "Longitude":-78.3331
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Paw Paw",
+        "County":"Morgan",
+        "ZipCode":"25434",
+        "Latitude":39.4923,
+        "Longitude":-78.4586
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dixie",
+        "County":"Nicholas",
+        "ZipCode":"25059",
+        "Latitude":38.2509,
+        "Longitude":-81.1932
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fenwick",
+        "County":"Nicholas",
+        "ZipCode":"26202",
+        "Latitude":38.2447,
+        "Longitude":-80.635
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Craigsville",
+        "County":"Nicholas",
+        "ZipCode":"26205",
+        "Latitude":38.3254,
+        "Longitude":-80.6444
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Richwood",
+        "County":"Nicholas",
+        "ZipCode":"26261",
+        "Latitude":38.223,
+        "Longitude":-80.5445
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Birch River",
+        "County":"Nicholas",
+        "ZipCode":"26610",
+        "Latitude":38.4914,
+        "Longitude":-80.7459
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Summersville",
+        "County":"Nicholas",
+        "ZipCode":"26651",
+        "Latitude":38.3009,
+        "Longitude":-80.8353
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Belva",
+        "County":"Nicholas",
+        "ZipCode":"26656",
+        "Latitude":38.2491,
+        "Longitude":-81.1566
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Calvin",
+        "County":"Nicholas",
+        "ZipCode":"26660",
+        "Latitude":38.3368,
+        "Longitude":-80.7145
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Canvas",
+        "County":"Nicholas",
+        "ZipCode":"26662",
+        "Latitude":38.2624,
+        "Longitude":-80.7446
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Drennen",
+        "County":"Nicholas",
+        "ZipCode":"26667",
+        "Latitude":38.3184,
+        "Longitude":-80.8342
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gilboa",
+        "County":"Nicholas",
+        "ZipCode":"26671",
+        "Latitude":38.3184,
+        "Longitude":-80.8342
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Keslers Cross Lanes",
+        "County":"Nicholas",
+        "ZipCode":"26675",
+        "Latitude":38.2354,
+        "Longitude":-80.9357
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Leivasy",
+        "County":"Nicholas",
+        "ZipCode":"26676",
+        "Latitude":38.1558,
+        "Longitude":-80.6827
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Lookout",
+        "County":"Nicholas",
+        "ZipCode":"26678",
+        "Latitude":38.1821,
+        "Longitude":-80.9108
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mount Nebo",
+        "County":"Nicholas",
+        "ZipCode":"26679",
+        "Latitude":38.1653,
+        "Longitude":-80.7976
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nettie",
+        "County":"Nicholas",
+        "ZipCode":"26681",
+        "Latitude":38.209,
+        "Longitude":-80.6953
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pool",
+        "County":"Nicholas",
+        "ZipCode":"26684",
+        "Latitude":38.1637,
+        "Longitude":-80.8643
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Swiss",
+        "County":"Nicholas",
+        "ZipCode":"26690",
+        "Latitude":38.2255,
+        "Longitude":-81.1273
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Tioga",
+        "County":"Nicholas",
+        "ZipCode":"26691",
+        "Latitude":38.4045,
+        "Longitude":-80.6667
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wheeling",
+        "County":"Ohio",
+        "ZipCode":"26003",
+        "Latitude":40.1027,
+        "Longitude":-80.6476
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Triadelphia",
+        "County":"Ohio",
+        "ZipCode":"26059",
+        "Latitude":40.0699,
+        "Longitude":-80.5953
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Valley Grove",
+        "County":"Ohio",
+        "ZipCode":"26060",
+        "Latitude":40.0946,
+        "Longitude":-80.5551
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"West Liberty",
+        "County":"Ohio",
+        "ZipCode":"26074",
+        "Latitude":40.1698,
+        "Longitude":-80.5958
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Brandywine",
+        "County":"Pendleton",
+        "ZipCode":"26802",
+        "Latitude":38.6357,
+        "Longitude":-79.2096
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Circleville",
+        "County":"Pendleton",
+        "ZipCode":"26804",
+        "Latitude":38.623,
+        "Longitude":-79.5367
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Franklin",
+        "County":"Pendleton",
+        "ZipCode":"26807",
+        "Latitude":38.64,
+        "Longitude":-79.3538
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Riverton",
+        "County":"Pendleton",
+        "ZipCode":"26814",
+        "Latitude":38.744,
+        "Longitude":-79.4359
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sugar Grove",
+        "County":"Pendleton",
+        "ZipCode":"26815",
+        "Latitude":38.489,
+        "Longitude":-79.3593
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Upper Tract",
+        "County":"Pendleton",
+        "ZipCode":"26866",
+        "Latitude":38.795,
+        "Longitude":-79.2586
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Seneca Rocks",
+        "County":"Pendleton",
+        "ZipCode":"26884",
+        "Latitude":38.8296,
+        "Longitude":-79.3866
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Onego",
+        "County":"Pendleton",
+        "ZipCode":"26886",
+        "Latitude":38.8017,
+        "Longitude":-79.4507
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Belmont",
+        "County":"Pleasants",
+        "ZipCode":"26134",
+        "Latitude":39.3795,
+        "Longitude":-81.2584
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Saint Marys",
+        "County":"Pleasants",
+        "ZipCode":"26170",
+        "Latitude":39.386,
+        "Longitude":-81.1725
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Arbovale",
+        "County":"Pocahontas",
+        "ZipCode":"24915",
+        "Latitude":38.4546,
+        "Longitude":-79.7934
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bartow",
+        "County":"Pocahontas",
+        "ZipCode":"24920",
+        "Latitude":38.5513,
+        "Longitude":-79.7952
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Buckeye",
+        "County":"Pocahontas",
+        "ZipCode":"24924",
+        "Latitude":38.186,
+        "Longitude":-80.1345
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cass",
+        "County":"Pocahontas",
+        "ZipCode":"24927",
+        "Latitude":38.388,
+        "Longitude":-79.9906
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dunmore",
+        "County":"Pocahontas",
+        "ZipCode":"24934",
+        "Latitude":38.3636,
+        "Longitude":-79.8556
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Green Bank",
+        "County":"Pocahontas",
+        "ZipCode":"24944",
+        "Latitude":38.4097,
+        "Longitude":-79.8015
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hillsboro",
+        "County":"Pocahontas",
+        "ZipCode":"24946",
+        "Latitude":38.1109,
+        "Longitude":-80.2641
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Marlinton",
+        "County":"Pocahontas",
+        "ZipCode":"24954",
+        "Latitude":38.2586,
+        "Longitude":-80.1046
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Snowshoe",
+        "County":"Pocahontas",
+        "ZipCode":"26209",
+        "Latitude":38.4133,
+        "Longitude":-80.0068
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Durbin",
+        "County":"Pocahontas",
+        "ZipCode":"26264",
+        "Latitude":38.5457,
+        "Longitude":-79.8251
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Slatyfork",
+        "County":"Pocahontas",
+        "ZipCode":"26291",
+        "Latitude":38.388,
+        "Longitude":-79.9906
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Independence",
+        "County":"Preston",
+        "ZipCode":"26374",
+        "Latitude":39.4464,
+        "Longitude":-79.8822
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Newburg",
+        "County":"Preston",
+        "ZipCode":"26410",
+        "Latitude":39.4027,
+        "Longitude":-79.828
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rowlesburg",
+        "County":"Preston",
+        "ZipCode":"26425",
+        "Latitude":39.313,
+        "Longitude":-79.7049
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Tunnelton",
+        "County":"Preston",
+        "ZipCode":"26444",
+        "Latitude":39.3625,
+        "Longitude":-79.7478
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Albright",
+        "County":"Preston",
+        "ZipCode":"26519",
+        "Latitude":39.5701,
+        "Longitude":-79.6358
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Arthurdale",
+        "County":"Preston",
+        "ZipCode":"26520",
+        "Latitude":39.4951,
+        "Longitude":-79.8151
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bretz",
+        "County":"Preston",
+        "ZipCode":"26524",
+        "Latitude":39.5423,
+        "Longitude":-79.8006
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bruceton Mills",
+        "County":"Preston",
+        "ZipCode":"26525",
+        "Latitude":39.6454,
+        "Longitude":-79.6159
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kingwood",
+        "County":"Preston",
+        "ZipCode":"26537",
+        "Latitude":39.4819,
+        "Longitude":-79.7063
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Masontown",
+        "County":"Preston",
+        "ZipCode":"26542",
+        "Latitude":39.5731,
+        "Longitude":-79.7906
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Reedsville",
+        "County":"Preston",
+        "ZipCode":"26547",
+        "Latitude":39.5127,
+        "Longitude":-79.812
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Aurora",
+        "County":"Preston",
+        "ZipCode":"26705",
+        "Latitude":39.3181,
+        "Longitude":-79.5764
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Eglon",
+        "County":"Preston",
+        "ZipCode":"26716",
+        "Latitude":39.2925,
+        "Longitude":-79.5109
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Terra Alta",
+        "County":"Preston",
+        "ZipCode":"26764",
+        "Latitude":39.4456,
+        "Longitude":-79.5464
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bancroft",
+        "County":"Putnam",
+        "ZipCode":"25011",
+        "Latitude":38.5086,
+        "Longitude":-81.841
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Buffalo",
+        "County":"Putnam",
+        "ZipCode":"25033",
+        "Latitude":38.6092,
+        "Longitude":-81.95
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Eleanor",
+        "County":"Putnam",
+        "ZipCode":"25070",
+        "Latitude":38.5436,
+        "Longitude":-81.9414
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fraziers Bottom",
+        "County":"Putnam",
+        "ZipCode":"25082",
+        "Latitude":38.5517,
+        "Longitude":-82.0111
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hometown",
+        "County":"Putnam",
+        "ZipCode":"25109",
+        "Latitude":38.5329,
+        "Longitude":-81.8612
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Liberty",
+        "County":"Putnam",
+        "ZipCode":"25124",
+        "Latitude":38.62,
+        "Longitude":-81.7678
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Poca",
+        "County":"Putnam",
+        "ZipCode":"25159",
+        "Latitude":38.4791,
+        "Longitude":-81.7838
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Red House",
+        "County":"Putnam",
+        "ZipCode":"25168",
+        "Latitude":38.5463,
+        "Longitude":-81.9045
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Winfield",
+        "County":"Putnam",
+        "ZipCode":"25213",
+        "Latitude":38.5072,
+        "Longitude":-81.89
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hurricane",
+        "County":"Putnam",
+        "ZipCode":"25526",
+        "Latitude":38.4257,
+        "Longitude":-81.9943
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Scott Depot",
+        "County":"Putnam",
+        "ZipCode":"25560",
+        "Latitude":38.4501,
+        "Longitude":-81.9005
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Teays",
+        "County":"Putnam",
+        "ZipCode":"25569",
+        "Latitude":38.4754,
+        "Longitude":-81.8805
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Arnett",
+        "County":"Raleigh",
+        "ZipCode":"25007",
+        "Latitude":37.8334,
+        "Longitude":-81.4301
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Artie",
+        "County":"Raleigh",
+        "ZipCode":"25008",
+        "Latitude":37.94,
+        "Longitude":-81.3545
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clear Creek",
+        "County":"Raleigh",
+        "ZipCode":"25044",
+        "Latitude":37.9162,
+        "Longitude":-81.3443
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Colcord",
+        "County":"Raleigh",
+        "ZipCode":"25048",
+        "Latitude":37.9439,
+        "Longitude":-81.4369
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dorothy",
+        "County":"Raleigh",
+        "ZipCode":"25060",
+        "Latitude":37.9622,
+        "Longitude":-81.4968
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dry Creek",
+        "County":"Raleigh",
+        "ZipCode":"25062",
+        "Latitude":37.8749,
+        "Longitude":-81.4412
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Naoma",
+        "County":"Raleigh",
+        "ZipCode":"25140",
+        "Latitude":37.8676,
+        "Longitude":-81.4873
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rock Creek",
+        "County":"Raleigh",
+        "ZipCode":"25174",
+        "Latitude":37.8547,
+        "Longitude":-81.4184
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Saxon",
+        "County":"Raleigh",
+        "ZipCode":"25180",
+        "Latitude":37.7901,
+        "Longitude":-81.4346
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Beckley",
+        "County":"Raleigh",
+        "ZipCode":"25801",
+        "Latitude":37.7932,
+        "Longitude":-81.2061
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Beckley",
+        "County":"Raleigh",
+        "ZipCode":"25802",
+        "Latitude":37.7489,
+        "Longitude":-81.2245
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Beaver",
+        "County":"Raleigh",
+        "ZipCode":"25813",
+        "Latitude":37.7516,
+        "Longitude":-81.0731
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bolt",
+        "County":"Raleigh",
+        "ZipCode":"25817",
+        "Latitude":37.7673,
+        "Longitude":-81.4156
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bradley",
+        "County":"Raleigh",
+        "ZipCode":"25818",
+        "Latitude":37.8654,
+        "Longitude":-81.194
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Coal City",
+        "County":"Raleigh",
+        "ZipCode":"25823",
+        "Latitude":37.679,
+        "Longitude":-81.2104
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cool Ridge",
+        "County":"Raleigh",
+        "ZipCode":"25825",
+        "Latitude":37.6655,
+        "Longitude":-81.0933
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Crab Orchard",
+        "County":"Raleigh",
+        "ZipCode":"25827",
+        "Latitude":37.7385,
+        "Longitude":-81.2536
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Daniels",
+        "County":"Raleigh",
+        "ZipCode":"25832",
+        "Latitude":37.7256,
+        "Longitude":-81.1087
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Eccles",
+        "County":"Raleigh",
+        "ZipCode":"25836",
+        "Latitude":37.7792,
+        "Longitude":-81.2635
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fairdale",
+        "County":"Raleigh",
+        "ZipCode":"25839",
+        "Latitude":37.7815,
+        "Longitude":-81.3632
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ghent",
+        "County":"Raleigh",
+        "ZipCode":"25843",
+        "Latitude":37.6208,
+        "Longitude":-81.1019
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Daniel",
+        "County":"Raleigh",
+        "ZipCode":"25844",
+        "Latitude":37.8251,
+        "Longitude":-81.3858
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen White",
+        "County":"Raleigh",
+        "ZipCode":"25849",
+        "Latitude":37.7306,
+        "Longitude":-81.2799
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Harper",
+        "County":"Raleigh",
+        "ZipCode":"25851",
+        "Latitude":37.8025,
+        "Longitude":-81.2828
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Helen",
+        "County":"Raleigh",
+        "ZipCode":"25853",
+        "Latitude":37.6375,
+        "Longitude":-81.3138
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Josephine",
+        "County":"Raleigh",
+        "ZipCode":"25857",
+        "Latitude":37.6221,
+        "Longitude":-81.2176
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lanark",
+        "County":"Raleigh",
+        "ZipCode":"25860",
+        "Latitude":37.8276,
+        "Longitude":-81.1462
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lester",
+        "County":"Raleigh",
+        "ZipCode":"25865",
+        "Latitude":37.7265,
+        "Longitude":-81.3095
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mabscott",
+        "County":"Raleigh",
+        "ZipCode":"25871",
+        "Latitude":37.77,
+        "Longitude":-81.2103
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mac Arthur",
+        "County":"Raleigh",
+        "ZipCode":"25873",
+        "Latitude":37.7517,
+        "Longitude":-81.2148
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Midway",
+        "County":"Raleigh",
+        "ZipCode":"25878",
+        "Latitude":37.7171,
+        "Longitude":-81.24
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Odd",
+        "County":"Raleigh",
+        "ZipCode":"25902",
+        "Latitude":37.593,
+        "Longitude":-81.1872
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Piney View",
+        "County":"Raleigh",
+        "ZipCode":"25906",
+        "Latitude":37.8376,
+        "Longitude":-81.1286
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Princewick",
+        "County":"Raleigh",
+        "ZipCode":"25908",
+        "Latitude":37.6724,
+        "Longitude":-81.2561
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Prosperity",
+        "County":"Raleigh",
+        "ZipCode":"25909",
+        "Latitude":37.8381,
+        "Longitude":-81.2004
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Raleigh",
+        "County":"Raleigh",
+        "ZipCode":"25911",
+        "Latitude":37.7585,
+        "Longitude":-81.1675
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rhodell",
+        "County":"Raleigh",
+        "ZipCode":"25915",
+        "Latitude":37.6254,
+        "Longitude":-81.2749
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shady Spring",
+        "County":"Raleigh",
+        "ZipCode":"25918",
+        "Latitude":37.7416,
+        "Longitude":-81.0149
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Skelton",
+        "County":"Raleigh",
+        "ZipCode":"25919",
+        "Latitude":37.8005,
+        "Longitude":-81.1806
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Slab Fork",
+        "County":"Raleigh",
+        "ZipCode":"25920",
+        "Latitude":37.6871,
+        "Longitude":-81.334
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sophia",
+        "County":"Raleigh",
+        "ZipCode":"25921",
+        "Latitude":37.7076,
+        "Longitude":-81.2507
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Stanaford",
+        "County":"Raleigh",
+        "ZipCode":"25927",
+        "Latitude":37.8159,
+        "Longitude":-81.1523
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Surveyor",
+        "County":"Raleigh",
+        "ZipCode":"25932",
+        "Latitude":37.7565,
+        "Longitude":-81.3092
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"White Oak",
+        "County":"Raleigh",
+        "ZipCode":"25989",
+        "Latitude":37.6929,
+        "Longitude":-81.0729
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Helvetia",
+        "County":"Randolph",
+        "ZipCode":"26224",
+        "Latitude":38.7713,
+        "Longitude":-80.1382
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pickens",
+        "County":"Randolph",
+        "ZipCode":"26230",
+        "Latitude":38.6551,
+        "Longitude":-80.2117
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Elkins",
+        "County":"Randolph",
+        "ZipCode":"26241",
+        "Latitude":38.9253,
+        "Longitude":-79.8471
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Beverly",
+        "County":"Randolph",
+        "ZipCode":"26253",
+        "Latitude":38.828,
+        "Longitude":-79.8651
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bowden",
+        "County":"Randolph",
+        "ZipCode":"26254",
+        "Latitude":38.9087,
+        "Longitude":-79.7098
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Coalton",
+        "County":"Randolph",
+        "ZipCode":"26257",
+        "Latitude":38.9144,
+        "Longitude":-79.9767
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dailey",
+        "County":"Randolph",
+        "ZipCode":"26259",
+        "Latitude":38.7987,
+        "Longitude":-79.8962
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dryfork",
+        "County":"Randolph",
+        "ZipCode":"26263",
+        "Latitude":38.9489,
+        "Longitude":-79.4376
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ellamore",
+        "County":"Randolph",
+        "ZipCode":"26267",
+        "Latitude":38.9243,
+        "Longitude":-80.0904
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glady",
+        "County":"Randolph",
+        "ZipCode":"26268",
+        "Latitude":38.7534,
+        "Longitude":-79.8147
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Harman",
+        "County":"Randolph",
+        "ZipCode":"26270",
+        "Latitude":38.9234,
+        "Longitude":-79.5246
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huttonsville",
+        "County":"Randolph",
+        "ZipCode":"26273",
+        "Latitude":38.6784,
+        "Longitude":-79.9775
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kerens",
+        "County":"Randolph",
+        "ZipCode":"26276",
+        "Latitude":39.0299,
+        "Longitude":-79.7754
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mabie",
+        "County":"Randolph",
+        "ZipCode":"26278",
+        "Latitude":38.8765,
+        "Longitude":-79.9831
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mill Creek",
+        "County":"Randolph",
+        "ZipCode":"26280",
+        "Latitude":38.7325,
+        "Longitude":-79.9786
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Monterville",
+        "County":"Randolph",
+        "ZipCode":"26282",
+        "Latitude":38.5517,
+        "Longitude":-80.1224
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Montrose",
+        "County":"Randolph",
+        "ZipCode":"26283",
+        "Latitude":39.0964,
+        "Longitude":-79.7896
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Norton",
+        "County":"Randolph",
+        "ZipCode":"26285",
+        "Latitude":38.9318,
+        "Longitude":-79.9656
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Valley Bend",
+        "County":"Randolph",
+        "ZipCode":"26293",
+        "Latitude":38.7718,
+        "Longitude":-79.9253
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Valley Head",
+        "County":"Randolph",
+        "ZipCode":"26294",
+        "Latitude":38.5315,
+        "Longitude":-80.0343
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Whitmer",
+        "County":"Randolph",
+        "ZipCode":"26296",
+        "Latitude":38.7516,
+        "Longitude":-79.5819
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Macfarlan",
+        "County":"Ritchie",
+        "ZipCode":"26148",
+        "Latitude":39.0806,
+        "Longitude":-81.1776
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Petroleum",
+        "County":"Ritchie",
+        "ZipCode":"26161",
+        "Latitude":39.1741,
+        "Longitude":-81.2406
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Smithville",
+        "County":"Ritchie",
+        "ZipCode":"26178",
+        "Latitude":39.0671,
+        "Longitude":-81.062
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Auburn",
+        "County":"Ritchie",
+        "ZipCode":"26325",
+        "Latitude":39.0864,
+        "Longitude":-80.8837
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Berea",
+        "County":"Ritchie",
+        "ZipCode":"26327",
+        "Latitude":39.1365,
+        "Longitude":-80.9337
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cairo",
+        "County":"Ritchie",
+        "ZipCode":"26337",
+        "Latitude":39.2325,
+        "Longitude":-81.1554
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ellenboro",
+        "County":"Ritchie",
+        "ZipCode":"26346",
+        "Latitude":39.2969,
+        "Longitude":-81.0621
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Harrisville",
+        "County":"Ritchie",
+        "ZipCode":"26362",
+        "Latitude":39.1453,
+        "Longitude":-81.0341
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pennsboro",
+        "County":"Ritchie",
+        "ZipCode":"26415",
+        "Latitude":39.2791,
+        "Longitude":-81.0019
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pullman",
+        "County":"Ritchie",
+        "ZipCode":"26421",
+        "Latitude":39.19,
+        "Longitude":-80.9347
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Amma",
+        "County":"Roane",
+        "ZipCode":"25005",
+        "Latitude":38.5687,
+        "Longitude":-81.2657
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Gandeeville",
+        "County":"Roane",
+        "ZipCode":"25243",
+        "Latitude":38.7034,
+        "Longitude":-81.4243
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Left Hand",
+        "County":"Roane",
+        "ZipCode":"25251",
+        "Latitude":38.6063,
+        "Longitude":-81.2467
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Looneyville",
+        "County":"Roane",
+        "ZipCode":"25259",
+        "Latitude":38.6641,
+        "Longitude":-81.2822
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Newton",
+        "County":"Roane",
+        "ZipCode":"25266",
+        "Latitude":38.606,
+        "Longitude":-81.1623
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Reedy",
+        "County":"Roane",
+        "ZipCode":"25270",
+        "Latitude":38.8889,
+        "Longitude":-81.4399
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Spencer",
+        "County":"Roane",
+        "ZipCode":"25276",
+        "Latitude":38.7897,
+        "Longitude":-81.3303
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Walton",
+        "County":"Roane",
+        "ZipCode":"25286",
+        "Latitude":38.6023,
+        "Longitude":-81.3958
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Forest Hill",
+        "County":"Summers",
+        "ZipCode":"24935",
+        "Latitude":37.5608,
+        "Longitude":-80.8111
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pence Springs",
+        "County":"Summers",
+        "ZipCode":"24962",
+        "Latitude":37.6621,
+        "Longitude":-80.7202
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Talcott",
+        "County":"Summers",
+        "ZipCode":"24981",
+        "Latitude":37.6491,
+        "Longitude":-80.7461
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hinton",
+        "County":"Summers",
+        "ZipCode":"25951",
+        "Latitude":37.664,
+        "Longitude":-80.8678
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Green Sulphur Springs",
+        "County":"Summers",
+        "ZipCode":"25966",
+        "Latitude":37.6485,
+        "Longitude":-80.8774
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jumping Branch",
+        "County":"Summers",
+        "ZipCode":"25969",
+        "Latitude":37.6188,
+        "Longitude":-81.0018
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Meadow Creek",
+        "County":"Summers",
+        "ZipCode":"25977",
+        "Latitude":37.8101,
+        "Longitude":-80.9231
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Nimitz",
+        "County":"Summers",
+        "ZipCode":"25978",
+        "Latitude":37.6286,
+        "Longitude":-80.9446
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pipestem",
+        "County":"Summers",
+        "ZipCode":"25979",
+        "Latitude":37.5303,
+        "Longitude":-80.9463
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sandstone",
+        "County":"Summers",
+        "ZipCode":"25985",
+        "Latitude":37.7599,
+        "Longitude":-80.8716
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Flemington",
+        "County":"Taylor",
+        "ZipCode":"26347",
+        "Latitude":39.2665,
+        "Longitude":-80.132
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Grafton",
+        "County":"Taylor",
+        "ZipCode":"26354",
+        "Latitude":39.3414,
+        "Longitude":-80.0285
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rosemont",
+        "County":"Taylor",
+        "ZipCode":"26424",
+        "Latitude":39.2687,
+        "Longitude":-80.1629
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Simpson",
+        "County":"Taylor",
+        "ZipCode":"26435",
+        "Latitude":39.2668,
+        "Longitude":-80.0934
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Thornton",
+        "County":"Taylor",
+        "ZipCode":"26440",
+        "Latitude":39.3329,
+        "Longitude":-79.9096
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Davis",
+        "County":"Tucker",
+        "ZipCode":"26260",
+        "Latitude":39.0882,
+        "Longitude":-79.4563
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hambleton",
+        "County":"Tucker",
+        "ZipCode":"26269",
+        "Latitude":39.0821,
+        "Longitude":-79.6453
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hendricks",
+        "County":"Tucker",
+        "ZipCode":"26271",
+        "Latitude":39.0748,
+        "Longitude":-79.6303
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Parsons",
+        "County":"Tucker",
+        "ZipCode":"26287",
+        "Latitude":39.096,
+        "Longitude":-79.6787
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Red Creek",
+        "County":"Tucker",
+        "ZipCode":"26289",
+        "Latitude":39.1179,
+        "Longitude":-79.5637
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Thomas",
+        "County":"Tucker",
+        "ZipCode":"26292",
+        "Latitude":39.1505,
+        "Longitude":-79.503
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Friendly",
+        "County":"Tyler",
+        "ZipCode":"26146",
+        "Latitude":39.4961,
+        "Longitude":-81.0572
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Middlebourne",
+        "County":"Tyler",
+        "ZipCode":"26149",
+        "Latitude":39.4942,
+        "Longitude":-80.9076
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sistersville",
+        "County":"Tyler",
+        "ZipCode":"26175",
+        "Latitude":39.5584,
+        "Longitude":-80.9818
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Alma",
+        "County":"Tyler",
+        "ZipCode":"26320",
+        "Latitude":39.4506,
+        "Longitude":-80.8701
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shirley",
+        "County":"Tyler",
+        "ZipCode":"26434",
+        "Latitude":39.3981,
+        "Longitude":-80.7651
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Buckhannon",
+        "County":"Upshur",
+        "ZipCode":"26201",
+        "Latitude":38.9755,
+        "Longitude":-80.2407
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Adrian",
+        "County":"Upshur",
+        "ZipCode":"26210",
+        "Latitude":38.8993,
+        "Longitude":-80.2269
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cleveland",
+        "County":"Upshur",
+        "ZipCode":"26215",
+        "Latitude":38.7133,
+        "Longitude":-80.388
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"French Creek",
+        "County":"Upshur",
+        "ZipCode":"26218",
+        "Latitude":38.8993,
+        "Longitude":-80.2269
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Frenchton",
+        "County":"Upshur",
+        "ZipCode":"26219",
+        "Latitude":38.8993,
+        "Longitude":-80.2269
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kanawha Head",
+        "County":"Upshur",
+        "ZipCode":"26228",
+        "Latitude":38.7618,
+        "Longitude":-80.3727
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lorentz",
+        "County":"Upshur",
+        "ZipCode":"26229",
+        "Latitude":39.0109,
+        "Longitude":-80.3023
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rock Cave",
+        "County":"Upshur",
+        "ZipCode":"26234",
+        "Latitude":38.7811,
+        "Longitude":-80.3163
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Selbyville",
+        "County":"Upshur",
+        "ZipCode":"26236",
+        "Latitude":38.754,
+        "Longitude":-80.2365
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Tallmansville",
+        "County":"Upshur",
+        "ZipCode":"26237",
+        "Latitude":38.8564,
+        "Longitude":-80.158
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ceredo",
+        "County":"Wayne",
+        "ZipCode":"25507",
+        "Latitude":38.3965,
+        "Longitude":-82.5588
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Dunlow",
+        "County":"Wayne",
+        "ZipCode":"25511",
+        "Latitude":38.0231,
+        "Longitude":-82.4315
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"East Lynn",
+        "County":"Wayne",
+        "ZipCode":"25512",
+        "Latitude":38.1995,
+        "Longitude":-82.3279
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fort Gay",
+        "County":"Wayne",
+        "ZipCode":"25514",
+        "Latitude":38.1335,
+        "Longitude":-82.5541
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Genoa",
+        "County":"Wayne",
+        "ZipCode":"25517",
+        "Latitude":38.1321,
+        "Longitude":-82.4183
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kenova",
+        "County":"Wayne",
+        "ZipCode":"25530",
+        "Latitude":38.3569,
+        "Longitude":-82.5255
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kiahsville",
+        "County":"Wayne",
+        "ZipCode":"25534",
+        "Latitude":38.0915,
+        "Longitude":-82.3274
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lavalette",
+        "County":"Wayne",
+        "ZipCode":"25535",
+        "Latitude":38.3305,
+        "Longitude":-82.4287
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Prichard",
+        "County":"Wayne",
+        "ZipCode":"25555",
+        "Latitude":38.23,
+        "Longitude":-82.5753
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Shoals",
+        "County":"Wayne",
+        "ZipCode":"25562",
+        "Latitude":38.3432,
+        "Longitude":-82.4905
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wayne",
+        "County":"Wayne",
+        "ZipCode":"25570",
+        "Latitude":38.2258,
+        "Longitude":-82.4339
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Crum",
+        "County":"Wayne",
+        "ZipCode":"25669",
+        "Latitude":37.9389,
+        "Longitude":-82.4624
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wilsondale",
+        "County":"Wayne",
+        "ZipCode":"25699",
+        "Latitude":37.9537,
+        "Longitude":-82.3276
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Huntington",
+        "County":"Wayne",
+        "ZipCode":"25709",
+        "Latitude":38.4192,
+        "Longitude":-82.4452
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Erbacon",
+        "County":"Webster",
+        "ZipCode":"26203",
+        "Latitude":38.5419,
+        "Longitude":-80.5742
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cowen",
+        "County":"Webster",
+        "ZipCode":"26206",
+        "Latitude":38.4133,
+        "Longitude":-80.5358
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Camden On Gauley",
+        "County":"Webster",
+        "ZipCode":"26208",
+        "Latitude":38.3871,
+        "Longitude":-80.5907
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Diana",
+        "County":"Webster",
+        "ZipCode":"26217",
+        "Latitude":38.5755,
+        "Longitude":-80.432
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hacker Valley",
+        "County":"Webster",
+        "ZipCode":"26222",
+        "Latitude":38.6526,
+        "Longitude":-80.3837
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Upperglade",
+        "County":"Webster",
+        "ZipCode":"26266",
+        "Latitude":38.4185,
+        "Longitude":-80.4965
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Webster Springs",
+        "County":"Webster",
+        "ZipCode":"26288",
+        "Latitude":38.4832,
+        "Longitude":-80.4476
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bergoo",
+        "County":"Webster",
+        "ZipCode":"26298",
+        "Latitude":38.4865,
+        "Longitude":-80.3006
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Martinsville",
+        "County":"Wetzel",
+        "ZipCode":"26155",
+        "Latitude":39.6588,
+        "Longitude":-80.8565
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Paden City",
+        "County":"Wetzel",
+        "ZipCode":"26159",
+        "Latitude":39.6044,
+        "Longitude":-80.9265
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Porters Falls",
+        "County":"Wetzel",
+        "ZipCode":"26162",
+        "Latitude":39.5798,
+        "Longitude":-80.7762
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Reader",
+        "County":"Wetzel",
+        "ZipCode":"26167",
+        "Latitude":39.5836,
+        "Longitude":-80.7516
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Folsom",
+        "County":"Wetzel",
+        "ZipCode":"26348",
+        "Latitude":39.4693,
+        "Longitude":-80.5258
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jacksonburg",
+        "County":"Wetzel",
+        "ZipCode":"26377",
+        "Latitude":39.5416,
+        "Longitude":-80.6437
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pine Grove",
+        "County":"Wetzel",
+        "ZipCode":"26419",
+        "Latitude":39.5755,
+        "Longitude":-80.6667
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Smithfield",
+        "County":"Wetzel",
+        "ZipCode":"26437",
+        "Latitude":39.5134,
+        "Longitude":-80.5582
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Big Run",
+        "County":"Wetzel",
+        "ZipCode":"26561",
+        "Latitude":39.5845,
+        "Longitude":-80.5776
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Burton",
+        "County":"Wetzel",
+        "ZipCode":"26562",
+        "Latitude":39.6511,
+        "Longitude":-80.4161
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hundred",
+        "County":"Wetzel",
+        "ZipCode":"26575",
+        "Latitude":39.6917,
+        "Longitude":-80.4746
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Littleton",
+        "County":"Wetzel",
+        "ZipCode":"26581",
+        "Latitude":39.6592,
+        "Longitude":-80.5695
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Brohard",
+        "County":"Wirt",
+        "ZipCode":"26138",
+        "Latitude":39.0338,
+        "Longitude":-81.1775
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Creston",
+        "County":"Wirt",
+        "ZipCode":"26141",
+        "Latitude":38.9378,
+        "Longitude":-81.2369
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Elizabeth",
+        "County":"Wirt",
+        "ZipCode":"26143",
+        "Latitude":39.0566,
+        "Longitude":-81.3989
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Munday",
+        "County":"Wirt",
+        "ZipCode":"26152",
+        "Latitude":39.0054,
+        "Longitude":-81.2062
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Palestine",
+        "County":"Wirt",
+        "ZipCode":"26160",
+        "Latitude":38.9741,
+        "Longitude":-81.428
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Parkersburg",
+        "County":"Wood",
+        "ZipCode":"26101",
+        "Latitude":39.2644,
+        "Longitude":-81.5354
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Parkersburg",
+        "County":"Wood",
+        "ZipCode":"26102",
+        "Latitude":39.2183,
+        "Longitude":-81.4979
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Parkersburg",
+        "County":"Wood",
+        "ZipCode":"26103",
+        "Latitude":39.2364,
+        "Longitude":-81.5405
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Parkersburg",
+        "County":"Wood",
+        "ZipCode":"26104",
+        "Latitude":39.2804,
+        "Longitude":-81.4936
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Vienna",
+        "County":"Wood",
+        "ZipCode":"26105",
+        "Latitude":39.3251,
+        "Longitude":-81.5411
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Parkersburg",
+        "County":"Wood",
+        "ZipCode":"26106",
+        "Latitude":39.2183,
+        "Longitude":-81.4979
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mineral Wells",
+        "County":"Wood",
+        "ZipCode":"26120",
+        "Latitude":39.2183,
+        "Longitude":-81.4979
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mineral Wells",
+        "County":"Wood",
+        "ZipCode":"26121",
+        "Latitude":39.2183,
+        "Longitude":-81.4979
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Belleville",
+        "County":"Wood",
+        "ZipCode":"26133",
+        "Latitude":39.1314,
+        "Longitude":-81.6923
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Davisville",
+        "County":"Wood",
+        "ZipCode":"26142",
+        "Latitude":39.2126,
+        "Longitude":-81.4799
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mineral Wells",
+        "County":"Wood",
+        "ZipCode":"26150",
+        "Latitude":39.1897,
+        "Longitude":-81.5139
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rockport",
+        "County":"Wood",
+        "ZipCode":"26169",
+        "Latitude":39.0798,
+        "Longitude":-81.5713
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Walker",
+        "County":"Wood",
+        "ZipCode":"26180",
+        "Latitude":39.1821,
+        "Longitude":-81.3866
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Washington",
+        "County":"Wood",
+        "ZipCode":"26181",
+        "Latitude":39.2068,
+        "Longitude":-81.6577
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Waverly",
+        "County":"Wood",
+        "ZipCode":"26184",
+        "Latitude":39.3157,
+        "Longitude":-81.3819
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Williamstown",
+        "County":"Wood",
+        "ZipCode":"26187",
+        "Latitude":39.3824,
+        "Longitude":-81.4566
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Bud",
+        "County":"Wyoming",
+        "ZipCode":"24716",
+        "Latitude":37.5376,
+        "Longitude":-81.3793
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Covel",
+        "County":"Wyoming",
+        "ZipCode":"24719",
+        "Latitude":37.4909,
+        "Longitude":-81.3226
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Herndon",
+        "County":"Wyoming",
+        "ZipCode":"24726",
+        "Latitude":37.5054,
+        "Longitude":-81.3404
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Brenton",
+        "County":"Wyoming",
+        "ZipCode":"24818",
+        "Latitude":37.5988,
+        "Longitude":-81.6264
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Clear Fork",
+        "County":"Wyoming",
+        "ZipCode":"24822",
+        "Latitude":37.6309,
+        "Longitude":-81.6829
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Coal Mountain",
+        "County":"Wyoming",
+        "ZipCode":"24823",
+        "Latitude":37.6696,
+        "Longitude":-81.7284
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Cyclone",
+        "County":"Wyoming",
+        "ZipCode":"24827",
+        "Latitude":37.7329,
+        "Longitude":-81.6887
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Fanrock",
+        "County":"Wyoming",
+        "ZipCode":"24834",
+        "Latitude":37.5532,
+        "Longitude":-81.6305
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Hanover",
+        "County":"Wyoming",
+        "ZipCode":"24839",
+        "Latitude":37.563,
+        "Longitude":-81.8136
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ikes Fork",
+        "County":"Wyoming",
+        "ZipCode":"24845",
+        "Latitude":37.5221,
+        "Longitude":-81.8043
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Itmann",
+        "County":"Wyoming",
+        "ZipCode":"24847",
+        "Latitude":37.5734,
+        "Longitude":-81.4182
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Jesse",
+        "County":"Wyoming",
+        "ZipCode":"24849",
+        "Latitude":37.6608,
+        "Longitude":-81.5628
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Kopperston",
+        "County":"Wyoming",
+        "ZipCode":"24854",
+        "Latitude":37.744,
+        "Longitude":-81.575
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Lynco",
+        "County":"Wyoming",
+        "ZipCode":"24857",
+        "Latitude":37.6982,
+        "Longitude":-81.6771
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Marianna",
+        "County":"Wyoming",
+        "ZipCode":"24859",
+        "Latitude":37.6033,
+        "Longitude":-81.54
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Matheny",
+        "County":"Wyoming",
+        "ZipCode":"24860",
+        "Latitude":37.6624,
+        "Longitude":-81.607
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"New Richmond",
+        "County":"Wyoming",
+        "ZipCode":"24867",
+        "Latitude":37.5701,
+        "Longitude":-81.4887
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"North Spring",
+        "County":"Wyoming",
+        "ZipCode":"24869",
+        "Latitude":37.5682,
+        "Longitude":-81.8254
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Oceana",
+        "County":"Wyoming",
+        "ZipCode":"24870",
+        "Latitude":37.7407,
+        "Longitude":-81.5831
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Pineville",
+        "County":"Wyoming",
+        "ZipCode":"24874",
+        "Latitude":37.584,
+        "Longitude":-81.5336
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Rock View",
+        "County":"Wyoming",
+        "ZipCode":"24880",
+        "Latitude":37.6179,
+        "Longitude":-81.539
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Simon",
+        "County":"Wyoming",
+        "ZipCode":"24882",
+        "Latitude":37.6197,
+        "Longitude":-81.7586
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wyoming",
+        "County":"Wyoming",
+        "ZipCode":"24898",
+        "Latitude":37.5823,
+        "Longitude":-81.6018
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Allen Junction",
+        "County":"Wyoming",
+        "ZipCode":"25810",
+        "Latitude":37.5893,
+        "Longitude":-81.3507
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Amigo",
+        "County":"Wyoming",
+        "ZipCode":"25811",
+        "Latitude":37.5965,
+        "Longitude":-81.3209
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Corinne",
+        "County":"Wyoming",
+        "ZipCode":"25826",
+        "Latitude":37.5729,
+        "Longitude":-81.3565
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Fork",
+        "County":"Wyoming",
+        "ZipCode":"25845",
+        "Latitude":37.6959,
+        "Longitude":-81.529
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Glen Rogers",
+        "County":"Wyoming",
+        "ZipCode":"25848",
+        "Latitude":37.7217,
+        "Longitude":-81.429
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Maben",
+        "County":"Wyoming",
+        "ZipCode":"25870",
+        "Latitude":37.6387,
+        "Longitude":-81.394
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mc Graws",
+        "County":"Wyoming",
+        "ZipCode":"25875",
+        "Latitude":37.6033,
+        "Longitude":-81.54
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Saulsville",
+        "County":"Wyoming",
+        "ZipCode":"25876",
+        "Latitude":37.6429,
+        "Longitude":-81.4568
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Mullens",
+        "County":"Wyoming",
+        "ZipCode":"25882",
+        "Latitude":37.5842,
+        "Longitude":-81.389
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Ravencliff",
+        "County":"Wyoming",
+        "ZipCode":"25913",
+        "Latitude":37.7141,
+        "Longitude":-81.4895
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Sabine",
+        "County":"Wyoming",
+        "ZipCode":"25916",
+        "Latitude":37.6787,
+        "Longitude":-81.5015
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Stephenson",
+        "County":"Wyoming",
+        "ZipCode":"25928",
+        "Latitude":37.5798,
+        "Longitude":-81.3339
+    },
+    {
+        "State":"West Virginia",
+        "StateAbbr":"WV",
+        "City":"Wyco",
+        "County":"Wyoming",
+        "ZipCode":"25943",
+        "Latitude":37.599,
+        "Longitude":-81.3429
+    }
+]

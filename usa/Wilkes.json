@@ -1,0 +1,155 @@
+[
+    {
+        "State":"Wilkes",
+        "StateAbbr":317.0,
+        "City":"GA",
+        "County":null,
+        "ZipCode":"Georgia",
+        "Latitude":33.7856,
+        "Longitude":-82.9504
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":317.0,
+        "City":"GA",
+        "County":null,
+        "ZipCode":"Georgia",
+        "Latitude":33.8778,
+        "Longitude":-82.747
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":317.0,
+        "City":"GA",
+        "County":null,
+        "ZipCode":"Georgia",
+        "Latitude":33.7265,
+        "Longitude":-82.7429
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.0552,
+        "Longitude":-81.3137
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.1283,
+        "Longitude":-81.3864
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.31,
+        "Longitude":-81.1161
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.3103,
+        "Longitude":-81.1912
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.2119,
+        "Longitude":-81.2485
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.0788,
+        "Longitude":-81.1781
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.2384,
+        "Longitude":-81.046
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.2017,
+        "Longitude":-81.1286
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.1964,
+        "Longitude":-81.3528
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.1916,
+        "Longitude":-81.0004
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.2059,
+        "Longitude":-80.927
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.3562,
+        "Longitude":-80.9317
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.3301,
+        "Longitude":-81.0151
+    },
+    {
+        "State":"Wilkes",
+        "StateAbbr":193.0,
+        "City":"NC",
+        "County":null,
+        "ZipCode":"North Carolina",
+        "Latitude":36.1359,
+        "Longitude":-81.1573
+    }
+]

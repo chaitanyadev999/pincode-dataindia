@@ -1,0 +1,38 @@
+[
+    {
+        "State":"West Baton Rouge",
+        "StateAbbr":121.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.3557,
+        "Longitude":-91.2613
+    },
+    {
+        "State":"West Baton Rouge",
+        "StateAbbr":121.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.3877,
+        "Longitude":-91.2526
+    },
+    {
+        "State":"West Baton Rouge",
+        "StateAbbr":121.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.548,
+        "Longitude":-91.4187
+    },
+    {
+        "State":"West Baton Rouge",
+        "StateAbbr":121.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":30.472,
+        "Longitude":-91.2541
+    }
+]

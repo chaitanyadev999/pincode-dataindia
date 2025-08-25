@@ -1,0 +1,3665 @@
+[
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hettinger",
+        "County":"Adams",
+        "ZipCode":"58639",
+        "Latitude":46.0578,
+        "Longitude":-102.7851
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Reeder",
+        "County":"Adams",
+        "ZipCode":"58649",
+        "Latitude":46.1116,
+        "Longitude":-102.9405
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fingal",
+        "County":"Barnes",
+        "ZipCode":"58031",
+        "Latitude":46.7728,
+        "Longitude":-97.7812
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kathryn",
+        "County":"Barnes",
+        "ZipCode":"58049",
+        "Latitude":46.7177,
+        "Longitude":-97.9763
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Nome",
+        "County":"Barnes",
+        "ZipCode":"58062",
+        "Latitude":46.6748,
+        "Longitude":-97.7911
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Oriska",
+        "County":"Barnes",
+        "ZipCode":"58063",
+        "Latitude":46.9433,
+        "Longitude":-97.7853
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Pillsbury",
+        "County":"Barnes",
+        "ZipCode":"58065",
+        "Latitude":47.1862,
+        "Longitude":-97.7605
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Valley City",
+        "County":"Barnes",
+        "ZipCode":"58072",
+        "Latitude":46.9268,
+        "Longitude":-98.0033
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dazey",
+        "County":"Barnes",
+        "ZipCode":"58429",
+        "Latitude":47.1828,
+        "Longitude":-98.1616
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Litchville",
+        "County":"Barnes",
+        "ZipCode":"58461",
+        "Latitude":46.6536,
+        "Longitude":-98.1943
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rogers",
+        "County":"Barnes",
+        "ZipCode":"58479",
+        "Latitude":47.0741,
+        "Longitude":-98.2136
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sanborn",
+        "County":"Barnes",
+        "ZipCode":"58480",
+        "Latitude":46.9271,
+        "Longitude":-98.2336
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wimbledon",
+        "County":"Barnes",
+        "ZipCode":"58492",
+        "Latitude":47.1438,
+        "Longitude":-98.4329
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Esmond",
+        "County":"Benson",
+        "ZipCode":"58332",
+        "Latitude":48.0419,
+        "Longitude":-99.7617
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fort Totten",
+        "County":"Benson",
+        "ZipCode":"58335",
+        "Latitude":47.9811,
+        "Longitude":-99.0264
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Knox",
+        "County":"Benson",
+        "ZipCode":"58343",
+        "Latitude":48.3388,
+        "Longitude":-99.6713
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Leeds",
+        "County":"Benson",
+        "ZipCode":"58346",
+        "Latitude":48.2889,
+        "Longitude":-99.4376
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Maddock",
+        "County":"Benson",
+        "ZipCode":"58348",
+        "Latitude":47.9625,
+        "Longitude":-99.5301
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minnewaukan",
+        "County":"Benson",
+        "ZipCode":"58351",
+        "Latitude":48.0698,
+        "Longitude":-99.2743
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Oberon",
+        "County":"Benson",
+        "ZipCode":"58357",
+        "Latitude":47.9487,
+        "Longitude":-99.1401
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Saint Michael",
+        "County":"Benson",
+        "ZipCode":"58370",
+        "Latitude":47.985,
+        "Longitude":-98.8721
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tokio",
+        "County":"Benson",
+        "ZipCode":"58379",
+        "Latitude":47.9247,
+        "Longitude":-98.8162
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Warwick",
+        "County":"Benson",
+        "ZipCode":"58381",
+        "Latitude":47.8913,
+        "Longitude":-98.681
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"York",
+        "County":"Benson",
+        "ZipCode":"58386",
+        "Latitude":48.2565,
+        "Longitude":-99.6025
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fairfield",
+        "County":"Billings",
+        "ZipCode":"58627",
+        "Latitude":47.2329,
+        "Longitude":-103.3056
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Medora",
+        "County":"Billings",
+        "ZipCode":"58645",
+        "Latitude":46.9387,
+        "Longitude":-103.5632
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bottineau",
+        "County":"Bottineau",
+        "ZipCode":"58318",
+        "Latitude":48.8451,
+        "Longitude":-100.4329
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Willow City",
+        "County":"Bottineau",
+        "ZipCode":"58384",
+        "Latitude":48.6062,
+        "Longitude":-100.2968
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Antler",
+        "County":"Bottineau",
+        "ZipCode":"58711",
+        "Latitude":48.9585,
+        "Longitude":-101.3338
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kramer",
+        "County":"Bottineau",
+        "ZipCode":"58748",
+        "Latitude":48.6867,
+        "Longitude":-100.6716
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lansford",
+        "County":"Bottineau",
+        "ZipCode":"58750",
+        "Latitude":48.6254,
+        "Longitude":-101.3858
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Maxbass",
+        "County":"Bottineau",
+        "ZipCode":"58760",
+        "Latitude":48.7722,
+        "Longitude":-101.2563
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Newburg",
+        "County":"Bottineau",
+        "ZipCode":"58762",
+        "Latitude":48.6982,
+        "Longitude":-100.9681
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Souris",
+        "County":"Bottineau",
+        "ZipCode":"58783",
+        "Latitude":48.8738,
+        "Longitude":-100.7359
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Westhope",
+        "County":"Bottineau",
+        "ZipCode":"58793",
+        "Latitude":48.9051,
+        "Longitude":-101.0338
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bowman",
+        "County":"Bowman",
+        "ZipCode":"58623",
+        "Latitude":46.1733,
+        "Longitude":-103.402
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rhame",
+        "County":"Bowman",
+        "ZipCode":"58651",
+        "Latitude":46.1664,
+        "Longitude":-103.7079
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Scranton",
+        "County":"Bowman",
+        "ZipCode":"58653",
+        "Latitude":46.0916,
+        "Longitude":-103.1354
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bowbells",
+        "County":"Burke",
+        "ZipCode":"58721",
+        "Latitude":48.8378,
+        "Longitude":-102.2839
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Columbus",
+        "County":"Burke",
+        "ZipCode":"58727",
+        "Latitude":48.8434,
+        "Longitude":-102.798
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Flaxton",
+        "County":"Burke",
+        "ZipCode":"58737",
+        "Latitude":48.8772,
+        "Longitude":-102.3823
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lignite",
+        "County":"Burke",
+        "ZipCode":"58752",
+        "Latitude":48.8481,
+        "Longitude":-102.5542
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Portal",
+        "County":"Burke",
+        "ZipCode":"58772",
+        "Latitude":48.9758,
+        "Longitude":-102.548
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Powers Lake",
+        "County":"Burke",
+        "ZipCode":"58773",
+        "Latitude":48.6551,
+        "Longitude":-102.6795
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Regan",
+        "County":"Burleigh",
+        "ZipCode":"58477",
+        "Latitude":47.1527,
+        "Longitude":-100.5224
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wing",
+        "County":"Burleigh",
+        "ZipCode":"58494",
+        "Latitude":47.1519,
+        "Longitude":-100.3072
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58501",
+        "Latitude":46.8083,
+        "Longitude":-100.7837
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58502",
+        "Latitude":46.8887,
+        "Longitude":-100.6819
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58503",
+        "Latitude":46.8394,
+        "Longitude":-100.7843
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58504",
+        "Latitude":46.7231,
+        "Longitude":-100.678
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58505",
+        "Latitude":46.8165,
+        "Longitude":-100.7805
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58506",
+        "Latitude":46.8083,
+        "Longitude":-100.7837
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bismarck",
+        "County":"Burleigh",
+        "ZipCode":"58507",
+        "Latitude":46.8083,
+        "Longitude":-100.7837
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Baldwin",
+        "County":"Burleigh",
+        "ZipCode":"58521",
+        "Latitude":46.9543,
+        "Longitude":-100.7615
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Driscoll",
+        "County":"Burleigh",
+        "ZipCode":"58532",
+        "Latitude":46.8511,
+        "Longitude":-100.1441
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Menoken",
+        "County":"Burleigh",
+        "ZipCode":"58558",
+        "Latitude":46.8205,
+        "Longitude":-100.5312
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Moffit",
+        "County":"Burleigh",
+        "ZipCode":"58560",
+        "Latitude":46.6757,
+        "Longitude":-100.2975
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sterling",
+        "County":"Burleigh",
+        "ZipCode":"58572",
+        "Latitude":46.8436,
+        "Longitude":-100.2744
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Absaraka",
+        "County":"Cass",
+        "ZipCode":"58002",
+        "Latitude":46.9763,
+        "Longitude":-97.4069
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Amenia",
+        "County":"Cass",
+        "ZipCode":"58004",
+        "Latitude":47.0194,
+        "Longitude":-97.2048
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Argusville",
+        "County":"Cass",
+        "ZipCode":"58005",
+        "Latitude":47.1066,
+        "Longitude":-96.9058
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Arthur",
+        "County":"Cass",
+        "ZipCode":"58006",
+        "Latitude":47.1048,
+        "Longitude":-97.2097
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ayr",
+        "County":"Cass",
+        "ZipCode":"58007",
+        "Latitude":47.0139,
+        "Longitude":-97.4629
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Buffalo",
+        "County":"Cass",
+        "ZipCode":"58011",
+        "Latitude":46.9264,
+        "Longitude":-97.5352
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Casselton",
+        "County":"Cass",
+        "ZipCode":"58012",
+        "Latitude":46.8992,
+        "Longitude":-97.2138
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Davenport",
+        "County":"Cass",
+        "ZipCode":"58021",
+        "Latitude":46.6968,
+        "Longitude":-97.0871
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Erie",
+        "County":"Cass",
+        "ZipCode":"58029",
+        "Latitude":47.1128,
+        "Longitude":-97.3849
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Gardner",
+        "County":"Cass",
+        "ZipCode":"58036",
+        "Latitude":47.1252,
+        "Longitude":-96.9901
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grandin",
+        "County":"Cass",
+        "ZipCode":"58038",
+        "Latitude":47.2158,
+        "Longitude":-97.0207
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Harwood",
+        "County":"Cass",
+        "ZipCode":"58042",
+        "Latitude":46.9565,
+        "Longitude":-96.9654
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Horace",
+        "County":"Cass",
+        "ZipCode":"58047",
+        "Latitude":46.7101,
+        "Longitude":-96.8851
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hunter",
+        "County":"Cass",
+        "ZipCode":"58048",
+        "Latitude":47.1905,
+        "Longitude":-97.217
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kindred",
+        "County":"Cass",
+        "ZipCode":"58051",
+        "Latitude":46.6543,
+        "Longitude":-97.0049
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Leonard",
+        "County":"Cass",
+        "ZipCode":"58052",
+        "Latitude":46.6593,
+        "Longitude":-97.2725
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mapleton",
+        "County":"Cass",
+        "ZipCode":"58059",
+        "Latitude":46.8614,
+        "Longitude":-97.1157
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Page",
+        "County":"Cass",
+        "ZipCode":"58064",
+        "Latitude":47.1515,
+        "Longitude":-97.5967
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tower City",
+        "County":"Cass",
+        "ZipCode":"58071",
+        "Latitude":46.9119,
+        "Longitude":-97.6594
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"West Fargo",
+        "County":"Cass",
+        "ZipCode":"58078",
+        "Latitude":46.8907,
+        "Longitude":-96.9258
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wheatland",
+        "County":"Cass",
+        "ZipCode":"58079",
+        "Latitude":46.8326,
+        "Longitude":-97.3461
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58102",
+        "Latitude":46.9209,
+        "Longitude":-96.8318
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58103",
+        "Latitude":46.8564,
+        "Longitude":-96.8123
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58104",
+        "Latitude":46.7932,
+        "Longitude":-96.8397
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58105",
+        "Latitude":46.8954,
+        "Longitude":-96.8078
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58106",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58107",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58108",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58109",
+        "Latitude":46.8235,
+        "Longitude":-96.8148
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58121",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58122",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58124",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58125",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fargo",
+        "County":"Cass",
+        "ZipCode":"58126",
+        "Latitude":46.8772,
+        "Longitude":-96.7898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hannah",
+        "County":"Cavalier",
+        "ZipCode":"58239",
+        "Latitude":48.9594,
+        "Longitude":-98.7237
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Langdon",
+        "County":"Cavalier",
+        "ZipCode":"58249",
+        "Latitude":48.7866,
+        "Longitude":-98.3566
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Maida",
+        "County":"Cavalier",
+        "ZipCode":"58255",
+        "Latitude":48.9986,
+        "Longitude":-98.3648
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Milton",
+        "County":"Cavalier",
+        "ZipCode":"58260",
+        "Latitude":48.617,
+        "Longitude":-98.0183
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Osnabrock",
+        "County":"Cavalier",
+        "ZipCode":"58269",
+        "Latitude":48.6689,
+        "Longitude":-98.1512
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wales",
+        "County":"Cavalier",
+        "ZipCode":"58281",
+        "Latitude":48.9216,
+        "Longitude":-98.5596
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Alsen",
+        "County":"Cavalier",
+        "ZipCode":"58311",
+        "Latitude":48.6525,
+        "Longitude":-98.5795
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Calvin",
+        "County":"Cavalier",
+        "ZipCode":"58323",
+        "Latitude":48.851,
+        "Longitude":-98.8808
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Munich",
+        "County":"Cavalier",
+        "ZipCode":"58352",
+        "Latitude":48.6694,
+        "Longitude":-98.8355
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Nekoma",
+        "County":"Cavalier",
+        "ZipCode":"58355",
+        "Latitude":48.5772,
+        "Longitude":-98.3704
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sarles",
+        "County":"Cavalier",
+        "ZipCode":"58372",
+        "Latitude":48.9458,
+        "Longitude":-98.996
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ellendale",
+        "County":"Dickey",
+        "ZipCode":"58436",
+        "Latitude":46.0073,
+        "Longitude":-98.5138
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Forbes",
+        "County":"Dickey",
+        "ZipCode":"58439",
+        "Latitude":46.0109,
+        "Longitude":-98.8124
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fullerton",
+        "County":"Dickey",
+        "ZipCode":"58441",
+        "Latitude":46.1951,
+        "Longitude":-98.3882
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Oakes",
+        "County":"Dickey",
+        "ZipCode":"58474",
+        "Latitude":46.1095,
+        "Longitude":-98.2257
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Crosby",
+        "County":"Divide",
+        "ZipCode":"58730",
+        "Latitude":48.8836,
+        "Longitude":-103.274
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Noonan",
+        "County":"Divide",
+        "ZipCode":"58765",
+        "Latitude":48.8856,
+        "Longitude":-103.0098
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ambrose",
+        "County":"Divide",
+        "ZipCode":"58833",
+        "Latitude":48.8165,
+        "Longitude":-103.4673
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fortuna",
+        "County":"Divide",
+        "ZipCode":"58844",
+        "Latitude":48.8813,
+        "Longitude":-103.7415
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dodge",
+        "County":"Dunn",
+        "ZipCode":"58625",
+        "Latitude":47.3049,
+        "Longitude":-102.1985
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dunn Center",
+        "County":"Dunn",
+        "ZipCode":"58626",
+        "Latitude":47.3536,
+        "Longitude":-102.6205
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Halliday",
+        "County":"Dunn",
+        "ZipCode":"58636",
+        "Latitude":47.3517,
+        "Longitude":-102.3368
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Killdeer",
+        "County":"Dunn",
+        "ZipCode":"58640",
+        "Latitude":47.4109,
+        "Longitude":-102.7762
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Manning",
+        "County":"Dunn",
+        "ZipCode":"58642",
+        "Latitude":47.1258,
+        "Longitude":-102.6806
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Marshall",
+        "County":"Dunn",
+        "ZipCode":"58644",
+        "Latitude":47.1381,
+        "Longitude":-102.333
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"New Rockford",
+        "County":"Eddy",
+        "ZipCode":"58356",
+        "Latitude":47.7174,
+        "Longitude":-98.8987
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sheyenne",
+        "County":"Eddy",
+        "ZipCode":"58374",
+        "Latitude":47.8184,
+        "Longitude":-99.0583
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Braddock",
+        "County":"Emmons",
+        "ZipCode":"58524",
+        "Latitude":46.5603,
+        "Longitude":-100.1075
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hague",
+        "County":"Emmons",
+        "ZipCode":"58542",
+        "Latitude":46.0589,
+        "Longitude":-99.9745
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hazelton",
+        "County":"Emmons",
+        "ZipCode":"58544",
+        "Latitude":46.4875,
+        "Longitude":-100.2733
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kintyre",
+        "County":"Emmons",
+        "ZipCode":"58549",
+        "Latitude":46.5736,
+        "Longitude":-99.9705
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Linton",
+        "County":"Emmons",
+        "ZipCode":"58552",
+        "Latitude":46.1855,
+        "Longitude":-100.2331
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Strasburg",
+        "County":"Emmons",
+        "ZipCode":"58573",
+        "Latitude":46.0979,
+        "Longitude":-100.2119
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Carrington",
+        "County":"Foster",
+        "ZipCode":"58421",
+        "Latitude":47.4573,
+        "Longitude":-98.8933
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Glenfield",
+        "County":"Foster",
+        "ZipCode":"58443",
+        "Latitude":47.4569,
+        "Longitude":-98.6916
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grace City",
+        "County":"Foster",
+        "ZipCode":"58445",
+        "Latitude":47.5536,
+        "Longitude":-98.8095
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mchenry",
+        "County":"Foster",
+        "ZipCode":"58464",
+        "Latitude":47.5604,
+        "Longitude":-98.5726
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Beach",
+        "County":"Golden Valley",
+        "ZipCode":"58621",
+        "Latitude":46.9324,
+        "Longitude":-103.9843
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Golva",
+        "County":"Golden Valley",
+        "ZipCode":"58632",
+        "Latitude":46.7075,
+        "Longitude":-103.9575
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sentinel Butte",
+        "County":"Golden Valley",
+        "ZipCode":"58654",
+        "Latitude":46.8305,
+        "Longitude":-103.8001
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks",
+        "County":"Grand Forks",
+        "ZipCode":"58201",
+        "Latitude":47.901,
+        "Longitude":-97.0446
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks",
+        "County":"Grand Forks",
+        "ZipCode":"58202",
+        "Latitude":47.9215,
+        "Longitude":-97.0735
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks",
+        "County":"Grand Forks",
+        "ZipCode":"58203",
+        "Latitude":47.9272,
+        "Longitude":-97.0672
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks Afb",
+        "County":"Grand Forks",
+        "ZipCode":"58204",
+        "Latitude":47.9679,
+        "Longitude":-97.3675
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks Afb",
+        "County":"Grand Forks",
+        "ZipCode":"58205",
+        "Latitude":47.9515,
+        "Longitude":-97.379
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks",
+        "County":"Grand Forks",
+        "ZipCode":"58206",
+        "Latitude":47.9253,
+        "Longitude":-97.0329
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks",
+        "County":"Grand Forks",
+        "ZipCode":"58207",
+        "Latitude":47.9253,
+        "Longitude":-97.0329
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grand Forks",
+        "County":"Grand Forks",
+        "ZipCode":"58208",
+        "Latitude":47.9253,
+        "Longitude":-97.0329
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Arvilla",
+        "County":"Grand Forks",
+        "ZipCode":"58214",
+        "Latitude":47.9093,
+        "Longitude":-97.4871
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Emerado",
+        "County":"Grand Forks",
+        "ZipCode":"58228",
+        "Latitude":47.9214,
+        "Longitude":-97.263
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Gilby",
+        "County":"Grand Forks",
+        "ZipCode":"58235",
+        "Latitude":48.0853,
+        "Longitude":-97.4706
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Inkster",
+        "County":"Grand Forks",
+        "ZipCode":"58244",
+        "Latitude":48.1514,
+        "Longitude":-97.6443
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Larimore",
+        "County":"Grand Forks",
+        "ZipCode":"58251",
+        "Latitude":47.9115,
+        "Longitude":-97.6264
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Manvel",
+        "County":"Grand Forks",
+        "ZipCode":"58256",
+        "Latitude":48.0853,
+        "Longitude":-97.1943
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mekinock",
+        "County":"Grand Forks",
+        "ZipCode":"58258",
+        "Latitude":48.0074,
+        "Longitude":-97.4305
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Niagara",
+        "County":"Grand Forks",
+        "ZipCode":"58266",
+        "Latitude":47.9848,
+        "Longitude":-97.8334
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Northwood",
+        "County":"Grand Forks",
+        "ZipCode":"58267",
+        "Latitude":47.7591,
+        "Longitude":-97.6038
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Reynolds",
+        "County":"Grand Forks",
+        "ZipCode":"58275",
+        "Latitude":47.7068,
+        "Longitude":-97.2092
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Thompson",
+        "County":"Grand Forks",
+        "ZipCode":"58278",
+        "Latitude":47.7766,
+        "Longitude":-97.0962
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Carson",
+        "County":"Grant",
+        "ZipCode":"58529",
+        "Latitude":46.4624,
+        "Longitude":-101.5387
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Elgin",
+        "County":"Grant",
+        "ZipCode":"58533",
+        "Latitude":46.3679,
+        "Longitude":-101.7558
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"New Leipzig",
+        "County":"Grant",
+        "ZipCode":"58562",
+        "Latitude":46.3823,
+        "Longitude":-101.9619
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Raleigh",
+        "County":"Grant",
+        "ZipCode":"58564",
+        "Latitude":46.3352,
+        "Longitude":-101.2827
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Shields",
+        "County":"Grant",
+        "ZipCode":"58569",
+        "Latitude":46.1838,
+        "Longitude":-101.2589
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Binford",
+        "County":"Griggs",
+        "ZipCode":"58416",
+        "Latitude":47.5739,
+        "Longitude":-98.3546
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cooperstown",
+        "County":"Griggs",
+        "ZipCode":"58425",
+        "Latitude":47.4527,
+        "Longitude":-98.1533
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hannaford",
+        "County":"Griggs",
+        "ZipCode":"58448",
+        "Latitude":47.3786,
+        "Longitude":-98.3502
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Jessie",
+        "County":"Griggs",
+        "ZipCode":"58452",
+        "Latitude":47.5422,
+        "Longitude":-98.2382
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sutton",
+        "County":"Griggs",
+        "ZipCode":"58484",
+        "Latitude":47.3854,
+        "Longitude":-98.432
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mott",
+        "County":"Hettinger",
+        "ZipCode":"58646",
+        "Latitude":46.3696,
+        "Longitude":-102.327
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"New England",
+        "County":"Hettinger",
+        "ZipCode":"58647",
+        "Latitude":46.5128,
+        "Longitude":-102.8358
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Regent",
+        "County":"Hettinger",
+        "ZipCode":"58650",
+        "Latitude":46.4235,
+        "Longitude":-102.5684
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dawson",
+        "County":"Kidder",
+        "ZipCode":"58428",
+        "Latitude":46.8686,
+        "Longitude":-99.7515
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Pettibone",
+        "County":"Kidder",
+        "ZipCode":"58475",
+        "Latitude":47.12,
+        "Longitude":-99.5279
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Robinson",
+        "County":"Kidder",
+        "ZipCode":"58478",
+        "Latitude":47.1749,
+        "Longitude":-99.7457
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Steele",
+        "County":"Kidder",
+        "ZipCode":"58482",
+        "Latitude":46.8524,
+        "Longitude":-99.9336
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tappen",
+        "County":"Kidder",
+        "ZipCode":"58487",
+        "Latitude":46.8336,
+        "Longitude":-99.6019
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tuttle",
+        "County":"Kidder",
+        "ZipCode":"58488",
+        "Latitude":47.1626,
+        "Longitude":-99.9873
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Berlin",
+        "County":"LaMoure",
+        "ZipCode":"58415",
+        "Latitude":46.3786,
+        "Longitude":-98.4898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dickey",
+        "County":"LaMoure",
+        "ZipCode":"58431",
+        "Latitude":46.5426,
+        "Longitude":-98.4682
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Edgeley",
+        "County":"LaMoure",
+        "ZipCode":"58433",
+        "Latitude":46.3591,
+        "Longitude":-98.7157
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Jud",
+        "County":"LaMoure",
+        "ZipCode":"58454",
+        "Latitude":46.5511,
+        "Longitude":-98.8667
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kulm",
+        "County":"LaMoure",
+        "ZipCode":"58456",
+        "Latitude":46.3073,
+        "Longitude":-98.9427
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lamoure",
+        "County":"LaMoure",
+        "ZipCode":"58458",
+        "Latitude":46.3844,
+        "Longitude":-98.3587
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Marion",
+        "County":"LaMoure",
+        "ZipCode":"58466",
+        "Latitude":46.5514,
+        "Longitude":-98.369
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Verona",
+        "County":"LaMoure",
+        "ZipCode":"58490",
+        "Latitude":46.3712,
+        "Longitude":-98.0895
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fredonia",
+        "County":"Logan",
+        "ZipCode":"58440",
+        "Latitude":46.3701,
+        "Longitude":-99.1733
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Gackle",
+        "County":"Logan",
+        "ZipCode":"58442",
+        "Latitude":46.5913,
+        "Longitude":-99.2191
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Napoleon",
+        "County":"Logan",
+        "ZipCode":"58561",
+        "Latitude":46.4867,
+        "Longitude":-99.7725
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Anamoose",
+        "County":"McHenry",
+        "ZipCode":"58710",
+        "Latitude":47.8703,
+        "Longitude":-100.2529
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Balfour",
+        "County":"McHenry",
+        "ZipCode":"58712",
+        "Latitude":47.9685,
+        "Longitude":-100.5209
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bantry",
+        "County":"McHenry",
+        "ZipCode":"58713",
+        "Latitude":48.5351,
+        "Longitude":-100.5954
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Deering",
+        "County":"McHenry",
+        "ZipCode":"58731",
+        "Latitude":48.4057,
+        "Longitude":-101.0337
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Drake",
+        "County":"McHenry",
+        "ZipCode":"58736",
+        "Latitude":47.9024,
+        "Longitude":-100.379
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Granville",
+        "County":"McHenry",
+        "ZipCode":"58741",
+        "Latitude":48.2566,
+        "Longitude":-100.8082
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Karlsruhe",
+        "County":"McHenry",
+        "ZipCode":"58744",
+        "Latitude":48.1009,
+        "Longitude":-100.5742
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Norwich",
+        "County":"McHenry",
+        "ZipCode":"58768",
+        "Latitude":48.2491,
+        "Longitude":-100.9712
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Towner",
+        "County":"McHenry",
+        "ZipCode":"58788",
+        "Latitude":48.3636,
+        "Longitude":-100.4854
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Upham",
+        "County":"McHenry",
+        "ZipCode":"58789",
+        "Latitude":48.5816,
+        "Longitude":-100.7323
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Velva",
+        "County":"McHenry",
+        "ZipCode":"58790",
+        "Latitude":48.0675,
+        "Longitude":-100.9346
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Voltaire",
+        "County":"McHenry",
+        "ZipCode":"58792",
+        "Latitude":47.986,
+        "Longitude":-100.7988
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ashley",
+        "County":"McIntosh",
+        "ZipCode":"58413",
+        "Latitude":46.0537,
+        "Longitude":-99.3164
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lehr",
+        "County":"McIntosh",
+        "ZipCode":"58460",
+        "Latitude":46.2586,
+        "Longitude":-99.3491
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wishek",
+        "County":"McIntosh",
+        "ZipCode":"58495",
+        "Latitude":46.1917,
+        "Longitude":-99.6131
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Zeeland",
+        "County":"McIntosh",
+        "ZipCode":"58581",
+        "Latitude":46.0055,
+        "Longitude":-99.7725
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grassy Butte",
+        "County":"McKenzie",
+        "ZipCode":"58634",
+        "Latitude":47.4431,
+        "Longitude":-103.2944
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mandaree",
+        "County":"McKenzie",
+        "ZipCode":"58757",
+        "Latitude":47.7292,
+        "Longitude":-102.676
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Alexander",
+        "County":"McKenzie",
+        "ZipCode":"58831",
+        "Latitude":47.7947,
+        "Longitude":-103.6546
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Arnegard",
+        "County":"McKenzie",
+        "ZipCode":"58835",
+        "Latitude":47.8088,
+        "Longitude":-103.4538
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cartwright",
+        "County":"McKenzie",
+        "ZipCode":"58838",
+        "Latitude":47.7992,
+        "Longitude":-103.9487
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Keene",
+        "County":"McKenzie",
+        "ZipCode":"58847",
+        "Latitude":47.9405,
+        "Longitude":-102.8906
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Watford City",
+        "County":"McKenzie",
+        "ZipCode":"58854",
+        "Latitude":47.8043,
+        "Longitude":-103.2582
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Coleharbor",
+        "County":"McLean",
+        "ZipCode":"58531",
+        "Latitude":47.5442,
+        "Longitude":-101.2238
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Garrison",
+        "County":"McLean",
+        "ZipCode":"58540",
+        "Latitude":47.6675,
+        "Longitude":-101.6142
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mercer",
+        "County":"McLean",
+        "ZipCode":"58559",
+        "Latitude":47.4858,
+        "Longitude":-100.7171
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Riverdale",
+        "County":"McLean",
+        "ZipCode":"58565",
+        "Latitude":47.4975,
+        "Longitude":-101.3713
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Turtle Lake",
+        "County":"McLean",
+        "ZipCode":"58575",
+        "Latitude":47.5414,
+        "Longitude":-100.8814
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Underwood",
+        "County":"McLean",
+        "ZipCode":"58576",
+        "Latitude":47.4602,
+        "Longitude":-101.1898
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Washburn",
+        "County":"McLean",
+        "ZipCode":"58577",
+        "Latitude":47.3114,
+        "Longitude":-101.0116
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wilton",
+        "County":"McLean",
+        "ZipCode":"58579",
+        "Latitude":47.1709,
+        "Longitude":-100.7944
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Benedict",
+        "County":"McLean",
+        "ZipCode":"58716",
+        "Latitude":47.7865,
+        "Longitude":-101.0579
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Butte",
+        "County":"McLean",
+        "ZipCode":"58723",
+        "Latitude":47.8119,
+        "Longitude":-100.6604
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Max",
+        "County":"McLean",
+        "ZipCode":"58759",
+        "Latitude":47.8156,
+        "Longitude":-101.2932
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Roseglen",
+        "County":"McLean",
+        "ZipCode":"58775",
+        "Latitude":47.696,
+        "Longitude":-101.822
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ruso",
+        "County":"McLean",
+        "ZipCode":"58778",
+        "Latitude":47.7622,
+        "Longitude":-100.8754
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Beulah",
+        "County":"Mercer",
+        "ZipCode":"58523",
+        "Latitude":47.2707,
+        "Longitude":-101.8075
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Golden Valley",
+        "County":"Mercer",
+        "ZipCode":"58541",
+        "Latitude":47.2938,
+        "Longitude":-102.0612
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hazen",
+        "County":"Mercer",
+        "ZipCode":"58545",
+        "Latitude":47.3271,
+        "Longitude":-101.6107
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Stanton",
+        "County":"Mercer",
+        "ZipCode":"58571",
+        "Latitude":47.3128,
+        "Longitude":-101.3899
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Zap",
+        "County":"Mercer",
+        "ZipCode":"58580",
+        "Latitude":47.2897,
+        "Longitude":-101.9256
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Almont",
+        "County":"Morton",
+        "ZipCode":"58520",
+        "Latitude":46.7046,
+        "Longitude":-101.5221
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Flasher",
+        "County":"Morton",
+        "ZipCode":"58535",
+        "Latitude":46.5998,
+        "Longitude":-101.3166
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mandan",
+        "County":"Morton",
+        "ZipCode":"58554",
+        "Latitude":46.8306,
+        "Longitude":-100.9092
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"New Salem",
+        "County":"Morton",
+        "ZipCode":"58563",
+        "Latitude":46.806,
+        "Longitude":-101.4291
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Saint Anthony",
+        "County":"Morton",
+        "ZipCode":"58566",
+        "Latitude":46.5888,
+        "Longitude":-100.8972
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Glen Ullin",
+        "County":"Morton",
+        "ZipCode":"58631",
+        "Latitude":46.8233,
+        "Longitude":-101.8223
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hebron",
+        "County":"Morton",
+        "ZipCode":"58638",
+        "Latitude":46.8936,
+        "Longitude":-102.0367
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"New Town",
+        "County":"Mountrail",
+        "ZipCode":"58763",
+        "Latitude":47.9718,
+        "Longitude":-102.4716
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Palermo",
+        "County":"Mountrail",
+        "ZipCode":"58769",
+        "Latitude":48.3396,
+        "Longitude":-102.24
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Parshall",
+        "County":"Mountrail",
+        "ZipCode":"58770",
+        "Latitude":47.956,
+        "Longitude":-102.1427
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Plaza",
+        "County":"Mountrail",
+        "ZipCode":"58771",
+        "Latitude":48.0242,
+        "Longitude":-101.9643
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ross",
+        "County":"Mountrail",
+        "ZipCode":"58776",
+        "Latitude":48.3111,
+        "Longitude":-102.5466
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Stanley",
+        "County":"Mountrail",
+        "ZipCode":"58784",
+        "Latitude":48.3458,
+        "Longitude":-102.4185
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"White Earth",
+        "County":"Mountrail",
+        "ZipCode":"58794",
+        "Latitude":48.2994,
+        "Longitude":-102.7701
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Aneta",
+        "County":"Nelson",
+        "ZipCode":"58212",
+        "Latitude":47.6993,
+        "Longitude":-97.9814
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dahlen",
+        "County":"Nelson",
+        "ZipCode":"58224",
+        "Latitude":48.1599,
+        "Longitude":-97.9573
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mcville",
+        "County":"Nelson",
+        "ZipCode":"58254",
+        "Latitude":47.7639,
+        "Longitude":-98.1773
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Michigan",
+        "County":"Nelson",
+        "ZipCode":"58259",
+        "Latitude":48.0204,
+        "Longitude":-98.1186
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Petersburg",
+        "County":"Nelson",
+        "ZipCode":"58272",
+        "Latitude":47.998,
+        "Longitude":-97.984
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lakota",
+        "County":"Nelson",
+        "ZipCode":"58344",
+        "Latitude":47.972,
+        "Longitude":-98.3246
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Pekin",
+        "County":"Nelson",
+        "ZipCode":"58361",
+        "Latitude":47.7696,
+        "Longitude":-98.326
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tolna",
+        "County":"Nelson",
+        "ZipCode":"58380",
+        "Latitude":47.8462,
+        "Longitude":-98.4512
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Center",
+        "County":"Oliver",
+        "ZipCode":"58530",
+        "Latitude":47.1459,
+        "Longitude":-101.1594
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bathgate",
+        "County":"Pembina",
+        "ZipCode":"58216",
+        "Latitude":48.8686,
+        "Longitude":-97.4832
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cavalier",
+        "County":"Pembina",
+        "ZipCode":"58220",
+        "Latitude":48.7935,
+        "Longitude":-97.7143
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Crystal",
+        "County":"Pembina",
+        "ZipCode":"58222",
+        "Latitude":48.5924,
+        "Longitude":-97.6738
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Drayton",
+        "County":"Pembina",
+        "ZipCode":"58225",
+        "Latitude":48.6104,
+        "Longitude":-97.2156
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Glasston",
+        "County":"Pembina",
+        "ZipCode":"58236",
+        "Latitude":48.7201,
+        "Longitude":-97.4696
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hamilton",
+        "County":"Pembina",
+        "ZipCode":"58238",
+        "Latitude":48.7942,
+        "Longitude":-97.4693
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hensel",
+        "County":"Pembina",
+        "ZipCode":"58241",
+        "Latitude":48.7203,
+        "Longitude":-97.6993
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mountain",
+        "County":"Pembina",
+        "ZipCode":"58262",
+        "Latitude":48.6931,
+        "Longitude":-97.8841
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Neche",
+        "County":"Pembina",
+        "ZipCode":"58265",
+        "Latitude":48.9796,
+        "Longitude":-97.5427
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Pembina",
+        "County":"Pembina",
+        "ZipCode":"58271",
+        "Latitude":48.859,
+        "Longitude":-97.2886
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Saint Thomas",
+        "County":"Pembina",
+        "ZipCode":"58276",
+        "Latitude":48.6252,
+        "Longitude":-97.4545
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Walhalla",
+        "County":"Pembina",
+        "ZipCode":"58282",
+        "Latitude":48.8808,
+        "Longitude":-97.7974
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Balta",
+        "County":"Pierce",
+        "ZipCode":"58313",
+        "Latitude":48.1667,
+        "Longitude":-100.0371
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rugby",
+        "County":"Pierce",
+        "ZipCode":"58368",
+        "Latitude":48.2545,
+        "Longitude":-99.9899
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wolford",
+        "County":"Pierce",
+        "ZipCode":"58385",
+        "Latitude":48.4809,
+        "Longitude":-99.6628
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Devils Lake",
+        "County":"Ramsey",
+        "ZipCode":"58301",
+        "Latitude":48.1132,
+        "Longitude":-98.8616
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Brocket",
+        "County":"Ramsey",
+        "ZipCode":"58321",
+        "Latitude":48.2255,
+        "Longitude":-98.3559
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Churchs Ferry",
+        "County":"Ramsey",
+        "ZipCode":"58325",
+        "Latitude":48.2862,
+        "Longitude":-99.1412
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Crary",
+        "County":"Ramsey",
+        "ZipCode":"58327",
+        "Latitude":48.091,
+        "Longitude":-98.5731
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Edmore",
+        "County":"Ramsey",
+        "ZipCode":"58330",
+        "Latitude":48.4308,
+        "Longitude":-98.4458
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hampden",
+        "County":"Ramsey",
+        "ZipCode":"58338",
+        "Latitude":48.5229,
+        "Longitude":-98.6543
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lawton",
+        "County":"Ramsey",
+        "ZipCode":"58345",
+        "Latitude":48.3033,
+        "Longitude":-98.4142
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Penn",
+        "County":"Ramsey",
+        "ZipCode":"58362",
+        "Latitude":48.2271,
+        "Longitude":-99.0655
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Starkweather",
+        "County":"Ramsey",
+        "ZipCode":"58377",
+        "Latitude":48.4488,
+        "Longitude":-98.8539
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Webster",
+        "County":"Ramsey",
+        "ZipCode":"58382",
+        "Latitude":48.3229,
+        "Longitude":-98.8739
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Enderlin",
+        "County":"Ransom",
+        "ZipCode":"58027",
+        "Latitude":46.6079,
+        "Longitude":-97.6106
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fort Ransom",
+        "County":"Ransom",
+        "ZipCode":"58033",
+        "Latitude":46.4494,
+        "Longitude":-97.9091
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lisbon",
+        "County":"Ransom",
+        "ZipCode":"58054",
+        "Latitude":46.456,
+        "Longitude":-97.6369
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mcleod",
+        "County":"Ransom",
+        "ZipCode":"58057",
+        "Latitude":46.4103,
+        "Longitude":-97.3139
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sheldon",
+        "County":"Ransom",
+        "ZipCode":"58068",
+        "Latitude":46.5548,
+        "Longitude":-97.4543
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Glenburn",
+        "County":"Renville",
+        "ZipCode":"58740",
+        "Latitude":48.4718,
+        "Longitude":-101.2297
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mohall",
+        "County":"Renville",
+        "ZipCode":"58761",
+        "Latitude":48.7269,
+        "Longitude":-101.6058
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sherwood",
+        "County":"Renville",
+        "ZipCode":"58782",
+        "Latitude":48.9576,
+        "Longitude":-101.697
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tolley",
+        "County":"Renville",
+        "ZipCode":"58787",
+        "Latitude":48.7969,
+        "Longitude":-101.8559
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Abercrombie",
+        "County":"Richland",
+        "ZipCode":"58001",
+        "Latitude":46.4479,
+        "Longitude":-96.7278
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Barney",
+        "County":"Richland",
+        "ZipCode":"58008",
+        "Latitude":46.2496,
+        "Longitude":-96.9708
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Christine",
+        "County":"Richland",
+        "ZipCode":"58015",
+        "Latitude":46.5736,
+        "Longitude":-96.8017
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Colfax",
+        "County":"Richland",
+        "ZipCode":"58018",
+        "Latitude":46.4574,
+        "Longitude":-96.8737
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fairmount",
+        "County":"Richland",
+        "ZipCode":"58030",
+        "Latitude":46.0427,
+        "Longitude":-96.6308
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hankinson",
+        "County":"Richland",
+        "ZipCode":"58041",
+        "Latitude":46.0558,
+        "Longitude":-96.8991
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lidgerwood",
+        "County":"Richland",
+        "ZipCode":"58053",
+        "Latitude":46.0641,
+        "Longitude":-97.1799
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mantador",
+        "County":"Richland",
+        "ZipCode":"58058",
+        "Latitude":46.1599,
+        "Longitude":-96.957
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mooreton",
+        "County":"Richland",
+        "ZipCode":"58061",
+        "Latitude":46.2686,
+        "Longitude":-96.8762
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wahpeton",
+        "County":"Richland",
+        "ZipCode":"58074",
+        "Latitude":46.2652,
+        "Longitude":-96.6059
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wahpeton",
+        "County":"Richland",
+        "ZipCode":"58075",
+        "Latitude":46.3366,
+        "Longitude":-96.7921
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wahpeton",
+        "County":"Richland",
+        "ZipCode":"58076",
+        "Latitude":46.2718,
+        "Longitude":-96.6081
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Walcott",
+        "County":"Richland",
+        "ZipCode":"58077",
+        "Latitude":46.5835,
+        "Longitude":-97.0014
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wyndmere",
+        "County":"Richland",
+        "ZipCode":"58081",
+        "Latitude":46.2891,
+        "Longitude":-97.1289
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Agate",
+        "County":"Rolette",
+        "ZipCode":"58310",
+        "Latitude":48.6228,
+        "Longitude":-99.4932
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Belcourt",
+        "County":"Rolette",
+        "ZipCode":"58316",
+        "Latitude":48.8379,
+        "Longitude":-99.7688
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dunseith",
+        "County":"Rolette",
+        "ZipCode":"58329",
+        "Latitude":48.8561,
+        "Longitude":-100.0241
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mylo",
+        "County":"Rolette",
+        "ZipCode":"58353",
+        "Latitude":48.6329,
+        "Longitude":-99.5957
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rolette",
+        "County":"Rolette",
+        "ZipCode":"58366",
+        "Latitude":48.7009,
+        "Longitude":-99.8785
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rolla",
+        "County":"Rolette",
+        "ZipCode":"58367",
+        "Latitude":48.8594,
+        "Longitude":-99.6134
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Saint John",
+        "County":"Rolette",
+        "ZipCode":"58369",
+        "Latitude":48.9366,
+        "Longitude":-99.7648
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cayuga",
+        "County":"Sargent",
+        "ZipCode":"58013",
+        "Latitude":46.1326,
+        "Longitude":-97.4059
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cogswell",
+        "County":"Sargent",
+        "ZipCode":"58017",
+        "Latitude":46.0659,
+        "Longitude":-97.8207
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Forman",
+        "County":"Sargent",
+        "ZipCode":"58032",
+        "Latitude":46.0721,
+        "Longitude":-97.6986
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Gwinner",
+        "County":"Sargent",
+        "ZipCode":"58040",
+        "Latitude":46.2258,
+        "Longitude":-97.6626
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Havana",
+        "County":"Sargent",
+        "ZipCode":"58043",
+        "Latitude":45.9644,
+        "Longitude":-97.6094
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Milnor",
+        "County":"Sargent",
+        "ZipCode":"58060",
+        "Latitude":46.2007,
+        "Longitude":-97.4772
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rutland",
+        "County":"Sargent",
+        "ZipCode":"58067",
+        "Latitude":46.0738,
+        "Longitude":-97.5483
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Stirum",
+        "County":"Sargent",
+        "ZipCode":"58069",
+        "Latitude":46.2519,
+        "Longitude":-97.8326
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Denhoff",
+        "County":"Sheridan",
+        "ZipCode":"58430",
+        "Latitude":47.5709,
+        "Longitude":-100.263
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Goodrich",
+        "County":"Sheridan",
+        "ZipCode":"58444",
+        "Latitude":47.471,
+        "Longitude":-100.119
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mcclusky",
+        "County":"Sheridan",
+        "ZipCode":"58463",
+        "Latitude":47.4896,
+        "Longitude":-100.452
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Martin",
+        "County":"Sheridan",
+        "ZipCode":"58758",
+        "Latitude":47.7781,
+        "Longitude":-100.1225
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cannon Ball",
+        "County":"Sioux",
+        "ZipCode":"58528",
+        "Latitude":46.3874,
+        "Longitude":-100.5975
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fort Yates",
+        "County":"Sioux",
+        "ZipCode":"58538",
+        "Latitude":46.0905,
+        "Longitude":-100.6516
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Selfridge",
+        "County":"Sioux",
+        "ZipCode":"58568",
+        "Latitude":46.0351,
+        "Longitude":-101.1502
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Solen",
+        "County":"Sioux",
+        "ZipCode":"58570",
+        "Latitude":46.3656,
+        "Longitude":-100.7831
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Amidon",
+        "County":"Slope",
+        "ZipCode":"58620",
+        "Latitude":46.456,
+        "Longitude":-103.2647
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Marmarth",
+        "County":"Slope",
+        "ZipCode":"58643",
+        "Latitude":46.3254,
+        "Longitude":-103.88
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dickinson",
+        "County":"Stark",
+        "ZipCode":"58601",
+        "Latitude":46.8057,
+        "Longitude":-102.7565
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Dickinson",
+        "County":"Stark",
+        "ZipCode":"58602",
+        "Latitude":46.8792,
+        "Longitude":-102.7896
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Belfield",
+        "County":"Stark",
+        "ZipCode":"58622",
+        "Latitude":46.8198,
+        "Longitude":-103.1261
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Gladstone",
+        "County":"Stark",
+        "ZipCode":"58630",
+        "Latitude":46.8152,
+        "Longitude":-102.5274
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lefor",
+        "County":"Stark",
+        "ZipCode":"58641",
+        "Latitude":46.6684,
+        "Longitude":-102.4986
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Richardton",
+        "County":"Stark",
+        "ZipCode":"58652",
+        "Latitude":46.8426,
+        "Longitude":-102.292
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"South Heart",
+        "County":"Stark",
+        "ZipCode":"58655",
+        "Latitude":46.8127,
+        "Longitude":-103.0162
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Taylor",
+        "County":"Stark",
+        "ZipCode":"58656",
+        "Latitude":46.9284,
+        "Longitude":-102.3756
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hope",
+        "County":"Steele",
+        "ZipCode":"58046",
+        "Latitude":47.3237,
+        "Longitude":-97.7134
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Luverne",
+        "County":"Steele",
+        "ZipCode":"58056",
+        "Latitude":47.2319,
+        "Longitude":-97.9314
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Finley",
+        "County":"Steele",
+        "ZipCode":"58230",
+        "Latitude":47.5306,
+        "Longitude":-97.7442
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sharon",
+        "County":"Steele",
+        "ZipCode":"58277",
+        "Latitude":47.6062,
+        "Longitude":-97.9051
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Jamestown",
+        "County":"Stutsman",
+        "ZipCode":"58401",
+        "Latitude":46.921,
+        "Longitude":-98.7455
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Jamestown",
+        "County":"Stutsman",
+        "ZipCode":"58402",
+        "Latitude":46.9788,
+        "Longitude":-98.96
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Jamestown",
+        "County":"Stutsman",
+        "ZipCode":"58405",
+        "Latitude":46.9133,
+        "Longitude":-98.6996
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Buchanan",
+        "County":"Stutsman",
+        "ZipCode":"58420",
+        "Latitude":47.0051,
+        "Longitude":-98.9007
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cleveland",
+        "County":"Stutsman",
+        "ZipCode":"58424",
+        "Latitude":46.8931,
+        "Longitude":-99.1288
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Courtenay",
+        "County":"Stutsman",
+        "ZipCode":"58426",
+        "Latitude":47.2272,
+        "Longitude":-98.5489
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kensal",
+        "County":"Stutsman",
+        "ZipCode":"58455",
+        "Latitude":47.2726,
+        "Longitude":-98.7206
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Medina",
+        "County":"Stutsman",
+        "ZipCode":"58467",
+        "Latitude":46.892,
+        "Longitude":-99.3106
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Montpelier",
+        "County":"Stutsman",
+        "ZipCode":"58472",
+        "Latitude":46.6816,
+        "Longitude":-98.6604
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Pingree",
+        "County":"Stutsman",
+        "ZipCode":"58476",
+        "Latitude":47.2038,
+        "Longitude":-99.0144
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Spiritwood",
+        "County":"Stutsman",
+        "ZipCode":"58481",
+        "Latitude":46.9865,
+        "Longitude":-98.5219
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Streeter",
+        "County":"Stutsman",
+        "ZipCode":"58483",
+        "Latitude":46.695,
+        "Longitude":-99.2971
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Woodworth",
+        "County":"Stutsman",
+        "ZipCode":"58496",
+        "Latitude":47.1636,
+        "Longitude":-99.3406
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ypsilanti",
+        "County":"Stutsman",
+        "ZipCode":"58497",
+        "Latitude":46.7719,
+        "Longitude":-98.4876
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bisbee",
+        "County":"Towner",
+        "ZipCode":"58317",
+        "Latitude":48.6258,
+        "Longitude":-99.3779
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cando",
+        "County":"Towner",
+        "ZipCode":"58324",
+        "Latitude":48.4867,
+        "Longitude":-99.2099
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Egeland",
+        "County":"Towner",
+        "ZipCode":"58331",
+        "Latitude":48.6355,
+        "Longitude":-99.1115
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hansboro",
+        "County":"Towner",
+        "ZipCode":"58339",
+        "Latitude":48.9001,
+        "Longitude":-99.4278
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Perth",
+        "County":"Towner",
+        "ZipCode":"58363",
+        "Latitude":48.7546,
+        "Longitude":-99.4384
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Rocklake",
+        "County":"Towner",
+        "ZipCode":"58365",
+        "Latitude":48.8216,
+        "Longitude":-99.1796
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Blanchard",
+        "County":"Traill",
+        "ZipCode":"58009",
+        "Latitude":47.3277,
+        "Longitude":-97.2466
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Clifford",
+        "County":"Traill",
+        "ZipCode":"58016",
+        "Latitude":47.3569,
+        "Longitude":-97.41
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Galesburg",
+        "County":"Traill",
+        "ZipCode":"58035",
+        "Latitude":47.27,
+        "Longitude":-97.4065
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hillsboro",
+        "County":"Traill",
+        "ZipCode":"58045",
+        "Latitude":47.3835,
+        "Longitude":-97.0603
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Buxton",
+        "County":"Traill",
+        "ZipCode":"58218",
+        "Latitude":47.6163,
+        "Longitude":-97.0893
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Caledonia",
+        "County":"Traill",
+        "ZipCode":"58219",
+        "Latitude":47.4776,
+        "Longitude":-96.879
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cummings",
+        "County":"Traill",
+        "ZipCode":"58223",
+        "Latitude":47.537,
+        "Longitude":-96.9913
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hatton",
+        "County":"Traill",
+        "ZipCode":"58240",
+        "Latitude":47.638,
+        "Longitude":-97.4325
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mayville",
+        "County":"Traill",
+        "ZipCode":"58257",
+        "Latitude":47.5014,
+        "Longitude":-97.3176
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Portland",
+        "County":"Traill",
+        "ZipCode":"58274",
+        "Latitude":47.5015,
+        "Longitude":-97.3843
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Adams",
+        "County":"Walsh",
+        "ZipCode":"58210",
+        "Latitude":48.4223,
+        "Longitude":-98.0867
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Edinburg",
+        "County":"Walsh",
+        "ZipCode":"58227",
+        "Latitude":48.4997,
+        "Longitude":-97.8932
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fairdale",
+        "County":"Walsh",
+        "ZipCode":"58229",
+        "Latitude":48.4819,
+        "Longitude":-98.2066
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fordville",
+        "County":"Walsh",
+        "ZipCode":"58231",
+        "Latitude":48.2212,
+        "Longitude":-97.8022
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Forest River",
+        "County":"Walsh",
+        "ZipCode":"58233",
+        "Latitude":48.2251,
+        "Longitude":-97.4605
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grafton",
+        "County":"Walsh",
+        "ZipCode":"58237",
+        "Latitude":48.4122,
+        "Longitude":-97.4106
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hoople",
+        "County":"Walsh",
+        "ZipCode":"58243",
+        "Latitude":48.5198,
+        "Longitude":-97.6183
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Lankin",
+        "County":"Walsh",
+        "ZipCode":"58250",
+        "Latitude":48.2952,
+        "Longitude":-98.007
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minto",
+        "County":"Walsh",
+        "ZipCode":"58261",
+        "Latitude":48.26,
+        "Longitude":-97.3144
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Park River",
+        "County":"Walsh",
+        "ZipCode":"58270",
+        "Latitude":48.4039,
+        "Longitude":-97.7439
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Pisek",
+        "County":"Walsh",
+        "ZipCode":"58273",
+        "Latitude":48.2971,
+        "Longitude":-97.7029
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minot",
+        "County":"Ward",
+        "ZipCode":"58701",
+        "Latitude":48.2291,
+        "Longitude":-101.2985
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minot",
+        "County":"Ward",
+        "ZipCode":"58702",
+        "Latitude":48.2325,
+        "Longitude":-101.2963
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minot",
+        "County":"Ward",
+        "ZipCode":"58703",
+        "Latitude":48.3306,
+        "Longitude":-101.3156
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minot Afb",
+        "County":"Ward",
+        "ZipCode":"58704",
+        "Latitude":48.4232,
+        "Longitude":-101.3168
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minot Afb",
+        "County":"Ward",
+        "ZipCode":"58705",
+        "Latitude":48.4223,
+        "Longitude":-101.3339
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Minot",
+        "County":"Ward",
+        "ZipCode":"58707",
+        "Latitude":48.2453,
+        "Longitude":-101.3012
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Berthold",
+        "County":"Ward",
+        "ZipCode":"58718",
+        "Latitude":48.3064,
+        "Longitude":-101.6866
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Burlington",
+        "County":"Ward",
+        "ZipCode":"58722",
+        "Latitude":48.2735,
+        "Longitude":-101.4282
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Carpio",
+        "County":"Ward",
+        "ZipCode":"58725",
+        "Latitude":48.4323,
+        "Longitude":-101.7119
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Des Lacs",
+        "County":"Ward",
+        "ZipCode":"58733",
+        "Latitude":48.2557,
+        "Longitude":-101.5672
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Donnybrook",
+        "County":"Ward",
+        "ZipCode":"58734",
+        "Latitude":48.49,
+        "Longitude":-101.896
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Douglas",
+        "County":"Ward",
+        "ZipCode":"58735",
+        "Latitude":47.8659,
+        "Longitude":-101.5112
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Kenmare",
+        "County":"Ward",
+        "ZipCode":"58746",
+        "Latitude":48.7182,
+        "Longitude":-102.0852
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Makoti",
+        "County":"Ward",
+        "ZipCode":"58756",
+        "Latitude":47.9611,
+        "Longitude":-101.8046
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ryder",
+        "County":"Ward",
+        "ZipCode":"58779",
+        "Latitude":47.9788,
+        "Longitude":-101.6683
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sawyer",
+        "County":"Ward",
+        "ZipCode":"58781",
+        "Latitude":48.0858,
+        "Longitude":-101.0674
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Surrey",
+        "County":"Ward",
+        "ZipCode":"58785",
+        "Latitude":48.2365,
+        "Longitude":-101.1216
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Harvey",
+        "County":"Wells",
+        "ZipCode":"58341",
+        "Latitude":47.7035,
+        "Longitude":-99.7478
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Bowdon",
+        "County":"Wells",
+        "ZipCode":"58418",
+        "Latitude":47.4343,
+        "Longitude":-99.7015
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Cathay",
+        "County":"Wells",
+        "ZipCode":"58422",
+        "Latitude":47.6289,
+        "Longitude":-99.4049
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Chaseley",
+        "County":"Wells",
+        "ZipCode":"58423",
+        "Latitude":47.449,
+        "Longitude":-99.8241
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Fessenden",
+        "County":"Wells",
+        "ZipCode":"58438",
+        "Latitude":47.6286,
+        "Longitude":-99.6434
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Hurdsfield",
+        "County":"Wells",
+        "ZipCode":"58451",
+        "Latitude":47.4387,
+        "Longitude":-99.9416
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Sykeston",
+        "County":"Wells",
+        "ZipCode":"58486",
+        "Latitude":47.4369,
+        "Longitude":-99.3975
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Mcgregor",
+        "County":"Williams",
+        "ZipCode":"58755",
+        "Latitude":48.595,
+        "Longitude":-102.9288
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Wildrose",
+        "County":"Williams",
+        "ZipCode":"58795",
+        "Latitude":48.5678,
+        "Longitude":-103.1536
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Williston",
+        "County":"Williams",
+        "ZipCode":"58801",
+        "Latitude":48.2257,
+        "Longitude":-103.649
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Williston",
+        "County":"Williams",
+        "ZipCode":"58802",
+        "Latitude":48.1688,
+        "Longitude":-103.6148
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Williston",
+        "County":"Williams",
+        "ZipCode":"58803",
+        "Latitude":48.1468,
+        "Longitude":-103.6199
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Alamo",
+        "County":"Williams",
+        "ZipCode":"58830",
+        "Latitude":48.5817,
+        "Longitude":-103.4699
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Epping",
+        "County":"Williams",
+        "ZipCode":"58843",
+        "Latitude":48.2764,
+        "Longitude":-103.3763
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Grenora",
+        "County":"Williams",
+        "ZipCode":"58845",
+        "Latitude":48.5252,
+        "Longitude":-103.9176
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Ray",
+        "County":"Williams",
+        "ZipCode":"58849",
+        "Latitude":48.3217,
+        "Longitude":-103.1654
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Tioga",
+        "County":"Williams",
+        "ZipCode":"58852",
+        "Latitude":48.3646,
+        "Longitude":-102.9576
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Trenton",
+        "County":"Williams",
+        "ZipCode":"58853",
+        "Latitude":48.0706,
+        "Longitude":-103.8369
+    },
+    {
+        "State":"North Dakota",
+        "StateAbbr":"ND",
+        "City":"Zahl",
+        "County":"Williams",
+        "ZipCode":"58856",
+        "Latitude":48.5787,
+        "Longitude":-103.6599
+    }
+]

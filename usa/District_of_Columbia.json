@@ -1,0 +1,2495 @@
+[
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20001",
+        "Latitude":38.9122,
+        "Longitude":-77.0177
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20002",
+        "Latitude":38.9024,
+        "Longitude":-76.9901
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20003",
+        "Latitude":38.8829,
+        "Longitude":-76.9895
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20004",
+        "Latitude":38.893,
+        "Longitude":-77.0263
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20005",
+        "Latitude":38.9067,
+        "Longitude":-77.0312
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20006",
+        "Latitude":38.8964,
+        "Longitude":-77.0447
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20007",
+        "Latitude":38.9144,
+        "Longitude":-77.074
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20008",
+        "Latitude":38.9363,
+        "Longitude":-77.0599
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20009",
+        "Latitude":38.9202,
+        "Longitude":-77.0375
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20010",
+        "Latitude":38.9327,
+        "Longitude":-77.0322
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20011",
+        "Latitude":38.9518,
+        "Longitude":-77.0203
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20012",
+        "Latitude":38.9757,
+        "Longitude":-77.0282
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20013",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20015",
+        "Latitude":38.9658,
+        "Longitude":-77.068
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20016",
+        "Latitude":38.9381,
+        "Longitude":-77.086
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20017",
+        "Latitude":38.9367,
+        "Longitude":-76.994
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20018",
+        "Latitude":38.9277,
+        "Longitude":-76.9762
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20019",
+        "Latitude":38.8902,
+        "Longitude":-76.9376
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20020",
+        "Latitude":38.86,
+        "Longitude":-76.9742
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20022",
+        "Latitude":38.945,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20024",
+        "Latitude":38.8759,
+        "Longitude":-77.016
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20026",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20027",
+        "Latitude":38.9007,
+        "Longitude":-77.0501
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20029",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20030",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20032",
+        "Latitude":38.8338,
+        "Longitude":-76.9995
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20033",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20035",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20036",
+        "Latitude":38.9087,
+        "Longitude":-77.0414
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20037",
+        "Latitude":38.9014,
+        "Longitude":-77.0504
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20038",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20039",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20040",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20041",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20042",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20043",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20044",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20045",
+        "Latitude":38.8966,
+        "Longitude":-77.0319
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20047",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20049",
+        "Latitude":38.8959,
+        "Longitude":-77.021
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20050",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20052",
+        "Latitude":38.9001,
+        "Longitude":-77.0479
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20053",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20055",
+        "Latitude":38.9016,
+        "Longitude":-77.021
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20056",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20057",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20058",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20059",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20060",
+        "Latitude":38.918,
+        "Longitude":-77.0204
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20061",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20062",
+        "Latitude":38.9,
+        "Longitude":-77.0369
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20063",
+        "Latitude":38.9053,
+        "Longitude":-77.0466
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20064",
+        "Latitude":38.9332,
+        "Longitude":-76.9963
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20065",
+        "Latitude":38.8834,
+        "Longitude":-77.0282
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20066",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20067",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20068",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20069",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20070",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20071",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20073",
+        "Latitude":38.897,
+        "Longitude":-77.0251
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20074",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20075",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20076",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20077",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20078",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20080",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20081",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20082",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20090",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20091",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20201",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20202",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20203",
+        "Latitude":38.9053,
+        "Longitude":-77.0466
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20204",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20206",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20207",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20208",
+        "Latitude":38.8966,
+        "Longitude":-77.0117
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20210",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20211",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20212",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20213",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20214",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20215",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20216",
+        "Latitude":38.8919,
+        "Longitude":-77.0141
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20217",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20218",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20219",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20220",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20221",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20222",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20223",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20224",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20226",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20227",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20228",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20229",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20230",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20232",
+        "Latitude":38.9006,
+        "Longitude":-77.0391
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20233",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20235",
+        "Latitude":38.9154,
+        "Longitude":-77.0572
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20237",
+        "Latitude":38.895,
+        "Longitude":-77.0367
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20238",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20239",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20240",
+        "Latitude":38.8971,
+        "Longitude":-77.0409
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20241",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20242",
+        "Latitude":38.8678,
+        "Longitude":-77.0289
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20244",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20245",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20250",
+        "Latitude":38.8873,
+        "Longitude":-77.0327
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20251",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20252",
+        "Latitude":38.9584,
+        "Longitude":-77.0519
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20254",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20260",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20261",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20262",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20265",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20266",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20268",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20270",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20277",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20289",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20299",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20301",
+        "Latitude":38.8894,
+        "Longitude":-77.0311
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20303",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20306",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20310",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20314",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20317",
+        "Latitude":38.9363,
+        "Longitude":-77.0123
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20318",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20319",
+        "Latitude":38.8667,
+        "Longitude":-77.0166
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20330",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20340",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20350",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20355",
+        "Latitude":38.8951,
+        "Longitude":-77.0369
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20370",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20372",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Naval Anacost Annex",
+        "County":"District of Columbia",
+        "ZipCode":"20373",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington Navy Yard",
+        "County":"District of Columbia",
+        "ZipCode":"20374",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20375",
+        "Latitude":38.8262,
+        "Longitude":-77.0174
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington Navy Yard",
+        "County":"District of Columbia",
+        "ZipCode":"20376",
+        "Latitude":38.9164,
+        "Longitude":-76.9947
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20380",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington Navy Yard",
+        "County":"District of Columbia",
+        "ZipCode":"20388",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20389",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20390",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington Navy Yard",
+        "County":"District of Columbia",
+        "ZipCode":"20391",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20392",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20393",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20394",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20395",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington Navy Yard",
+        "County":"District of Columbia",
+        "ZipCode":"20398",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20401",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20402",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20403",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20404",
+        "Latitude":38.8992,
+        "Longitude":-77.0089
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20405",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20406",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20407",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20408",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20409",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20410",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20411",
+        "Latitude":38.884,
+        "Longitude":-77.0221
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20412",
+        "Latitude":38.8953,
+        "Longitude":-77.0221
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20413",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20414",
+        "Latitude":38.884,
+        "Longitude":-77.0221
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20415",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20416",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20417",
+        "Latitude":38.907,
+        "Longitude":-77.0058
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20418",
+        "Latitude":38.9043,
+        "Longitude":-77.0572
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20419",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20420",
+        "Latitude":38.9035,
+        "Longitude":-77.0276
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20421",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20422",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20423",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20424",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20425",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20426",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20427",
+        "Latitude":38.9021,
+        "Longitude":-77.0476
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20428",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20429",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20431",
+        "Latitude":38.8986,
+        "Longitude":-77.0428
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20433",
+        "Latitude":38.9,
+        "Longitude":-77.042
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20434",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20435",
+        "Latitude":38.8994,
+        "Longitude":-77.0403
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20436",
+        "Latitude":38.8959,
+        "Longitude":-77.0211
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20437",
+        "Latitude":38.9028,
+        "Longitude":-77.0485
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20439",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20440",
+        "Latitude":38.9139,
+        "Longitude":-77.0453
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20441",
+        "Latitude":38.9239,
+        "Longitude":-77.0363
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20442",
+        "Latitude":38.896,
+        "Longitude":-77.0177
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20444",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20447",
+        "Latitude":38.8847,
+        "Longitude":-77.0252
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20451",
+        "Latitude":38.8977,
+        "Longitude":-77.0444
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20453",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20456",
+        "Latitude":38.8981,
+        "Longitude":-77.0401
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20460",
+        "Latitude":38.8764,
+        "Longitude":-77.0188
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20463",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20468",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20469",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20470",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20472",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20500",
+        "Latitude":38.8946,
+        "Longitude":-77.0355
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20501",
+        "Latitude":38.8987,
+        "Longitude":-77.0362
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20502",
+        "Latitude":38.8987,
+        "Longitude":-77.0362
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20503",
+        "Latitude":38.9007,
+        "Longitude":-77.0431
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20504",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20505",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20506",
+        "Latitude":38.8994,
+        "Longitude":-77.0377
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20507",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20508",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20509",
+        "Latitude":38.8987,
+        "Longitude":-77.0356
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20510",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20511",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20515",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20520",
+        "Latitude":38.8932,
+        "Longitude":-77.049
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20521",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20522",
+        "Latitude":38.8932,
+        "Longitude":-77.049
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20523",
+        "Latitude":38.8945,
+        "Longitude":-77.0478
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20524",
+        "Latitude":38.9024,
+        "Longitude":-77.0326
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20525",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20526",
+        "Latitude":38.9022,
+        "Longitude":-77.0437
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20527",
+        "Latitude":38.9029,
+        "Longitude":-77.0361
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20528",
+        "Latitude":38.8951,
+        "Longitude":-77.0369
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20529",
+        "Latitude":38.8973,
+        "Longitude":-77.0142
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20530",
+        "Latitude":38.8976,
+        "Longitude":-77.027
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20531",
+        "Latitude":38.8938,
+        "Longitude":-77.0218
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20533",
+        "Latitude":38.9011,
+        "Longitude":-77.0326
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20534",
+        "Latitude":38.8941,
+        "Longitude":-77.0125
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20535",
+        "Latitude":38.8941,
+        "Longitude":-77.0251
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20536",
+        "Latitude":38.9012,
+        "Longitude":-77.0169
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20537",
+        "Latitude":38.8941,
+        "Longitude":-77.0251
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20538",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20539",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20540",
+        "Latitude":38.8874,
+        "Longitude":-77.0047
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20541",
+        "Latitude":38.8874,
+        "Longitude":-77.0047
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20542",
+        "Latitude":38.9408,
+        "Longitude":-77.0283
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20543",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20544",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20546",
+        "Latitude":38.891,
+        "Longitude":-77.0211
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20547",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20548",
+        "Latitude":38.8981,
+        "Longitude":-77.0177
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20549",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20551",
+        "Latitude":38.892,
+        "Longitude":-77.0452
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20552",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20553",
+        "Latitude":38.8873,
+        "Longitude":-77.0231
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20554",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20555",
+        "Latitude":38.9,
+        "Longitude":-77.0401
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20557",
+        "Latitude":38.8874,
+        "Longitude":-77.0047
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20559",
+        "Latitude":38.8874,
+        "Longitude":-77.0047
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20560",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20565",
+        "Latitude":38.8919,
+        "Longitude":-77.0189
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20566",
+        "Latitude":38.8971,
+        "Longitude":-77.0554
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20570",
+        "Latitude":38.8991,
+        "Longitude":-77.0401
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20571",
+        "Latitude":38.9006,
+        "Longitude":-77.0346
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20572",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20573",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20575",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20576",
+        "Latitude":38.8937,
+        "Longitude":-77.0236
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20577",
+        "Latitude":38.9008,
+        "Longitude":-77.0345
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20578",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20579",
+        "Latitude":38.9043,
+        "Longitude":-77.0446
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20580",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20581",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20585",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20586",
+        "Latitude":38.9022,
+        "Longitude":-77.0474
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20590",
+        "Latitude":38.884,
+        "Longitude":-77.0221
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20591",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20593",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20594",
+        "Latitude":38.8849,
+        "Longitude":-77.0184
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20597",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"20599",
+        "Latitude":38.8933,
+        "Longitude":-77.0146
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"56901",
+        "Latitude":38.8952,
+        "Longitude":-77.0365
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"56915",
+        "Latitude":38.8952,
+        "Longitude":-77.0365
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"56920",
+        "Latitude":38.8952,
+        "Longitude":-77.0365
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"56933",
+        "Latitude":38.8952,
+        "Longitude":-77.0365
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"56944",
+        "Latitude":38.8952,
+        "Longitude":-77.0365
+    },
+    {
+        "State":"District of Columbia",
+        "StateAbbr":"DC",
+        "City":"Washington",
+        "County":"District of Columbia",
+        "ZipCode":"56972",
+        "Latitude":38.8951,
+        "Longitude":-77.0364
+    }
+]

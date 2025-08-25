@@ -1,0 +1,47 @@
+[
+    {
+        "State":"West Carroll",
+        "StateAbbr":123.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":32.6161,
+        "Longitude":-91.4913
+    },
+    {
+        "State":"West Carroll",
+        "StateAbbr":123.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":32.8239,
+        "Longitude":-91.3989
+    },
+    {
+        "State":"West Carroll",
+        "StateAbbr":123.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":32.9946,
+        "Longitude":-91.3162
+    },
+    {
+        "State":"West Carroll",
+        "StateAbbr":123.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":32.8731,
+        "Longitude":-91.4302
+    },
+    {
+        "State":"West Carroll",
+        "StateAbbr":123.0,
+        "City":"LA",
+        "County":null,
+        "ZipCode":"Louisiana",
+        "Latitude":32.7154,
+        "Longitude":-91.4648
+    }
+]
